@@ -1,0 +1,38 @@
+{
+  "nameState": "Hawaii",
+  "lat": 20.7967,
+  "long": -156.3319,
+  "counties": [
+    {
+      "name": "Hawaii",
+      "lat": 19.7415,
+      "long": -155.8444,
+      "keyAccentLanguage": "hawaii"
+    },
+    {
+      "name": "Honolulu",
+      "lat": 21.3069,
+      "long": -157.8583,
+      "keyAccentLanguage": "honolulu"
+    },
+    {
+      "name": "Kalawao",
+      "lat": 21.1576,
+      "long": -156.9642,
+      "keyAccentLanguage": "kalawao"
+    },
+    {
+      "name": "Kauai",
+      "lat": 22.0964,
+      "long": -159.5261,
+      "keyAccentLanguage": "kauai"
+    },
+    {
+      "name": "Maui",
+      "lat": 20.7984,
+      "long": -156.3319,
+      "keyAccentLanguage": "maui"
+    }
+  ],
+  "keyAccentLanguage": "hawaii"
+}

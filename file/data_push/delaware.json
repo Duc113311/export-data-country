@@ -1,0 +1,26 @@
+{
+  "nameState": "Delaware",
+  "lat": 38.9108,
+  "long": -75.5277,
+  "counties": [
+    {
+      "name": "New Castle",
+      "lat": 39.6275,
+      "long": -75.5793,
+      "keyAccentLanguage": "new_castle"
+    },
+    {
+      "name": "Kent",
+      "lat": 39.1447,
+      "long": -75.5247,
+      "keyAccentLanguage": "kent"
+    },
+    {
+      "name": "Sussex",
+      "lat": 38.7991,
+      "long": -75.367,
+      "keyAccentLanguage": "sussex"
+    }
+  ],
+  "keyAccentLanguage": "delaware"
+}

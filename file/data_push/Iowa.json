@@ -1,0 +1,308 @@
+{
+  "nameState": "Iowa",
+  "lat": 41.878,
+  "long": -93.0977,
+  "counties": [
+    {
+      "name": "Adair",
+      "lat": 41.3137,
+      "long": -94.379,
+      "keyAccentLanguage": "adair"
+    },
+    {
+      "name": "Adams",
+      "lat": 41.0391,
+      "long": -94.5074,
+      "keyAccentLanguage": "adams"
+    },
+    {
+      "name": "Allamakee",
+      "lat": 43.3126,
+      "long": -91.4895,
+      "keyAccentLanguage": "allamakee"
+    },
+    {
+      "name": "Appanoose",
+      "lat": 40.7421,
+      "long": -92.869,
+      "keyAccentLanguage": "appanoose"
+    },
+    {
+      "name": "Audubon",
+      "lat": 41.7277,
+      "long": -94.9111,
+      "keyAccentLanguage": "audubon"
+    },
+    {
+      "name": "Benton",
+      "lat": 42.3141,
+      "long": -91.9735,
+      "keyAccentLanguage": "benton"
+    },
+    {
+      "name": "Black Hawk",
+      "lat": 42.4476,
+      "long": -92.3815,
+      "keyAccentLanguage": "black_hawk"
+    },
+    {
+      "name": "Boone",
+      "lat": 42.0615,
+      "long": -93.8765,
+      "keyAccentLanguage": "boone"
+    },
+    {
+      "name": "Bremer",
+      "lat": 42.6455,
+      "long": -92.3412,
+      "keyAccentLanguage": "bremer"
+    },
+    {
+      "name": "Buchanan",
+      "lat": 42.49,
+      "long": -91.9737,
+      "keyAccentLanguage": "buchanan"
+    },
+    {
+      "name": "Buena Vista",
+      "lat": 42.6392,
+      "long": -95.1544,
+      "keyAccentLanguage": "buena_vista"
+    },
+    {
+      "name": "Butler",
+      "lat": 42.516,
+      "long": -92.5556,
+      "keyAccentLanguage": "butler"
+    },
+    {
+      "name": "Calhoun",
+      "lat": 42.3407,
+      "long": -94.5774,
+      "keyAccentLanguage": "calhoun"
+    },
+    {
+      "name": "Carroll",
+      "lat": 42.0608,
+      "long": -94.8699,
+      "keyAccentLanguage": "carroll"
+    },
+    {
+      "name": "Cass",
+      "lat": 41.4194,
+      "long": -94.7101,
+      "keyAccentLanguage": "cass"
+    },
+    {
+      "name": "Cedar",
+      "lat": 41.8391,
+      "long": -91.0647,
+      "keyAccentLanguage": "cedar"
+    },
+    {
+      "name": "Cerro Gordo",
+      "lat": 43.1532,
+      "long": -93.189,
+      "keyAccentLanguage": "cerro_gordo"
+    },
+    {
+      "name": "Cherokee",
+      "lat": 42.7439,
+      "long": -95.5517,
+      "keyAccentLanguage": "cherokee"
+    },
+    {
+      "name": "Chickasaw",
+      "lat": 43.1253,
+      "long": -92.4553,
+      "keyAccentLanguage": "chickasaw"
+    },
+    {
+      "name": "Clarke",
+      "lat": 41.0166,
+      "long": -93.2812,
+      "keyAccentLanguage": "clarke"
+    },
+    {
+      "name": "Clay",
+      "lat": 42.6089,
+      "long": -94.9006,
+      "keyAccentLanguage": "clay"
+    },
+    {
+      "name": "Clayton",
+      "lat": 43.0934,
+      "long": -91.4232,
+      "keyAccentLanguage": "clayton"
+    },
+    {
+      "name": "Clinton",
+      "lat": 41.8462,
+      "long": -90.308,
+      "keyAccentLanguage": "clinton"
+    },
+    {
+      "name": "Crawford",
+      "lat": 42.0334,
+      "long": -95.2897,
+      "keyAccentLanguage": "crawford"
+    },
+    {
+      "name": "Dallas",
+      "lat": 41.612,
+      "long": -93.9034,
+      "keyAccentLanguage": "dallas"
+    },
+    {
+      "name": "Davis",
+      "lat": 40.7315,
+      "long": -92.379,
+      "keyAccentLanguage": "davis"
+    },
+    {
+      "name": "Decatur",
+      "lat": 40.8107,
+      "long": -93.8812,
+      "keyAccentLanguage": "decatur"
+    },
+    {
+      "name": "Delaware",
+      "lat": 42.3553,
+      "long": -91.4771,
+      "keyAccentLanguage": "delaware"
+    },
+    {
+      "name": "Des Moines",
+      "lat": 41.8731,
+      "long": -93.5,
+      "keyAccentLanguage": "des_moines"
+    },
+    {
+      "name": "Dickinson",
+      "lat": 43.3305,
+      "long": -95.1534,
+      "keyAccentLanguage": "dickinson"
+    },
+    {
+      "name": "Dubuque",
+      "lat": 42.4634,
+      "long": -90.6646,
+      "keyAccentLanguage": "dubuque"
+    },
+    {
+      "name": "Emmet",
+      "lat": 43.4054,
+      "long": -94.6716,
+      "keyAccentLanguage": "emmet"
+    },
+    {
+      "name": "Fayette",
+      "lat": 42.8112,
+      "long": -91.8011,
+      "keyAccentLanguage": "fayette"
+    },
+    {
+      "name": "Floyd",
+      "lat": 43.0301,
+      "long": -92.83,
+      "keyAccentLanguage": "floyd"
+    },
+    {
+      "name": "Franklin",
+      "lat": 42.5314,
+      "long": -93.3489,
+      "keyAccentLanguage": "franklin"
+    },
+    {
+      "name": "Fremont",
+      "lat": 40.7651,
+      "long": -95.5303,
+      "keyAccentLanguage": "fremont"
+    },
+    {
+      "name": "Greene",
+      "lat": 42.0541,
+      "long": -94.1766,
+      "keyAccentLanguage": "greene"
+    },
+    {
+      "name": "Grundy",
+      "lat": 42.3807,
+      "long": -92.9066,
+      "keyAccentLanguage": "grundy"
+    },
+    {
+      "name": "Guthrie",
+      "lat": 41.6535,
+      "long": -94.4789,
+      "keyAccentLanguage": "guthrie"
+    },
+    {
+      "name": "Hamilton",
+      "lat": 42.6021,
+      "long": -93.518,
+      "keyAccentLanguage": "hamilton"
+    },
+    {
+      "name": "Hancock",
+      "lat": 43.0635,
+      "long": -94.0725,
+      "keyAccentLanguage": "hancock"
+    },
+    {
+      "name": "Hardin",
+      "lat": 42.3484,
+      "long": -93.2106,
+      "keyAccentLanguage": "hardin"
+    },
+    {
+      "name": "Harrison",
+      "lat": 41.5969,
+      "long": -95.5636,
+      "keyAccentLanguage": "harrison"
+    },
+    {
+      "name": "Henry",
+      "lat": 41.1184,
+      "long": -91.4872,
+      "keyAccentLanguage": "henry"
+    },
+    {
+      "name": "Howard",
+      "lat": 43.2814,
+      "long": -92.553,
+      "keyAccentLanguage": "howard"
+    },
+    {
+      "name": "Humboldt",
+      "lat": 42.7267,
+      "long": -94.2316,
+      "keyAccentLanguage": "humboldt"
+    },
+    {
+      "name": "Ida",
+      "lat": 42.4383,
+      "long": -95.4499,
+      "keyAccentLanguage": "ida"
+    },
+    {
+      "name": "Iowa",
+      "lat": 41.5622,
+      "long": -91.6057,
+      "keyAccentLanguage": "iowa"
+    },
+    {
+      "name": "Jackson",
+      "lat": 42.2411,
+      "long": -90.4626,
+      "keyAccentLanguage": "jackson"
+    },
+    {
+      "name": "Jasper",
+      "lat": 41.3311,
+      "long": -93.0422,
+      "keyAccentLanguage": "jasper"
+    }
+  ],
+  "keyAccentLanguage": "iowa"
+}

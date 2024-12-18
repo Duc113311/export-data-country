@@ -1,0 +1,1038 @@
+{
+  "nameState": "Arizona",
+  "lat": 34.048928,
+  "long": -111.093731,
+  "counties": [
+    {
+      "name": "Apache",
+      "lat": 35.2647,
+      "long": -109.0452,
+      "cities": [
+        {
+          "name": "St. Johns",
+          "type": "City",
+          "lat": 34.5197,
+          "long": -109.3703,
+          "keyAccentLanguage": "st._johns"
+        },
+        {
+          "name": "Chambers",
+          "type": "Town",
+          "lat": 35.2743,
+          "long": -109.3582,
+          "keyAccentLanguage": "chambers"
+        },
+        {
+          "name": "Round Rock",
+          "type": "Village",
+          "lat": 35.5102,
+          "long": -109.3507,
+          "keyAccentLanguage": "round_rock"
+        },
+        {
+          "name": "Cedar Creek",
+          "type": "Township",
+          "lat": 35.1694,
+          "long": -109.1951,
+          "keyAccentLanguage": "cedar_creek"
+        },
+        {
+          "name": "Ganado",
+          "type": "Community",
+          "lat": 35.5203,
+          "long": -109.5759,
+          "keyAccentLanguage": "ganado"
+        },
+        {
+          "name": "Indian Wells",
+          "type": "Village",
+          "lat": 35.5661,
+          "long": -109.1191,
+          "keyAccentLanguage": "indian_wells"
+        },
+        {
+          "name": "Dilkon",
+          "type": "Town",
+          "lat": 35.6797,
+          "long": -110.254,
+          "keyAccentLanguage": "dilkon"
+        }
+      ],
+      "keyAccentLanguage": "apache"
+    },
+    {
+      "name": "Cochise",
+      "lat": 31.588,
+      "long": -109.9339,
+      "cities": [
+        {
+          "name": "Bisbee",
+          "type": "City",
+          "lat": 31.4483,
+          "long": -109.928,
+          "keyAccentLanguage": "bisbee"
+        },
+        {
+          "name": "Douglas",
+          "type": "City",
+          "lat": 31.4655,
+          "long": -109.5463,
+          "keyAccentLanguage": "douglas"
+        },
+        {
+          "name": "Sierra Vista",
+          "type": "City",
+          "lat": 31.5493,
+          "long": -110.3009,
+          "keyAccentLanguage": "sierra_vista"
+        },
+        {
+          "name": "Benson",
+          "type": "City",
+          "lat": 31.9603,
+          "long": -110.3009,
+          "keyAccentLanguage": "benson"
+        },
+        {
+          "name": "Willcox",
+          "type": "Town",
+          "lat": 32.1015,
+          "long": -109.847,
+          "keyAccentLanguage": "willcox"
+        },
+        {
+          "name": "Huachuca City",
+          "type": "Town",
+          "lat": 31.5511,
+          "long": -110.331,
+          "keyAccentLanguage": "huachuca_city"
+        },
+        {
+          "name": "McNeal",
+          "type": "Village",
+          "lat": 31.6291,
+          "long": -109.7392,
+          "keyAccentLanguage": "mcneal"
+        },
+        {
+          "name": "Pirtleville",
+          "type": "Community",
+          "lat": 31.4564,
+          "long": -109.5779,
+          "keyAccentLanguage": "pirtleville"
+        },
+        {
+          "name": "Sunizona",
+          "type": "Village",
+          "lat": 31.7582,
+          "long": -109.5234,
+          "keyAccentLanguage": "sunizona"
+        }
+      ],
+      "keyAccentLanguage": "cochise"
+    },
+    {
+      "name": "Coconino",
+      "lat": 35.5326,
+      "long": -111.4761,
+      "cities": [
+        {
+          "name": "Flagstaff",
+          "type": "City",
+          "lat": 35.1983,
+          "long": -111.6513,
+          "keyAccentLanguage": "flagstaff"
+        },
+        {
+          "name": "Williams",
+          "type": "City",
+          "lat": 35.2498,
+          "long": -112.1945,
+          "keyAccentLanguage": "williams"
+        },
+        {
+          "name": "Sedona",
+          "type": "City",
+          "lat": 34.8696,
+          "long": -111.7609,
+          "keyAccentLanguage": "sedona"
+        },
+        {
+          "name": "Page",
+          "type": "City",
+          "lat": 36.9147,
+          "long": -111.4543,
+          "keyAccentLanguage": "page"
+        },
+        {
+          "name": "Tusayan",
+          "type": "Town",
+          "lat": 35.97,
+          "long": -112.1439,
+          "keyAccentLanguage": "tusayan"
+        },
+        {
+          "name": "Fredonia",
+          "type": "Town",
+          "lat": 36.5997,
+          "long": -112.5282,
+          "keyAccentLanguage": "fredonia"
+        },
+        {
+          "name": "Doney Park",
+          "type": "Community",
+          "lat": 35.2652,
+          "long": -111.5029,
+          "keyAccentLanguage": "doney_park"
+        },
+        {
+          "name": "Blue Ridge",
+          "type": "Community",
+          "lat": 35.1376,
+          "long": -111.3428,
+          "keyAccentLanguage": "blue_ridge"
+        },
+        {
+          "name": "Parks",
+          "type": "Village",
+          "lat": 35.336,
+          "long": -111.7274,
+          "keyAccentLanguage": "parks"
+        }
+      ],
+      "keyAccentLanguage": "coconino"
+    },
+    {
+      "name": "Gila",
+      "lat": 33.6744,
+      "long": -110.6572,
+      "cities": [
+        {
+          "name": "Globe",
+          "type": "City",
+          "lat": 33.4009,
+          "long": -110.7899,
+          "keyAccentLanguage": "globe"
+        },
+        {
+          "name": "Miami",
+          "type": "Town",
+          "lat": 33.3792,
+          "long": -110.7857,
+          "keyAccentLanguage": "miami"
+        },
+        {
+          "name": "Payson",
+          "type": "Town",
+          "lat": 34.2323,
+          "long": -111.3252,
+          "keyAccentLanguage": "payson"
+        },
+        {
+          "name": "San Carlos",
+          "type": "Community",
+          "lat": 33.3542,
+          "long": -110.4735,
+          "keyAccentLanguage": "san_carlos"
+        },
+        {
+          "name": "Claypool",
+          "type": "Community",
+          "lat": 33.3998,
+          "long": -110.7623,
+          "keyAccentLanguage": "claypool"
+        },
+        {
+          "name": "Tonto Basin",
+          "type": "Community",
+          "lat": 33.7911,
+          "long": -111.2479,
+          "keyAccentLanguage": "tonto_basin"
+        },
+        {
+          "name": "Young",
+          "type": "Community",
+          "lat": 34.0297,
+          "long": -111.1516,
+          "keyAccentLanguage": "young"
+        },
+        {
+          "name": "Pine",
+          "type": "Village",
+          "lat": 34.4449,
+          "long": -111.4819,
+          "keyAccentLanguage": "pine"
+        },
+        {
+          "name": "Strawberry",
+          "type": "Village",
+          "lat": 34.4135,
+          "long": -111.5516,
+          "keyAccentLanguage": "strawberry"
+        }
+      ],
+      "keyAccentLanguage": "gila"
+    },
+    {
+      "name": "Graham",
+      "lat": 32.791,
+      "long": -109.7553,
+      "cities": [
+        {
+          "name": "Safford",
+          "type": "City",
+          "lat": 32.8343,
+          "long": -109.716,
+          "keyAccentLanguage": "safford"
+        },
+        {
+          "name": "Thatcher",
+          "type": "Town",
+          "lat": 32.8344,
+          "long": -109.7275,
+          "keyAccentLanguage": "thatcher"
+        },
+        {
+          "name": "Pima",
+          "type": "Town",
+          "lat": 32.9156,
+          "long": -109.8153,
+          "keyAccentLanguage": "pima"
+        },
+        {
+          "name": "Solomon",
+          "type": "Community",
+          "lat": 32.8329,
+          "long": -109.7857,
+          "keyAccentLanguage": "solomon"
+        },
+        {
+          "name": "Central",
+          "type": "Community",
+          "lat": 32.823,
+          "long": -109.7225,
+          "keyAccentLanguage": "central"
+        },
+        {
+          "name": "Bryce",
+          "type": "Community",
+          "lat": 32.7828,
+          "long": -109.7636,
+          "keyAccentLanguage": "bryce"
+        }
+      ],
+      "keyAccentLanguage": "graham"
+    },
+    {
+      "name": "Greenlee",
+      "lat": 32.7996,
+      "long": -109.149,
+      "cities": [
+        {
+          "name": "Clifton",
+          "type": "Town",
+          "lat": 33.0543,
+          "long": -109.2909,
+          "keyAccentLanguage": "clifton"
+        },
+        {
+          "name": "Safford",
+          "type": "City",
+          "lat": 32.8343,
+          "long": -109.716,
+          "keyAccentLanguage": "safford"
+        },
+        {
+          "name": "Duncan",
+          "type": "Town",
+          "lat": 32.1297,
+          "long": -109.2862,
+          "keyAccentLanguage": "duncan"
+        },
+        {
+          "name": "Thatcher",
+          "type": "Town",
+          "lat": 32.8344,
+          "long": -109.7275,
+          "keyAccentLanguage": "thatcher"
+        },
+        {
+          "name": "Luna",
+          "type": "Community",
+          "lat": 32.788,
+          "long": -109.5301,
+          "keyAccentLanguage": "luna"
+        },
+        {
+          "name": "Franklin",
+          "type": "Community",
+          "lat": 32.8071,
+          "long": -109.6279,
+          "keyAccentLanguage": "franklin"
+        }
+      ],
+      "keyAccentLanguage": "greenlee"
+    },
+    {
+      "name": "La Paz",
+      "lat": 33.6259,
+      "long": -113.6063,
+      "cities": [
+        {
+          "name": "Parker",
+          "type": "Town",
+          "lat": 34.1505,
+          "long": -114.2917,
+          "keyAccentLanguage": "parker"
+        },
+        {
+          "name": "Blythe",
+          "type": "Community",
+          "lat": 33.6206,
+          "long": -113.4331,
+          "keyAccentLanguage": "blythe"
+        },
+        {
+          "name": "Quartzsite",
+          "type": "Town",
+          "lat": 33.668,
+          "long": -113.6707,
+          "keyAccentLanguage": "quartzsite"
+        },
+        {
+          "name": "Ehrenberg",
+          "type": "Community",
+          "lat": 33.5591,
+          "long": -113.5681,
+          "keyAccentLanguage": "ehrenberg"
+        },
+        {
+          "name": "Salome",
+          "type": "Community",
+          "lat": 33.7404,
+          "long": -113.5995,
+          "keyAccentLanguage": "salome"
+        }
+      ],
+      "keyAccentLanguage": "la_paz"
+    },
+    {
+      "name": "Maricopa",
+      "lat": 33.4516,
+      "long": -112.3973,
+      "cities": [
+        {
+          "name": "Phoenix",
+          "type": "City",
+          "lat": 33.4484,
+          "long": -112.074,
+          "keyAccentLanguage": "phoenix"
+        },
+        {
+          "name": "Mesa",
+          "type": "City",
+          "lat": 33.4152,
+          "long": -111.8315,
+          "keyAccentLanguage": "mesa"
+        },
+        {
+          "name": "Chandler",
+          "type": "City",
+          "lat": 33.3062,
+          "long": -111.8413,
+          "keyAccentLanguage": "chandler"
+        },
+        {
+          "name": "Glendale",
+          "type": "City",
+          "lat": 33.5387,
+          "long": -112.185,
+          "keyAccentLanguage": "glendale"
+        },
+        {
+          "name": "Scottsdale",
+          "type": "City",
+          "lat": 33.4942,
+          "long": -111.9261,
+          "keyAccentLanguage": "scottsdale"
+        },
+        {
+          "name": "Tempe",
+          "type": "City",
+          "lat": 33.4255,
+          "long": -111.94,
+          "keyAccentLanguage": "tempe"
+        },
+        {
+          "name": "Peoria",
+          "type": "City",
+          "lat": 33.5806,
+          "long": -112.2374,
+          "keyAccentLanguage": "peoria"
+        },
+        {
+          "name": "Goodyear",
+          "type": "City",
+          "lat": 33.4356,
+          "long": -112.3507,
+          "keyAccentLanguage": "goodyear"
+        },
+        {
+          "name": "Avondale",
+          "type": "City",
+          "lat": 33.4351,
+          "long": -112.3496,
+          "keyAccentLanguage": "avondale"
+        },
+        {
+          "name": "Globe",
+          "type": "City",
+          "lat": 33.4009,
+          "long": -110.7899,
+          "keyAccentLanguage": "globe"
+        },
+        {
+          "name": "Litchfield Park",
+          "type": "City",
+          "lat": 33.5329,
+          "long": -112.3558,
+          "keyAccentLanguage": "litchfield_park"
+        },
+        {
+          "name": "Sun City",
+          "type": "Community",
+          "lat": 33.5975,
+          "long": -112.2685,
+          "keyAccentLanguage": "sun_city"
+        },
+        {
+          "name": "Buckeye",
+          "type": "City",
+          "lat": 33.3703,
+          "long": -112.5838,
+          "keyAccentLanguage": "buckeye"
+        },
+        {
+          "name": "Fountain Hills",
+          "type": "Town",
+          "lat": 33.6176,
+          "long": -111.721,
+          "keyAccentLanguage": "fountain_hills"
+        },
+        {
+          "name": "Cave Creek",
+          "type": "Town",
+          "lat": 33.8191,
+          "long": -111.9631,
+          "keyAccentLanguage": "cave_creek"
+        },
+        {
+          "name": "Paradise Valley",
+          "type": "Town",
+          "lat": 33.5391,
+          "long": -111.9607,
+          "keyAccentLanguage": "paradise_valley"
+        },
+        {
+          "name": "Gilbert",
+          "type": "Town",
+          "lat": 33.3528,
+          "long": -111.789,
+          "keyAccentLanguage": "gilbert"
+        }
+      ],
+      "keyAccentLanguage": "maricopa"
+    },
+    {
+      "name": "Mohave",
+      "lat": 35.1417,
+      "long": -113.0344,
+      "cities": [
+        {
+          "name": "Kingman",
+          "type": "City",
+          "lat": 35.1895,
+          "long": -113.5275,
+          "keyAccentLanguage": "kingman"
+        },
+        {
+          "name": "Lake Havasu City",
+          "type": "City",
+          "lat": 34.4839,
+          "long": -114.3225,
+          "keyAccentLanguage": "lake_havasu_city"
+        },
+        {
+          "name": "Bullhead City",
+          "type": "City",
+          "lat": 35.1371,
+          "long": -113.5345,
+          "keyAccentLanguage": "bullhead_city"
+        },
+        {
+          "name": "Fort Mohave",
+          "type": "Community",
+          "lat": 34.9986,
+          "long": -113.5223,
+          "keyAccentLanguage": "fort_mohave"
+        },
+        {
+          "name": "Golden Valley",
+          "type": "Community",
+          "lat": 35.2106,
+          "long": -113.0369,
+          "keyAccentLanguage": "golden_valley"
+        },
+        {
+          "name": "Littlefield",
+          "type": "Community",
+          "lat": 36.2122,
+          "long": -113.5923,
+          "keyAccentLanguage": "littlefield"
+        },
+        {
+          "name": "Topock",
+          "type": "Community",
+          "lat": 34.7992,
+          "long": -113.2625,
+          "keyAccentLanguage": "topock"
+        },
+        {
+          "name": "Littlefield",
+          "type": "Community",
+          "lat": 36.2122,
+          "long": -113.5923,
+          "keyAccentLanguage": "littlefield"
+        }
+      ],
+      "keyAccentLanguage": "mohave"
+    },
+    {
+      "name": "Navajo",
+      "lat": 35.4019,
+      "long": -111.4761,
+      "cities": [
+        {
+          "name": "Holbrook",
+          "type": "City",
+          "lat": 34.9206,
+          "long": -110.1585,
+          "keyAccentLanguage": "holbrook"
+        },
+        {
+          "name": "Winslow",
+          "type": "City",
+          "lat": 35.0309,
+          "long": -110.6987,
+          "keyAccentLanguage": "winslow"
+        },
+        {
+          "name": "Snowflake",
+          "type": "Town",
+          "lat": 34.5294,
+          "long": -110.1302,
+          "keyAccentLanguage": "snowflake"
+        },
+        {
+          "name": "Taylor",
+          "type": "Town",
+          "lat": 34.5277,
+          "long": -110.1423,
+          "keyAccentLanguage": "taylor"
+        },
+        {
+          "name": "Pinetop-Lakeside",
+          "type": "Town",
+          "lat": 34.1294,
+          "long": -109.9446,
+          "keyAccentLanguage": "pinetop-lakeside"
+        },
+        {
+          "name": "Joseph City",
+          "type": "Community",
+          "lat": 35.0292,
+          "long": -110.3176,
+          "keyAccentLanguage": "joseph_city"
+        },
+        {
+          "name": "Kykotsmovi",
+          "type": "Community",
+          "lat": 35.8478,
+          "long": -110.597,
+          "keyAccentLanguage": "kykotsmovi"
+        },
+        {
+          "name": "Winslow Junction",
+          "type": "Community",
+          "lat": 35.016,
+          "long": -110.6777,
+          "keyAccentLanguage": "winslow_junction"
+        },
+        {
+          "name": "Cibecue",
+          "type": "Community",
+          "lat": 34.239,
+          "long": -110.3727,
+          "keyAccentLanguage": "cibecue"
+        }
+      ],
+      "keyAccentLanguage": "navajo"
+    },
+    {
+      "name": "Pima",
+      "lat": 32.2217,
+      "long": -110.9265,
+      "cities": [
+        {
+          "name": "Tucson",
+          "type": "City",
+          "lat": 32.2226,
+          "long": -110.9747,
+          "keyAccentLanguage": "tucson"
+        },
+        {
+          "name": "Oro Valley",
+          "type": "Town",
+          "lat": 32.473,
+          "long": -110.9547,
+          "keyAccentLanguage": "oro_valley"
+        },
+        {
+          "name": "Marana",
+          "type": "Town",
+          "lat": 32.4663,
+          "long": -111.033,
+          "keyAccentLanguage": "marana"
+        },
+        {
+          "name": "Sahuarita",
+          "type": "Town",
+          "lat": 31.9851,
+          "long": -110.933,
+          "keyAccentLanguage": "sahuarita"
+        },
+        {
+          "name": "Vail",
+          "type": "Community",
+          "lat": 31.974,
+          "long": -110.6965,
+          "keyAccentLanguage": "vail"
+        },
+        {
+          "name": "Green Valley",
+          "type": "Community",
+          "lat": 31.8584,
+          "long": -110.9757,
+          "keyAccentLanguage": "green_valley"
+        },
+        {
+          "name": "Catalina",
+          "type": "Community",
+          "lat": 32.4778,
+          "long": -110.8497,
+          "keyAccentLanguage": "catalina"
+        },
+        {
+          "name": "Rita Ranch",
+          "type": "Community",
+          "lat": 32.1149,
+          "long": -110.8001,
+          "keyAccentLanguage": "rita_ranch"
+        },
+        {
+          "name": "Picture Rocks",
+          "type": "Community",
+          "lat": 32.3661,
+          "long": -111.2096,
+          "keyAccentLanguage": "picture_rocks"
+        },
+        {
+          "name": "Ajo",
+          "type": "Town",
+          "lat": 32.3817,
+          "long": -112.8695,
+          "keyAccentLanguage": "ajo"
+        },
+        {
+          "name": "Three Points",
+          "type": "Community",
+          "lat": 31.8939,
+          "long": -111.2243,
+          "keyAccentLanguage": "three_points"
+        }
+      ],
+      "keyAccentLanguage": "pima"
+    },
+    {
+      "name": "Pinal",
+      "lat": 32.6916,
+      "long": -111.474,
+      "cities": [
+        {
+          "name": "Florence",
+          "type": "Town",
+          "lat": 33.0226,
+          "long": -111.5325,
+          "keyAccentLanguage": "florence"
+        },
+        {
+          "name": "Coolidge",
+          "type": "City",
+          "lat": 32.9399,
+          "long": -111.5325,
+          "keyAccentLanguage": "coolidge"
+        },
+        {
+          "name": "Casa Grande",
+          "type": "City",
+          "lat": 32.8795,
+          "long": -111.7574,
+          "keyAccentLanguage": "casa_grande"
+        },
+        {
+          "name": "Eloy",
+          "type": "City",
+          "lat": 32.7489,
+          "long": -111.5893,
+          "keyAccentLanguage": "eloy"
+        },
+        {
+          "name": "Apache Junction",
+          "type": "City",
+          "lat": 33.4159,
+          "long": -111.5496,
+          "keyAccentLanguage": "apache_junction"
+        },
+        {
+          "name": "San Manuel",
+          "type": "Community",
+          "lat": 32.7049,
+          "long": -110.6293,
+          "keyAccentLanguage": "san_manuel"
+        },
+        {
+          "name": "Florence Gardens",
+          "type": "Community",
+          "lat": 32.9994,
+          "long": -111.5233,
+          "keyAccentLanguage": "florence_gardens"
+        },
+        {
+          "name": "Arizona City",
+          "type": "Community",
+          "lat": 32.9195,
+          "long": -111.7089,
+          "keyAccentLanguage": "arizona_city"
+        },
+        {
+          "name": "Red Rock",
+          "type": "Community",
+          "lat": 32.7346,
+          "long": -111.4443,
+          "keyAccentLanguage": "red_rock"
+        },
+        {
+          "name": "Gold Canyon",
+          "type": "Community",
+          "lat": 33.3839,
+          "long": -111.4507,
+          "keyAccentLanguage": "gold_canyon"
+        },
+        {
+          "name": "Kearny",
+          "type": "Town",
+          "lat": 32.9369,
+          "long": -110.4875,
+          "keyAccentLanguage": "kearny"
+        }
+      ],
+      "keyAccentLanguage": "pinal"
+    },
+    {
+      "name": "Santa Cruz",
+      "lat": 31.5984,
+      "long": -110.9731,
+      "cities": [
+        {
+          "name": "Nogales",
+          "type": "City",
+          "lat": 31.3324,
+          "long": -110.9391,
+          "keyAccentLanguage": "nogales"
+        },
+        {
+          "name": "Patagonia",
+          "type": "Town",
+          "lat": 31.5762,
+          "long": -110.7555,
+          "keyAccentLanguage": "patagonia"
+        },
+        {
+          "name": "Sonoita",
+          "type": "Community",
+          "lat": 31.6507,
+          "long": -110.5983,
+          "keyAccentLanguage": "sonoita"
+        },
+        {
+          "name": "Elgin",
+          "type": "Community",
+          "lat": 31.6629,
+          "long": -110.6001,
+          "keyAccentLanguage": "elgin"
+        },
+        {
+          "name": "Rio Rico",
+          "type": "Community",
+          "lat": 31.4635,
+          "long": -110.927,
+          "keyAccentLanguage": "rio_rico"
+        }
+      ],
+      "keyAccentLanguage": "santa_cruz"
+    },
+    {
+      "name": "Yavapai",
+      "lat": 34.6021,
+      "long": -112.4698,
+      "cities": [
+        {
+          "name": "Prescott",
+          "type": "City",
+          "lat": 34.54,
+          "long": -112.4685,
+          "keyAccentLanguage": "prescott"
+        },
+        {
+          "name": "Cottonwood",
+          "type": "City",
+          "lat": 34.7571,
+          "long": -112.0085,
+          "keyAccentLanguage": "cottonwood"
+        },
+        {
+          "name": "Chino Valley",
+          "type": "Town",
+          "lat": 34.7496,
+          "long": -112.4685,
+          "keyAccentLanguage": "chino_valley"
+        },
+        {
+          "name": "Camp Verde",
+          "type": "Town",
+          "lat": 34.5612,
+          "long": -111.854,
+          "keyAccentLanguage": "camp_verde"
+        },
+        {
+          "name": "Clarkdale",
+          "type": "Town",
+          "lat": 34.7552,
+          "long": -112.016,
+          "keyAccentLanguage": "clarkdale"
+        },
+        {
+          "name": "Sedona",
+          "type": "City",
+          "lat": 34.8696,
+          "long": -111.7605,
+          "keyAccentLanguage": "sedona"
+        },
+        {
+          "name": "Mayer",
+          "type": "Community",
+          "lat": 34.4235,
+          "long": -112.1659,
+          "keyAccentLanguage": "mayer"
+        },
+        {
+          "name": "Williamson Valley",
+          "type": "Community",
+          "lat": 34.6985,
+          "long": -112.4919,
+          "keyAccentLanguage": "williamson_valley"
+        },
+        {
+          "name": "Seligman",
+          "type": "Town",
+          "lat": 35.3213,
+          "long": -113.0257,
+          "keyAccentLanguage": "seligman"
+        },
+        {
+          "name": "Bagdad",
+          "type": "Community",
+          "lat": 34.5325,
+          "long": -113.1517,
+          "keyAccentLanguage": "bagdad"
+        },
+        {
+          "name": "Rimrock",
+          "type": "Community",
+          "lat": 34.564,
+          "long": -111.6715,
+          "keyAccentLanguage": "rimrock"
+        }
+      ],
+      "keyAccentLanguage": "yavapai"
+    },
+    {
+      "name": "Yuma",
+      "lat": 32.6658,
+      "long": -113.103,
+      "cities": [
+        {
+          "name": "Yuma",
+          "type": "City",
+          "lat": 32.6927,
+          "long": -113.4827,
+          "keyAccentLanguage": "yuma"
+        },
+        {
+          "name": "Somerton",
+          "type": "City",
+          "lat": 32.6502,
+          "long": -114.7313,
+          "keyAccentLanguage": "somerton"
+        },
+        {
+          "name": "San Luis",
+          "type": "City",
+          "lat": 32.4995,
+          "long": -114.7831,
+          "keyAccentLanguage": "san_luis"
+        },
+        {
+          "name": "Wellton",
+          "type": "Town",
+          "lat": 32.6624,
+          "long": -113.8706,
+          "keyAccentLanguage": "wellton"
+        },
+        {
+          "name": "Foothills",
+          "type": "Community",
+          "lat": 32.6695,
+          "long": -113.3872,
+          "keyAccentLanguage": "foothills"
+        },
+        {
+          "name": "Laton",
+          "type": "Community",
+          "lat": 32.75,
+          "long": -114.655,
+          "keyAccentLanguage": "laton"
+        },
+        {
+          "name": "Roll",
+          "type": "Community",
+          "lat": 32.7431,
+          "long": -113.6596,
+          "keyAccentLanguage": "roll"
+        }
+      ],
+      "keyAccentLanguage": "yuma"
+    }
+  ],
+  "keyAccentLanguage": "arizona"
+}

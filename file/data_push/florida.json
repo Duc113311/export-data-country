@@ -1,0 +1,392 @@
+{
+  "nameState": "Florida",
+  "lat": 27.9944024,
+  "long": -81.7602544,
+  "counties": [
+    {
+      "name": "Alachua",
+      "lat": 29.6573,
+      "long": -82.3018,
+      "keyAccentLanguage": "alachua"
+    },
+    {
+      "name": "Baker",
+      "lat": 30.3931,
+      "long": -82.1345,
+      "keyAccentLanguage": "baker"
+    },
+    {
+      "name": "Bay",
+      "lat": 30.1813,
+      "long": -85.6847,
+      "keyAccentLanguage": "bay"
+    },
+    {
+      "name": "Bradford",
+      "lat": 29.9489,
+      "long": -82.1305,
+      "keyAccentLanguage": "bradford"
+    },
+    {
+      "name": "Brevard",
+      "lat": 28.3932,
+      "long": -80.6081,
+      "keyAccentLanguage": "brevard"
+    },
+    {
+      "name": "Broward",
+      "lat": 26.1901,
+      "long": -80.3658,
+      "keyAccentLanguage": "broward"
+    },
+    {
+      "name": "Calhoun",
+      "lat": 30.2907,
+      "long": -85.0853,
+      "keyAccentLanguage": "calhoun"
+    },
+    {
+      "name": "Charlotte",
+      "lat": 26.9107,
+      "long": -81.9097,
+      "keyAccentLanguage": "charlotte"
+    },
+    {
+      "name": "Citrus",
+      "lat": 28.898,
+      "long": -82.6084,
+      "keyAccentLanguage": "citrus"
+    },
+    {
+      "name": "Clay",
+      "lat": 29.9962,
+      "long": -81.7103,
+      "keyAccentLanguage": "clay"
+    },
+    {
+      "name": "Collier",
+      "lat": 26.241,
+      "long": -81.7938,
+      "keyAccentLanguage": "collier"
+    },
+    {
+      "name": "Columbia",
+      "lat": 30.1813,
+      "long": -82.6052,
+      "keyAccentLanguage": "columbia"
+    },
+    {
+      "name": "DeSoto",
+      "lat": 27.0282,
+      "long": -81.8576,
+      "keyAccentLanguage": "desoto"
+    },
+    {
+      "name": "Dixie",
+      "lat": 29.4006,
+      "long": -83.1629,
+      "keyAccentLanguage": "dixie"
+    },
+    {
+      "name": "Duval",
+      "lat": 30.3322,
+      "long": -81.6557,
+      "keyAccentLanguage": "duval"
+    },
+    {
+      "name": "Escambia",
+      "lat": 30.7131,
+      "long": -87.3412,
+      "keyAccentLanguage": "escambia"
+    },
+    {
+      "name": "Flagler",
+      "lat": 29.4086,
+      "long": -81.1375,
+      "keyAccentLanguage": "flagler"
+    },
+    {
+      "name": "Franklin",
+      "lat": 29.7818,
+      "long": -84.4105,
+      "keyAccentLanguage": "franklin"
+    },
+    {
+      "name": "Gadsden",
+      "lat": 30.5562,
+      "long": -84.6473,
+      "keyAccentLanguage": "gadsden"
+    },
+    {
+      "name": "Gilchrist",
+      "lat": 29.7036,
+      "long": -82.8137,
+      "keyAccentLanguage": "gilchrist"
+    },
+    {
+      "name": "Glades",
+      "lat": 26.663,
+      "long": -81.3975,
+      "keyAccentLanguage": "glades"
+    },
+    {
+      "name": "Gulf",
+      "lat": 29.8,
+      "long": -85.2601,
+      "keyAccentLanguage": "gulf"
+    },
+    {
+      "name": "Hamilton",
+      "lat": 30.4567,
+      "long": -82.9988,
+      "keyAccentLanguage": "hamilton"
+    },
+    {
+      "name": "Hardee",
+      "lat": 27.477,
+      "long": -81.8363,
+      "keyAccentLanguage": "hardee"
+    },
+    {
+      "name": "Hendry",
+      "lat": 26.5821,
+      "long": -81.4257,
+      "keyAccentLanguage": "hendry"
+    },
+    {
+      "name": "Hernando",
+      "lat": 28.5394,
+      "long": -82.4574,
+      "keyAccentLanguage": "hernando"
+    },
+    {
+      "name": "Highlands",
+      "lat": 27.612,
+      "long": -81.42,
+      "keyAccentLanguage": "highlands"
+    },
+    {
+      "name": "Hillsborough",
+      "lat": 27.9506,
+      "long": -82.4572,
+      "keyAccentLanguage": "hillsborough"
+    },
+    {
+      "name": "Holmes",
+      "lat": 30.9825,
+      "long": -85.7219,
+      "keyAccentLanguage": "holmes"
+    },
+    {
+      "name": "Indian River",
+      "lat": 27.636,
+      "long": -80.447,
+      "keyAccentLanguage": "indian_river"
+    },
+    {
+      "name": "Jackson",
+      "lat": 30.715,
+      "long": -85.1899,
+      "keyAccentLanguage": "jackson"
+    },
+    {
+      "name": "Jefferson",
+      "lat": 30.4999,
+      "long": -83.668,
+      "keyAccentLanguage": "jefferson"
+    },
+    {
+      "name": "Lafayette",
+      "lat": 30.1333,
+      "long": -83.1541,
+      "keyAccentLanguage": "lafayette"
+    },
+    {
+      "name": "Lake",
+      "lat": 28.7028,
+      "long": -81.777,
+      "keyAccentLanguage": "lake"
+    },
+    {
+      "name": "Lee",
+      "lat": 26.663,
+      "long": -81.3153,
+      "keyAccentLanguage": "lee"
+    },
+    {
+      "name": "Leon",
+      "lat": 30.4397,
+      "long": -84.185,
+      "keyAccentLanguage": "leon"
+    },
+    {
+      "name": "Levy",
+      "lat": 29.1344,
+      "long": -82.5894,
+      "keyAccentLanguage": "levy"
+    },
+    {
+      "name": "Liberty",
+      "lat": 30.392,
+      "long": -84.782,
+      "keyAccentLanguage": "liberty"
+    },
+    {
+      "name": "Madison",
+      "lat": 30.4437,
+      "long": -83.4171,
+      "keyAccentLanguage": "madison"
+    },
+    {
+      "name": "Manatee",
+      "lat": 27.498,
+      "long": -82.5758,
+      "keyAccentLanguage": "manatee"
+    },
+    {
+      "name": "Marion",
+      "lat": 29.0047,
+      "long": -82.1383,
+      "keyAccentLanguage": "marion"
+    },
+    {
+      "name": "Martin",
+      "lat": 27.1437,
+      "long": -80.2471,
+      "keyAccentLanguage": "martin"
+    },
+    {
+      "name": "Miami-Dade",
+      "lat": 25.7617,
+      "long": -80.1918,
+      "keyAccentLanguage": "miami-dade"
+    },
+    {
+      "name": "Monroe",
+      "lat": 24.6193,
+      "long": -81.6033,
+      "keyAccentLanguage": "monroe"
+    },
+    {
+      "name": "Nassau",
+      "lat": 30.7481,
+      "long": -81.5762,
+      "keyAccentLanguage": "nassau"
+    },
+    {
+      "name": "Okaloosa",
+      "lat": 30.4522,
+      "long": -86.5471,
+      "keyAccentLanguage": "okaloosa"
+    },
+    {
+      "name": "Okeechobee",
+      "lat": 27.2108,
+      "long": -80.8263,
+      "keyAccentLanguage": "okeechobee"
+    },
+    {
+      "name": "Orange",
+      "lat": 28.5383,
+      "long": -81.3792,
+      "keyAccentLanguage": "orange"
+    },
+    {
+      "name": "Osceola",
+      "lat": 28.1019,
+      "long": -81.0755,
+      "keyAccentLanguage": "osceola"
+    },
+    {
+      "name": "Palm Beach",
+      "lat": 26.6877,
+      "long": -80.0518,
+      "keyAccentLanguage": "palm_beach"
+    },
+    {
+      "name": "Pasco",
+      "lat": 28.3232,
+      "long": -82.4313,
+      "keyAccentLanguage": "pasco"
+    },
+    {
+      "name": "Pinellas",
+      "lat": 27.8761,
+      "long": -82.7778,
+      "keyAccentLanguage": "pinellas"
+    },
+    {
+      "name": "Polk",
+      "lat": 27.8612,
+      "long": -81.6947,
+      "keyAccentLanguage": "polk"
+    },
+    {
+      "name": "Putnam",
+      "lat": 29.6372,
+      "long": -81.4977,
+      "keyAccentLanguage": "putnam"
+    },
+    {
+      "name": "Santa Rosa",
+      "lat": 30.7141,
+      "long": -87.1818,
+      "keyAccentLanguage": "santa_rosa"
+    },
+    {
+      "name": "Sarasota",
+      "lat": 27.338,
+      "long": -82.5307,
+      "keyAccentLanguage": "sarasota"
+    },
+    {
+      "name": "Seminole",
+      "lat": 28.8009,
+      "long": -81.2085,
+      "keyAccentLanguage": "seminole"
+    },
+    {
+      "name": "Sumter",
+      "lat": 28.7084,
+      "long": -82.0412,
+      "keyAccentLanguage": "sumter"
+    },
+    {
+      "name": "Taylor",
+      "lat": 30.1087,
+      "long": -83.5962,
+      "keyAccentLanguage": "taylor"
+    },
+    {
+      "name": "Union",
+      "lat": 30.0236,
+      "long": -82.3195,
+      "keyAccentLanguage": "union"
+    },
+    {
+      "name": "Volusia",
+      "lat": 29.0273,
+      "long": -81.0998,
+      "keyAccentLanguage": "volusia"
+    },
+    {
+      "name": "Wakulla",
+      "lat": 30.0428,
+      "long": -84.4056,
+      "keyAccentLanguage": "wakulla"
+    },
+    {
+      "name": "Walton",
+      "lat": 30.6776,
+      "long": -86.291,
+      "keyAccentLanguage": "walton"
+    },
+    {
+      "name": "Washington",
+      "lat": 30.7763,
+      "long": -85.6052,
+      "keyAccentLanguage": "washington"
+    }
+  ],
+  "keyAccentLanguage": "florida"
+}

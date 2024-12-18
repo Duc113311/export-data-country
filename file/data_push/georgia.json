@@ -1,0 +1,296 @@
+{
+  "nameState": "Georgia",
+  "lat": 33.749,
+  "long": -84.388,
+  "counties": [
+    {
+      "name": "Appling",
+      "lat": 31.5831,
+      "long": -81.9582,
+      "keyAccentLanguage": "appling"
+    },
+    {
+      "name": "Atkinson",
+      "lat": 31.4592,
+      "long": -82.5535,
+      "keyAccentLanguage": "atkinson"
+    },
+    {
+      "name": "Bacon",
+      "lat": 31.4976,
+      "long": -82.2459,
+      "keyAccentLanguage": "bacon"
+    },
+    {
+      "name": "Baker",
+      "lat": 31.7477,
+      "long": -84.2781,
+      "keyAccentLanguage": "baker"
+    },
+    {
+      "name": "Baldwin",
+      "lat": 33.0807,
+      "long": -83.2077,
+      "keyAccentLanguage": "baldwin"
+    },
+    {
+      "name": "Banks",
+      "lat": 34.2912,
+      "long": -83.4425,
+      "keyAccentLanguage": "banks"
+    },
+    {
+      "name": "Barrow",
+      "lat": 33.9886,
+      "long": -83.7191,
+      "keyAccentLanguage": "barrow"
+    },
+    {
+      "name": "Bartow",
+      "lat": 34.2659,
+      "long": -84.8152,
+      "keyAccentLanguage": "bartow"
+    },
+    {
+      "name": "Ben Hill",
+      "lat": 31.7107,
+      "long": -83.2075,
+      "keyAccentLanguage": "ben_hill"
+    },
+    {
+      "name": "Berrien",
+      "lat": 31.114,
+      "long": -83.4014,
+      "keyAccentLanguage": "berrien"
+    },
+    {
+      "name": "Bibb",
+      "lat": 32.8467,
+      "long": -83.6324,
+      "keyAccentLanguage": "bibb"
+    },
+    {
+      "name": "Bleckley",
+      "lat": 32.4234,
+      "long": -83.373,
+      "keyAccentLanguage": "bleckley"
+    },
+    {
+      "name": "Brantley",
+      "lat": 31.3897,
+      "long": -81.8094,
+      "keyAccentLanguage": "brantley"
+    },
+    {
+      "name": "Brooks",
+      "lat": 30.8891,
+      "long": -83.6136,
+      "keyAccentLanguage": "brooks"
+    },
+    {
+      "name": "Bryan",
+      "lat": 31.7482,
+      "long": -81.4021,
+      "keyAccentLanguage": "bryan"
+    },
+    {
+      "name": "Bulloch",
+      "lat": 32.3958,
+      "long": -81.7831,
+      "keyAccentLanguage": "bulloch"
+    },
+    {
+      "name": "Burke",
+      "lat": 33.1244,
+      "long": -81.957,
+      "keyAccentLanguage": "burke"
+    },
+    {
+      "name": "Butts",
+      "lat": 33.2495,
+      "long": -83.9815,
+      "keyAccentLanguage": "butts"
+    },
+    {
+      "name": "Calhoun",
+      "lat": 31.7053,
+      "long": -84.9252,
+      "keyAccentLanguage": "calhoun"
+    },
+    {
+      "name": "Camden",
+      "lat": 30.8984,
+      "long": -81.5783,
+      "keyAccentLanguage": "camden"
+    },
+    {
+      "name": "Candler",
+      "lat": 32.1263,
+      "long": -82.3887,
+      "keyAccentLanguage": "candler"
+    },
+    {
+      "name": "Carroll",
+      "lat": 33.5727,
+      "long": -85.0832,
+      "keyAccentLanguage": "carroll"
+    },
+    {
+      "name": "Catoosa",
+      "lat": 34.9737,
+      "long": -85.0923,
+      "keyAccentLanguage": "catoosa"
+    },
+    {
+      "name": "Charlton",
+      "lat": 30.8504,
+      "long": -82.032,
+      "keyAccentLanguage": "charlton"
+    },
+    {
+      "name": "Chatham",
+      "lat": 32.0805,
+      "long": -81.0998,
+      "keyAccentLanguage": "chatham"
+    },
+    {
+      "name": "Chattahoochee",
+      "lat": 32.0715,
+      "long": -84.7873,
+      "keyAccentLanguage": "chattahoochee"
+    },
+    {
+      "name": "Chattooga",
+      "lat": 34.4952,
+      "long": -85.3451,
+      "keyAccentLanguage": "chattooga"
+    },
+    {
+      "name": "Cherokee",
+      "lat": 34.2515,
+      "long": -84.4808,
+      "keyAccentLanguage": "cherokee"
+    },
+    {
+      "name": "Clarke",
+      "lat": 33.9498,
+      "long": -83.3576,
+      "keyAccentLanguage": "clarke"
+    },
+    {
+      "name": "Clay",
+      "lat": 31.7743,
+      "long": -84.7752,
+      "keyAccentLanguage": "clay"
+    },
+    {
+      "name": "Clayton",
+      "lat": 33.564,
+      "long": -84.381,
+      "keyAccentLanguage": "clayton"
+    },
+    {
+      "name": "Clinch",
+      "lat": 31.0299,
+      "long": -82.6969,
+      "keyAccentLanguage": "clinch"
+    },
+    {
+      "name": "Cobb",
+      "lat": 33.9475,
+      "long": -84.5499,
+      "keyAccentLanguage": "cobb"
+    },
+    {
+      "name": "Coffee",
+      "lat": 31.5604,
+      "long": -82.698,
+      "keyAccentLanguage": "coffee"
+    },
+    {
+      "name": "Colquitt",
+      "lat": 31.1981,
+      "long": -83.7816,
+      "keyAccentLanguage": "colquitt"
+    },
+    {
+      "name": "Columbia",
+      "lat": 33.5207,
+      "long": -82.2311,
+      "keyAccentLanguage": "columbia"
+    },
+    {
+      "name": "Cook",
+      "lat": 31.1514,
+      "long": -83.4881,
+      "keyAccentLanguage": "cook"
+    },
+    {
+      "name": "Coweta",
+      "lat": 33.3765,
+      "long": -84.7315,
+      "keyAccentLanguage": "coweta"
+    },
+    {
+      "name": "Crawford",
+      "lat": 32.5639,
+      "long": -84.3483,
+      "keyAccentLanguage": "crawford"
+    },
+    {
+      "name": "Crisp",
+      "lat": 31.8777,
+      "long": -83.7553,
+      "keyAccentLanguage": "crisp"
+    },
+    {
+      "name": "Dade",
+      "lat": 34.9342,
+      "long": -85.5245,
+      "keyAccentLanguage": "dade"
+    },
+    {
+      "name": "Dawson",
+      "lat": 34.4455,
+      "long": -83.9886,
+      "keyAccentLanguage": "dawson"
+    },
+    {
+      "name": "DeKalb",
+      "lat": 33.7957,
+      "long": -84.2279,
+      "keyAccentLanguage": "dekalb"
+    },
+    {
+      "name": "Dodge",
+      "lat": 31.9942,
+      "long": -83.1455,
+      "keyAccentLanguage": "dodge"
+    },
+    {
+      "name": "Dooly",
+      "lat": 32.1466,
+      "long": -83.7415,
+      "keyAccentLanguage": "dooly"
+    },
+    {
+      "name": "Dougherty",
+      "lat": 31.5643,
+      "long": -84.2504,
+      "keyAccentLanguage": "dougherty"
+    },
+    {
+      "name": "Douglas",
+      "lat": 33.7677,
+      "long": -84.7206,
+      "keyAccentLanguage": "douglas"
+    },
+    {
+      "name": "Early",
+      "lat": 31.5781,
+      "long": -84.892,
+      "keyAccentLanguage": "early"
+    }
+  ],
+  "keyAccentLanguage": "georgia"
+}

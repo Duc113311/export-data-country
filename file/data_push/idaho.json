@@ -1,0 +1,272 @@
+{
+  "nameState": "Idaho",
+  "lat": 44.0682,
+  "long": -114.742,
+  "counties": [
+    {
+      "name": "Ada",
+      "lat": 43.6135,
+      "long": -116.2023,
+      "keyAccentLanguage": "ada"
+    },
+    {
+      "name": "Adams",
+      "lat": 44.6297,
+      "long": -115.8782,
+      "keyAccentLanguage": "adams"
+    },
+    {
+      "name": "Bannock",
+      "lat": 42.8272,
+      "long": -112.0704,
+      "keyAccentLanguage": "bannock"
+    },
+    {
+      "name": "Bear Lake",
+      "lat": 42.2244,
+      "long": -111.386,
+      "keyAccentLanguage": "bear_lake"
+    },
+    {
+      "name": "Benewah",
+      "lat": 47.1524,
+      "long": -116.4285,
+      "keyAccentLanguage": "benewah"
+    },
+    {
+      "name": "Bingham",
+      "lat": 43.3005,
+      "long": -112.5627,
+      "keyAccentLanguage": "bingham"
+    },
+    {
+      "name": "Blaine",
+      "lat": 43.525,
+      "long": -114.289,
+      "keyAccentLanguage": "blaine"
+    },
+    {
+      "name": "Boise",
+      "lat": 43.6351,
+      "long": -115.8711,
+      "keyAccentLanguage": "boise"
+    },
+    {
+      "name": "Bonner",
+      "lat": 48.2874,
+      "long": -116.5415,
+      "keyAccentLanguage": "bonner"
+    },
+    {
+      "name": "Bonneville",
+      "lat": 43.4694,
+      "long": -111.2221,
+      "keyAccentLanguage": "bonneville"
+    },
+    {
+      "name": "Boundary",
+      "lat": 48.5982,
+      "long": -116.3874,
+      "keyAccentLanguage": "boundary"
+    },
+    {
+      "name": "Butte",
+      "lat": 43.3477,
+      "long": -113.1333,
+      "keyAccentLanguage": "butte"
+    },
+    {
+      "name": "Camas",
+      "lat": 42.8822,
+      "long": -114.9778,
+      "keyAccentLanguage": "camas"
+    },
+    {
+      "name": "Canyon",
+      "lat": 43.8787,
+      "long": -116.5893,
+      "keyAccentLanguage": "canyon"
+    },
+    {
+      "name": "Caribou",
+      "lat": 42.6563,
+      "long": -111.8451,
+      "keyAccentLanguage": "caribou"
+    },
+    {
+      "name": "Cassia",
+      "lat": 42.4842,
+      "long": -113.5403,
+      "keyAccentLanguage": "cassia"
+    },
+    {
+      "name": "Clark",
+      "lat": 44.2952,
+      "long": -113.4745,
+      "keyAccentLanguage": "clark"
+    },
+    {
+      "name": "Clearwater",
+      "lat": 46.4245,
+      "long": -115.977,
+      "keyAccentLanguage": "clearwater"
+    },
+    {
+      "name": "Custer",
+      "lat": 44.241,
+      "long": -113.8672,
+      "keyAccentLanguage": "custer"
+    },
+    {
+      "name": "Elmore",
+      "lat": 43.5885,
+      "long": -115.9345,
+      "keyAccentLanguage": "elmore"
+    },
+    {
+      "name": "Franklin",
+      "lat": 42.1769,
+      "long": -111.8216,
+      "keyAccentLanguage": "franklin"
+    },
+    {
+      "name": "Fremont",
+      "lat": 44.2299,
+      "long": -111.5736,
+      "keyAccentLanguage": "fremont"
+    },
+    {
+      "name": "Gem",
+      "lat": 44.2763,
+      "long": -116.3326,
+      "keyAccentLanguage": "gem"
+    },
+    {
+      "name": "Gooding",
+      "lat": 42.93,
+      "long": -114.701,
+      "keyAccentLanguage": "gooding"
+    },
+    {
+      "name": "Idaho",
+      "lat": 44.5671,
+      "long": -114.4969,
+      "keyAccentLanguage": "idaho"
+    },
+    {
+      "name": "Jefferson",
+      "lat": 43.7221,
+      "long": -112.0206,
+      "keyAccentLanguage": "jefferson"
+    },
+    {
+      "name": "Jerome",
+      "lat": 42.7277,
+      "long": -114.5147,
+      "keyAccentLanguage": "jerome"
+    },
+    {
+      "name": "Kootenai",
+      "lat": 47.6796,
+      "long": -116.7805,
+      "keyAccentLanguage": "kootenai"
+    },
+    {
+      "name": "Latah",
+      "lat": 46.6753,
+      "long": -116.9845,
+      "keyAccentLanguage": "latah"
+    },
+    {
+      "name": "Lemhi",
+      "lat": 45.382,
+      "long": -113.5292,
+      "keyAccentLanguage": "lemhi"
+    },
+    {
+      "name": "Lewis",
+      "lat": 46.0094,
+      "long": -116.1996,
+      "keyAccentLanguage": "lewis"
+    },
+    {
+      "name": "Lincoln",
+      "lat": 42.4636,
+      "long": -113.0845,
+      "keyAccentLanguage": "lincoln"
+    },
+    {
+      "name": "Madison",
+      "lat": 43.5967,
+      "long": -111.9291,
+      "keyAccentLanguage": "madison"
+    },
+    {
+      "name": "Minidoka",
+      "lat": 42.6103,
+      "long": -113.2427,
+      "keyAccentLanguage": "minidoka"
+    },
+    {
+      "name": "Nez Perce",
+      "lat": 46.3155,
+      "long": -116.9815,
+      "keyAccentLanguage": "nez_perce"
+    },
+    {
+      "name": "Oneida",
+      "lat": 42.301,
+      "long": -112.283,
+      "keyAccentLanguage": "oneida"
+    },
+    {
+      "name": "Owyhee",
+      "lat": 42.9405,
+      "long": -116.4126,
+      "keyAccentLanguage": "owyhee"
+    },
+    {
+      "name": "Payette",
+      "lat": 44.1099,
+      "long": -116.907,
+      "keyAccentLanguage": "payette"
+    },
+    {
+      "name": "Power",
+      "lat": 42.9824,
+      "long": -112.9807,
+      "keyAccentLanguage": "power"
+    },
+    {
+      "name": "Shoshone",
+      "lat": 46.5023,
+      "long": -115.7174,
+      "keyAccentLanguage": "shoshone"
+    },
+    {
+      "name": "Teton",
+      "lat": 43.7279,
+      "long": -111.2997,
+      "keyAccentLanguage": "teton"
+    },
+    {
+      "name": "Twin Falls",
+      "lat": 42.4812,
+      "long": -114.479,
+      "keyAccentLanguage": "twin_falls"
+    },
+    {
+      "name": "Valley",
+      "lat": 44.1707,
+      "long": -115.9752,
+      "keyAccentLanguage": "valley"
+    },
+    {
+      "name": "Washington",
+      "lat": 44.2405,
+      "long": -116.6892,
+      "keyAccentLanguage": "washington"
+    }
+  ],
+  "keyAccentLanguage": "idaho"
+}

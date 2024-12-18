@@ -1,0 +1,302 @@
+[
+  {
+    "nameState": "Alabama",
+    "lat": 32.806671,
+    "long": -86.79113,
+    "keyAccentLanguage": "alabama"
+  },
+  {
+    "nameState": "Alaska",
+    "lat": 61.370716,
+    "long": -152.404419,
+    "keyAccentLanguage": "alaska"
+  },
+  {
+    "nameState": "Arizona",
+    "lat": 33.729759,
+    "long": -111.431221,
+    "keyAccentLanguage": "arizona"
+  },
+  {
+    "nameState": "Arkansas",
+    "lat": 36.791302,
+    "long": -91.833496,
+    "keyAccentLanguage": "arkansas"
+  },
+  {
+    "nameState": "California",
+    "lat": 36.778259,
+    "long": -119.417931,
+    "keyAccentLanguage": "california"
+  },
+  {
+    "nameState": "Colorado",
+    "lat": 39.550051,
+    "long": -105.782067,
+    "keyAccentLanguage": "colorado"
+  },
+  {
+    "nameState": "Connecticut",
+    "lat": 41.603221,
+    "long": -73.087749,
+    "keyAccentLanguage": "connecticut"
+  },
+  {
+    "nameState": "Delaware",
+    "lat": 38.910832,
+    "long": -75.52767,
+    "keyAccentLanguage": "delaware"
+  },
+  {
+    "nameState": "Florida",
+    "lat": 27.766279,
+    "long": -81.686783,
+    "keyAccentLanguage": "florida"
+  },
+  {
+    "nameState": "Georgia",
+    "lat": 33.040619,
+    "long": -83.643074,
+    "keyAccentLanguage": "georgia"
+  },
+  {
+    "nameState": "Hawaii",
+    "lat": 21.094318,
+    "long": -157.498337,
+    "keyAccentLanguage": "hawaii"
+  },
+  {
+    "nameState": "Idaho",
+    "lat": 44.299782,
+    "long": -114.471924,
+    "keyAccentLanguage": "idaho"
+  },
+  {
+    "nameState": "Illinois",
+    "lat": 40.633125,
+    "long": -89.398528,
+    "keyAccentLanguage": "illinois"
+  },
+  {
+    "nameState": "Indiana",
+    "lat": 39.71713,
+    "long": -86.781602,
+    "keyAccentLanguage": "indiana"
+  },
+  {
+    "nameState": "Iowa",
+    "lat": 42.011539,
+    "long": -93.210526,
+    "keyAccentLanguage": "iowa"
+  },
+  {
+    "nameState": "Kansas",
+    "lat": 38.5266,
+    "long": -96.726486,
+    "keyAccentLanguage": "kansas"
+  },
+  {
+    "nameState": "Kentucky",
+    "lat": 37.66814,
+    "long": -84.670067,
+    "keyAccentLanguage": "kentucky"
+  },
+  {
+    "nameState": "Louisiana",
+    "lat": 31.169546,
+    "long": -91.867805,
+    "keyAccentLanguage": "louisiana"
+  },
+  {
+    "nameState": "Maine",
+    "lat": 44.693947,
+    "long": -69.381927,
+    "keyAccentLanguage": "maine"
+  },
+  {
+    "nameState": "Maryland",
+    "lat": 39.063946,
+    "long": -76.802101,
+    "keyAccentLanguage": "maryland"
+  },
+  {
+    "nameState": "Massachusetts",
+    "lat": 42.230171,
+    "long": -71.530106,
+    "keyAccentLanguage": "massachusetts"
+  },
+  {
+    "nameState": "Michigan",
+    "lat": 42.291706,
+    "long": -83.736389,
+    "keyAccentLanguage": "michigan"
+  },
+  {
+    "nameState": "Minnesota",
+    "lat": 34.299808,
+    "long": -93.621271,
+    "keyAccentLanguage": "minnesota"
+  },
+  {
+    "nameState": "Mississippi",
+    "lat": 32.741646,
+    "long": -89.678696,
+    "keyAccentLanguage": "mississippi"
+  },
+  {
+    "nameState": "Missouri",
+    "lat": 36.603322,
+    "long": -92.435761,
+    "keyAccentLanguage": "missouri"
+  },
+  {
+    "nameState": "Montana",
+    "lat": 46.665181,
+    "long": -112.301746,
+    "keyAccentLanguage": "montana"
+  },
+  {
+    "nameState": "Nebraska",
+    "lat": 41.12537,
+    "long": -98.268082,
+    "keyAccentLanguage": "nebraska"
+  },
+  {
+    "nameState": "Nevada",
+    "lat": 38.313515,
+    "long": -117.055374,
+    "keyAccentLanguage": "nevada"
+  },
+  {
+    "nameState": "New Hampshire",
+    "lat": 33.040619,
+    "long": -83.643074,
+    "keyAccentLanguage": "new_hampshire"
+  },
+  {
+    "nameState": "New Jersey",
+    "lat": 40.298904,
+    "long": -74.521011,
+    "keyAccentLanguage": "new_jersey"
+  },
+  {
+    "nameState": "New Mexico",
+    "lat": 34.419734,
+    "long": -106.103119,
+    "keyAccentLanguage": "new_mexico"
+  },
+  {
+    "nameState": "New York",
+    "lat": 40.712776,
+    "long": -74.005974,
+    "keyAccentLanguage": "new_york"
+  },
+  {
+    "nameState": "North Carolina",
+    "lat": 35.630066,
+    "long": -79.806419,
+    "keyAccentLanguage": "north_carolina"
+  },
+  {
+    "nameState": "North Dakota",
+    "lat": 47.528912,
+    "long": -99.784012,
+    "keyAccentLanguage": "north_dakota"
+  },
+  {
+    "nameState": "Ohio",
+    "lat": 40.388783,
+    "long": -82.764915,
+    "keyAccentLanguage": "ohio"
+  },
+  {
+    "nameState": "Oklahoma",
+    "lat": 35.565342,
+    "long": -96.928917,
+    "keyAccentLanguage": "oklahoma"
+  },
+  {
+    "nameState": "Oregon",
+    "lat": 43.804133,
+    "long": -120.554201,
+    "keyAccentLanguage": "oregon"
+  },
+  {
+    "nameState": "Pennsylvania",
+    "lat": 40.590752,
+    "long": -77.209755,
+    "keyAccentLanguage": "pennsylvania"
+  },
+  {
+    "nameState": "Rhode Island",
+    "lat": 41.680893,
+    "long": -71.51178,
+    "keyAccentLanguage": "rhode_island"
+  },
+  {
+    "nameState": "South Carolina",
+    "lat": 33.856892,
+    "long": -80.945007,
+    "keyAccentLanguage": "south_carolina"
+  },
+  {
+    "nameState": "South Dakota",
+    "lat": 44.299782,
+    "long": -99.438828,
+    "keyAccentLanguage": "south_dakota"
+  },
+  {
+    "nameState": "Tennessee",
+    "lat": 35.517491,
+    "long": -86.580447,
+    "keyAccentLanguage": "tennessee"
+  },
+  {
+    "nameState": "Texas",
+    "lat": 31.968598,
+    "long": -99.901813,
+    "keyAccentLanguage": "texas"
+  },
+  {
+    "nameState": "Utah",
+    "lat": 40.113553,
+    "long": -111.863011,
+    "keyAccentLanguage": "utah"
+  },
+  {
+    "nameState": "Vermont",
+    "lat": 44.068202,
+    "long": -72.602866,
+    "keyAccentLanguage": "vermont"
+  },
+  {
+    "nameState": "Virginia",
+    "lat": 37.431573,
+    "long": -78.656894,
+    "keyAccentLanguage": "virginia"
+  },
+  {
+    "nameState": "Washington",
+    "lat": 47.751074,
+    "long": -120.740139,
+    "keyAccentLanguage": "washington"
+  },
+  {
+    "nameState": "West Virginia",
+    "lat": 38.597626,
+    "long": -80.454903,
+    "keyAccentLanguage": "west_virginia"
+  },
+  {
+    "nameState": "Wisconsin",
+    "lat": 43.78444,
+    "long": -88.787868,
+    "keyAccentLanguage": "wisconsin"
+  },
+  {
+    "nameState": "Wyoming",
+    "lat": 42.755966,
+    "long": -107.30249,
+    "keyAccentLanguage": "wyoming"
+  }
+]

@@ -1,0 +1,296 @@
+{
+  "nameState": "Indiana",
+  "lat": 40.267,
+  "long": -86.1349,
+  "counties": [
+    {
+      "name": "Adams",
+      "lat": 40.7417,
+      "long": -84.9606,
+      "keyAccentLanguage": "adams"
+    },
+    {
+      "name": "Allen",
+      "lat": 41.14,
+      "long": -85.1369,
+      "keyAccentLanguage": "allen"
+    },
+    {
+      "name": "Bartholomew",
+      "lat": 39.2014,
+      "long": -85.9285,
+      "keyAccentLanguage": "bartholomew"
+    },
+    {
+      "name": "Benton",
+      "lat": 40.4371,
+      "long": -87.4242,
+      "keyAccentLanguage": "benton"
+    },
+    {
+      "name": "Blackford",
+      "lat": 40.4781,
+      "long": -85.3181,
+      "keyAccentLanguage": "blackford"
+    },
+    {
+      "name": "Boone",
+      "lat": 40.015,
+      "long": -86.434,
+      "keyAccentLanguage": "boone"
+    },
+    {
+      "name": "Brown",
+      "lat": 39.2507,
+      "long": -86.3125,
+      "keyAccentLanguage": "brown"
+    },
+    {
+      "name": "Carroll",
+      "lat": 40.5719,
+      "long": -86.571,
+      "keyAccentLanguage": "carroll"
+    },
+    {
+      "name": "Cass",
+      "lat": 40.7573,
+      "long": -86.508,
+      "keyAccentLanguage": "cass"
+    },
+    {
+      "name": "Clark",
+      "lat": 38.274,
+      "long": -85.7591,
+      "keyAccentLanguage": "clark"
+    },
+    {
+      "name": "Clay",
+      "lat": 39.4676,
+      "long": -87.1092,
+      "keyAccentLanguage": "clay"
+    },
+    {
+      "name": "Clinton",
+      "lat": 40.3685,
+      "long": -86.5255,
+      "keyAccentLanguage": "clinton"
+    },
+    {
+      "name": "Crawford",
+      "lat": 38.2766,
+      "long": -86.4721,
+      "keyAccentLanguage": "crawford"
+    },
+    {
+      "name": "Daviess",
+      "lat": 38.8411,
+      "long": -87.141,
+      "keyAccentLanguage": "daviess"
+    },
+    {
+      "name": "Dearborn",
+      "lat": 39.123,
+      "long": -84.9773,
+      "keyAccentLanguage": "dearborn"
+    },
+    {
+      "name": "Decatur",
+      "lat": 39.4743,
+      "long": -85.2222,
+      "keyAccentLanguage": "decatur"
+    },
+    {
+      "name": "Delaware",
+      "lat": 40.1825,
+      "long": -85.3977,
+      "keyAccentLanguage": "delaware"
+    },
+    {
+      "name": "Dubois",
+      "lat": 38.2932,
+      "long": -86.7605,
+      "keyAccentLanguage": "dubois"
+    },
+    {
+      "name": "Elkhart",
+      "lat": 41.6827,
+      "long": -85.9772,
+      "keyAccentLanguage": "elkhart"
+    },
+    {
+      "name": "Fayette",
+      "lat": 39.6365,
+      "long": -85.166,
+      "keyAccentLanguage": "fayette"
+    },
+    {
+      "name": "Floyd",
+      "lat": 38.2763,
+      "long": -85.822,
+      "keyAccentLanguage": "floyd"
+    },
+    {
+      "name": "Fountain",
+      "lat": 40.125,
+      "long": -87.2582,
+      "keyAccentLanguage": "fountain"
+    },
+    {
+      "name": "Franklin",
+      "lat": 39.4219,
+      "long": -85.1411,
+      "keyAccentLanguage": "franklin"
+    },
+    {
+      "name": "Fulton",
+      "lat": 41.0706,
+      "long": -86.2641,
+      "keyAccentLanguage": "fulton"
+    },
+    {
+      "name": "Gibson",
+      "lat": 38.2371,
+      "long": -87.6354,
+      "keyAccentLanguage": "gibson"
+    },
+    {
+      "name": "Grant",
+      "lat": 40.4475,
+      "long": -85.6239,
+      "keyAccentLanguage": "grant"
+    },
+    {
+      "name": "Greene",
+      "lat": 39.0017,
+      "long": -86.9414,
+      "keyAccentLanguage": "greene"
+    },
+    {
+      "name": "Hamilton",
+      "lat": 40.1033,
+      "long": -86.1469,
+      "keyAccentLanguage": "hamilton"
+    },
+    {
+      "name": "Hancock",
+      "lat": 39.7813,
+      "long": -85.7585,
+      "keyAccentLanguage": "hancock"
+    },
+    {
+      "name": "Harrison",
+      "lat": 38.2181,
+      "long": -86.1206,
+      "keyAccentLanguage": "harrison"
+    },
+    {
+      "name": "Hendricks",
+      "lat": 39.7481,
+      "long": -86.4978,
+      "keyAccentLanguage": "hendricks"
+    },
+    {
+      "name": "Henry",
+      "lat": 39.858,
+      "long": -85.3955,
+      "keyAccentLanguage": "henry"
+    },
+    {
+      "name": "Howard",
+      "lat": 40.4735,
+      "long": -86.0137,
+      "keyAccentLanguage": "howard"
+    },
+    {
+      "name": "Huntington",
+      "lat": 40.8839,
+      "long": -85.496,
+      "keyAccentLanguage": "huntington"
+    },
+    {
+      "name": "Jackson",
+      "lat": 38.8812,
+      "long": -85.8742,
+      "keyAccentLanguage": "jackson"
+    },
+    {
+      "name": "Jasper",
+      "lat": 41.1375,
+      "long": -87.0525,
+      "keyAccentLanguage": "jasper"
+    },
+    {
+      "name": "Jay",
+      "lat": 40.5617,
+      "long": -85.0033,
+      "keyAccentLanguage": "jay"
+    },
+    {
+      "name": "Jefferson",
+      "lat": 38.9491,
+      "long": -85.4994,
+      "keyAccentLanguage": "jefferson"
+    },
+    {
+      "name": "Johnson",
+      "lat": 39.4605,
+      "long": -86.1425,
+      "keyAccentLanguage": "johnson"
+    },
+    {
+      "name": "Knox",
+      "lat": 38.6741,
+      "long": -87.5285,
+      "keyAccentLanguage": "knox"
+    },
+    {
+      "name": "Kosciusko",
+      "lat": 41.2877,
+      "long": -85.8251,
+      "keyAccentLanguage": "kosciusko"
+    },
+    {
+      "name": "LaPorte",
+      "lat": 41.6091,
+      "long": -86.7181,
+      "keyAccentLanguage": "laporte"
+    },
+    {
+      "name": "Lagrange",
+      "lat": 41.6503,
+      "long": -85.4237,
+      "keyAccentLanguage": "lagrange"
+    },
+    {
+      "name": "Lake",
+      "lat": 41.3107,
+      "long": -87.402,
+      "keyAccentLanguage": "lake"
+    },
+    {
+      "name": "Lawrence",
+      "lat": 38.9277,
+      "long": -86.3873,
+      "keyAccentLanguage": "lawrence"
+    },
+    {
+      "name": "Madison",
+      "lat": 40.0155,
+      "long": -85.7306,
+      "keyAccentLanguage": "madison"
+    },
+    {
+      "name": "Marion",
+      "lat": 39.7684,
+      "long": -86.158,
+      "keyAccentLanguage": "marion"
+    },
+    {
+      "name": "Marshall",
+      "lat": 41.2127,
+      "long": -86.1915,
+      "keyAccentLanguage": "marshall"
+    }
+  ],
+  "keyAccentLanguage": "indiana"
+}

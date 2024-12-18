@@ -1,0 +1,56 @@
+{
+  "nameState": "Connecticut",
+  "lat": 41.6032,
+  "long": -73.0877,
+  "counties": [
+    {
+      "name": "Fairfield",
+      "lat": 41.1441,
+      "long": -73.2608,
+      "keyAccentLanguage": "fairfield"
+    },
+    {
+      "name": "Hartford",
+      "lat": 41.7637,
+      "long": -72.6851,
+      "keyAccentLanguage": "hartford"
+    },
+    {
+      "name": "Litchfield",
+      "lat": 41.7463,
+      "long": -73.2768,
+      "keyAccentLanguage": "litchfield"
+    },
+    {
+      "name": "Middlesex",
+      "lat": 41.5322,
+      "long": -72.6369,
+      "keyAccentLanguage": "middlesex"
+    },
+    {
+      "name": "New Haven",
+      "lat": 41.3133,
+      "long": -72.9263,
+      "keyAccentLanguage": "new_haven"
+    },
+    {
+      "name": "New London",
+      "lat": 41.3544,
+      "long": -72.2043,
+      "keyAccentLanguage": "new_london"
+    },
+    {
+      "name": "Tolland",
+      "lat": 41.8587,
+      "long": -72.4475,
+      "keyAccentLanguage": "tolland"
+    },
+    {
+      "name": "Windham",
+      "lat": 41.8487,
+      "long": -71.9758,
+      "keyAccentLanguage": "windham"
+    }
+  ],
+  "keyAccentLanguage": "connecticut"
+}
