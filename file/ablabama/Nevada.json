@@ -1,0 +1,92 @@
+{
+  "nameState": "Nevada",
+  "lat": 38.8026,
+  "long": -116.4194,
+  "counties": [
+    {
+      "name": "Carson City",
+      "lat": 39.1638,
+      "long": -119.7674
+    },
+    {
+      "name": "Churchill",
+      "lat": 39.487,
+      "long": -118.5265
+    },
+    {
+      "name": "Clark",
+      "lat": 36.0611,
+      "long": -115.151
+    },
+    {
+      "name": "Douglas",
+      "lat": 38.9265,
+      "long": -119.6497
+    },
+    {
+      "name": "Elko",
+      "lat": 40.8324,
+      "long": -115.7639
+    },
+    {
+      "name": "Esmeralda",
+      "lat": 38.4485,
+      "long": -117.2558
+    },
+    {
+      "name": "Eureka",
+      "lat": 39.5321,
+      "long": -115.9749
+    },
+    {
+      "name": "Humboldt",
+      "lat": 40.5399,
+      "long": -118.064
+    },
+    {
+      "name": "Lander",
+      "lat": 39.474,
+      "long": -116.4153
+    },
+    {
+      "name": "Lincoln",
+      "lat": 37.6074,
+      "long": -113.0401
+    },
+    {
+      "name": "Lyon",
+      "lat": 39.3145,
+      "long": -119.0811
+    },
+    {
+      "name": "Mineral",
+      "lat": 38.1429,
+      "long": -118.9607
+    },
+    {
+      "name": "Nye",
+      "lat": 38.5803,
+      "long": -116.0205
+    },
+    {
+      "name": "Pershing",
+      "lat": 40.1031,
+      "long": -118.5917
+    },
+    {
+      "name": "Storey",
+      "lat": 39.5337,
+      "long": -119.626
+    },
+    {
+      "name": "Washoe",
+      "lat": 39.5271,
+      "long": -119.8138
+    },
+    {
+      "name": "White Pine",
+      "lat": 39.2165,
+      "long": -114.6802
+    }
+  ]
+}

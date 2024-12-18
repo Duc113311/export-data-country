@@ -1,0 +1,77 @@
+{
+  "nameState": "Massachusetts",
+  "lat": 42.4072,
+  "long": -71.3824,
+  "counties": [
+    {
+      "name": "Berkshire",
+      "lat": 42.3112,
+      "long": -73.1822
+    },
+    {
+      "name": "Bristol",
+      "lat": 41.9445,
+      "long": -71.1212
+    },
+    {
+      "name": "Dukes",
+      "lat": 41.388,
+      "long": -70.6214
+    },
+    {
+      "name": "Essex",
+      "lat": 42.5195,
+      "long": -70.8201
+    },
+    {
+      "name": "Franklin",
+      "lat": 42.5385,
+      "long": -72.5851
+    },
+    {
+      "name": "Hampden",
+      "lat": 42.1096,
+      "long": -72.6421
+    },
+    {
+      "name": "Hampshire",
+      "lat": 42.3477,
+      "long": -72.5537
+    },
+    {
+      "name": "Middlesex",
+      "lat": 42.4675,
+      "long": -71.2874
+    },
+    {
+      "name": "Monroe",
+      "lat": 42.6031,
+      "long": -73.8339
+    },
+    {
+      "name": "Nantucket",
+      "lat": 41.2835,
+      "long": -70.0995
+    },
+    {
+      "name": "Norfolk",
+      "lat": 42.2207,
+      "long": -71.2092
+    },
+    {
+      "name": "Plymouth",
+      "lat": 41.908,
+      "long": -70.5622
+    },
+    {
+      "name": "Suffolk",
+      "lat": 42.3601,
+      "long": -71.0589
+    },
+    {
+      "name": "Worcester",
+      "lat": 42.2626,
+      "long": -71.8023
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "nameState": "South Dakota",
+  "lat": 44.2998,
+  "long": -99.4388,
+  "counties": [
+    {
+      "name": "Aurora",
+      "lat": 43.9979,
+      "long": -97.1611
+    },
+    {
+      "name": "Beadle",
+      "lat": 44.3004,
+      "long": -98.1626
+    },
+    {
+      "name": "Benett",
+      "lat": 43.6499,
+      "long": -101.2169
+    },
+    {
+      "name": "Bon Homme",
+      "lat": 42.9706,
+      "long": -97.4501
+    },
+    {
+      "name": "Brookings",
+      "lat": 44.2992,
+      "long": -96.797
+    },
+    {
+      "name": "Brown",
+      "lat": 45.2792,
+      "long": -98.4977
+    },
+    {
+      "name": "Brule",
+      "lat": 43.6283,
+      "long": -98.6743
+    },
+    {
+      "name": "Buffalo",
+      "lat": 44.7803,
+      "long": -101.6427
+    },
+    {
+      "name": "Butte",
+      "lat": 44.3992,
+      "long": -103.5907
+    },
+    {
+      "name": "Campbell",
+      "lat": 45.4356,
+      "long": -99.1311
+    },
+    {
+      "name": "Charles Mix",
+      "lat": 43.5123,
+      "long": -98.0852
+    },
+    {
+      "name": "Clark",
+      "lat": 44.6207,
+      "long": -97.744
+    },
+    {
+      "name": "Clay",
+      "lat": 42.7782,
+      "long": -97.0432
+    },
+    {
+      "name": "Codington",
+      "lat": 44.9024,
+      "long": -97.2098
+    },
+    {
+      "name": "Corson",
+      "lat": 45.6578,
+      "long": -100.5091
+    },
+    {
+      "name": "Custer",
+      "lat": 43.7605,
+      "long": -103.5985
+    },
+    {
+      "name": "Davison",
+      "lat": 43.7421,
+      "long": -98.2027
+    },
+    {
+      "name": "Day",
+      "lat": 44.5794,
+      "long": -97.3144
+    },
+    {
+      "name": "Deuel",
+      "lat": 44.7491,
+      "long": -96.6611
+    },
+    {
+      "name": "Dewey",
+      "lat": 44.3005,
+      "long": -100.6044
+    },
+    {
+      "name": "Douglas",
+      "lat": 43.3177,
+      "long": -99.0489
+    },
+    {
+      "name": "Edmunds",
+      "lat": 45.449,
+      "long": -98.395
+    },
+    {
+      "name": "Fall River",
+      "lat": 43.3456,
+      "long": -103.6377
+    },
+    {
+      "name": "Faulk",
+      "lat": 44.4591,
+      "long": -98.2971
+    },
+    {
+      "name": "Grant",
+      "lat": 44.0791,
+      "long": -97.0494
+    },
+    {
+      "name": "Gregory",
+      "lat": 43.2452,
+      "long": -99.2431
+    },
+    {
+      "name": "Haakon",
+      "lat": 44.5301,
+      "long": -101.5556
+    },
+    {
+      "name": "Hamlin",
+      "lat": 44.5935,
+      "long": -97.4731
+    },
+    {
+      "name": "Hand",
+      "lat": 44.6143,
+      "long": -98.0413
+    },
+    {
+      "name": "Hanson",
+      "lat": 43.5789,
+      "long": -97.3982
+    },
+    {
+      "name": "Harding",
+      "lat": 45.8893,
+      "long": -103.5009
+    },
+    {
+      "name": "Hughes",
+      "lat": 44.2999,
+      "long": -100.1057
+    },
+    {
+      "name": "Hutchinson",
+      "lat": 43.4385,
+      "long": -97.9111
+    },
+    {
+      "name": "Jackson",
+      "lat": 43.9382,
+      "long": -100.5297
+    },
+    {
+      "name": "Jerauld",
+      "lat": 44.0436,
+      "long": -98.0805
+    },
+    {
+      "name": "Jones",
+      "lat": 44.2569,
+      "long": -100.3091
+    },
+    {
+      "name": "Kingsbury",
+      "lat": 44.2891,
+      "long": -97.2615
+    },
+    {
+      "name": "Lake",
+      "lat": 44.0702,
+      "long": -97.226
+    },
+    {
+      "name": "Lawrence",
+      "lat": 44.3625,
+      "long": -103.7246
+    },
+    {
+      "name": "Lincoln",
+      "lat": 43.3733,
+      "long": -96.8469
+    },
+    {
+      "name": "Lyman",
+      "lat": 43.7676,
+      "long": -99.5273
+    },
+    {
+      "name": "McCook",
+      "lat": 43.3709,
+      "long": -97.3527
+    },
+    {
+      "name": "McPherson",
+      "lat": 45.32,
+      "long": -98.6681
+    },
+    {
+      "name": "Marshall",
+      "lat": 44.2116,
+      "long": -97.8493
+    },
+    {
+      "name": "Mellette",
+      "lat": 43.8491,
+      "long": -100.7356
+    },
+    {
+      "name": "Miner",
+      "lat": 43.6815,
+      "long": -97.8779
+    },
+    {
+      "name": "Minnehaha",
+      "lat": 43.9003,
+      "long": -97.2405
+    },
+    {
+      "name": "Moody",
+      "lat": 44.0225,
+      "long": -97.1132
+    },
+    {
+      "name": "Pennington",
+      "lat": 44.1001,
+      "long": -103.5191
+    },
+    {
+      "name": "Perkins",
+      "lat": 45.3705,
+      "long": -102.9602
+    },
+    {
+      "name": "Potter",
+      "lat": 44.4846,
+      "long": -100.3914
+    },
+    {
+      "name": "Roberts",
+      "lat": 45.3036,
+      "long": -97.5885
+    },
+    {
+      "name": "Sanborn",
+      "lat": 44.0997,
+      "long": -97.3341
+    },
+    {
+      "name": "Shannon",
+      "lat": 43.183,
+      "long": -102.7771
+    },
+    {
+      "name": "Spink",
+      "lat": 44.5403,
+      "long": -98.6017
+    },
+    {
+      "name": "Stanley",
+      "lat": 43.3807,
+      "long": -100.4294
+    },
+    {
+      "name": "Sully",
+      "lat": 44.3904,
+      "long": -100.0534
+    },
+    {
+      "name": "Todd",
+      "lat": 43.318,
+      "long": -99.2509
+    },
+    {
+      "name": "Tripp",
+      "lat": 43.2213,
+      "long": -99.4389
+    },
+    {
+      "name": "Turner",
+      "lat": 43.1702,
+      "long": -97.1499
+    },
+    {
+      "name": "Union",
+      "lat": 43.0692,
+      "long": -96.6651
+    },
+    {
+      "name": "Walworth",
+      "lat": 45.4747,
+      "long": -100.349
+    },
+    {
+      "name": "Yankton",
+      "lat": 42.8717,
+      "long": -97.4164
+    },
+    {
+      "name": "Ziebach",
+      "lat": 44.5614,
+      "long": -100.0912
+    }
+  ]
+}

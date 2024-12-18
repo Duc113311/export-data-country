@@ -1,0 +1,866 @@
+[
+  {
+    "code": 0,
+    "city": "Tỉnh Thành",
+    "category": null,
+    "nameCategory": "Kon Tum",
+    "viKeyLanguage": "Kon_Tum",
+    "viNameLanguage": "Kon Tum"
+  },
+  {
+    "code": 1,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Thành_phố_Kon_Tum",
+    "viNameLanguage": "Thành phố Kon Tum"
+  },
+  {
+    "code": 2,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Quang_Trung",
+    "viNameLanguage": "Phường Quang Trung"
+  },
+  {
+    "code": 3,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Duy_Tân",
+    "viNameLanguage": "Phường Duy Tân"
+  },
+  {
+    "code": 4,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Quyết_Thắng",
+    "viNameLanguage": "Phường Quyết Thắng"
+  },
+  {
+    "code": 5,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Trường_Chinh",
+    "viNameLanguage": "Phường Trường Chinh"
+  },
+  {
+    "code": 6,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Thắng_Lợi",
+    "viNameLanguage": "Phường Thắng Lợi"
+  },
+  {
+    "code": 7,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Ngô_Mây",
+    "viNameLanguage": "Phường Ngô Mây"
+  },
+  {
+    "code": 8,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Thống_Nhất",
+    "viNameLanguage": "Phường Thống Nhất"
+  },
+  {
+    "code": 9,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Lê_Lợi",
+    "viNameLanguage": "Phường Lê Lợi"
+  },
+  {
+    "code": 10,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Nguyễn_Trãi",
+    "viNameLanguage": "Phường Nguyễn Trãi"
+  },
+  {
+    "code": 11,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Phường_Trần_Hưng_Đạo",
+    "viNameLanguage": "Phường Trần Hưng Đạo"
+  },
+  {
+    "code": 12,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Đắk_Cấm",
+    "viNameLanguage": "Xã Đắk Cấm"
+  },
+  {
+    "code": 13,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Kroong",
+    "viNameLanguage": "Xã Kroong"
+  },
+  {
+    "code": 14,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Ngọk_Bay",
+    "viNameLanguage": "Xã Ngọk Bay"
+  },
+  {
+    "code": 15,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Vinh_Quang",
+    "viNameLanguage": "Xã Vinh Quang"
+  },
+  {
+    "code": 16,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Đắk_Blà",
+    "viNameLanguage": "Xã Đắk Blà"
+  },
+  {
+    "code": 17,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Ia_Chim",
+    "viNameLanguage": "Xã Ia Chim"
+  },
+  {
+    "code": 18,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Đăk_Năng",
+    "viNameLanguage": "Xã Đăk Năng"
+  },
+  {
+    "code": 19,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Đoàn_Kết",
+    "viNameLanguage": "Xã Đoàn Kết"
+  },
+  {
+    "code": 20,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Chư_Hreng",
+    "viNameLanguage": "Xã Chư Hreng"
+  },
+  {
+    "code": 21,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Đắk_Rơ_Wa",
+    "viNameLanguage": "Xã Đắk Rơ Wa"
+  },
+  {
+    "code": 22,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Kon Tum",
+    "viKeyLanguage": "Xã_Hòa_Bình",
+    "viNameLanguage": "Xã Hòa Bình"
+  },
+  {
+    "code": 23,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Huyện_Đắk_Glei",
+    "viNameLanguage": "Huyện Đắk Glei"
+  },
+  {
+    "code": 24,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Đắk_Blô",
+    "viNameLanguage": "Xã Đắk Blô"
+  },
+  {
+    "code": 25,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Đắk_Man",
+    "viNameLanguage": "Xã Đắk Man"
+  },
+  {
+    "code": 26,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Đắk_Nhoong",
+    "viNameLanguage": "Xã Đắk Nhoong"
+  },
+  {
+    "code": 27,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Đắk_Pék",
+    "viNameLanguage": "Xã Đắk Pék"
+  },
+  {
+    "code": 28,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Đắk_Choong",
+    "viNameLanguage": "Xã Đắk Choong"
+  },
+  {
+    "code": 29,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Xốp",
+    "viNameLanguage": "Xã Xốp"
+  },
+  {
+    "code": 30,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Mường_Hoong",
+    "viNameLanguage": "Xã Mường Hoong"
+  },
+  {
+    "code": 31,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Ngọc_Linh",
+    "viNameLanguage": "Xã Ngọc Linh"
+  },
+  {
+    "code": 32,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Đắk_Long",
+    "viNameLanguage": "Xã Đắk Long"
+  },
+  {
+    "code": 33,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Đắk_KRoong",
+    "viNameLanguage": "Xã Đắk KRoong"
+  },
+  {
+    "code": 34,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Glei",
+    "viKeyLanguage": "Xã_Đắk_Môn",
+    "viNameLanguage": "Xã Đắk Môn"
+  },
+  {
+    "code": 35,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Ngọc Hồi",
+    "viKeyLanguage": "Huyện_Ngọc_Hồi",
+    "viNameLanguage": "Huyện Ngọc Hồi"
+  },
+  {
+    "code": 36,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ngọc Hồi",
+    "viKeyLanguage": "Thị_trấn_Plei_Kần",
+    "viNameLanguage": "Thị trấn Plei Kần"
+  },
+  {
+    "code": 37,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ngọc Hồi",
+    "viKeyLanguage": "Xã_Đắk_Ang",
+    "viNameLanguage": "Xã Đắk Ang"
+  },
+  {
+    "code": 38,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ngọc Hồi",
+    "viKeyLanguage": "Xã_Đắk_Dục",
+    "viNameLanguage": "Xã Đắk Dục"
+  },
+  {
+    "code": 39,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ngọc Hồi",
+    "viKeyLanguage": "Xã_Đắk_Nông",
+    "viNameLanguage": "Xã Đắk Nông"
+  },
+  {
+    "code": 40,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ngọc Hồi",
+    "viKeyLanguage": "Xã_Đắk_Xú",
+    "viNameLanguage": "Xã Đắk Xú"
+  },
+  {
+    "code": 41,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ngọc Hồi",
+    "viKeyLanguage": "Xã_Đắk_Kan",
+    "viNameLanguage": "Xã Đắk Kan"
+  },
+  {
+    "code": 42,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ngọc Hồi",
+    "viKeyLanguage": "Xã_Bờ_Y",
+    "viNameLanguage": "Xã Bờ Y"
+  },
+  {
+    "code": 43,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ngọc Hồi",
+    "viKeyLanguage": "Xã_Sa_Loong",
+    "viNameLanguage": "Xã Sa Loong"
+  },
+  {
+    "code": 44,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Đắk Tô",
+    "viKeyLanguage": "Huyện_Đắk_Tô",
+    "viNameLanguage": "Huyện Đắk Tô"
+  },
+  {
+    "code": 45,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Tô",
+    "viKeyLanguage": "Xã_Đắk_Rơ_Nga",
+    "viNameLanguage": "Xã Đắk Rơ Nga"
+  },
+  {
+    "code": 46,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Tô",
+    "viKeyLanguage": "Xã_Ngọk_Tụ",
+    "viNameLanguage": "Xã Ngọk Tụ"
+  },
+  {
+    "code": 47,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Tô",
+    "viKeyLanguage": "Xã_Đắk_Trăm",
+    "viNameLanguage": "Xã Đắk Trăm"
+  },
+  {
+    "code": 48,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Tô",
+    "viKeyLanguage": "Xã_Văn_Lem",
+    "viNameLanguage": "Xã Văn Lem"
+  },
+  {
+    "code": 49,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Tô",
+    "viKeyLanguage": "Xã_Kon_Đào",
+    "viNameLanguage": "Xã Kon Đào"
+  },
+  {
+    "code": 50,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Tô",
+    "viKeyLanguage": "Xã_Tân_Cảnh",
+    "viNameLanguage": "Xã Tân Cảnh"
+  },
+  {
+    "code": 51,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Tô",
+    "viKeyLanguage": "Xã_Diên_Bình",
+    "viNameLanguage": "Xã Diên Bình"
+  },
+  {
+    "code": 52,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Tô",
+    "viKeyLanguage": "Xã_Pô_Kô",
+    "viNameLanguage": "Xã Pô Kô"
+  },
+  {
+    "code": 53,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Huyện_Kon_Plông",
+    "viNameLanguage": "Huyện Kon Plông"
+  },
+  {
+    "code": 54,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Xã_Đắk_Nên",
+    "viNameLanguage": "Xã Đắk Nên"
+  },
+  {
+    "code": 55,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Xã_Đắk_Ring",
+    "viNameLanguage": "Xã Đắk Ring"
+  },
+  {
+    "code": 56,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Xã_Măng_Buk",
+    "viNameLanguage": "Xã Măng Buk"
+  },
+  {
+    "code": 57,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Xã_Đắk_Tăng",
+    "viNameLanguage": "Xã Đắk Tăng"
+  },
+  {
+    "code": 58,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Xã_Ngok_Tem",
+    "viNameLanguage": "Xã Ngok Tem"
+  },
+  {
+    "code": 59,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Xã_Pờ_Ê",
+    "viNameLanguage": "Xã Pờ Ê"
+  },
+  {
+    "code": 60,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Xã_Măng_Cành",
+    "viNameLanguage": "Xã Măng Cành"
+  },
+  {
+    "code": 61,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Thị_trấn_Măng_Đen",
+    "viNameLanguage": "Thị trấn Măng Đen"
+  },
+  {
+    "code": 62,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Plông",
+    "viKeyLanguage": "Xã_Hiếu",
+    "viNameLanguage": "Xã Hiếu"
+  },
+  {
+    "code": 63,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Kon Rẫy",
+    "viKeyLanguage": "Huyện_Kon_Rẫy",
+    "viNameLanguage": "Huyện Kon Rẫy"
+  },
+  {
+    "code": 64,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Rẫy",
+    "viKeyLanguage": "Thị_trấn_Đắk_Rve",
+    "viNameLanguage": "Thị trấn Đắk Rve"
+  },
+  {
+    "code": 65,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Rẫy",
+    "viKeyLanguage": "Xã_Đắk_Kôi",
+    "viNameLanguage": "Xã Đắk Kôi"
+  },
+  {
+    "code": 66,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Rẫy",
+    "viKeyLanguage": "Xã_Đắk_Tơ_Lung",
+    "viNameLanguage": "Xã Đắk Tơ Lung"
+  },
+  {
+    "code": 67,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Rẫy",
+    "viKeyLanguage": "Xã_Đắk_Ruồng",
+    "viNameLanguage": "Xã Đắk Ruồng"
+  },
+  {
+    "code": 68,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Rẫy",
+    "viKeyLanguage": "Xã_Đắk_Pne",
+    "viNameLanguage": "Xã Đắk Pne"
+  },
+  {
+    "code": 69,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Rẫy",
+    "viKeyLanguage": "Xã_Đắk_Tờ_Re",
+    "viNameLanguage": "Xã Đắk Tờ Re"
+  },
+  {
+    "code": 70,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Kon Rẫy",
+    "viKeyLanguage": "Xã_Tân_Lập",
+    "viNameLanguage": "Xã Tân Lập"
+  },
+  {
+    "code": 71,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Huyện_Đắk_Hà",
+    "viNameLanguage": "Huyện Đắk Hà"
+  },
+  {
+    "code": 72,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Đắk_PXi",
+    "viNameLanguage": "Xã Đắk PXi"
+  },
+  {
+    "code": 73,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Đăk_Long",
+    "viNameLanguage": "Xã Đăk Long"
+  },
+  {
+    "code": 74,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Đắk_HRing",
+    "viNameLanguage": "Xã Đắk HRing"
+  },
+  {
+    "code": 75,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Đắk_Ui",
+    "viNameLanguage": "Xã Đắk Ui"
+  },
+  {
+    "code": 76,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Đăk_Ngọk",
+    "viNameLanguage": "Xã Đăk Ngọk"
+  },
+  {
+    "code": 77,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Đắk_Mar",
+    "viNameLanguage": "Xã Đắk Mar"
+  },
+  {
+    "code": 78,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Ngok_Wang",
+    "viNameLanguage": "Xã Ngok Wang"
+  },
+  {
+    "code": 79,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Ngok_Réo",
+    "viNameLanguage": "Xã Ngok Réo"
+  },
+  {
+    "code": 80,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Hà_Mòn",
+    "viNameLanguage": "Xã Hà Mòn"
+  },
+  {
+    "code": 81,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Đắk Hà",
+    "viKeyLanguage": "Xã_Đắk_La",
+    "viNameLanguage": "Xã Đắk La"
+  },
+  {
+    "code": 82,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Huyện_Sa_Thầy",
+    "viNameLanguage": "Huyện Sa Thầy"
+  },
+  {
+    "code": 83,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Rơ_Kơi",
+    "viNameLanguage": "Xã Rơ Kơi"
+  },
+  {
+    "code": 84,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Sa_Nhơn",
+    "viNameLanguage": "Xã Sa Nhơn"
+  },
+  {
+    "code": 85,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Hơ_Moong",
+    "viNameLanguage": "Xã Hơ Moong"
+  },
+  {
+    "code": 86,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Mô_Rai",
+    "viNameLanguage": "Xã Mô Rai"
+  },
+  {
+    "code": 87,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Sa_Sơn",
+    "viNameLanguage": "Xã Sa Sơn"
+  },
+  {
+    "code": 88,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Sa_Nghĩa",
+    "viNameLanguage": "Xã Sa Nghĩa"
+  },
+  {
+    "code": 89,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Sa_Bình",
+    "viNameLanguage": "Xã Sa Bình"
+  },
+  {
+    "code": 90,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Ya_Xiêr",
+    "viNameLanguage": "Xã Ya Xiêr"
+  },
+  {
+    "code": 91,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Ya_Tăng",
+    "viNameLanguage": "Xã Ya Tăng"
+  },
+  {
+    "code": 92,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Sa Thầy",
+    "viKeyLanguage": "Xã_Ya_ly",
+    "viNameLanguage": "Xã Ya ly"
+  },
+  {
+    "code": 93,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Huyện_Tu_Mơ_Rông",
+    "viNameLanguage": "Huyện Tu Mơ Rông"
+  },
+  {
+    "code": 94,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Ngọc_Lây",
+    "viNameLanguage": "Xã Ngọc Lây"
+  },
+  {
+    "code": 95,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Đắk_Na",
+    "viNameLanguage": "Xã Đắk Na"
+  },
+  {
+    "code": 96,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Măng_Ri",
+    "viNameLanguage": "Xã Măng Ri"
+  },
+  {
+    "code": 97,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Ngọc_Yêu",
+    "viNameLanguage": "Xã Ngọc Yêu"
+  },
+  {
+    "code": 98,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Đắk_Sao",
+    "viNameLanguage": "Xã Đắk Sao"
+  },
+  {
+    "code": 99,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Đắk_Rơ_Ông",
+    "viNameLanguage": "Xã Đắk Rơ Ông"
+  },
+  {
+    "code": 100,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Đắk_Tờ_Kan",
+    "viNameLanguage": "Xã Đắk Tờ Kan"
+  },
+  {
+    "code": 101,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Đắk_Hà",
+    "viNameLanguage": "Xã Đắk Hà"
+  },
+  {
+    "code": 102,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Tê_Xăng",
+    "viNameLanguage": "Xã Tê Xăng"
+  },
+  {
+    "code": 103,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Tu Mơ Rông",
+    "viKeyLanguage": "Xã_Văn_Xuôi",
+    "viNameLanguage": "Xã Văn Xuôi"
+  },
+  {
+    "code": 104,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Ia H' Drai",
+    "viKeyLanguage": "Huyện_Ia_H'_Drai",
+    "viNameLanguage": "Huyện Ia H' Drai"
+  },
+  {
+    "code": 105,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ia H' Drai",
+    "viKeyLanguage": "Xã_Ia_Đal",
+    "viNameLanguage": "Xã Ia Đal"
+  },
+  {
+    "code": 106,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ia H' Drai",
+    "viKeyLanguage": "Xã_Ia_Dom",
+    "viNameLanguage": "Xã Ia Dom"
+  },
+  {
+    "code": 107,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ia H' Drai",
+    "viKeyLanguage": "Xã_Ia_Tơi",
+    "viNameLanguage": "Xã Ia Tơi"
+  }
+]

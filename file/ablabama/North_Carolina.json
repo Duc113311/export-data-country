@@ -1,0 +1,282 @@
+{
+  "nameState": "North Carolina",
+  "lat": 35.7596,
+  "long": -79.0193,
+  "counties": [
+    {
+      "name": "Alamance",
+      "lat": 36.0781,
+      "long": -79.3877
+    },
+    {
+      "name": "Alexander",
+      "lat": 35.7908,
+      "long": -81.1638
+    },
+    {
+      "name": "Alleghany",
+      "lat": 36.5203,
+      "long": -81.4149
+    },
+    {
+      "name": "Anson",
+      "lat": 34.9654,
+      "long": -80.0701
+    },
+    {
+      "name": "Ashe",
+      "lat": 36.3872,
+      "long": -81.5149
+    },
+    {
+      "name": "Avery",
+      "lat": 36.098,
+      "long": -81.8772
+    },
+    {
+      "name": "Beaufort",
+      "lat": 34.8712,
+      "long": -76.6256
+    },
+    {
+      "name": "Bertie",
+      "lat": 36.0724,
+      "long": -77.1816
+    },
+    {
+      "name": "Bladen",
+      "lat": 34.5904,
+      "long": -78.5093
+    },
+    {
+      "name": "Brunswick",
+      "lat": 34.0277,
+      "long": -77.9942
+    },
+    {
+      "name": "Buncombe",
+      "lat": 35.5938,
+      "long": -82.4753
+    },
+    {
+      "name": "Burke",
+      "lat": 35.7438,
+      "long": -81.7357
+    },
+    {
+      "name": "Cabarrus",
+      "lat": 35.4165,
+      "long": -80.5889
+    },
+    {
+      "name": "Caldwell",
+      "lat": 35.9361,
+      "long": -81.5592
+    },
+    {
+      "name": "Camden",
+      "lat": 36.2733,
+      "long": -76.2545
+    },
+    {
+      "name": "Carteret",
+      "lat": 34.7256,
+      "long": -76.5895
+    },
+    {
+      "name": "Caswell",
+      "lat": 36.395,
+      "long": -79.3364
+    },
+    {
+      "name": "Catawba",
+      "lat": 35.7334,
+      "long": -81.2161
+    },
+    {
+      "name": "Chatham",
+      "lat": 35.721,
+      "long": -79.1787
+    },
+    {
+      "name": "Cherokee",
+      "lat": 35.2323,
+      "long": -83.7494
+    },
+    {
+      "name": "Chowan",
+      "lat": 36.0373,
+      "long": -76.6339
+    },
+    {
+      "name": "Clay",
+      "lat": 35.0817,
+      "long": -83.7591
+    },
+    {
+      "name": "Cleveland",
+      "lat": 35.3616,
+      "long": -81.533
+    },
+    {
+      "name": "Columbus",
+      "lat": 34.3343,
+      "long": -78.8136
+    },
+    {
+      "name": "Craven",
+      "lat": 35.1087,
+      "long": -77.1113
+    },
+    {
+      "name": "Cumberland",
+      "lat": 35.0539,
+      "long": -78.647
+    },
+    {
+      "name": "Currituck",
+      "lat": 36.3285,
+      "long": -75.9777
+    },
+    {
+      "name": "Dare",
+      "lat": 35.6036,
+      "long": -75.6994
+    },
+    {
+      "name": "Davidson",
+      "lat": 35.774,
+      "long": -80.268
+    },
+    {
+      "name": "Davie",
+      "lat": 35.9366,
+      "long": -80.5887
+    },
+    {
+      "name": "Duplin",
+      "lat": 34.9821,
+      "long": -77.9733
+    },
+    {
+      "name": "Durham",
+      "lat": 36.0055,
+      "long": -78.9198
+    },
+    {
+      "name": "Edgecombe",
+      "lat": 35.884,
+      "long": -77.6539
+    },
+    {
+      "name": "Forsyth",
+      "lat": 36.1338,
+      "long": -80.2429
+    },
+    {
+      "name": "Franklin",
+      "lat": 36.0738,
+      "long": -78.2429
+    },
+    {
+      "name": "Gaston",
+      "lat": 35.2865,
+      "long": -81.1841
+    },
+    {
+      "name": "Gates",
+      "lat": 36.4752,
+      "long": -76.673
+    },
+    {
+      "name": "Graham",
+      "lat": 35.253,
+      "long": -83.7839
+    },
+    {
+      "name": "Granville",
+      "lat": 36.3034,
+      "long": -78.4759
+    },
+    {
+      "name": "Greene",
+      "lat": 35.6261,
+      "long": -77.5537
+    },
+    {
+      "name": "Guilford",
+      "lat": 36.0367,
+      "long": -79.8054
+    },
+    {
+      "name": "Halifax",
+      "lat": 36.2643,
+      "long": -77.6072
+    },
+    {
+      "name": "Harnett",
+      "lat": 35.3614,
+      "long": -78.69
+    },
+    {
+      "name": "Haywood",
+      "lat": 35.5233,
+      "long": -82.9714
+    },
+    {
+      "name": "Henderson",
+      "lat": 35.3161,
+      "long": -82.457
+    },
+    {
+      "name": "Hertford",
+      "lat": 36.2609,
+      "long": -77.1517
+    },
+    {
+      "name": "Hoke",
+      "lat": 34.8564,
+      "long": -79.2035
+    },
+    {
+      "name": "Hyde",
+      "lat": 35.0327,
+      "long": -76.5845
+    },
+    {
+      "name": "Iredell",
+      "lat": 35.7822,
+      "long": -80.8927
+    },
+    {
+      "name": "Jackson",
+      "lat": 35.3253,
+      "long": -83.3161
+    },
+    {
+      "name": "Johnston",
+      "lat": 35.4404,
+      "long": -78.3848
+    },
+    {
+      "name": "Jones",
+      "lat": 34.9789,
+      "long": -77.3989
+    },
+    {
+      "name": "Lee",
+      "lat": 35.5726,
+      "long": -79.1273
+    },
+    {
+      "name": "Lenoir",
+      "lat": 35.2945,
+      "long": -77.5699
+    },
+    {
+      "name": "Lincoln",
+      "lat": 35.4819,
+      "long": -81.252
+    }
+  ]
+}

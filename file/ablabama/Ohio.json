@@ -1,0 +1,428 @@
+{
+  "nameState": "Ohio",
+  "lat": 40.4173,
+  "long": -82.9071,
+  "counties": [
+    {
+      "name": "Adams",
+      "lat": 38.8214,
+      "long": -83.4641
+    },
+    {
+      "name": "Allen",
+      "lat": 40.7407,
+      "long": -84.1801
+    },
+    {
+      "name": "Ashland",
+      "lat": 40.8676,
+      "long": -82.318
+    },
+    {
+      "name": "Ashtabula",
+      "lat": 41.8654,
+      "long": -80.7866
+    },
+    {
+      "name": "Athens",
+      "lat": 39.32,
+      "long": -82.099
+    },
+    {
+      "name": "Auglaize",
+      "lat": 40.4563,
+      "long": -84.1873
+    },
+    {
+      "name": "Belmont",
+      "lat": 40.0291,
+      "long": -81.0614
+    },
+    {
+      "name": "Brown",
+      "lat": 38.9744,
+      "long": -83.7883
+    },
+    {
+      "name": "Butler",
+      "lat": 39.44,
+      "long": -84.622
+    },
+    {
+      "name": "Carroll",
+      "lat": 40.5809,
+      "long": -81.0745
+    },
+    {
+      "name": "Champaign",
+      "lat": 40.1315,
+      "long": -83.7574
+    },
+    {
+      "name": "Clark",
+      "lat": 39.9243,
+      "long": -83.8048
+    },
+    {
+      "name": "Clermont",
+      "lat": 39.0505,
+      "long": -84.1365
+    },
+    {
+      "name": "Cleveland",
+      "lat": 41.5056,
+      "long": -81.6812
+    },
+    {
+      "name": "Columbiana",
+      "lat": 40.7908,
+      "long": -80.7652
+    },
+    {
+      "name": "Coshocton",
+      "lat": 40.2712,
+      "long": -81.8651
+    },
+    {
+      "name": "Crawford",
+      "lat": 40.7585,
+      "long": -82.7089
+    },
+    {
+      "name": "Cuyahoga",
+      "lat": 41.2197,
+      "long": -81.535
+    },
+    {
+      "name": "Darke",
+      "lat": 39.9512,
+      "long": -84.627
+    },
+    {
+      "name": "Defiance",
+      "lat": 41.2833,
+      "long": -84.3584
+    },
+    {
+      "name": "Delaware",
+      "lat": 40.302,
+      "long": -83.0609
+    },
+    {
+      "name": "Erie",
+      "lat": 41.3516,
+      "long": -82.5673
+    },
+    {
+      "name": "Fairfield",
+      "lat": 39.7687,
+      "long": -82.6225
+    },
+    {
+      "name": "Fayette",
+      "lat": 39.5311,
+      "long": -83.4399
+    },
+    {
+      "name": "Franklin",
+      "lat": 39.9612,
+      "long": -82.9988
+    },
+    {
+      "name": "Geauga",
+      "lat": 41.4171,
+      "long": -81.2358
+    },
+    {
+      "name": "Greene",
+      "lat": 39.5742,
+      "long": -83.8891
+    },
+    {
+      "name": "Guernsey",
+      "lat": 40.0388,
+      "long": -81.4791
+    },
+    {
+      "name": "Hamilton",
+      "lat": 39.104,
+      "long": -84.512
+    },
+    {
+      "name": "Hancock",
+      "lat": 41.05,
+      "long": -83.649
+    },
+    {
+      "name": "Hardin",
+      "lat": 40.6494,
+      "long": -83.611
+    },
+    {
+      "name": "Harrison",
+      "lat": 40.3027,
+      "long": -81.072
+    },
+    {
+      "name": "Henry",
+      "lat": 41.1619,
+      "long": -84.0796
+    },
+    {
+      "name": "Highland",
+      "lat": 39.3305,
+      "long": -83.6117
+    },
+    {
+      "name": "Hocking",
+      "lat": 39.4966,
+      "long": -82.2353
+    },
+    {
+      "name": "Holmes",
+      "lat": 40.5329,
+      "long": -81.8935
+    },
+    {
+      "name": "Huron",
+      "lat": 41.1265,
+      "long": -82.648
+    },
+    {
+      "name": "Jackson",
+      "lat": 39.0803,
+      "long": -82.6035
+    },
+    {
+      "name": "Jefferson",
+      "lat": 40.3395,
+      "long": -80.648
+    },
+    {
+      "name": "Knox",
+      "lat": 40.387,
+      "long": -82.3232
+    },
+    {
+      "name": "Lake",
+      "lat": 41.7225,
+      "long": -81.283
+    },
+    {
+      "name": "Lawrence",
+      "lat": 38.3973,
+      "long": -82.5986
+    },
+    {
+      "name": "Licking",
+      "lat": 40.0753,
+      "long": -82.3893
+    },
+    {
+      "name": "Logan",
+      "lat": 40.3887,
+      "long": -83.756
+    },
+    {
+      "name": "Lorain",
+      "lat": 41.4528,
+      "long": -82.1827
+    },
+    {
+      "name": "Lucas",
+      "lat": 41.6546,
+      "long": -83.54
+    },
+    {
+      "name": "Madison",
+      "lat": 39.8495,
+      "long": -83.4356
+    },
+    {
+      "name": "Mahoning",
+      "lat": 41.0645,
+      "long": -80.6495
+    },
+    {
+      "name": "Marion",
+      "lat": 40.5888,
+      "long": -83.1341
+    },
+    {
+      "name": "Medina",
+      "lat": 41.0807,
+      "long": -81.717
+    },
+    {
+      "name": "Meigs",
+      "lat": 39.0269,
+      "long": -81.8234
+    },
+    {
+      "name": "Monroe",
+      "lat": 39.572,
+      "long": -81.1472
+    },
+    {
+      "name": "Montgomery",
+      "lat": 39.7589,
+      "long": -84.1915
+    },
+    {
+      "name": "Morgan",
+      "lat": 39.5336,
+      "long": -81.8259
+    },
+    {
+      "name": "Morrow",
+      "lat": 40.5321,
+      "long": -82.5366
+    },
+    {
+      "name": "Muskingum",
+      "lat": 39.9475,
+      "long": -81.9534
+    },
+    {
+      "name": "Noble",
+      "lat": 39.7345,
+      "long": -81.4992
+    },
+    {
+      "name": "Ottawa",
+      "lat": 41.5093,
+      "long": -82.8971
+    },
+    {
+      "name": "Paulding",
+      "lat": 41.1402,
+      "long": -84.5827
+    },
+    {
+      "name": "Perry",
+      "lat": 39.7628,
+      "long": -82.2274
+    },
+    {
+      "name": "Pickaway",
+      "lat": 39.3379,
+      "long": -82.9817
+    },
+    {
+      "name": "Pike",
+      "lat": 38.927,
+      "long": -83.027
+    },
+
+    {
+      "name": "Portage",
+      "lat": 41.1578,
+      "long": -81.2396
+    },
+    {
+      "name": "Preble",
+      "lat": 39.7433,
+      "long": -84.6344
+    },
+    {
+      "name": "Putnam",
+      "lat": 41.1374,
+      "long": -84.0375
+    },
+    {
+      "name": "Richland",
+      "lat": 40.7583,
+      "long": -82.5185
+    },
+    {
+      "name": "Ross",
+      "lat": 39.436,
+      "long": -82.9787
+    },
+    {
+      "name": "Sandusky",
+      "lat": 41.2697,
+      "long": -82.6305
+    },
+    {
+      "name": "Scioto",
+      "lat": 38.8892,
+      "long": -82.9932
+    },
+    {
+      "name": "Seneca",
+      "lat": 41.1127,
+      "long": -83.1493
+    },
+    {
+      "name": "Shelby",
+      "lat": 40.3681,
+      "long": -84.2279
+    },
+    {
+      "name": "Stark",
+      "lat": 40.798,
+      "long": -81.3715
+    },
+    {
+      "name": "Summit",
+      "lat": 41.0762,
+      "long": -81.5205
+    },
+    {
+      "name": "Trumbull",
+      "lat": 41.3063,
+      "long": -80.7214
+    },
+    {
+      "name": "Tuscarawas",
+      "lat": 40.3883,
+      "long": -81.535
+    },
+    {
+      "name": "Union",
+      "lat": 40.1065,
+      "long": -83.43
+    },
+    {
+      "name": "Van Wert",
+      "lat": 40.8717,
+      "long": -84.5619
+    },
+    {
+      "name": "Vinton",
+      "lat": 39.1907,
+      "long": -82.4784
+    },
+    {
+      "name": "Warren",
+      "lat": 39.4239,
+      "long": -84.1857
+    },
+    {
+      "name": "Washington",
+      "lat": 39.3585,
+      "long": -81.4406
+    },
+    {
+      "name": "Wayne",
+      "lat": 40.7586,
+      "long": -81.865
+    },
+    {
+      "name": "Williams",
+      "lat": 41.5749,
+      "long": -84.5211
+    },
+    {
+      "name": "Wood",
+      "lat": 41.3712,
+      "long": -83.6332
+    },
+    {
+      "name": "Wyandot",
+      "lat": 40.5857,
+      "long": -83.239
+    }
+  ]
+}

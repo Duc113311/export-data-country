@@ -1,0 +1,172 @@
+{
+  "nameState": "New Mexico",
+  "lat": 34.5199,
+  "long": -105.8701,
+  "counties": [
+    {
+      "name": "Bernalillo",
+      "lat": 35.0841,
+      "long": -106.6504
+    },
+    {
+      "name": "Catron",
+      "lat": 33.5366,
+      "long": -108.2737
+    },
+    {
+      "name": "Chaves",
+      "lat": 33.2936,
+      "long": -104.2437
+    },
+    {
+      "name": "Cibola",
+      "lat": 35.1735,
+      "long": -107.485
+    },
+    {
+      "name": "Colfax",
+      "lat": 36.3331,
+      "long": -104.5144
+    },
+    {
+      "name": "Curry",
+      "lat": 34.5199,
+      "long": -103.3452
+    },
+    {
+      "name": "De Baca",
+      "lat": 34.464,
+      "long": -104.2764
+    },
+    {
+      "name": "Dona Ana",
+      "lat": 32.2552,
+      "long": -106.7717
+    },
+    {
+      "name": "Eddy",
+      "lat": 32.7997,
+      "long": -104.3305
+    },
+    {
+      "name": "Grant",
+      "lat": 32.819,
+      "long": -108.2869
+    },
+    {
+      "name": "Guadalupe",
+      "lat": 34.6033,
+      "long": -105.7151
+    },
+    {
+      "name": "Harding",
+      "lat": 36.4412,
+      "long": -103.5928
+    },
+    {
+      "name": "Hidalgo",
+      "lat": 31.879,
+      "long": -108.7011
+    },
+    {
+      "name": "Lea",
+      "lat": 32.7783,
+      "long": -103.6591
+    },
+    {
+      "name": "Lincoln",
+      "lat": 33.4855,
+      "long": -105.5462
+    },
+    {
+      "name": "Los Alamos",
+      "lat": 35.889,
+      "long": -106.3103
+    },
+    {
+      "name": "Luna",
+      "lat": 32.5882,
+      "long": -108.6693
+    },
+    {
+      "name": "McKinley",
+      "lat": 35.6243,
+      "long": -108.2187
+    },
+    {
+      "name": "Mora",
+      "lat": 36.1979,
+      "long": -105.5397
+    },
+    {
+      "name": "Otero",
+      "lat": 32.9631,
+      "long": -105.647
+    },
+    {
+      "name": "Quay",
+      "lat": 35.0887,
+      "long": -103.591
+    },
+    {
+      "name": "Rio Arriba",
+      "lat": 36.5958,
+      "long": -106.7577
+    },
+    {
+      "name": "Roosevelt",
+      "lat": 34.3126,
+      "long": -103.4261
+    },
+    {
+      "name": "Sandoval",
+      "lat": 35.6349,
+      "long": -106.0657
+    },
+    {
+      "name": "San Juan",
+      "lat": 36.7783,
+      "long": -108.2187
+    },
+    {
+      "name": "San Miguel",
+      "lat": 35.36,
+      "long": -105.5623
+    },
+    {
+      "name": "Santa Fe",
+      "lat": 35.687,
+      "long": -105.9378
+    },
+    {
+      "name": "Sierra",
+      "lat": 33.6442,
+      "long": -107.2446
+    },
+    {
+      "name": "Socorro",
+      "lat": 34.056,
+      "long": -106.9025
+    },
+    {
+      "name": "Taos",
+      "lat": 36.4072,
+      "long": -105.5731
+    },
+    {
+      "name": "Torrance",
+      "lat": 34.7587,
+      "long": -106.0302
+    },
+    {
+      "name": "Union",
+      "lat": 36.7587,
+      "long": -102.4419
+    },
+    {
+      "name": "Valencia",
+      "lat": 34.9061,
+      "long": -106.808
+    }
+  ]
+}

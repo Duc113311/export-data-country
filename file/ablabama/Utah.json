@@ -1,0 +1,147 @@
+{
+  "nameState": "Utah",
+  "lat": 40.1135,
+  "long": -111.863,
+  "counties": [
+    {
+      "name": "Beaver",
+      "lat": 38.3031,
+      "long": -113.5343
+    },
+    {
+      "name": "Box Elder",
+      "lat": 41.7261,
+      "long": -112.2572
+    },
+    {
+      "name": "Cache",
+      "lat": 41.6948,
+      "long": -111.8335
+    },
+    {
+      "name": "Carbon",
+      "lat": 39.5427,
+      "long": -110.5447
+    },
+    {
+      "name": "Daggett",
+      "lat": 40.9624,
+      "long": -109.5346
+    },
+    {
+      "name": "Davis",
+      "lat": 40.9336,
+      "long": -112.0173
+    },
+    {
+      "name": "Emery",
+      "lat": 38.9086,
+      "long": -111.1464
+    },
+    {
+      "name": "Garfield",
+      "lat": 37.666,
+      "long": -112.4594
+    },
+    {
+      "name": "Grand",
+      "lat": 38.7772,
+      "long": -109.4542
+    },
+    {
+      "name": "Iron",
+      "lat": 38.2523,
+      "long": -113.4792
+    },
+    {
+      "name": "Juab",
+      "lat": 39.8584,
+      "long": -112.2237
+    },
+    {
+      "name": "Kane",
+      "lat": 37.2716,
+      "long": -113.0182
+    },
+    {
+      "name": "Millard",
+      "lat": 38.9601,
+      "long": -113.233
+    },
+    {
+      "name": "Morgan",
+      "lat": 41.212,
+      "long": -111.629
+    },
+    {
+      "name": "Piute",
+      "lat": 38.2132,
+      "long": -112.6237
+    },
+    {
+      "name": "Rich",
+      "lat": 41.9974,
+      "long": -111.0523
+    },
+    {
+      "name": "Salt Lake",
+      "lat": 40.6762,
+      "long": -111.8539
+    },
+    {
+      "name": "San Juan",
+      "lat": 37.6463,
+      "long": -109.5225
+    },
+    {
+      "name": "Sanpete",
+      "lat": 39.4211,
+      "long": -111.6342
+    },
+    {
+      "name": "Sevier",
+      "lat": 38.2911,
+      "long": -112.1414
+    },
+    {
+      "name": "Summit",
+      "lat": 40.6631,
+      "long": -111.5524
+    },
+    {
+      "name": "Tooele",
+      "lat": 40.5353,
+      "long": -112.5365
+    },
+    {
+      "name": "Uintah",
+      "lat": 40.1899,
+      "long": -109.5082
+    },
+    {
+      "name": "Utah",
+      "lat": 40.2001,
+      "long": -111.6585
+    },
+    {
+      "name": "Wasatch",
+      "lat": 40.3633,
+      "long": -111.3782
+    },
+    {
+      "name": "Washington",
+      "lat": 37.1811,
+      "long": -113.5685
+    },
+    {
+      "name": "Wayne",
+      "lat": 38.2089,
+      "long": -111.3884
+    },
+    {
+      "name": "Weber",
+      "lat": 41.1606,
+      "long": -112.2672
+    }
+  ]
+}

@@ -1,0 +1,2076 @@
+{
+  "code": 0,
+  "type": "City",
+  "postalCode": "70000",
+  "keyAccentLanguage": "Ho_Chi_Minh",
+  "districtList": [
+    {
+      "code": 1,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 1",
+      "postalCode": "700001",
+      "keyAccentLanguage": "Quan_1",
+      "wards": [
+        {
+          "code": 2,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Định",
+          "keyAccentLanguage": "Phuong_Tan_Đinh"
+        },
+        {
+          "code": 3,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đa Kao",
+          "keyAccentLanguage": "Phuong_Đa_Kao"
+        },
+        {
+          "code": 4,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bến Nghé",
+          "keyAccentLanguage": "Phuong_Ben_Nghe"
+        },
+        {
+          "code": 5,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bến Thành",
+          "keyAccentLanguage": "Phuong_Ben_Thanh"
+        },
+        {
+          "code": 6,
+          "type": "Ward",
+          "viNameLanguage": "Phường Nguyễn Thái Bình",
+          "keyAccentLanguage": "Phuong_Nguyen_Thai_Binh"
+        },
+        {
+          "code": 7,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phạm Ngũ Lão",
+          "keyAccentLanguage": "Phuong_Pham_Ngu_Lao"
+        },
+        {
+          "code": 8,
+          "type": "Ward",
+          "viNameLanguage": "Phường Cầu Ông Lãnh",
+          "keyAccentLanguage": "Phuong_Cau_Ong_Lanh"
+        },
+        {
+          "code": 9,
+          "type": "Ward",
+          "viNameLanguage": "Phường Cô Giang",
+          "keyAccentLanguage": "Phuong_Co_Giang"
+        },
+        {
+          "code": 10,
+          "type": "Ward",
+          "viNameLanguage": "Phường Nguyễn Cư Trinh",
+          "keyAccentLanguage": "Phuong_Nguyen_Cu_Trinh"
+        },
+        {
+          "code": 11,
+          "type": "Ward",
+          "viNameLanguage": "Phường Cầu Kho",
+          "keyAccentLanguage": "Phuong_Cau_Kho"
+        }
+      ]
+    },
+    {
+      "code": 12,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 12",
+      "postalCode": "700002",
+      "keyAccentLanguage": "Quan_12",
+      "wards": [
+        {
+          "code": 13,
+          "type": "Ward",
+          "viNameLanguage": "Phường Thạnh Xuân",
+          "keyAccentLanguage": "Phuong_Thanh_Xuan"
+        },
+        {
+          "code": 14,
+          "type": "Ward",
+          "viNameLanguage": "Phường Thạnh Lộc",
+          "keyAccentLanguage": "Phuong_Thanh_Loc"
+        },
+        {
+          "code": 15,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hiệp Thành",
+          "keyAccentLanguage": "Phuong_Hiep_Thanh"
+        },
+        {
+          "code": 16,
+          "type": "Ward",
+          "viNameLanguage": "Phường Thới An",
+          "keyAccentLanguage": "Phuong_Thoi_An"
+        },
+        {
+          "code": 17,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Chánh Hiệp",
+          "keyAccentLanguage": "Phuong_Tan_Chanh_Hiep"
+        },
+        {
+          "code": 18,
+          "type": "Ward",
+          "viNameLanguage": "Phường An Phú Đông",
+          "keyAccentLanguage": "Phuong_An_Phu_Đong"
+        },
+        {
+          "code": 19,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Thới Hiệp",
+          "keyAccentLanguage": "Phuong_Tan_Thoi_Hiep"
+        },
+        {
+          "code": 20,
+          "type": "Ward",
+          "viNameLanguage": "Phường Trung Mỹ Tây",
+          "keyAccentLanguage": "Phuong_Trung_My_Tay"
+        },
+        {
+          "code": 21,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Hưng Thuận",
+          "keyAccentLanguage": "Phuong_Tan_Hung_Thuan"
+        },
+        {
+          "code": 22,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đông Hưng Thuận",
+          "keyAccentLanguage": "Phuong_Đong_Hung_Thuan"
+        },
+        {
+          "code": 23,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Thới Nhất",
+          "keyAccentLanguage": "Phuong_Tan_Thoi_Nhat"
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận Gò Vấp",
+      "postalCode": "700003",
+      "keyAccentLanguage": "Quan_Go_Vap",
+      "wards": [
+        {
+          "code": 25,
+          "type": "Ward",
+          "viNameLanguage": "Phường 15",
+          "keyAccentLanguage": "Phuong_15"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        },
+        {
+          "code": 27,
+          "type": "Ward",
+          "viNameLanguage": "Phường 17",
+          "keyAccentLanguage": "Phuong_17"
+        },
+        {
+          "code": 28,
+          "type": "Ward",
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        },
+        {
+          "code": 29,
+          "type": "Ward",
+          "viNameLanguage": "Phường 16",
+          "keyAccentLanguage": "Phuong_16"
+        },
+        {
+          "code": 30,
+          "type": "Ward",
+          "viNameLanguage": "Phường 12",
+          "keyAccentLanguage": "Phuong_12"
+        },
+        {
+          "code": 31,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 32,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        },
+        {
+          "code": 33,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 34,
+          "type": "Ward",
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        },
+        {
+          "code": 35,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 36,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 37,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 38,
+          "type": "Ward",
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 39,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 40,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        }
+      ]
+    },
+    {
+      "code": 41,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận Bình Thạnh",
+      "postalCode": "700004",
+      "keyAccentLanguage": "Quan_Binh_Thanh",
+      "wards": [
+        {
+          "code": 42,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        },
+        {
+          "code": 43,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 44,
+          "type": "Ward",
+          "viNameLanguage": "Phường 27",
+          "keyAccentLanguage": "Phuong_27"
+        },
+        {
+          "code": 45,
+          "type": "Ward",
+          "viNameLanguage": "Phường 26",
+          "keyAccentLanguage": "Phuong_26"
+        },
+        {
+          "code": 46,
+          "type": "Ward",
+          "viNameLanguage": "Phường 12",
+          "keyAccentLanguage": "Phuong_12"
+        },
+        {
+          "code": 47,
+          "type": "Ward",
+          "viNameLanguage": "Phường 25",
+          "keyAccentLanguage": "Phuong_25"
+        },
+        {
+          "code": 48,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 49,
+          "type": "Ward",
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        },
+        {
+          "code": 50,
+          "type": "Ward",
+          "viNameLanguage": "Phường 24",
+          "keyAccentLanguage": "Phuong_24"
+        },
+        {
+          "code": 51,
+          "type": "Ward",
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        },
+        {
+          "code": 52,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 53,
+          "type": "Ward",
+          "viNameLanguage": "Phường 15",
+          "keyAccentLanguage": "Phuong_15"
+        },
+        {
+          "code": 54,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 55,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 56,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 57,
+          "type": "Ward",
+          "viNameLanguage": "Phường 17",
+          "keyAccentLanguage": "Phuong_17"
+        },
+        {
+          "code": 58,
+          "type": "Ward",
+          "viNameLanguage": "Phường 21",
+          "keyAccentLanguage": "Phuong_21"
+        },
+        {
+          "code": 59,
+          "type": "Ward",
+          "viNameLanguage": "Phường 22",
+          "keyAccentLanguage": "Phuong_22"
+        },
+        {
+          "code": 60,
+          "type": "Ward",
+          "viNameLanguage": "Phường 19",
+          "keyAccentLanguage": "Phuong_19"
+        },
+        {
+          "code": 61,
+          "type": "Ward",
+          "viNameLanguage": "Phường 28",
+          "keyAccentLanguage": "Phuong_28"
+        }
+      ]
+    },
+    {
+      "code": 62,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận Tân Bình",
+      "postalCode": "700005",
+      "keyAccentLanguage": "Quan_Tan_Binh",
+      "wards": [
+        {
+          "code": 63,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 64,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 65,
+          "type": "Ward",
+          "viNameLanguage": "Phường 12",
+          "keyAccentLanguage": "Phuong_12"
+        },
+        {
+          "code": 66,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        },
+        {
+          "code": 67,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 68,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 69,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 70,
+          "type": "Ward",
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        },
+        {
+          "code": 71,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 72,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        },
+        {
+          "code": 73,
+          "type": "Ward",
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        },
+        {
+          "code": 74,
+          "type": "Ward",
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 75,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 76,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 77,
+          "type": "Ward",
+          "viNameLanguage": "Phường 15",
+          "keyAccentLanguage": "Phuong_15"
+        }
+      ]
+    },
+    {
+      "code": 78,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận Tân Phú",
+      "postalCode": "700006",
+      "keyAccentLanguage": "Quan_Tan_Phu",
+      "wards": [
+        {
+          "code": 79,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Sơn Nhì",
+          "keyAccentLanguage": "Phuong_Tan_Son_Nhi"
+        },
+        {
+          "code": 80,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tây Thạnh",
+          "keyAccentLanguage": "Phuong_Tay_Thanh"
+        },
+        {
+          "code": 81,
+          "type": "Ward",
+          "viNameLanguage": "Phường Sơn Kỳ",
+          "keyAccentLanguage": "Phuong_Son_Ky"
+        },
+        {
+          "code": 82,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Quý",
+          "keyAccentLanguage": "Phuong_Tan_Quy"
+        },
+        {
+          "code": 83,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Thành",
+          "keyAccentLanguage": "Phuong_Tan_Thanh"
+        },
+        {
+          "code": 84,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Thọ Hòa",
+          "keyAccentLanguage": "Phuong_Phu_Tho_Hoa"
+        },
+        {
+          "code": 85,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Thạnh",
+          "keyAccentLanguage": "Phuong_Phu_Thanh"
+        },
+        {
+          "code": 86,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Trung",
+          "keyAccentLanguage": "Phuong_Phu_Trung"
+        },
+        {
+          "code": 87,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hòa Thạnh",
+          "keyAccentLanguage": "Phuong_Hoa_Thanh"
+        },
+        {
+          "code": 88,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hiệp Tân",
+          "keyAccentLanguage": "Phuong_Hiep_Tan"
+        },
+        {
+          "code": 89,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Thới Hòa",
+          "keyAccentLanguage": "Phuong_Tan_Thoi_Hoa"
+        }
+      ]
+    },
+    {
+      "code": 90,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận Phú Nhuận",
+      "postalCode": "700007",
+      "keyAccentLanguage": "Quan_Phu_Nhuan",
+      "wards": [
+        {
+          "code": 91,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 92,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 93,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 94,
+          "type": "Ward",
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        },
+        {
+          "code": 95,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 96,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 97,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 98,
+          "type": "Ward",
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 99,
+          "type": "Ward",
+          "viNameLanguage": "Phường 15",
+          "keyAccentLanguage": "Phuong_15"
+        },
+        {
+          "code": 100,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        },
+        {
+          "code": 101,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 102,
+          "type": "Ward",
+          "viNameLanguage": "Phường 17",
+          "keyAccentLanguage": "Phuong_17"
+        },
+        {
+          "code": 103,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        }
+      ]
+    },
+    {
+      "code": 104,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Thủ Đức",
+      "postalCode": "700008",
+      "keyAccentLanguage": "Thanh_pho_Thu_Đuc",
+      "wards": [
+        {
+          "code": 105,
+          "type": "Ward",
+          "viNameLanguage": "Phường Linh Xuân",
+          "keyAccentLanguage": "Phuong_Linh_Xuan"
+        },
+        {
+          "code": 106,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Chiểu",
+          "keyAccentLanguage": "Phuong_Binh_Chieu"
+        },
+        {
+          "code": 107,
+          "type": "Ward",
+          "viNameLanguage": "Phường Linh Trung",
+          "keyAccentLanguage": "Phuong_Linh_Trung"
+        },
+        {
+          "code": 108,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tam Bình",
+          "keyAccentLanguage": "Phuong_Tam_Binh"
+        },
+        {
+          "code": 109,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tam Phú",
+          "keyAccentLanguage": "Phuong_Tam_Phu"
+        },
+        {
+          "code": 110,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hiệp Bình Phước",
+          "keyAccentLanguage": "Phuong_Hiep_Binh_Phuoc"
+        },
+        {
+          "code": 111,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hiệp Bình Chánh",
+          "keyAccentLanguage": "Phuong_Hiep_Binh_Chanh"
+        },
+        {
+          "code": 112,
+          "type": "Ward",
+          "viNameLanguage": "Phường Linh Chiểu",
+          "keyAccentLanguage": "Phuong_Linh_Chieu"
+        },
+        {
+          "code": 113,
+          "type": "Ward",
+          "viNameLanguage": "Phường Linh Tây",
+          "keyAccentLanguage": "Phuong_Linh_Tay"
+        },
+        {
+          "code": 114,
+          "type": "Ward",
+          "viNameLanguage": "Phường Linh Đông",
+          "keyAccentLanguage": "Phuong_Linh_Đong"
+        },
+        {
+          "code": 115,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Thọ",
+          "keyAccentLanguage": "Phuong_Binh_Tho"
+        },
+        {
+          "code": 116,
+          "type": "Ward",
+          "viNameLanguage": "Phường Trường Thọ",
+          "keyAccentLanguage": "Phuong_Truong_Tho"
+        },
+        {
+          "code": 117,
+          "type": "Ward",
+          "viNameLanguage": "Phường Long Bình",
+          "keyAccentLanguage": "Phuong_Long_Binh"
+        },
+        {
+          "code": 118,
+          "type": "Ward",
+          "viNameLanguage": "Phường Long Thạnh Mỹ",
+          "keyAccentLanguage": "Phuong_Long_Thanh_My"
+        },
+        {
+          "code": 119,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Phú",
+          "keyAccentLanguage": "Phuong_Tan_Phu"
+        },
+        {
+          "code": 120,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hiệp Phú",
+          "keyAccentLanguage": "Phuong_Hiep_Phu"
+        },
+        {
+          "code": 121,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tăng Nhơn Phú A",
+          "keyAccentLanguage": "Phuong_Tang_Nhon_Phu_A"
+        },
+        {
+          "code": 122,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tăng Nhơn Phú B",
+          "keyAccentLanguage": "Phuong_Tang_Nhon_Phu_B"
+        },
+        {
+          "code": 123,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phước Long B",
+          "keyAccentLanguage": "Phuong_Phuoc_Long_B"
+        },
+        {
+          "code": 124,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phước Long A",
+          "keyAccentLanguage": "Phuong_Phuoc_Long_A"
+        },
+        {
+          "code": 125,
+          "type": "Ward",
+          "viNameLanguage": "Phường Trường Thạnh",
+          "keyAccentLanguage": "Phuong_Truong_Thanh"
+        },
+        {
+          "code": 126,
+          "type": "Ward",
+          "viNameLanguage": "Phường Long Phước",
+          "keyAccentLanguage": "Phuong_Long_Phuoc"
+        },
+        {
+          "code": 127,
+          "type": "Ward",
+          "viNameLanguage": "Phường Long Trường",
+          "keyAccentLanguage": "Phuong_Long_Truong"
+        },
+        {
+          "code": 128,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phước Bình",
+          "keyAccentLanguage": "Phuong_Phuoc_Binh"
+        },
+        {
+          "code": 129,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Hữu",
+          "keyAccentLanguage": "Phuong_Phu_Huu"
+        },
+        {
+          "code": 130,
+          "type": "Ward",
+          "viNameLanguage": "Phường Thảo Điền",
+          "keyAccentLanguage": "Phuong_Thao_Đien"
+        },
+        {
+          "code": 131,
+          "type": "Ward",
+          "viNameLanguage": "Phường An Phú",
+          "keyAccentLanguage": "Phuong_An_Phu"
+        },
+        {
+          "code": 132,
+          "type": "Ward",
+          "viNameLanguage": "Phường An Khánh",
+          "keyAccentLanguage": "Phuong_An_Khanh"
+        },
+        {
+          "code": 133,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Trưng Đông",
+          "keyAccentLanguage": "Phuong_Binh_Trung_Đong"
+        },
+        {
+          "code": 134,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Trưng Tây",
+          "keyAccentLanguage": "Phuong_Binh_Trung_Tay"
+        },
+        {
+          "code": 135,
+          "type": "Ward",
+          "viNameLanguage": "Phường Cát Lái",
+          "keyAccentLanguage": "Phuong_Cat_Lai"
+        },
+        {
+          "code": 136,
+          "type": "Ward",
+          "viNameLanguage": "Phường Thạnh Mỹ Lợi",
+          "keyAccentLanguage": "Phuong_Thanh_My_Loi"
+        },
+        {
+          "code": 137,
+          "type": "Ward",
+          "viNameLanguage": "Phường An Lợi Đông",
+          "keyAccentLanguage": "Phuong_An_Loi_Đong"
+        },
+        {
+          "code": 138,
+          "type": "Ward",
+          "viNameLanguage": "Phường Thủ Thiêm",
+          "keyAccentLanguage": "Phuong_Thu_Thiem"
+        }
+      ]
+    },
+    {
+      "code": 139,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 3",
+      "postalCode": "700009",
+      "keyAccentLanguage": "Quan_3",
+      "wards": [
+        {
+          "code": 140,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 141,
+          "type": "Ward",
+          "viNameLanguage": "Phường 12",
+          "keyAccentLanguage": "Phuong_12"
+        },
+        {
+          "code": 142,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 143,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        },
+        {
+          "code": 144,
+          "type": "Ward",
+          "viNameLanguage": "Phường Võ Thị Sáu",
+          "keyAccentLanguage": "Phuong_Vo_Thi_Sau"
+        },
+        {
+          "code": 145,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 146,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        },
+        {
+          "code": 147,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 148,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 149,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 150,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 151,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        }
+      ]
+    },
+    {
+      "code": 152,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 10",
+      "postalCode": "7000010",
+      "keyAccentLanguage": "Quan_10",
+      "wards": [
+        {
+          "code": 153,
+          "type": "Ward",
+          "viNameLanguage": "Phường 15",
+          "keyAccentLanguage": "Phuong_15"
+        },
+        {
+          "code": 154,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        },
+        {
+          "code": 155,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 156,
+          "type": "Ward",
+          "viNameLanguage": "Phường 12",
+          "keyAccentLanguage": "Phuong_12"
+        },
+        {
+          "code": 157,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 158,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        },
+        {
+          "code": 159,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 160,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 161,
+          "type": "Ward",
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 162,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 163,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 164,
+          "type": "Ward",
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        },
+        {
+          "code": 165,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 166,
+          "type": "Ward",
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        }
+      ]
+    },
+    {
+      "code": 167,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 11",
+      "postalCode": "7000011",
+      "keyAccentLanguage": "Quan_11",
+      "wards": [
+        {
+          "code": 168,
+          "type": "Ward",
+          "viNameLanguage": "Phường 15",
+          "keyAccentLanguage": "Phuong_15"
+        },
+        {
+          "code": 169,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 170,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 171,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 172,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 173,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        },
+        {
+          "code": 174,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        },
+        {
+          "code": 175,
+          "type": "Ward",
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 176,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 177,
+          "type": "Ward",
+          "viNameLanguage": "Phường 12",
+          "keyAccentLanguage": "Phuong_12"
+        },
+        {
+          "code": 178,
+          "type": "Ward",
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        },
+        {
+          "code": 179,
+          "type": "Ward",
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        },
+        {
+          "code": 180,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 181,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 182,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 183,
+          "type": "Ward",
+          "viNameLanguage": "Phường 16",
+          "keyAccentLanguage": "Phuong_16"
+        }
+      ]
+    },
+    {
+      "code": 184,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 4",
+      "postalCode": "7000012",
+      "keyAccentLanguage": "Quan_4",
+      "wards": [
+        {
+          "code": 185,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        },
+        {
+          "code": 186,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 187,
+          "type": "Ward",
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        },
+        {
+          "code": 188,
+          "type": "Ward",
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 189,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        },
+        {
+          "code": 190,
+          "type": "Ward",
+          "viNameLanguage": "Phường 18",
+          "keyAccentLanguage": "Phuong_18"
+        },
+        {
+          "code": 191,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 192,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 193,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 194,
+          "type": "Ward",
+          "viNameLanguage": "Phường 16",
+          "keyAccentLanguage": "Phuong_16"
+        },
+        {
+          "code": 195,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 196,
+          "type": "Ward",
+          "viNameLanguage": "Phường 15",
+          "keyAccentLanguage": "Phuong_15"
+        },
+        {
+          "code": 197,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        }
+      ]
+    },
+    {
+      "code": 198,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 5",
+      "postalCode": "7000013",
+      "keyAccentLanguage": "Quan_5",
+      "wards": [
+        {
+          "code": 199,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 200,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 201,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 202,
+          "type": "Ward",
+          "viNameLanguage": "Phường 12",
+          "keyAccentLanguage": "Phuong_12"
+        },
+        {
+          "code": 203,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 204,
+          "type": "Ward",
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 205,
+          "type": "Ward",
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        },
+        {
+          "code": 206,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 207,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 208,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 209,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 210,
+          "type": "Ward",
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        },
+        {
+          "code": 211,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        },
+        {
+          "code": 212,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        }
+      ]
+    },
+    {
+      "code": 213,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 6",
+      "postalCode": "7000014",
+      "keyAccentLanguage": "Quan_6",
+      "wards": [
+        {
+          "code": 214,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 215,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        },
+        {
+          "code": 216,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 217,
+          "type": "Ward",
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        },
+        {
+          "code": 218,
+          "type": "Ward",
+          "viNameLanguage": "Phường 12",
+          "keyAccentLanguage": "Phuong_12"
+        },
+        {
+          "code": 219,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 220,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 221,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 222,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 223,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 224,
+          "type": "Ward",
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 225,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 226,
+          "type": "Ward",
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        },
+        {
+          "code": 227,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        }
+      ]
+    },
+    {
+      "code": 228,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 8",
+      "postalCode": "7000015",
+      "keyAccentLanguage": "Quan_8",
+      "wards": [
+        {
+          "code": 229,
+          "type": "Ward",
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 230,
+          "type": "Ward",
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 231,
+          "type": "Ward",
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 232,
+          "type": "Ward",
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 233,
+          "type": "Ward",
+          "viNameLanguage": "Phường 11",
+          "keyAccentLanguage": "Phuong_11"
+        },
+        {
+          "code": 234,
+          "type": "Ward",
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 235,
+          "type": "Ward",
+          "viNameLanguage": "Phường 10",
+          "keyAccentLanguage": "Phuong_10"
+        },
+        {
+          "code": 236,
+          "type": "Ward",
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 237,
+          "type": "Ward",
+          "viNameLanguage": "Phường 13",
+          "keyAccentLanguage": "Phuong_13"
+        },
+        {
+          "code": 238,
+          "type": "Ward",
+          "viNameLanguage": "Phường 12",
+          "keyAccentLanguage": "Phuong_12"
+        },
+        {
+          "code": 239,
+          "type": "Ward",
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 240,
+          "type": "Ward",
+          "viNameLanguage": "Phường 14",
+          "keyAccentLanguage": "Phuong_14"
+        },
+        {
+          "code": 241,
+          "type": "Ward",
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        },
+        {
+          "code": 242,
+          "type": "Ward",
+          "viNameLanguage": "Phường 15",
+          "keyAccentLanguage": "Phuong_15"
+        },
+        {
+          "code": 243,
+          "type": "Ward",
+          "viNameLanguage": "Phường 16",
+          "keyAccentLanguage": "Phuong_16"
+        },
+        {
+          "code": 244,
+          "type": "Ward",
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        }
+      ]
+    },
+    {
+      "code": 245,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận Bình Tân",
+      "postalCode": "7000016",
+      "keyAccentLanguage": "Quan_Binh_Tan",
+      "wards": [
+        {
+          "code": 246,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Hưng Hòa",
+          "keyAccentLanguage": "Phuong_Binh_Hung_Hoa"
+        },
+        {
+          "code": 247,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Hưng Hoà A",
+          "keyAccentLanguage": "Phuong_Binh_Hung_Hoa_A"
+        },
+        {
+          "code": 248,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Hưng Hoà B",
+          "keyAccentLanguage": "Phuong_Binh_Hung_Hoa_B"
+        },
+        {
+          "code": 249,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Trị Đông",
+          "keyAccentLanguage": "Phuong_Binh_Tri_Đong"
+        },
+        {
+          "code": 250,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Trị Đông A",
+          "keyAccentLanguage": "Phuong_Binh_Tri_Đong_A"
+        },
+        {
+          "code": 251,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Trị Đông B",
+          "keyAccentLanguage": "Phuong_Binh_Tri_Đong_B"
+        },
+        {
+          "code": 252,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Tạo",
+          "keyAccentLanguage": "Phuong_Tan_Tao"
+        },
+        {
+          "code": 253,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Tạo A",
+          "keyAccentLanguage": "Phuong_Tan_Tao_A"
+        },
+        {
+          "code": 254,
+          "type": "Ward",
+          "viNameLanguage": "Phường An Lạc",
+          "keyAccentLanguage": "Phuong_An_Lac"
+        },
+        {
+          "code": 255,
+          "type": "Ward",
+          "viNameLanguage": "Phường An Lạc A",
+          "keyAccentLanguage": "Phuong_An_Lac_A"
+        }
+      ]
+    },
+    {
+      "code": 256,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Quận 7",
+      "postalCode": "7000017",
+      "keyAccentLanguage": "Quan_7",
+      "wards": [
+        {
+          "code": 257,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Thuận Đông",
+          "keyAccentLanguage": "Phuong_Tan_Thuan_Đong"
+        },
+        {
+          "code": 258,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Thuận Tây",
+          "keyAccentLanguage": "Phuong_Tan_Thuan_Tay"
+        },
+        {
+          "code": 259,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Kiểng",
+          "keyAccentLanguage": "Phuong_Tan_Kieng"
+        },
+        {
+          "code": 260,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Hưng",
+          "keyAccentLanguage": "Phuong_Tan_Hung"
+        },
+        {
+          "code": 261,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Thuận",
+          "keyAccentLanguage": "Phuong_Binh_Thuan"
+        },
+        {
+          "code": 262,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Quy",
+          "keyAccentLanguage": "Phuong_Tan_Quy"
+        },
+        {
+          "code": 263,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Thuận",
+          "keyAccentLanguage": "Phuong_Phu_Thuan"
+        },
+        {
+          "code": 264,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Phú",
+          "keyAccentLanguage": "Phuong_Tan_Phu"
+        },
+        {
+          "code": 265,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Phong",
+          "keyAccentLanguage": "Phuong_Tan_Phong"
+        },
+        {
+          "code": 266,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Mỹ",
+          "keyAccentLanguage": "Phuong_Phu_My"
+        }
+      ]
+    },
+    {
+      "code": 267,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Củ Chi",
+      "postalCode": "7000018",
+      "keyAccentLanguage": "Huyen_Cu_Chi",
+      "wards": [
+        {
+          "code": 268,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Mỹ Hưng",
+          "keyAccentLanguage": "Xa_Phu_My_Hung"
+        },
+        {
+          "code": 269,
+          "type": "Commune",
+          "viNameLanguage": "Xã An Phú",
+          "keyAccentLanguage": "Xa_An_Phu"
+        },
+        {
+          "code": 270,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Lập Thượng",
+          "keyAccentLanguage": "Xa_Trung_Lap_Thuong"
+        },
+        {
+          "code": 271,
+          "type": "Commune",
+          "viNameLanguage": "Xã An Nhơn Tây",
+          "keyAccentLanguage": "Xa_An_Nhon_Tay"
+        },
+        {
+          "code": 272,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nhuận Đức",
+          "keyAccentLanguage": "Xa_Nhuan_Đuc"
+        },
+        {
+          "code": 273,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phạm Văn Cội",
+          "keyAccentLanguage": "Xa_Pham_Van_Coi"
+        },
+        {
+          "code": 274,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Hòa Đông",
+          "keyAccentLanguage": "Xa_Phu_Hoa_Đong"
+        },
+        {
+          "code": 275,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Lập Hạ",
+          "keyAccentLanguage": "Xa_Trung_Lap_Ha"
+        },
+        {
+          "code": 276,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung An",
+          "keyAccentLanguage": "Xa_Trung_An"
+        },
+        {
+          "code": 277,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phước Thạnh",
+          "keyAccentLanguage": "Xa_Phuoc_Thanh"
+        },
+        {
+          "code": 278,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phước Hiệp",
+          "keyAccentLanguage": "Xa_Phuoc_Hiep"
+        },
+        {
+          "code": 279,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân An Hội",
+          "keyAccentLanguage": "Xa_Tan_An_Hoi"
+        },
+        {
+          "code": 280,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phước Vĩnh An",
+          "keyAccentLanguage": "Xa_Phuoc_Vinh_An"
+        },
+        {
+          "code": 281,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thái Mỹ",
+          "keyAccentLanguage": "Xa_Thai_My"
+        },
+        {
+          "code": 282,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Thạnh Tây",
+          "keyAccentLanguage": "Xa_Tan_Thanh_Tay"
+        },
+        {
+          "code": 283,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hòa Phú",
+          "keyAccentLanguage": "Xa_Hoa_Phu"
+        },
+        {
+          "code": 284,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Thạnh Đông",
+          "keyAccentLanguage": "Xa_Tan_Thanh_Đong"
+        },
+        {
+          "code": 285,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bình Mỹ",
+          "keyAccentLanguage": "Xa_Binh_My"
+        },
+        {
+          "code": 286,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Phú Trung",
+          "keyAccentLanguage": "Xa_Tan_Phu_Trung"
+        },
+        {
+          "code": 287,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Thông Hội",
+          "keyAccentLanguage": "Xa_Tan_Thong_Hoi"
+        }
+      ]
+    },
+    {
+      "code": 288,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Hóc Môn",
+      "postalCode": "7000019",
+      "keyAccentLanguage": "Huyen_Hoc_Mon",
+      "wards": [
+        {
+          "code": 289,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Hiệp",
+          "keyAccentLanguage": "Xa_Tan_Hiep"
+        },
+        {
+          "code": 290,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nhị Bình",
+          "keyAccentLanguage": "Xa_Nhi_Binh"
+        },
+        {
+          "code": 291,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Thạnh",
+          "keyAccentLanguage": "Xa_Đong_Thanh"
+        },
+        {
+          "code": 292,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Thới Nhì",
+          "keyAccentLanguage": "Xa_Tan_Thoi_Nhi"
+        },
+        {
+          "code": 293,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thới Tam Thôn",
+          "keyAccentLanguage": "Xa_Thoi_Tam_Thon"
+        },
+        {
+          "code": 294,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Thới Sơn",
+          "keyAccentLanguage": "Xa_Xuan_Thoi_Son"
+        },
+        {
+          "code": 295,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Xuân",
+          "keyAccentLanguage": "Xa_Tan_Xuan"
+        },
+        {
+          "code": 296,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Thới Đông",
+          "keyAccentLanguage": "Xa_Xuan_Thoi_Đong"
+        },
+        {
+          "code": 297,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Chánh",
+          "keyAccentLanguage": "Xa_Trung_Chanh"
+        },
+        {
+          "code": 298,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Thới Thượng",
+          "keyAccentLanguage": "Xa_Xuan_Thoi_Thuong"
+        },
+        {
+          "code": 299,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bà Điểm",
+          "keyAccentLanguage": "Xa_Ba_Điem"
+        }
+      ]
+    },
+    {
+      "code": 300,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Bình Chánh",
+      "postalCode": "7000020",
+      "keyAccentLanguage": "Huyen_Binh_Chanh",
+      "wards": [
+        {
+          "code": 301,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Tân Túc",
+          "keyAccentLanguage": "Thi_tran_Tan_Tuc"
+        },
+        {
+          "code": 302,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phạm Văn Hai",
+          "keyAccentLanguage": "Xa_Pham_Van_Hai"
+        },
+        {
+          "code": 303,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Lộc A",
+          "keyAccentLanguage": "Xa_Vinh_Loc_A"
+        },
+        {
+          "code": 304,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Lộc B",
+          "keyAccentLanguage": "Xa_Vinh_Loc_B"
+        },
+        {
+          "code": 305,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bình Lợi",
+          "keyAccentLanguage": "Xa_Binh_Loi"
+        },
+        {
+          "code": 306,
+          "type": "Commune",
+          "viNameLanguage": "Xã Lê Minh Xuân",
+          "keyAccentLanguage": "Xa_Le_Minh_Xuan"
+        },
+        {
+          "code": 307,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Nhựt",
+          "keyAccentLanguage": "Xa_Tan_Nhut"
+        },
+        {
+          "code": 308,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Kiên",
+          "keyAccentLanguage": "Xa_Tan_Kien"
+        },
+        {
+          "code": 309,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bình Hưng",
+          "keyAccentLanguage": "Xa_Binh_Hung"
+        },
+        {
+          "code": 310,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phong Phú",
+          "keyAccentLanguage": "Xa_Phong_Phu"
+        },
+        {
+          "code": 311,
+          "type": "Commune",
+          "viNameLanguage": "Xã An Phú Tây",
+          "keyAccentLanguage": "Xa_An_Phu_Tay"
+        },
+        {
+          "code": 312,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hưng Long",
+          "keyAccentLanguage": "Xa_Hung_Long"
+        },
+        {
+          "code": 313,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đa Phước",
+          "keyAccentLanguage": "Xa_Đa_Phuoc"
+        },
+        {
+          "code": 314,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Quý Tây",
+          "keyAccentLanguage": "Xa_Tan_Quy_Tay"
+        },
+        {
+          "code": 315,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quy Đức",
+          "keyAccentLanguage": "Xa_Quy_Đuc"
+        }
+      ]
+    },
+    {
+      "code": 316,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Nhà Bè",
+      "postalCode": "7000021",
+      "keyAccentLanguage": "Huyen_Nha_Be",
+      "wards": [
+        {
+          "code": 317,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phước Kiển",
+          "keyAccentLanguage": "Xa_Phuoc_Kien"
+        },
+        {
+          "code": 318,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phước Lộc",
+          "keyAccentLanguage": "Xa_Phuoc_Loc"
+        },
+        {
+          "code": 319,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nhơn Đức",
+          "keyAccentLanguage": "Xa_Nhon_Đuc"
+        },
+        {
+          "code": 320,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Xuân",
+          "keyAccentLanguage": "Xa_Phu_Xuan"
+        },
+        {
+          "code": 321,
+          "type": "Commune",
+          "viNameLanguage": "Xã Long Thới",
+          "keyAccentLanguage": "Xa_Long_Thoi"
+        },
+        {
+          "code": 322,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hiệp Phước",
+          "keyAccentLanguage": "Xa_Hiep_Phuoc"
+        }
+      ]
+    },
+    {
+      "code": 323,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Cần Giờ",
+      "postalCode": "7000022",
+      "keyAccentLanguage": "Huyen_Can_Gio",
+      "wards": [
+        {
+          "code": 324,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Cần Thạnh",
+          "keyAccentLanguage": "Thi_tran_Can_Thanh"
+        },
+        {
+          "code": 325,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bình Khánh",
+          "keyAccentLanguage": "Xa_Binh_Khanh"
+        },
+        {
+          "code": 326,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tam Thôn Hiệp",
+          "keyAccentLanguage": "Xa_Tam_Thon_Hiep"
+        },
+        {
+          "code": 327,
+          "type": "Commune",
+          "viNameLanguage": "Xã An Thới Đông",
+          "keyAccentLanguage": "Xa_An_Thoi_Đong"
+        },
+        {
+          "code": 328,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạnh An",
+          "keyAccentLanguage": "Xa_Thanh_An"
+        },
+        {
+          "code": 329,
+          "type": "Commune",
+          "viNameLanguage": "Xã Long Hòa",
+          "keyAccentLanguage": "Xa_Long_Hoa"
+        },
+        {
+          "code": 330,
+          "type": "Commune",
+          "viNameLanguage": "Xã Lý Nhơn",
+          "keyAccentLanguage": "Xa_Ly_Nhon"
+        }
+      ]
+    }
+  ]
+}

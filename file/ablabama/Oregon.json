@@ -1,0 +1,187 @@
+{
+  "nameState": "Oregon",
+  "lat": 43.8041,
+  "long": -120.5542,
+  "counties": [
+    {
+      "name": "Baker",
+      "lat": 44.7797,
+      "long": -117.8352
+    },
+    {
+      "name": "Benton",
+      "lat": 44.6281,
+      "long": -123.3876
+    },
+    {
+      "name": "Clackamas",
+      "lat": 45.2022,
+      "long": -122.5778
+    },
+    {
+      "name": "Clatsop",
+      "lat": 46.1576,
+      "long": -123.504
+    },
+    {
+      "name": "Columbia",
+      "lat": 45.7297,
+      "long": -123.0813
+    },
+    {
+      "name": "Coos",
+      "lat": 43.2428,
+      "long": -124.1056
+    },
+    {
+      "name": "Crook",
+      "lat": 44.261,
+      "long": -120.847
+    },
+    {
+      "name": "Curry",
+      "lat": 42.544,
+      "long": -124.1241
+    },
+    {
+      "name": "Deschutes",
+      "lat": 43.9449,
+      "long": -121.3153
+    },
+    {
+      "name": "Douglas",
+      "lat": 43.2102,
+      "long": -123.3492
+    },
+    {
+      "name": "Gilliam",
+      "lat": 45.0201,
+      "long": -120.2761
+    },
+    {
+      "name": "Grant",
+      "lat": 44.3461,
+      "long": -118.6982
+    },
+    {
+      "name": "Harney",
+      "lat": 43.5955,
+      "long": -118.992
+    },
+    {
+      "name": "Hood River",
+      "lat": 45.6022,
+      "long": -121.5292
+    },
+    {
+      "name": "Jackson",
+      "lat": 42.334,
+      "long": -122.7644
+    },
+    {
+      "name": "Jefferson",
+      "lat": 44.5465,
+      "long": -121.7111
+    },
+    {
+      "name": "Josephine",
+      "lat": 42.4336,
+      "long": -123.4565
+    },
+    {
+      "name": "Klamath",
+      "lat": 42.2248,
+      "long": -121.8887
+    },
+    {
+      "name": "Lake",
+      "lat": 42.1021,
+      "long": -119.0002
+    },
+    {
+      "name": "Lane",
+      "lat": 43.8185,
+      "long": -123.0129
+    },
+    {
+      "name": "Lincoln",
+      "lat": 44.6455,
+      "long": -123.9444
+    },
+    {
+      "name": "Linn",
+      "lat": 44.4092,
+      "long": -122.5348
+    },
+    {
+      "name": "Malheur",
+      "lat": 43.9945,
+      "long": -117.2267
+    },
+    {
+      "name": "Marion",
+      "lat": 44.9429,
+      "long": -122.1187
+    },
+    {
+      "name": "Morrow",
+      "lat": 45.4602,
+      "long": -119.2599
+    },
+    {
+      "name": "Multnomah",
+      "lat": 45.5432,
+      "long": -122.6546
+    },
+    {
+      "name": "Polk",
+      "lat": 44.5517,
+      "long": -123.3022
+    },
+    {
+      "name": "Sherman",
+      "lat": 45.275,
+      "long": -120.7643
+    },
+    {
+      "name": "Tillamook",
+      "lat": 45.4562,
+      "long": -123.8289
+    },
+    {
+      "name": "Umatilla",
+      "lat": 45.9892,
+      "long": -118.7883
+    },
+    {
+      "name": "Union",
+      "lat": 45.2803,
+      "long": -118.154
+    },
+    {
+      "name": "Wallowa",
+      "lat": 45.502,
+      "long": -117.2264
+    },
+    {
+      "name": "Wasco",
+      "lat": 45.6931,
+      "long": -121.187
+    },
+    {
+      "name": "Washington",
+      "lat": 45.5345,
+      "long": -123.1122
+    },
+    {
+      "name": "Wheeler",
+      "lat": 44.9095,
+      "long": -120.0007
+    },
+    {
+      "name": "Yamhill",
+      "lat": 45.3387,
+      "long": -123.078
+    }
+  ]
+}

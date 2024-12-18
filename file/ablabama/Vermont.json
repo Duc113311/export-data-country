@@ -1,0 +1,77 @@
+{
+  "nameState": "Vermont",
+  "lat": 44.0682,
+  "long": -72.6036,
+  "counties": [
+    {
+      "name": "Addison",
+      "lat": 44.0,
+      "long": -73.1
+    },
+    {
+      "name": "Bennington",
+      "lat": 42.88,
+      "long": -73.3
+    },
+    {
+      "name": "Caledonia",
+      "lat": 44.3,
+      "long": -71.9
+    },
+    {
+      "name": "Chittenden",
+      "lat": 44.35,
+      "long": -73.15
+    },
+    {
+      "name": "Essex",
+      "lat": 44.3,
+      "long": -71.3
+    },
+    {
+      "name": "Franklin",
+      "lat": 44.6,
+      "long": -73.0
+    },
+    {
+      "name": "Grand Isle",
+      "lat": 44.65,
+      "long": -73.3
+    },
+    {
+      "name": "Lamoille",
+      "lat": 44.6,
+      "long": -72.8
+    },
+    {
+      "name": "Orange",
+      "lat": 43.9,
+      "long": -72.4
+    },
+    {
+      "name": "Orleans",
+      "lat": 44.6,
+      "long": -71.8
+    },
+    {
+      "name": "Rutland",
+      "lat": 43.6,
+      "long": -72.9
+    },
+    {
+      "name": "Washington",
+      "lat": 44.2,
+      "long": -72.6
+    },
+    {
+      "name": "Windham",
+      "lat": 43.2,
+      "long": -72.8
+    },
+    {
+      "name": "Windsor",
+      "lat": 43.4,
+      "long": -72.5
+    }
+  ]
+}

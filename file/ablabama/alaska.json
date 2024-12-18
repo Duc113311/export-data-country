@@ -1,0 +1,845 @@
+{
+    "nameState": "Alaska",
+    "lat": 61.2163,
+    "long": -149.8949,
+    "counties": [
+        {
+            "name": "Aleutians East",
+            "lat": 53.7558,
+            "long": -166.5407,
+            "cities": [
+                {
+                    "name": "Sand Point",
+                    "type": "City",
+                    "lat": 55.3331,
+                    "long": -160.4767
+                },
+                {
+                    "name": "King Cove",
+                    "type": "City",
+                    "lat": 55.2921,
+                    "long": -162.2719
+                },
+                {
+                    "name": "Akutan",
+                    "type": "City",
+                    "lat": 54.1378,
+                    "long": -165.7799
+                },
+                {
+                    "name": "False Pass",
+                    "type": "City",
+                    "lat": 54.8597,
+                    "long": -163.4101
+                }
+            ]
+        },
+        {
+            "name": "Aleutians West",
+            "lat": 53.4036,
+            "long": -164.5077,
+            "cities": [
+                {
+                    "name": "Adak",
+                    "type": "City",
+                    "lat": 51.8847,
+                    "long": -176.6456
+                },
+                {
+                    "name": "Atka",
+                    "type": "City",
+                    "lat": 52.2156,
+                    "long": -174.1973
+                },
+                {
+                    "name": "Nikolski",
+                    "type": "City",
+                    "lat": 52.9478,
+                    "long": -168.8989
+                }
+            ]
+        },
+        {
+            "name": "Anchorage",
+            "lat": 61.2170,
+            "long": -149.9003,
+            "cities": [
+                {
+                    "name": "Anchorage",
+                    "type": "City",
+                    "lat": 61.2181,
+                    "long": -149.9003
+                },
+                {
+                    "name": "Eagle River",
+                    "type": "Community",
+                    "lat": 61.3200,
+                    "long": -149.5899
+                },
+                {
+                    "name": "Girdwood",
+                    "type": "Community",
+                    "lat": 60.9781,
+                    "long": -149.1429
+                }
+            ]
+        },
+        {
+            "name": "Bethel",
+            "lat": 60.7913,
+            "long": -161.7558,
+            "cities": [
+                {
+                    "name": "Bethel",
+                    "type": "City",
+                    "lat": 60.7913,
+                    "long": -161.7558
+                },
+                {
+                    "name": "Akiachak",
+                    "type": "Village",
+                    "lat": 60.9368,
+                    "long": -161.4595
+                },
+                {
+                    "name": "Akiak",
+                    "type": "Village",
+                    "lat": 60.5533,
+                    "long": -161.4542
+                },
+                {
+                    "name": "Napaskiak",
+                    "type": "Village",
+                    "lat": 60.7191,
+                    "long": -161.7889
+                },
+                {
+                    "name": "Oscarville",
+                    "type": "Village",
+                    "lat": 60.6551,
+                    "long": -161.9824
+                },
+                {
+                    "name": "Quinhagak",
+                    "type": "Village",
+                    "lat": 59.7889,
+                    "long": -161.8917
+                },
+                {
+                    "name": "Tununak",
+                    "type": "Village",
+                    "lat": 60.6113,
+                    "long": -165.3383
+                }
+            ]
+        },
+        {
+            "name": "Bristol Bay",
+            "lat": 58.6114,
+            "long": -157.4642,
+            "cities": [
+                {
+                    "name": "Naknek",
+                    "type": "City",
+                    "lat": 58.7932,
+                    "long": -157.3921
+                },
+                {
+                    "name": "South Naknek",
+                    "type": "Village",
+                    "lat": 58.7893,
+                    "long": -157.4219
+                },
+                {
+                    "name": "King Salmon",
+                    "type": "Community",
+                    "lat": 58.7005,
+                    "long": -156.6521
+                }
+            ]
+        },
+        {
+            "name": "Denali",
+            "lat": 63.8757,
+            "long": -150.9735,
+            "cities": [
+                {
+                    "name": "Healy",
+                    "type": "Community",
+                    "lat": 63.9239,
+                    "long": -148.9785
+                },
+                {
+                    "name": "Denali Park",
+                    "type": "Community",
+                    "lat": 63.7470,
+                    "long": -148.9221
+                }
+            ]
+        },
+        {
+            "name": "Dillingham",
+            "lat": 59.0452,
+            "long": -158.4593,
+            "cities": [
+                {
+                    "name": "Dillingham",
+                    "type": "City",
+                    "lat": 59.0455,
+                    "long": -158.4847
+                },
+                {
+                    "name": "Togiak",
+                    "type": "Village",
+                    "lat": 59.0533,
+                    "long": -160.4484
+                },
+                {
+                    "name": "Manokotak",
+                    "type": "Village",
+                    "lat": 58.9787,
+                    "long": -159.0427
+                },
+                {
+                    "name": "Aleknagik",
+                    "type": "Village",
+                    "lat": 59.3164,
+                    "long": -158.4966
+                }
+            ]
+        },
+        {
+            "name": "Fairbanks North Star",
+            "lat": 64.8378,
+            "long": -147.7169,
+            "cities": [
+                {
+                    "name": "Fairbanks",
+                    "type": "City",
+                    "lat": 64.8378,
+                    "long": -147.7164
+                },
+                {
+                    "name": "North Pole",
+                    "type": "City",
+                    "lat": 64.7511,
+                    "long": -147.3495
+                },
+                {
+                    "name": "Fox",
+                    "type": "Community",
+                    "lat": 64.8611,
+                    "long": -147.6028
+                },
+                {
+                    "name": "Chena Ridge",
+                    "type": "Community",
+                    "lat": 64.8104,
+                    "long": -147.7523
+                },
+                {
+                    "name": "Two Rivers",
+                    "type": "Community",
+                    "lat": 64.6997,
+                    "long": -147.5661
+                }
+            ]
+        },
+        {
+            "name": "Haines",
+            "lat": 59.2344,
+            "long": -135.4357,
+            "cities": [
+                {
+                    "name": "Haines",
+                    "type": "City",
+                    "lat": 59.2331,
+                    "long": -135.4439
+                },
+                {
+                    "name": "Klukwan",
+                    "type": "Village",
+                    "lat": 59.1253,
+                    "long": -135.5365
+                }
+            ]
+        },
+        {
+            "name": "Hoonah-Angoon",
+            "lat": 58.0984,
+            "long": -136.5815,
+            "cities": [
+                {
+                    "name": "Hoonah",
+                    "type": "City",
+                    "lat": 58.1107,
+                    "long": -135.4282
+                },
+                {
+                    "name": "Angoon",
+                    "type": "City",
+                    "lat": 57.4840,
+                    "long": -134.5882
+                },
+                {
+                    "name": "Elfin Cove",
+                    "type": "Community",
+                    "lat": 58.4192,
+                    "long": -136.4429
+                },
+                {
+                    "name": "Gustavus",
+                    "type": "Community",
+                    "lat": 58.4133,
+                    "long": -135.7570
+                }
+            ]
+        },
+        {
+            "name": "Juneau",
+            "lat": 58.3019,
+            "long": -134.4197,
+            "cities": [
+                {
+                    "name": "Auke Bay",
+                    "type": "Community",
+                    "lat": 58.4045,
+                    "long": -134.6879
+                },
+                {
+                    "name": "Mendenhall Valley",
+                    "type": "Community",
+                    "lat": 58.3920,
+                    "long": -134.6739
+                }
+            ]
+        },
+        {
+            "name": "Kenai Peninsula",
+            "lat": 60.6113,
+            "long": -151.2812,
+            "cities": [
+                {
+                    "name": "Soldotna",
+                    "type": "City",
+                    "lat": 60.4847,
+                    "long": -151.0061
+                },
+                {
+                    "name": "Homer",
+                    "type": "City",
+                    "lat": 59.6420,
+                    "long": -151.5483
+                },
+                {
+                    "name": "Anchor Point",
+                    "type": "Community",
+                    "lat": 59.7954,
+                    "long": -151.7425
+                },
+                {
+                    "name": "Nikiski",
+                    "type": "Community",
+                    "lat": 60.7655,
+                    "long": -151.2633
+                },
+                {
+                    "name": "Kasilof",
+                    "type": "Community",
+                    "lat": 60.5044,
+                    "long": -151.0858
+                }
+            ]
+        },
+        {
+            "name": "Ketchikan Gateway",
+            "lat": 55.3422,
+            "long": -131.6466,
+            "cities": [
+                {
+                    "name": "Kasaan",
+                    "type": "Village",
+                    "lat": 55.5497,
+                    "long": -131.9103
+                },
+                {
+                    "name": "Metlakatla",
+                    "type": "City",
+                    "lat": 55.1211,
+                    "long": -131.5769
+                }
+            ]
+        },
+        {
+            "name": "Kodiak Island",
+            "lat": 57.7904,
+            "long": -152.4071,
+            "cities": [
+                {
+                    "name": "Akhiok",
+                    "type": "Village",
+                    "lat": 56.9483,
+                    "long": -154.1892
+                },
+                {
+                    "name": "Chignik",
+                    "type": "Village",
+                    "lat": 56.3133,
+                    "long": -158.4300
+                },
+                {
+                    "name": "Larsen Bay",
+                    "type": "Village",
+                    "lat": 57.5961,
+                    "long": -153.9292
+                },
+                {
+                    "name": "Old Harbor",
+                    "type": "Village",
+                    "lat": 57.2142,
+                    "long": -153.3492
+                }
+            ]
+        },
+        {
+            "name": "Lake and Peninsula",
+            "lat": 58.2341,
+            "long": -156.7901,
+            "cities": [
+                {
+                    "name": "Igiugig",
+                    "type": "Village",
+                    "lat": 59.3394,
+                    "long": -157.4892
+                },
+                {
+                    "name": "King Salmon",
+                    "type": "City",
+                    "lat": 58.6742,
+                    "long": -156.6507
+                },
+                {
+                    "name": "Naknek",
+                    "type": "City",
+                    "lat": 58.7153,
+                    "long": -157.0021
+                },
+                {
+                    "name": "South Naknek",
+                    "type": "Village",
+                    "lat": 58.5525,
+                    "long": -157.3363
+                }
+            ]
+        },
+        {
+            "name": "Matanuska-Susitna",
+            "lat": 61.5770,
+            "long": -149.2162,
+            "cities": [
+                {
+                    "name": "Anchorage",
+                    "type": "City",
+                    "lat": 61.2170,
+                    "long": -149.9003
+                },
+                {
+                    "name": "Wasilla",
+                    "type": "City",
+                    "lat": 61.5800,
+                    "long": -149.4395
+                },
+                {
+                    "name": "Palmer",
+                    "type": "City",
+                    "lat": 61.5997,
+                    "long": -149.1217
+                },
+                {
+                    "name": "Houston",
+                    "type": "City",
+                    "lat": 61.3669,
+                    "long": -149.6509
+                },
+                {
+                    "name": "Big Lake",
+                    "type": "Community",
+                    "lat": 61.5525,
+                    "long": -149.9710
+                },
+                {
+                    "name": "Willow",
+                    "type": "Community",
+                    "lat": 61.9278,
+                    "long": -150.0699
+                }
+            ]
+        },
+        {
+            "name": "Nome",
+            "lat": 64.5011,
+            "long": -165.4064,
+            "cities": [
+                {
+                    "name": "Brevig Mission",
+                    "type": "City",
+                    "lat": 65.3160,
+                    "long": -166.4967
+                },
+                {
+                    "name": "Teller",
+                    "type": "City",
+                    "lat": 65.2678,
+                    "long": -166.4136
+                },
+                {
+                    "name": "Shishmaref",
+                    "type": "City",
+                    "lat": 66.2479,
+                    "long": -166.4472
+                },
+                {
+                    "name": "Koyuk",
+                    "type": "City",
+                    "lat": 64.9742,
+                    "long": -161.1527
+                },
+                {
+                    "name": "Golovin",
+                    "type": "City",
+                    "lat": 64.5619,
+                    "long": -163.1131
+                },
+                {
+                    "name": "Elim",
+                    "type": "City",
+                    "lat": 63.7616,
+                    "long": -162.2615
+                },
+                {
+                    "name": "Council",
+                    "type": "City",
+                    "lat": 64.7551,
+                    "long": -163.1745
+                }
+            ]
+        },
+        {
+            "name": "North Slope",
+            "lat": 68.5641,
+            "long": -150.2660,
+            "cities": [
+                {
+                    "name": "Barrow",
+                    "type": "City",
+                    "lat": 71.2906,
+                    "long": -156.7887
+                },
+                {
+                    "name": "Wainwright",
+                    "type": "City",
+                    "lat": 70.6349,
+                    "long": -159.9821
+                },
+                {
+                    "name": "Point Hope",
+                    "type": "City",
+                    "lat": 68.3496,
+                    "long": -166.7859
+                },
+                {
+                    "name": "Point Lay",
+                    "type": "City",
+                    "lat": 69.7328,
+                    "long": -163.0101
+                },
+                {
+                    "name": "Kaktovik",
+                    "type": "City",
+                    "lat": 70.1285,
+                    "long": -143.6361
+                },
+                {
+                    "name": "Atqasuk",
+                    "type": "City",
+                    "lat": 70.4670,
+                    "long": -157.4140
+                }
+            ]
+        },
+        {
+            "name": "Northwest Arctic",
+            "lat": 67.1751,
+            "long": -162.2952,
+            "cities": [
+                {
+                    "name": "Kotzebue",
+                    "type": "City",
+                    "lat": 66.9006,
+                    "long": -162.5982
+                },
+                {
+                    "name": "Noorvik",
+                    "type": "City",
+                    "lat": 66.8224,
+                    "long": -160.0312
+                },
+                {
+                    "name": "Selawik",
+                    "type": "City",
+                    "lat": 66.6111,
+                    "long": -160.0190
+                },
+                {
+                    "name": "Kiana",
+                    "type": "City",
+                    "lat": 66.0432,
+                    "long": -160.4011
+                },
+                {
+                    "name": "Shungnak",
+                    "type": "City",
+                    "lat": 65.7469,
+                    "long": -157.4897
+                }
+            ]
+        },
+        {
+            "name": "Petersburg",
+            "lat": 56.8053,
+            "long": -132.9713,
+            "cities": [
+                {
+                    "name": "Petersburg",
+                    "type": "City",
+                    "lat": 56.8050,
+                    "long": -132.9578
+                }
+            ]
+        },
+        {
+            "name": "Prince of Wales-Hyder",
+            "lat": 55.3422,
+            "long": -133.3353,
+            "cities": [
+                {
+                    "name": "Thorne Bay",
+                    "type": "City",
+                    "lat": 55.4134,
+                    "long": -132.4714
+                },
+                {
+                    "name": "Kasaan",
+                    "type": "City",
+                    "lat": 55.5350,
+                    "long": -132.5947
+                },
+                {
+                    "name": "Coffman Cove",
+                    "type": "City",
+                    "lat": 55.4590,
+                    "long": -132.7815
+                }
+            ]
+        },
+        {
+            "name": "Sitka",
+            "lat": 57.0531,
+            "long": -135.3300,
+            "cities": [
+                {
+                    "name": "Sitka",
+                    "type": "City",
+                    "lat": 57.0531,
+                    "long": -135.3300
+                },
+                {
+                    "name": "Angoon",
+                    "type": "City",
+                    "lat": 57.4822,
+                    "long": -134.5736
+                },
+                {
+                    "name": "Kake",
+                    "type": "City",
+                    "lat": 56.9761,
+                    "long": -133.9456
+                },
+                {
+                    "name": "Pelican",
+                    "type": "City",
+                    "lat": 56.5220,
+                    "long": -135.7241
+                },
+                {
+                    "name": "Port Alexander",
+                    "type": "City",
+                    "lat": 56.2450,
+                    "long": -134.6369
+                }
+            ]
+        },
+        {
+            "name": "Skagway",
+            "lat": 59.4585,
+            "long": -135.3137,
+            "cities": [
+                {
+                    "name": "Skagway",
+                    "type": "City",
+                    "lat": 59.4560,
+                    "long": -135.3120
+                },
+                {
+                    "name": "Dyea",
+                    "type": "Town",
+                    "lat": 59.4694,
+                    "long": -135.5786
+                }
+            ]
+        },
+        {
+            "name": "Southeast Fairbanks",
+            "lat": 63.4574,
+            "long": -145.4383,
+            "cities": [
+                {
+                    "name": "Tok",
+                    "type": "City",
+                    "lat": 63.3312,
+                    "long": -142.9792
+                },
+                {
+                    "name": "Eagle",
+                    "type": "City",
+                    "lat": 64.7661,
+                    "long": -141.2097
+                },
+                {
+                    "name": "Fort Greely",
+                    "type": "Village",
+                    "lat": 63.9461,
+                    "long": -145.6928
+                }
+            ]
+        },
+        {
+            "name": "Valdez-Cordova",
+            "lat": 61.1297,
+            "long": -146.8997,
+            "cities": [
+                {
+                    "name": "Valdez",
+                    "type": "City",
+                    "lat": 61.1300,
+                    "long": -146.3498
+                },
+                {
+                    "name": "Cordova",
+                    "type": "City",
+                    "lat": 60.5423,
+                    "long": -145.7571
+                },
+                {
+                    "name": "Tazlina",
+                    "type": "Community",
+                    "lat": 61.6257,
+                    "long": -146.4580
+                },
+                {
+                    "name": "McKinley Village",
+                    "type": "Unincorporated",
+                    "lat": 62.9722,
+                    "long": -146.6427
+                }
+            ]
+        },
+        {
+            "name": "Wade Hampton",
+            "lat": 60.7913,
+            "long": -161.7558,
+            "cities": [
+                {
+                    "name": "Hooper Bay",
+                    "type": "City",
+                    "lat": 60.7892,
+                    "long": -166.1339
+                },
+                {
+                    "name": "Emmonak",
+                    "type": "City",
+                    "lat": 62.7889,
+                    "long": -164.5389
+                },
+                {
+                    "name": "Chevak",
+                    "type": "City",
+                    "lat": 61.5378,
+                    "long": -165.5875
+                },
+                {
+                    "name": "Alakanuk",
+                    "type": "City",
+                    "lat": 62.7643,
+                    "long": -164.6361
+                }
+            ]
+        },
+        {
+            "name": "Wrangell",
+            "lat": 56.4769,
+            "long": -132.3800,
+            "cities": [
+                {
+                    "name": "Wrangell",
+                    "type": "City",
+                    "lat": 56.4745,
+                    "long": -132.3807
+                }
+            ]
+        },
+        {
+            "name": "Yukon-Koyukuk",
+            "lat": 64.8255,
+            "long": -149.4897,
+            "cities": [
+                {
+                    "name": "Fort Yukon",
+                    "type": "City",
+                    "lat": 66.5641,
+                    "long": -145.2586
+                },
+                {
+                    "name": "Galena",
+                    "type": "City",
+                    "lat": 64.7328,
+                    "long": -156.9272
+                },
+                {
+                    "name": "Grayling",
+                    "type": "City",
+                    "lat": 62.9058,
+                    "long": -159.2969
+                },
+                {
+                    "name": "McGrath",
+                    "type": "City",
+                    "lat": 62.9522,
+                    "long": -155.6058
+                },
+                {
+                    "name": "Nulato",
+                    "type": "City",
+                    "lat": 64.7269,
+                    "long": -157.9164
+                },
+                {
+                    "name": "Koyukuk",
+                    "type": "City",
+                    "lat": 64.9647,
+                    "long": -156.1500
+                }
+            ]
+        }
+    ]
+}

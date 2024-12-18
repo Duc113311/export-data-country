@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "type": "City",
+  "postalCode": "77000",
+  "keyAccentLanguage": "Binh_Thuan",
+  "districtList": [
+    {
+      "code": 1,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Phan Thiết",
+      "postalCode": "770001",
+      "keyAccentLanguage": "Thanh_pho_Phan_Thiet",
+      "wards": [
+        {
+          "code": 2,
+          "type": "Ward",
+          "viNameLanguage": "Phường Mũi Né",
+          "keyAccentLanguage": "Phuong_Mui_Ne"
+        },
+        {
+          "code": 3,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hàm Tiến",
+          "keyAccentLanguage": "Phuong_Ham_Tien"
+        },
+        {
+          "code": 4,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Hài",
+          "keyAccentLanguage": "Phuong_Phu_Hai"
+        },
+        {
+          "code": 5,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Thủy",
+          "keyAccentLanguage": "Phuong_Phu_Thuy"
+        },
+        {
+          "code": 6,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Tài",
+          "keyAccentLanguage": "Phuong_Phu_Tai"
+        },
+        {
+          "code": 7,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Trinh",
+          "keyAccentLanguage": "Phuong_Phu_Trinh"
+        },
+        {
+          "code": 8,
+          "type": "Ward",
+          "viNameLanguage": "Phường Xuân An",
+          "keyAccentLanguage": "Phuong_Xuan_An"
+        },
+        {
+          "code": 9,
+          "type": "Ward",
+          "viNameLanguage": "Phường Thanh Hải",
+          "keyAccentLanguage": "Phuong_Thanh_Hai"
+        },
+        {
+          "code": 10,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Hưng",
+          "keyAccentLanguage": "Phuong_Binh_Hung"
+        },
+        {
+          "code": 11,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đức Nghĩa",
+          "keyAccentLanguage": "Phuong_Đuc_Nghia"
+        },
+        {
+          "code": 12,
+          "type": "Ward",
+          "viNameLanguage": "Phường Lạc Đạo",
+          "keyAccentLanguage": "Phuong_Lac_Đao"
+        },
+        {
+          "code": 13,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đức Thắng",
+          "keyAccentLanguage": "Phuong_Đuc_Thang"
+        },
+        {
+          "code": 14,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hưng Long",
+          "keyAccentLanguage": "Phuong_Hung_Long"
+        },
+        {
+          "code": 15,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đức Long",
+          "keyAccentLanguage": "Phuong_Đuc_Long"
+        },
+        {
+          "code": 16,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiện Nghiệp",
+          "keyAccentLanguage": "Xa_Thien_Nghiep"
+        },
+        {
+          "code": 17,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phong Nẫm",
+          "keyAccentLanguage": "Xa_Phong_Nam"
+        },
+        {
+          "code": 18,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tiến Lợi",
+          "keyAccentLanguage": "Xa_Tien_Loi"
+        },
+        {
+          "code": 19,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tiến Thành",
+          "keyAccentLanguage": "Xa_Tien_Thanh"
+        }
+      ]
+    }
+  ]
+}

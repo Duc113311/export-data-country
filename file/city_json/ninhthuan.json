@@ -1,0 +1,586 @@
+[
+  {
+    "code": 0,
+    "city": "Tỉnh Thành",
+    "category": null,
+    "nameCategory": "Ninh Thuận",
+    "viKeyLanguage": "Ninh_Thuận",
+    "viNameLanguage": "Ninh Thuận"
+  },
+  {
+    "code": 1,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Thành_phố_Phan_Rang-Tháp_Chàm",
+    "viNameLanguage": "Thành phố Phan Rang-Tháp Chàm"
+  },
+  {
+    "code": 2,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Đô_Vinh",
+    "viNameLanguage": "Phường Đô Vinh"
+  },
+  {
+    "code": 3,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Phước_Mỹ",
+    "viNameLanguage": "Phường Phước Mỹ"
+  },
+  {
+    "code": 4,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Bảo_An",
+    "viNameLanguage": "Phường Bảo An"
+  },
+  {
+    "code": 5,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Phủ_Hà",
+    "viNameLanguage": "Phường Phủ Hà"
+  },
+  {
+    "code": 6,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Thanh_Sơn",
+    "viNameLanguage": "Phường Thanh Sơn"
+  },
+  {
+    "code": 7,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Mỹ_Hương",
+    "viNameLanguage": "Phường Mỹ Hương"
+  },
+  {
+    "code": 8,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Tấn_Tài",
+    "viNameLanguage": "Phường Tấn Tài"
+  },
+  {
+    "code": 9,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Kinh_Dinh",
+    "viNameLanguage": "Phường Kinh Dinh"
+  },
+  {
+    "code": 10,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Đạo_Long",
+    "viNameLanguage": "Phường Đạo Long"
+  },
+  {
+    "code": 11,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Đài_Sơn",
+    "viNameLanguage": "Phường Đài Sơn"
+  },
+  {
+    "code": 12,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Đông_Hải",
+    "viNameLanguage": "Phường Đông Hải"
+  },
+  {
+    "code": 13,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Mỹ_Đông",
+    "viNameLanguage": "Phường Mỹ Đông"
+  },
+  {
+    "code": 14,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Xã_Thành_Hải",
+    "viNameLanguage": "Xã Thành Hải"
+  },
+  {
+    "code": 15,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Văn_Hải",
+    "viNameLanguage": "Phường Văn Hải"
+  },
+  {
+    "code": 16,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Mỹ_Bình",
+    "viNameLanguage": "Phường Mỹ Bình"
+  },
+  {
+    "code": 17,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Thành phố Phan Rang-Tháp Chàm",
+    "viKeyLanguage": "Phường_Mỹ_Hải",
+    "viNameLanguage": "Phường Mỹ Hải"
+  },
+  {
+    "code": 18,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Huyện_Bác_Ái",
+    "viNameLanguage": "Huyện Bác Ái"
+  },
+  {
+    "code": 19,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Xã_Phước_Bình",
+    "viNameLanguage": "Xã Phước Bình"
+  },
+  {
+    "code": 20,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Xã_Phước_Hòa",
+    "viNameLanguage": "Xã Phước Hòa"
+  },
+  {
+    "code": 21,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Xã_Phước_Tân",
+    "viNameLanguage": "Xã Phước Tân"
+  },
+  {
+    "code": 22,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Xã_Phước_Tiến",
+    "viNameLanguage": "Xã Phước Tiến"
+  },
+  {
+    "code": 23,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Xã_Phước_Thắng",
+    "viNameLanguage": "Xã Phước Thắng"
+  },
+  {
+    "code": 24,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Xã_Phước_Thành",
+    "viNameLanguage": "Xã Phước Thành"
+  },
+  {
+    "code": 25,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Xã_Phước_Đại",
+    "viNameLanguage": "Xã Phước Đại"
+  },
+  {
+    "code": 26,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Xã_Phước_Chính",
+    "viNameLanguage": "Xã Phước Chính"
+  },
+  {
+    "code": 27,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Bác Ái",
+    "viKeyLanguage": "Xã_Phước_Trung",
+    "viNameLanguage": "Xã Phước Trung"
+  },
+  {
+    "code": 28,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Ninh Sơn",
+    "viKeyLanguage": "Huyện_Ninh_Sơn",
+    "viNameLanguage": "Huyện Ninh Sơn"
+  },
+  {
+    "code": 29,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Sơn",
+    "viKeyLanguage": "Thị_trấn_Tân_Sơn",
+    "viNameLanguage": "Thị trấn Tân Sơn"
+  },
+  {
+    "code": 30,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Sơn",
+    "viKeyLanguage": "Xã_Lâm_Sơn",
+    "viNameLanguage": "Xã Lâm Sơn"
+  },
+  {
+    "code": 31,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Sơn",
+    "viKeyLanguage": "Xã_Lương_Sơn",
+    "viNameLanguage": "Xã Lương Sơn"
+  },
+  {
+    "code": 32,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Sơn",
+    "viKeyLanguage": "Xã_Quảng_Sơn",
+    "viNameLanguage": "Xã Quảng Sơn"
+  },
+  {
+    "code": 33,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Sơn",
+    "viKeyLanguage": "Xã_Mỹ_Sơn",
+    "viNameLanguage": "Xã Mỹ Sơn"
+  },
+  {
+    "code": 34,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Sơn",
+    "viKeyLanguage": "Xã_Hòa_Sơn",
+    "viNameLanguage": "Xã Hòa Sơn"
+  },
+  {
+    "code": 35,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Sơn",
+    "viKeyLanguage": "Xã_Ma_Nới",
+    "viNameLanguage": "Xã Ma Nới"
+  },
+  {
+    "code": 36,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Sơn",
+    "viKeyLanguage": "Xã_Nhơn_Sơn",
+    "viNameLanguage": "Xã Nhơn Sơn"
+  },
+  {
+    "code": 37,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Huyện_Ninh_Hải",
+    "viNameLanguage": "Huyện Ninh Hải"
+  },
+  {
+    "code": 38,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Thị_trấn_Khánh_Hải",
+    "viNameLanguage": "Thị trấn Khánh Hải"
+  },
+  {
+    "code": 39,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Xã_Vĩnh_Hải",
+    "viNameLanguage": "Xã Vĩnh Hải"
+  },
+  {
+    "code": 40,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Xã_Phương_Hải",
+    "viNameLanguage": "Xã Phương Hải"
+  },
+  {
+    "code": 41,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Xã_Tân_Hải",
+    "viNameLanguage": "Xã Tân Hải"
+  },
+  {
+    "code": 42,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Xã_Xuân_Hải",
+    "viNameLanguage": "Xã Xuân Hải"
+  },
+  {
+    "code": 43,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Xã_Hộ_Hải",
+    "viNameLanguage": "Xã Hộ Hải"
+  },
+  {
+    "code": 44,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Xã_Tri_Hải",
+    "viNameLanguage": "Xã Tri Hải"
+  },
+  {
+    "code": 45,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Xã_Nhơn_Hải",
+    "viNameLanguage": "Xã Nhơn Hải"
+  },
+  {
+    "code": 46,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Hải",
+    "viKeyLanguage": "Xã_Thanh_Hải",
+    "viNameLanguage": "Xã Thanh Hải"
+  },
+  {
+    "code": 47,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Huyện_Ninh_Phước",
+    "viNameLanguage": "Huyện Ninh Phước"
+  },
+  {
+    "code": 48,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Thị_trấn_Phước_Dân",
+    "viNameLanguage": "Thị trấn Phước Dân"
+  },
+  {
+    "code": 49,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Xã_Phước_Sơn",
+    "viNameLanguage": "Xã Phước Sơn"
+  },
+  {
+    "code": 50,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Xã_Phước_Thái",
+    "viNameLanguage": "Xã Phước Thái"
+  },
+  {
+    "code": 51,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Xã_Phước_Hậu",
+    "viNameLanguage": "Xã Phước Hậu"
+  },
+  {
+    "code": 52,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Xã_Phước_Thuận",
+    "viNameLanguage": "Xã Phước Thuận"
+  },
+  {
+    "code": 53,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Xã_An_Hải",
+    "viNameLanguage": "Xã An Hải"
+  },
+  {
+    "code": 54,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Xã_Phước_Hữu",
+    "viNameLanguage": "Xã Phước Hữu"
+  },
+  {
+    "code": 55,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Xã_Phước_Hải",
+    "viNameLanguage": "Xã Phước Hải"
+  },
+  {
+    "code": 56,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Ninh Phước",
+    "viKeyLanguage": "Xã_Phước_Vinh",
+    "viNameLanguage": "Xã Phước Vinh"
+  },
+  {
+    "code": 57,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Thuận Bắc",
+    "viKeyLanguage": "Huyện_Thuận_Bắc",
+    "viNameLanguage": "Huyện Thuận Bắc"
+  },
+  {
+    "code": 58,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Bắc",
+    "viKeyLanguage": "Xã_Phước_Chiến",
+    "viNameLanguage": "Xã Phước Chiến"
+  },
+  {
+    "code": 59,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Bắc",
+    "viKeyLanguage": "Xã_Công_Hải",
+    "viNameLanguage": "Xã Công Hải"
+  },
+  {
+    "code": 60,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Bắc",
+    "viKeyLanguage": "Xã_Phước_Kháng",
+    "viNameLanguage": "Xã Phước Kháng"
+  },
+  {
+    "code": 61,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Bắc",
+    "viKeyLanguage": "Xã_Lợi_Hải",
+    "viNameLanguage": "Xã Lợi Hải"
+  },
+  {
+    "code": 62,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Bắc",
+    "viKeyLanguage": "Xã_Bắc_Sơn",
+    "viNameLanguage": "Xã Bắc Sơn"
+  },
+  {
+    "code": 63,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Bắc",
+    "viKeyLanguage": "Xã_Bắc_Phong",
+    "viNameLanguage": "Xã Bắc Phong"
+  },
+  {
+    "code": 64,
+    "city": "Thành Phố/Huyện/ Thị Xã",
+    "category": null,
+    "nameCategory": "Huyện Thuận Nam",
+    "viKeyLanguage": "Huyện_Thuận_Nam",
+    "viNameLanguage": "Huyện Thuận Nam"
+  },
+  {
+    "code": 65,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Nam",
+    "viKeyLanguage": "Xã_Phước_Hà",
+    "viNameLanguage": "Xã Phước Hà"
+  },
+  {
+    "code": 66,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Nam",
+    "viKeyLanguage": "Xã_Phước_Nam",
+    "viNameLanguage": "Xã Phước Nam"
+  },
+  {
+    "code": 67,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Nam",
+    "viKeyLanguage": "Xã_Phước_Ninh",
+    "viNameLanguage": "Xã Phước Ninh"
+  },
+  {
+    "code": 68,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Nam",
+    "viKeyLanguage": "Xã_Nhị_Hà",
+    "viNameLanguage": "Xã Nhị Hà"
+  },
+  {
+    "code": 69,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Nam",
+    "viKeyLanguage": "Xã_Phước_Dinh",
+    "viNameLanguage": "Xã Phước Dinh"
+  },
+  {
+    "code": 70,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Nam",
+    "viKeyLanguage": "Xã_Phước_Minh",
+    "viNameLanguage": "Xã Phước Minh"
+  },
+  {
+    "code": 71,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Nam",
+    "viKeyLanguage": "Xã_Phước_Diêm",
+    "viNameLanguage": "Xã Phước Diêm"
+  },
+  {
+    "code": 72,
+    "city": "Phường/Xã/Thị trấn",
+    "category": "Huyện",
+    "nameCategory": "Huyện Thuận Nam",
+    "viKeyLanguage": "Xã_Cà_Ná",
+    "viNameLanguage": "Xã Cà Ná"
+  }
+]

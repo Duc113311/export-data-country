@@ -1,0 +1,157 @@
+{
+  "nameState": "Nebraska",
+  "lat": 41.1254,
+  "long": -98.2681,
+  "counties": [
+    {
+      "name": "Nemaha",
+      "lat": 40.451,
+      "long": -95.8705
+    },
+    {
+      "name": "Nuckolls",
+      "lat": 40.2084,
+      "long": -98.1535
+    },
+    {
+      "name": "Otoe",
+      "lat": 40.4571,
+      "long": -95.96
+    },
+    {
+      "name": "Pawnee",
+      "lat": 40.0459,
+      "long": -96.1839
+    },
+    {
+      "name": "Perkins",
+      "lat": 41.1682,
+      "long": -101.6356
+    },
+    {
+      "name": "Phelps",
+      "lat": 40.4645,
+      "long": -99.4107
+    },
+    {
+      "name": "Pierce",
+      "lat": 42.3986,
+      "long": -97.5384
+    },
+    {
+      "name": "Platte",
+      "lat": 41.4517,
+      "long": -97.1373
+    },
+    {
+      "name": "Polk",
+      "lat": 41.2552,
+      "long": -97.4164
+    },
+    {
+      "name": "Red Willow",
+      "lat": 40.1812,
+      "long": -99.6705
+    },
+    {
+      "name": "Richardson",
+      "lat": 40.026,
+      "long": -95.6665
+    },
+    {
+      "name": "Rock",
+      "lat": 42.5512,
+      "long": -98.5117
+    },
+    {
+      "name": "Saline",
+      "lat": 40.7549,
+      "long": -97.6423
+    },
+    {
+      "name": "Sarpy",
+      "lat": 41.1523,
+      "long": -96.1984
+    },
+    {
+      "name": "Saunders",
+      "lat": 41.1039,
+      "long": -96.5372
+    },
+    {
+      "name": "Scotts Bluff",
+      "lat": 41.8247,
+      "long": -103.6702
+    },
+    {
+      "name": "Seward",
+      "lat": 40.9126,
+      "long": -97.1161
+    },
+    {
+      "name": "Sheridan",
+      "lat": 42.4475,
+      "long": -103.2901
+    },
+    {
+      "name": "Sherman",
+      "lat": 41.3267,
+      "long": -98.9392
+    },
+    {
+      "name": "Sioux",
+      "lat": 42.61,
+      "long": -102.4476
+    },
+    {
+      "name": "Stanton",
+      "lat": 41.8729,
+      "long": -97.2332
+    },
+    {
+      "name": "Thayer",
+      "lat": 40.3164,
+      "long": -97.4203
+    },
+    {
+      "name": "Thomas",
+      "lat": 41.7465,
+      "long": -99.3897
+    },
+    {
+      "name": "Thurston",
+      "lat": 42.4404,
+      "long": -96.0727
+    },
+    {
+      "name": "Valley",
+      "lat": 41.4159,
+      "long": -98.5265
+    },
+    {
+      "name": "Washington",
+      "lat": 41.3663,
+      "long": -96.4141
+    },
+    {
+      "name": "Wayne",
+      "lat": 42.2501,
+      "long": -97.3457
+    },
+    {
+      "name": "Webster",
+      "lat": 40.4665,
+      "long": -98.5317
+    },
+    {
+      "name": "Wheeler",
+      "lat": 41.907,
+      "long": -98.7221
+    },
+    {
+      "name": "York",
+      "lat": 40.8786,
+      "long": -97.5824
+    }
+  ]
+}

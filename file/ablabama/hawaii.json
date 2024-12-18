@@ -1,0 +1,32 @@
+{
+  "nameState": "Hawaii",
+  "lat": 20.7967,
+  "long": -156.3319,
+  "counties": [
+    {
+      "name": "Hawaii",
+      "lat": 19.7415,
+      "long": -155.8444
+    },
+    {
+      "name": "Honolulu",
+      "lat": 21.3069,
+      "long": -157.8583
+    },
+    {
+      "name": "Kalawao",
+      "lat": 21.1576,
+      "long": -156.9642
+    },
+    {
+      "name": "Kauai",
+      "lat": 22.0964,
+      "long": -159.5261
+    },
+    {
+      "name": "Maui",
+      "lat": 20.7984,
+      "long": -156.3319
+    }
+  ]
+}

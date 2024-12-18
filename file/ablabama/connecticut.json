@@ -1,0 +1,47 @@
+{
+  "nameState": "Connecticut",
+  "lat": 41.6032,
+  "long": -73.0877,
+  "counties": [
+    {
+      "name": "Fairfield",
+      "lat": 41.1441,
+      "long": -73.2608
+    },
+    {
+      "name": "Hartford",
+      "lat": 41.7637,
+      "long": -72.6851
+    },
+    {
+      "name": "Litchfield",
+      "lat": 41.7463,
+      "long": -73.2768
+    },
+    {
+      "name": "Middlesex",
+      "lat": 41.5322,
+      "long": -72.6369
+    },
+    {
+      "name": "New Haven",
+      "lat": 41.3133,
+      "long": -72.9263
+    },
+    {
+      "name": "New London",
+      "lat": 41.3544,
+      "long": -72.2043
+    },
+    {
+      "name": "Tolland",
+      "lat": 41.8587,
+      "long": -72.4475
+    },
+    {
+      "name": "Windham",
+      "lat": 41.8487,
+      "long": -71.9758
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "nameState": "South Carolina",
+  "lat": 33.8361,
+  "long": -81.1637,
+  "counties": [
+    {
+      "name": "Abbeville",
+      "lat": 34.0009,
+      "long": -82.4571
+    },
+    {
+      "name": "Aiken",
+      "lat": 33.8008,
+      "long": -81.6037
+    },
+    {
+      "name": "Anderson",
+      "lat": 34.5524,
+      "long": -82.648
+    },
+    {
+      "name": "Bamberg",
+      "lat": 33.2537,
+      "long": -81.0331
+    },
+    {
+      "name": "Barnwell",
+      "lat": 33.2472,
+      "long": -81.3989
+    },
+    {
+      "name": "Beaufort",
+      "lat": 32.4316,
+      "long": -80.6875
+    },
+    {
+      "name": "Berkeley",
+      "lat": 33.1262,
+      "long": -80.0405
+    },
+    {
+      "name": "Calhoun",
+      "lat": 33.1963,
+      "long": -80.4742
+    },
+    {
+      "name": "Charleston",
+      "lat": 32.7957,
+      "long": -79.7453
+    },
+    {
+      "name": "Cherokee",
+      "lat": 35.0002,
+      "long": -81.535
+    },
+    {
+      "name": "Chester",
+      "lat": 34.7045,
+      "long": -81.2113
+    },
+    {
+      "name": "Chesterfield",
+      "lat": 34.7045,
+      "long": -80.085
+    },
+    {
+      "name": "Clarendon",
+      "lat": 33.6843,
+      "long": -80.2115
+    },
+    {
+      "name": "Colleton",
+      "lat": 32.9298,
+      "long": -80.6464
+    },
+    {
+      "name": "Darlington",
+      "lat": 34.3003,
+      "long": -79.8727
+    },
+    {
+      "name": "Dillon",
+      "lat": 34.3501,
+      "long": -79.396
+    },
+    {
+      "name": "Dorchester",
+      "lat": 33.0354,
+      "long": -80.23
+    },
+    {
+      "name": "Edgefield",
+      "lat": 33.7742,
+      "long": -81.9301
+    },
+    {
+      "name": "Fairfield",
+      "lat": 34.4,
+      "long": -81.0819
+    },
+    {
+      "name": "Florence",
+      "lat": 33.9821,
+      "long": -79.7005
+    },
+    {
+      "name": "Georgetown",
+      "lat": 33.3673,
+      "long": -79.2901
+    },
+    {
+      "name": "Greenville",
+      "lat": 34.851,
+      "long": -82.394
+    },
+    {
+      "name": "Greenwood",
+      "lat": 34.19,
+      "long": -82.1654
+    },
+    {
+      "name": "Hampton",
+      "lat": 32.8568,
+      "long": -81.1288
+    },
+    {
+      "name": "Horry",
+      "lat": 33.9196,
+      "long": -78.9943
+    },
+    {
+      "name": "Jasper",
+      "lat": 32.7435,
+      "long": -80.7999
+    },
+    {
+      "name": "Kershaw",
+      "lat": 34.3095,
+      "long": -80.5884
+    },
+    {
+      "name": "Lancaster",
+      "lat": 34.7255,
+      "long": -80.0777
+    },
+    {
+      "name": "Laurens",
+      "lat": 34.4999,
+      "long": -82.0146
+    },
+    {
+      "name": "Lee",
+      "lat": 34.1885,
+      "long": -80.273
+    },
+    {
+      "name": "Lexington",
+      "lat": 33.9823,
+      "long": -81.2215
+    },
+    {
+      "name": "McCormick",
+      "lat": 33.8974,
+      "long": -82.2874
+    },
+    {
+      "name": "Marion",
+      "lat": 33.9742,
+      "long": -79.3969
+    },
+    {
+      "name": "Marlboro",
+      "lat": 34.5981,
+      "long": -79.6244
+    },
+    {
+      "name": "Newberry",
+      "lat": 34.2701,
+      "long": -81.6059
+    },
+    {
+      "name": "Oconee",
+      "lat": 34.7114,
+      "long": -83.0871
+    },
+    {
+      "name": "Orangeburg",
+      "lat": 33.563,
+      "long": -80.865
+    },
+    {
+      "name": "Pickens",
+      "lat": 34.862,
+      "long": -82.6494
+    },
+    {
+      "name": "Richland",
+      "lat": 34.0007,
+      "long": -80.9755
+    },
+    {
+      "name": "Saluda",
+      "lat": 33.9823,
+      "long": -81.7176
+    },
+    {
+      "name": "Spartanburg",
+      "lat": 34.8682,
+      "long": -81.935
+    },
+    {
+      "name": "Sumter",
+      "lat": 33.92,
+      "long": -80.3415
+    },
+    {
+      "name": "Union",
+      "lat": 34.7054,
+      "long": -81.6221
+    },
+    {
+      "name": "Williamsburg",
+      "lat": 33.5642,
+      "long": -79.6138
+    },
+    {
+      "name": "York",
+      "lat": 34.9876,
+      "long": -81.2529
+    }
+  ]
+}

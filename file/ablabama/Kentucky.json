@@ -1,0 +1,227 @@
+{
+  "nameState": "Kentucky",
+  "lat": 37.8393,
+  "long": -84.27,
+  "counties": [
+    {
+      "name": "Adair",
+      "lat": 37.2134,
+      "long": -85.3136
+    },
+    {
+      "name": "Allen",
+      "lat": 36.9778,
+      "long": -86.4378
+    },
+    {
+      "name": "Anderson",
+      "lat": 37.9891,
+      "long": -84.9229
+    },
+    {
+      "name": "Bath",
+      "lat": 38.2749,
+      "long": -83.7439
+    },
+    {
+      "name": "Bell",
+      "lat": 36.7436,
+      "long": -83.677
+    },
+    {
+      "name": "Boone",
+      "lat": 38.9785,
+      "long": -84.7904
+    },
+    {
+      "name": "Bourbon",
+      "lat": 38.2894,
+      "long": -84.3059
+    },
+    {
+      "name": "Boyd",
+      "lat": 38.4202,
+      "long": -82.62
+    },
+    {
+      "name": "Boyle",
+      "lat": 37.652,
+      "long": -84.8256
+    },
+    {
+      "name": "Bracken",
+      "lat": 38.6692,
+      "long": -84.2269
+    },
+    {
+      "name": "Breathitt",
+      "lat": 37.5947,
+      "long": -83.3562
+    },
+    {
+      "name": "Breckinridge",
+      "lat": 37.8256,
+      "long": -86.448
+    },
+    {
+      "name": "Bullitt",
+      "lat": 38.3617,
+      "long": -85.6844
+    },
+    {
+      "name": "Butler",
+      "lat": 37.2731,
+      "long": -86.7334
+    },
+    {
+      "name": "Caldwell",
+      "lat": 37.1101,
+      "long": -87.5205
+    },
+    {
+      "name": "Calloway",
+      "lat": 36.6161,
+      "long": -88.313
+    },
+    {
+      "name": "Campbell",
+      "lat": 38.9484,
+      "long": -84.5206
+    },
+    {
+      "name": "Carlisle",
+      "lat": 36.8689,
+      "long": -88.151
+    },
+    {
+      "name": "Carroll",
+      "lat": 38.6746,
+      "long": -85.2512
+    },
+    {
+      "name": "Carter",
+      "lat": 38.3113,
+      "long": -82.851
+    },
+    {
+      "name": "Clark",
+      "lat": 37.9311,
+      "long": -84.292
+    },
+    {
+      "name": "Clay",
+      "lat": 37.3343,
+      "long": -83.9093
+    },
+    {
+      "name": "Elliott",
+      "lat": 38.2257,
+      "long": -83.0506
+    },
+    {
+      "name": "Estill",
+      "lat": 37.7245,
+      "long": -83.8495
+    },
+    {
+      "name": "Fayette",
+      "lat": 38.0406,
+      "long": -84.5037
+    },
+    {
+      "name": "Fleming",
+      "lat": 38.4097,
+      "long": -83.7367
+    },
+    {
+      "name": "Floyd",
+      "lat": 37.6437,
+      "long": -82.7713
+    },
+    {
+      "name": "Gallatin",
+      "lat": 38.7479,
+      "long": -84.8874
+    },
+    {
+      "name": "Garrard",
+      "lat": 37.6699,
+      "long": -84.5815
+    },
+    {
+      "name": "Grant",
+      "lat": 38.6923,
+      "long": -84.5991
+    },
+    {
+      "name": "Green",
+      "lat": 37.2487,
+      "long": -85.84
+    },
+    {
+      "name": "Greenup",
+      "lat": 38.6025,
+      "long": -82.8274
+    },
+    {
+      "name": "Harlan",
+      "lat": 36.8367,
+      "long": -83.307
+    },
+    {
+      "name": "Harrison",
+      "lat": 38.4914,
+      "long": -84.3021
+    },
+    {
+      "name": "Hart",
+      "lat": 37.3484,
+      "long": -85.8643
+    },
+    {
+      "name": "Jackson",
+      "lat": 37.5277,
+      "long": -83.3349
+    },
+    {
+      "name": "Jefferson",
+      "lat": 38.191,
+      "long": -85.6739
+    },
+    {
+      "name": "Jessamine",
+      "lat": 37.8806,
+      "long": -84.5661
+    },
+    {
+      "name": "Johnson",
+      "lat": 37.7511,
+      "long": -82.9101
+    },
+    {
+      "name": "Kenton",
+      "lat": 39.072,
+      "long": -84.5303
+    },
+    {
+      "name": "Knott",
+      "lat": 37.2381,
+      "long": -82.9279
+    },
+    {
+      "name": "Knox",
+      "lat": 36.9265,
+      "long": -83.9404
+    },
+    {
+      "name": "Laurel",
+      "lat": 37.2394,
+      "long": -84.0895
+    },
+    {
+      "name": "Lawrence",
+      "lat": 38.1315,
+      "long": -82.6367
+    }
+  ]
+}

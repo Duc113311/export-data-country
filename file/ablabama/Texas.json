@@ -1,0 +1,227 @@
+{
+  "nameState": "Texas",
+  "lat": 31.9686,
+  "long": -99.9018,
+  "counties": [
+    {
+      "name": "Anderson",
+      "lat": 31.7975,
+      "long": -95.67
+    },
+    {
+      "name": "Andrews",
+      "lat": 32.3193,
+      "long": -102.5307
+    },
+    {
+      "name": "Angelina",
+      "lat": 31.2001,
+      "long": -94.451
+    },
+    {
+      "name": "Aransas",
+      "lat": 28.2043,
+      "long": -97.0136
+    },
+    {
+      "name": "Armstrong",
+      "lat": 35.2435,
+      "long": -101.7479
+    },
+    {
+      "name": "Atascosa",
+      "lat": 28.5903,
+      "long": -98.539
+    },
+    {
+      "name": "Austin",
+      "lat": 29.7175,
+      "long": -97.9326
+    },
+    {
+      "name": "Bailey",
+      "lat": 34.205,
+      "long": -102.687
+    },
+    {
+      "name": "Bandera",
+      "lat": 29.7472,
+      "long": -99.038
+    },
+    {
+      "name": "Bastrop",
+      "lat": 30.1011,
+      "long": -97.308
+    },
+    {
+      "name": "Baylor",
+      "lat": 32.7722,
+      "long": -99.3066
+    },
+    {
+      "name": "Blanco",
+      "lat": 30.0984,
+      "long": -98.4264
+    },
+    {
+      "name": "Borden",
+      "lat": 32.5322,
+      "long": -101.4983
+    },
+    {
+      "name": "Bosque",
+      "lat": 31.6549,
+      "long": -97.7764
+    },
+    {
+      "name": "Bowie",
+      "lat": 33.56,
+      "long": -94.3514
+    },
+    {
+      "name": "Brazoria",
+      "lat": 29.1837,
+      "long": -95.4601
+    },
+    {
+      "name": "Brazos",
+      "lat": 30.6772,
+      "long": -96.3977
+    },
+    {
+      "name": "Brooks",
+      "lat": 27.296,
+      "long": -98.1422
+    },
+    {
+      "name": "Brown",
+      "lat": 31.7787,
+      "long": -99.019
+    },
+    {
+      "name": "Burleson",
+      "lat": 30.1131,
+      "long": -96.5491
+    },
+    {
+      "name": "Burnet",
+      "lat": 30.7594,
+      "long": -98.2116
+    },
+    {
+      "name": "Caldwell",
+      "lat": 29.9044,
+      "long": -97.6724
+    },
+    {
+      "name": "Calhoun",
+      "lat": 28.46,
+      "long": -96.6631
+    },
+    {
+      "name": "Callahan",
+      "lat": 32.3507,
+      "long": -99.3432
+    },
+    {
+      "name": "Cameron",
+      "lat": 26.142,
+      "long": -97.3976
+    },
+    {
+      "name": "Camp",
+      "lat": 33.0141,
+      "long": -94.9476
+    },
+    {
+      "name": "Carson",
+      "lat": 35.2446,
+      "long": -101.5106
+    },
+    {
+      "name": "Cass",
+      "lat": 33.0587,
+      "long": -94.4431
+    },
+    {
+      "name": "Chambers",
+      "lat": 29.7494,
+      "long": -94.7597
+    },
+    {
+      "name": "Cherokee",
+      "lat": 31.8327,
+      "long": -95.2322
+    },
+    {
+      "name": "Childress",
+      "lat": 34.4375,
+      "long": -100.181
+    },
+    {
+      "name": "Clay",
+      "lat": 33.8466,
+      "long": -98.2165
+    },
+    {
+      "name": "Cochran",
+      "lat": 33.6736,
+      "long": -102.7227
+    },
+    {
+      "name": "Coke",
+      "lat": 31.6687,
+      "long": -99.8096
+    },
+    {
+      "name": "Coleman",
+      "lat": 31.8323,
+      "long": -99.4344
+    },
+    {
+      "name": "Collin",
+      "lat": 33.1776,
+      "long": -96.6182
+    },
+    {
+      "name": "Collingsworth",
+      "lat": 34.5299,
+      "long": -100.5046
+    },
+    {
+      "name": "Colorado",
+      "lat": 29.7264,
+      "long": -96.4874
+    },
+    {
+      "name": "Comal",
+      "lat": 29.7604,
+      "long": -98.0582
+    },
+    {
+      "name": "Comanche",
+      "lat": 31.9037,
+      "long": -98.5796
+    },
+    {
+      "name": "Concho",
+      "lat": 31.2064,
+      "long": -99.7906
+    },
+    {
+      "name": "Cooke",
+      "lat": 33.6479,
+      "long": -97.1447
+    },
+    {
+      "name": "Coryell",
+      "lat": 31.4205,
+      "long": -97.7727
+    },
+    {
+      "name": "Crane",
+      "lat": 31.3965,
+      "long": -102.097
+    }
+  ]
+}

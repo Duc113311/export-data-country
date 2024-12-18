@@ -1,0 +1,87 @@
+{
+  "nameState": "Maine",
+  "lat": 44.2998,
+  "long": -69.4455,
+  "counties": [
+    {
+      "name": "Androscoggin",
+      "lat": 44.0967,
+      "long": -70.2013
+    },
+    {
+      "name": "Aroostook",
+      "lat": 46.7303,
+      "long": -68.0864
+    },
+    {
+      "name": "Cumberland",
+      "lat": 43.7957,
+      "long": -70.2434
+    },
+    {
+      "name": "Franklin",
+      "lat": 44.667,
+      "long": -70.2381
+    },
+    {
+      "name": "Hancock",
+      "lat": 44.2832,
+      "long": -68.2061
+    },
+    {
+      "name": "Kennebec",
+      "lat": 44.2821,
+      "long": -69.7852
+    },
+    {
+      "name": "Knox",
+      "lat": 44.1401,
+      "long": -69.2148
+    },
+    {
+      "name": "Lincoln",
+      "lat": 44.1419,
+      "long": -69.185
+    },
+    {
+      "name": "Oxford",
+      "lat": 44.0587,
+      "long": -70.5213
+    },
+    {
+      "name": "Penobscot",
+      "lat": 45.365,
+      "long": -68.5426
+    },
+    {
+      "name": "Piscataquis",
+      "lat": 45.3034,
+      "long": -69.2576
+    },
+    {
+      "name": "Sagadahoc",
+      "lat": 43.7593,
+      "long": -69.8127
+    },
+    {
+      "name": "Somerset",
+      "lat": 44.9211,
+      "long": -69.5928
+    },
+    {
+      "name": "Waldo",
+      "lat": 44.423,
+      "long": -69.1505
+    },
+    {
+      "name": "Washington",
+      "lat": 44.693,
+      "long": -67.472
+    },
+    {
+      "name": "York",
+      "lat": 43.1603,
+      "long": -70.476
+    }
+  ]
+}

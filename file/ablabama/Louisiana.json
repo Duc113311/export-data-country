@@ -1,0 +1,317 @@
+{
+  "nameState": "Louisiana",
+  "lat": 31.2448,
+  "long": -92.1459,
+  "counties": [
+    {
+      "name": "Acadia",
+      "lat": 30.2112,
+      "long": -92.42
+    },
+    {
+      "name": "Allen",
+      "lat": 30.4531,
+      "long": -92.636
+    },
+    {
+      "name": "Ascension",
+      "lat": 30.2201,
+      "long": -90.9267
+    },
+    {
+      "name": "Assumption",
+      "lat": 29.7522,
+      "long": -91.0719
+    },
+    {
+      "name": "Avoyelles",
+      "lat": 31.1276,
+      "long": -91.9874
+    },
+    {
+      "name": "Beauregard",
+      "lat": 30.458,
+      "long": -93.411
+    },
+    {
+      "name": "Bienville",
+      "lat": 32.1474,
+      "long": -92.6964
+    },
+    {
+      "name": "Bossier",
+      "lat": 32.523,
+      "long": -93.7037
+    },
+    {
+      "name": "Caddo",
+      "lat": 32.499,
+      "long": -93.7502
+    },
+    {
+      "name": "Calcasieu",
+      "lat": 30.2262,
+      "long": -93.217
+    },
+    {
+      "name": "Cameron",
+      "lat": 29.7125,
+      "long": -93.4519
+    },
+    {
+      "name": "Catahoula",
+      "lat": 31.6701,
+      "long": -91.6814
+    },
+    {
+      "name": "Claiborne",
+      "lat": 32.8363,
+      "long": -92.7436
+    },
+    {
+      "name": "Concordia",
+      "lat": 31.6616,
+      "long": -91.6261
+    },
+    {
+      "name": "De Soto",
+      "lat": 32.0394,
+      "long": -93.5575
+    },
+    {
+      "name": "East Baton Rouge",
+      "lat": 30.4577,
+      "long": -91.1403
+    },
+    {
+      "name": "East Carroll",
+      "lat": 32.4044,
+      "long": -90.983
+    },
+    {
+      "name": "East Feliciana",
+      "lat": 30.8087,
+      "long": -90.9213
+    },
+    {
+      "name": "Evangeline",
+      "lat": 30.6017,
+      "long": -92.4762
+    },
+    {
+      "name": "Franklin",
+      "lat": 32.0505,
+      "long": -91.5185
+    },
+    {
+      "name": "Grant",
+      "lat": 31.5447,
+      "long": -92.6533
+    },
+    {
+      "name": "Iberia",
+      "lat": 30.0041,
+      "long": -91.7984
+    },
+    {
+      "name": "Iberville",
+      "lat": 30.3035,
+      "long": -91.2651
+    },
+    {
+      "name": "Jackson",
+      "lat": 32.18,
+      "long": -92.6394
+    },
+    {
+      "name": "Jefferson",
+      "lat": 29.6485,
+      "long": -90.4125
+    },
+    {
+      "name": "Jefferson Davis",
+      "lat": 30.2223,
+      "long": -92.6904
+    },
+    {
+      "name": "La Salle",
+      "lat": 31.2041,
+      "long": -92.0464
+    },
+    {
+      "name": "Lafayette",
+      "lat": 30.2241,
+      "long": -92.0198
+    },
+    {
+      "name": "Lafourche",
+      "lat": 29.8597,
+      "long": -90.9005
+    },
+    {
+      "name": "Laurel",
+      "lat": 31.6721,
+      "long": -91.6822
+    },
+    {
+      "name": "Lincoln",
+      "lat": 32.471,
+      "long": -92.6372
+    },
+    {
+      "name": "Livingston",
+      "lat": 30.473,
+      "long": -90.7297
+    },
+    {
+      "name": "Madison",
+      "lat": 32.5321,
+      "long": -91.629
+    },
+    {
+      "name": "Morehouse",
+      "lat": 32.7466,
+      "long": -91.734
+    },
+    {
+      "name": "Natchitoches",
+      "lat": 31.7149,
+      "long": -93.097
+    },
+    {
+      "name": "Orleans",
+      "lat": 29.9511,
+      "long": -90.0715
+    },
+    {
+      "name": "Ouachita",
+      "lat": 32.508,
+      "long": -92.112
+    },
+    {
+      "name": "Plaquemines",
+      "lat": 29.5604,
+      "long": -89.682
+    },
+    {
+      "name": "Pointe Coupee",
+      "lat": 30.7042,
+      "long": -91.4664
+    },
+    {
+      "name": "Rapides",
+      "lat": 31.3809,
+      "long": -92.4696
+    },
+    {
+      "name": "Red River",
+      "lat": 32.0194,
+      "long": -93.2655
+    },
+    {
+      "name": "Richland",
+      "lat": 32.2011,
+      "long": -91.7095
+    },
+    {
+      "name": "Sabine",
+      "lat": 31.4054,
+      "long": -93.4349
+    },
+    {
+      "name": "St. Bernard",
+      "lat": 29.8281,
+      "long": -89.8504
+    },
+    {
+      "name": "St. Charles",
+      "lat": 30.077,
+      "long": -90.3981
+    },
+    {
+      "name": "St. Helena",
+      "lat": 30.7755,
+      "long": -90.7117
+    },
+    {
+      "name": "St. James",
+      "lat": 30.0584,
+      "long": -90.8201
+    },
+    {
+      "name": "St. John the Baptist",
+      "lat": 30.0743,
+      "long": -90.5627
+    },
+    {
+      "name": "St. Landry",
+      "lat": 30.5717,
+      "long": -92.1797
+    },
+    {
+      "name": "St. Martin",
+      "lat": 30.1459,
+      "long": -91.435
+    },
+    {
+      "name": "St. Tammany",
+      "lat": 30.4955,
+      "long": -89.9261
+    },
+    {
+      "name": "Tangipahoa",
+      "lat": 30.4749,
+      "long": -90.4847
+    },
+    {
+      "name": "Tensas",
+      "lat": 31.8056,
+      "long": -91.572
+    },
+    {
+      "name": "Terrebonne",
+      "lat": 29.7631,
+      "long": -90.6625
+    },
+    {
+      "name": "Union",
+      "lat": 32.4417,
+      "long": -92.4952
+    },
+    {
+      "name": "Vermilion",
+      "lat": 29.9497,
+      "long": -92.4613
+    },
+    {
+      "name": "Verona",
+      "lat": 30.0906,
+      "long": -92.8044
+    },
+    {
+      "name": "Washington",
+      "lat": 30.8056,
+      "long": -89.9415
+    },
+    {
+      "name": "Webster",
+      "lat": 32.4741,
+      "long": -93.1971
+    },
+    {
+      "name": "West Baton Rouge",
+      "lat": 30.407,
+      "long": -91.1385
+    },
+    {
+      "name": "West Feliciana",
+      "lat": 30.8041,
+      "long": -91.3702
+    },
+    {
+      "name": "Winn",
+      "lat": 31.795,
+      "long": -92.648
+    }
+  ]
+}

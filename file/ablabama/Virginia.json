@@ -1,0 +1,262 @@
+{
+  "nameState": "Virginia",
+  "lat": 37.4316,
+  "long": -78.6569,
+  "counties": [
+    {
+      "name": "Accomack",
+      "lat": 37.7332,
+      "long": -75.7083
+    },
+    {
+      "name": "Albemarle",
+      "lat": 38.0336,
+      "long": -78.453
+    },
+    {
+      "name": "Alexandria",
+      "lat": 38.8041,
+      "long": -77.0469
+    },
+    {
+      "name": "Alleghany",
+      "lat": 37.8,
+      "long": -79.8667
+    },
+    {
+      "name": "Amelia",
+      "lat": 37.3506,
+      "long": -77.9689
+    },
+    {
+      "name": "Amherst",
+      "lat": 37.5595,
+      "long": -78.4829
+    },
+    {
+      "name": "Appomattox",
+      "lat": 37.3336,
+      "long": -78.933
+    },
+    {
+      "name": "Arlington",
+      "lat": 38.8784,
+      "long": -77.1068
+    },
+    {
+      "name": "Augusta",
+      "lat": 38.2006,
+      "long": -79.07
+    },
+    {
+      "name": "Bath",
+      "lat": 38.0501,
+      "long": -79.61
+    },
+    {
+      "name": "Bedford",
+      "lat": 37.3329,
+      "long": -79.5283
+    },
+    {
+      "name": "Bland",
+      "lat": 37.2802,
+      "long": -81.119
+    },
+    {
+      "name": "Botetourt",
+      "lat": 37.5145,
+      "long": -79.8639
+    },
+    {
+      "name": "Brunswick",
+      "lat": 36.75,
+      "long": -77.8333
+    },
+    {
+      "name": "Buchanan",
+      "lat": 37.23,
+      "long": -82.0814
+    },
+    {
+      "name": "Buckingham",
+      "lat": 37.5,
+      "long": -78.5
+    },
+    {
+      "name": "Campbell",
+      "lat": 37.4155,
+      "long": -79.0787
+    },
+    {
+      "name": "Caroline",
+      "lat": 38.0311,
+      "long": -77.2861
+    },
+    {
+      "name": "Carroll",
+      "lat": 36.6677,
+      "long": -81.6181
+    },
+    {
+      "name": "Charles City",
+      "lat": 37.4171,
+      "long": -77.103
+    },
+    {
+      "name": "Charlotte",
+      "lat": 37.1,
+      "long": -78.7
+    },
+    {
+      "name": "Chesterfield",
+      "lat": 37.4025,
+      "long": -77.6078
+    },
+    {
+      "name": "Clarke",
+      "lat": 39.0744,
+      "long": -77.975
+    },
+    {
+      "name": "Craig",
+      "lat": 37.5031,
+      "long": -80.567
+    },
+    {
+      "name": "Culpeper",
+      "lat": 38.469,
+      "long": -77.9971
+    },
+    {
+      "name": "Cumberland",
+      "lat": 37.466,
+      "long": -78.2205
+    },
+    {
+      "name": "Dickenson",
+      "lat": 37.13,
+      "long": -82.4667
+    },
+    {
+      "name": "Dinwiddie",
+      "lat": 37.1021,
+      "long": -77.5933
+    },
+    {
+      "name": "Essex",
+      "lat": 37.856,
+      "long": -76.9707
+    },
+    {
+      "name": "Fairfax",
+      "lat": 38.9085,
+      "long": -77.2405
+    },
+    {
+      "name": "Fauquier",
+      "lat": 38.7132,
+      "long": -77.7915
+    },
+    {
+      "name": "Floyd",
+      "lat": 36.8996,
+      "long": -80.318
+    },
+    {
+      "name": "Fluvanna",
+      "lat": 37.8,
+      "long": -78.3
+    },
+    {
+      "name": "Franklin",
+      "lat": 37.108,
+      "long": -79.96
+    },
+    {
+      "name": "Giles",
+      "lat": 37.2989,
+      "long": -80.566
+    },
+    {
+      "name": "Gloucester",
+      "lat": 37.4176,
+      "long": -76.5147
+    },
+    {
+      "name": "Greene",
+      "lat": 38.1291,
+      "long": -78.4136
+    },
+    {
+      "name": "Greensville",
+      "lat": 36.7328,
+      "long": -77.5962
+    },
+    {
+      "name": "Halifax",
+      "lat": 36.7647,
+      "long": -78.9247
+    },
+    {
+      "name": "Hanover",
+      "lat": 37.7199,
+      "long": -77.3516
+    },
+    {
+      "name": "Harrisonburg",
+      "lat": 38.4496,
+      "long": -78.8689
+    },
+    {
+      "name": "Henrico",
+      "lat": 37.505,
+      "long": -77.3324
+    },
+    {
+      "name": "Henry",
+      "lat": 36.6501,
+      "long": -79.8597
+    },
+    {
+      "name": "Highland",
+      "lat": 38.4303,
+      "long": -79.6432
+    },
+    {
+      "name": "Isle of Wight",
+      "lat": 36.8792,
+      "long": -76.7087
+    },
+    {
+      "name": "James City",
+      "lat": 37.3,
+      "long": -76.75
+    },
+    {
+      "name": "King and Queen",
+      "lat": 37.5746,
+      "long": -77.0742
+    },
+    {
+      "name": "King George",
+      "lat": 38.2675,
+      "long": -77.1924
+    },
+    {
+      "name": "King William",
+      "lat": 37.5899,
+      "long": -77.0943
+    },
+    {
+      "name": "Lancaster",
+      "lat": 37.8006,
+      "long": -76.548
+    },
+    {
+      "name": "Lee",
+      "lat": 36.6345,
+      "long": -83.0
+    }
+  ]
+}

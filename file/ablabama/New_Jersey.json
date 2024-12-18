@@ -1,0 +1,112 @@
+{
+  "nameState": "New Jersey",
+  "lat": 40.0583,
+  "long": -74.4057,
+  "counties": [
+    {
+      "name": "Atlantic",
+      "lat": 39.4356,
+      "long": -74.5332
+    },
+    {
+      "name": "Bergen",
+      "lat": 40.9263,
+      "long": -74.0771
+    },
+    {
+      "name": "Burlington",
+      "lat": 39.9634,
+      "long": -74.7969
+    },
+    {
+      "name": "Camden",
+      "lat": 39.859,
+      "long": -75.0008
+    },
+    {
+      "name": "Cape May",
+      "lat": 39.1054,
+      "long": -74.8278
+    },
+    {
+      "name": "Cumberland",
+      "lat": 39.2587,
+      "long": -75.0304
+    },
+    {
+      "name": "Essex",
+      "lat": 40.7481,
+      "long": -74.2049
+    },
+    {
+      "name": "Gloucester",
+      "lat": 39.7103,
+      "long": -75.1187
+    },
+    {
+      "name": "Hudson",
+      "lat": 40.7282,
+      "long": -74.077
+    },
+    {
+      "name": "Hunterdon",
+      "lat": 40.5662,
+      "long": -74.9207
+    },
+    {
+      "name": "Mercer",
+      "lat": 40.302,
+      "long": -74.7582
+    },
+    {
+      "name": "Middlesex",
+      "lat": 40.4117,
+      "long": -74.3587
+    },
+    {
+      "name": "Monmouth",
+      "lat": 40.3199,
+      "long": -74.0311
+    },
+    {
+      "name": "Morris",
+      "lat": 40.9251,
+      "long": -74.4857
+    },
+    {
+      "name": "Ocean",
+      "lat": 39.9653,
+      "long": -74.227
+    },
+    {
+      "name": "Passaic",
+      "lat": 40.9263,
+      "long": -74.2743
+    },
+    {
+      "name": "Salem",
+      "lat": 39.5541,
+      "long": -75.3799
+    },
+    {
+      "name": "Somerset",
+      "lat": 40.5694,
+      "long": -74.5935
+    },
+    {
+      "name": "Sussex",
+      "lat": 41.1285,
+      "long": -74.6869
+    },
+    {
+      "name": "Union",
+      "lat": 40.6527,
+      "long": -74.2885
+    },
+    {
+      "name": "Warren",
+      "lat": 40.9753,
+      "long": -75.1223
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nameState": "Rhode Island",
+  "lat": 41.5801,
+  "long": -71.4774,
+  "counties": [
+    {
+      "name": "Bristol",
+      "lat": 41.6762,
+      "long": -71.2221
+    },
+    {
+      "name": "Kent",
+      "lat": 41.7008,
+      "long": -71.5148
+    },
+    {
+      "name": "Newport",
+      "lat": 41.4891,
+      "long": -71.3128
+    },
+    {
+      "name": "Providence",
+      "lat": 41.8236,
+      "long": -71.4222
+    },
+    {
+      "name": "Washington",
+      "lat": 41.4102,
+      "long": -71.7143
+    }
+  ]
+}

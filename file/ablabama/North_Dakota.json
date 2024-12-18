@@ -1,0 +1,292 @@
+{
+  "nameState": "North Dakota",
+  "lat": 47.5515,
+  "long": -101.002,
+  "counties": [
+    {
+      "name": "Adams",
+      "lat": 46.106,
+      "long": -102.0425
+    },
+    {
+      "name": "Barnes",
+      "lat": 46.1502,
+      "long": -97.1157
+    },
+    {
+      "name": "Benson",
+      "lat": 48.122,
+      "long": -98.4682
+    },
+    {
+      "name": "Billings",
+      "lat": 46.4764,
+      "long": -102.3807
+    },
+    {
+      "name": "Bottineau",
+      "lat": 48.663,
+      "long": -100.4691
+    },
+    {
+      "name": "Bowman",
+      "lat": 46.1709,
+      "long": -103.4131
+    },
+    {
+      "name": "Burke",
+      "lat": 48.1887,
+      "long": -102.469
+    },
+    {
+      "name": "Burleigh",
+      "lat": 46.3125,
+      "long": -100.2165
+    },
+    {
+      "name": "Cass",
+      "lat": 46.8753,
+      "long": -96.7898
+    },
+    {
+      "name": "Cavalier",
+      "lat": 48.7074,
+      "long": -98.2256
+    },
+    {
+      "name": "Dickey",
+      "lat": 46.0015,
+      "long": -98.5807
+    },
+    {
+      "name": "Divide",
+      "lat": 48.1509,
+      "long": -103.2569
+    },
+    {
+      "name": "Dunn",
+      "lat": 46.432,
+      "long": -102.4484
+    },
+    {
+      "name": "Eddy",
+      "lat": 47.9403,
+      "long": -98.0769
+    },
+    {
+      "name": "Emmons",
+      "lat": 46.2463,
+      "long": -100.615
+    },
+    {
+      "name": "Foster",
+      "lat": 47.6065,
+      "long": -98.0631
+    },
+    {
+      "name": "Golden Valley",
+      "lat": 47.0736,
+      "long": -103.3356
+    },
+    {
+      "name": "Grand Forks",
+      "lat": 47.4264,
+      "long": -97.1251
+    },
+    {
+      "name": "Grant",
+      "lat": 46.2575,
+      "long": -99.0532
+    },
+    {
+      "name": "Griggs",
+      "lat": 47.3319,
+      "long": -98.1036
+    },
+    {
+      "name": "Hannah",
+      "lat": 47.418,
+      "long": -98.4312
+    },
+    {
+      "name": "Harvey",
+      "lat": 47.5736,
+      "long": -99.5122
+    },
+    {
+      "name": "Henson",
+      "lat": 46.6934,
+      "long": -98.5595
+    },
+    {
+      "name": "Hettinger",
+      "lat": 46.0442,
+      "long": -103.2569
+    },
+    {
+      "name": "Kidder",
+      "lat": 47.2281,
+      "long": -99.9366
+    },
+    {
+      "name": "LaMoure",
+      "lat": 46.3849,
+      "long": -98.3281
+    },
+    {
+      "name": "Logan",
+      "lat": 46.5164,
+      "long": -99.6877
+    },
+    {
+      "name": "McHenry",
+      "lat": 48.177,
+      "long": -98.3084
+    },
+    {
+      "name": "McIntosh",
+      "lat": 45.9951,
+      "long": -99.2045
+    },
+    {
+      "name": "McKenzie",
+      "lat": 48.383,
+      "long": -103.2275
+    },
+    {
+      "name": "McLean",
+      "lat": 47.5741,
+      "long": -101.2042
+    },
+    {
+      "name": "Mercer",
+      "lat": 47.2751,
+      "long": -101.4222
+    },
+    {
+      "name": "Morton",
+      "lat": 46.707,
+      "long": -100.8687
+    },
+    {
+      "name": "Mountrail",
+      "lat": 48.3181,
+      "long": -102.305
+    },
+    {
+      "name": "Nelson",
+      "lat": 47.5085,
+      "long": -98.1567
+    },
+    {
+      "name": "Oliver",
+      "lat": 46.8197,
+      "long": -100.5899
+    },
+    {
+      "name": "Pembina",
+      "lat": 48.9919,
+      "long": -97.2374
+    },
+    {
+      "name": "Pierce",
+      "lat": 48.2119,
+      "long": -98.0803
+    },
+    {
+      "name": "Polk",
+      "lat": 47.2243,
+      "long": -97.1089
+    },
+    {
+      "name": "Ramsey",
+      "lat": 48.1481,
+      "long": -98.6815
+    },
+    {
+      "name": "Ransom",
+      "lat": 46.4197,
+      "long": -97.0491
+    },
+    {
+      "name": "Reeves",
+      "lat": 47.2117,
+      "long": -101.7304
+    },
+    {
+      "name": "Richland",
+      "lat": 46.2296,
+      "long": -97.0891
+    },
+    {
+      "name": "Rolette",
+      "lat": 48.8459,
+      "long": -98.7267
+    },
+    {
+      "name": "Sargent",
+      "lat": 46.134,
+      "long": -97.0464
+    },
+    {
+      "name": "Sheridan",
+      "lat": 46.526,
+      "long": -102.461
+    },
+    {
+      "name": "Sioux",
+      "lat": 46.2459,
+      "long": -98.8196
+    },
+    {
+      "name": "Slope",
+      "lat": 46.2853,
+      "long": -103.527
+    },
+    {
+      "name": "Stark",
+      "lat": 46.7615,
+      "long": -102.7137
+    },
+    {
+      "name": "Steele",
+      "lat": 47.2547,
+      "long": -97.3072
+    },
+    {
+      "name": "Stutsman",
+      "lat": 46.9619,
+      "long": -98.2617
+    },
+    {
+      "name": "Towner",
+      "lat": 48.437,
+      "long": -98.8965
+    },
+    {
+      "name": "Traill",
+      "lat": 47.4629,
+      "long": -97.1769
+    },
+    {
+      "name": "Walsh",
+      "lat": 48.1142,
+      "long": -97.7567
+    },
+    {
+      "name": "Ward",
+      "lat": 48.1336,
+      "long": -101.313
+    },
+    {
+      "name": "Wells",
+      "lat": 47.6244,
+      "long": -98.1812
+    },
+    {
+      "name": "Williams",
+      "lat": 48.2945,
+      "long": -103.6454
+    }
+  ]
+}

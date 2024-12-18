@@ -1,0 +1,52 @@
+{
+  "nameState": "Wisconsin",
+  "lat": 43.7844,
+  "long": -88.7879,
+  "counties": [
+    {
+      "name": "Vernon",
+      "lat": 43.557,
+      "long": -90.7781
+    },
+    {
+      "name": "Vilas",
+      "lat": 45.9676,
+      "long": -89.4801
+    },
+    {
+      "name": "Walworth",
+      "lat": 42.6208,
+      "long": -88.6203
+    },
+    {
+      "name": "Washington",
+      "lat": 43.3934,
+      "long": -88.258
+    },
+    {
+      "name": "Waukesha",
+      "lat": 43.0131,
+      "long": -88.2304
+    },
+    {
+      "name": "Waupaca",
+      "lat": 44.3587,
+      "long": -89.1055
+    },
+    {
+      "name": "Waushara",
+      "lat": 44.105,
+      "long": -89.2699
+    },
+    {
+      "name": "Winnebago",
+      "lat": 44.0262,
+      "long": -88.5426
+    },
+    {
+      "name": "Wood",
+      "lat": 44.4091,
+      "long": -90.1404
+    }
+  ]
+}

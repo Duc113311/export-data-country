@@ -1,0 +1,327 @@
+{
+  "nameState": "Florida",
+  "lat": 27.9944024,
+  "long": -81.7602544,
+  "counties": [
+    {
+      "name": "Alachua",
+      "lat": 29.6573,
+      "long": -82.3018
+    },
+    {
+      "name": "Baker",
+      "lat": 30.3931,
+      "long": -82.1345
+    },
+    {
+      "name": "Bay",
+      "lat": 30.1813,
+      "long": -85.6847
+    },
+    {
+      "name": "Bradford",
+      "lat": 29.9489,
+      "long": -82.1305
+    },
+    {
+      "name": "Brevard",
+      "lat": 28.3932,
+      "long": -80.6081
+    },
+    {
+      "name": "Broward",
+      "lat": 26.1901,
+      "long": -80.3658
+    },
+    {
+      "name": "Calhoun",
+      "lat": 30.2907,
+      "long": -85.0853
+    },
+    {
+      "name": "Charlotte",
+      "lat": 26.9107,
+      "long": -81.9097
+    },
+    {
+      "name": "Citrus",
+      "lat": 28.898,
+      "long": -82.6084
+    },
+    {
+      "name": "Clay",
+      "lat": 29.9962,
+      "long": -81.7103
+    },
+    {
+      "name": "Collier",
+      "lat": 26.241,
+      "long": -81.7938
+    },
+    {
+      "name": "Columbia",
+      "lat": 30.1813,
+      "long": -82.6052
+    },
+    {
+      "name": "DeSoto",
+      "lat": 27.0282,
+      "long": -81.8576
+    },
+    {
+      "name": "Dixie",
+      "lat": 29.4006,
+      "long": -83.1629
+    },
+    {
+      "name": "Duval",
+      "lat": 30.3322,
+      "long": -81.6557
+    },
+    {
+      "name": "Escambia",
+      "lat": 30.7131,
+      "long": -87.3412
+    },
+    {
+      "name": "Flagler",
+      "lat": 29.4086,
+      "long": -81.1375
+    },
+    {
+      "name": "Franklin",
+      "lat": 29.7818,
+      "long": -84.4105
+    },
+    {
+      "name": "Gadsden",
+      "lat": 30.5562,
+      "long": -84.6473
+    },
+    {
+      "name": "Gilchrist",
+      "lat": 29.7036,
+      "long": -82.8137
+    },
+    {
+      "name": "Glades",
+      "lat": 26.663,
+      "long": -81.3975
+    },
+    {
+      "name": "Gulf",
+      "lat": 29.8,
+      "long": -85.2601
+    },
+    {
+      "name": "Hamilton",
+      "lat": 30.4567,
+      "long": -82.9988
+    },
+    {
+      "name": "Hardee",
+      "lat": 27.477,
+      "long": -81.8363
+    },
+    {
+      "name": "Hendry",
+      "lat": 26.5821,
+      "long": -81.4257
+    },
+    {
+      "name": "Hernando",
+      "lat": 28.5394,
+      "long": -82.4574
+    },
+    {
+      "name": "Highlands",
+      "lat": 27.612,
+      "long": -81.42
+    },
+    {
+      "name": "Hillsborough",
+      "lat": 27.9506,
+      "long": -82.4572
+    },
+    {
+      "name": "Holmes",
+      "lat": 30.9825,
+      "long": -85.7219
+    },
+    {
+      "name": "Indian River",
+      "lat": 27.636,
+      "long": -80.447
+    },
+    {
+      "name": "Jackson",
+      "lat": 30.715,
+      "long": -85.1899
+    },
+    {
+      "name": "Jefferson",
+      "lat": 30.4999,
+      "long": -83.668
+    },
+    {
+      "name": "Lafayette",
+      "lat": 30.1333,
+      "long": -83.1541
+    },
+    {
+      "name": "Lake",
+      "lat": 28.7028,
+      "long": -81.777
+    },
+    {
+      "name": "Lee",
+      "lat": 26.663,
+      "long": -81.3153
+    },
+    {
+      "name": "Leon",
+      "lat": 30.4397,
+      "long": -84.185
+    },
+    {
+      "name": "Levy",
+      "lat": 29.1344,
+      "long": -82.5894
+    },
+    {
+      "name": "Liberty",
+      "lat": 30.392,
+      "long": -84.782
+    },
+    {
+      "name": "Madison",
+      "lat": 30.4437,
+      "long": -83.4171
+    },
+    {
+      "name": "Manatee",
+      "lat": 27.498,
+      "long": -82.5758
+    },
+    {
+      "name": "Marion",
+      "lat": 29.0047,
+      "long": -82.1383
+    },
+    {
+      "name": "Martin",
+      "lat": 27.1437,
+      "long": -80.2471
+    },
+    {
+      "name": "Miami-Dade",
+      "lat": 25.7617,
+      "long": -80.1918
+    },
+    {
+      "name": "Monroe",
+      "lat": 24.6193,
+      "long": -81.6033
+    },
+    {
+      "name": "Nassau",
+      "lat": 30.7481,
+      "long": -81.5762
+    },
+    {
+      "name": "Okaloosa",
+      "lat": 30.4522,
+      "long": -86.5471
+    },
+    {
+      "name": "Okeechobee",
+      "lat": 27.2108,
+      "long": -80.8263
+    },
+    {
+      "name": "Orange",
+      "lat": 28.5383,
+      "long": -81.3792
+    },
+    {
+      "name": "Osceola",
+      "lat": 28.1019,
+      "long": -81.0755
+    },
+    {
+      "name": "Palm Beach",
+      "lat": 26.6877,
+      "long": -80.0518
+    },
+    {
+      "name": "Pasco",
+      "lat": 28.3232,
+      "long": -82.4313
+    },
+    {
+      "name": "Pinellas",
+      "lat": 27.8761,
+      "long": -82.7778
+    },
+    {
+      "name": "Polk",
+      "lat": 27.8612,
+      "long": -81.6947
+    },
+    {
+      "name": "Putnam",
+      "lat": 29.6372,
+      "long": -81.4977
+    },
+    {
+      "name": "Santa Rosa",
+      "lat": 30.7141,
+      "long": -87.1818
+    },
+    {
+      "name": "Sarasota",
+      "lat": 27.338,
+      "long": -82.5307
+    },
+    {
+      "name": "Seminole",
+      "lat": 28.8009,
+      "long": -81.2085
+    },
+    {
+      "name": "Sumter",
+      "lat": 28.7084,
+      "long": -82.0412
+    },
+    {
+      "name": "Taylor",
+      "lat": 30.1087,
+      "long": -83.5962
+    },
+    {
+      "name": "Union",
+      "lat": 30.0236,
+      "long": -82.3195
+    },
+    {
+      "name": "Volusia",
+      "lat": 29.0273,
+      "long": -81.0998
+    },
+    {
+      "name": "Wakulla",
+      "lat": 30.0428,
+      "long": -84.4056
+    },
+    {
+      "name": "Walton",
+      "lat": 30.6776,
+      "long": -86.291
+    },
+    {
+      "name": "Washington",
+      "lat": 30.7763,
+      "long": -85.6052
+    }
+  ]
+}

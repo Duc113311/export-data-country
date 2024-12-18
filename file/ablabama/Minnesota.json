@@ -1,0 +1,232 @@
+{
+  "nameState": "Minnesota",
+  "lat": 46.7296,
+  "long": -94.6859,
+  "counties": [
+    {
+      "name": "Aitkin",
+      "lat": 46.5321,
+      "long": -93.7041
+    },
+    {
+      "name": "Anoka",
+      "lat": 45.2022,
+      "long": -93.3964
+    },
+    {
+      "name": "Becker",
+      "lat": 47.2846,
+      "long": -95.4975
+    },
+    {
+      "name": "Beltrami",
+      "lat": 47.5214,
+      "long": -94.7963
+    },
+    {
+      "name": "Benton",
+      "lat": 45.7219,
+      "long": -94.4053
+    },
+    {
+      "name": "Big Stone",
+      "lat": 45.3035,
+      "long": -96.0607
+    },
+    {
+      "name": "Blue Earth",
+      "lat": 43.9865,
+      "long": -94.0353
+    },
+    {
+      "name": "Brown",
+      "lat": 44.1982,
+      "long": -94.3513
+    },
+    {
+      "name": "Carlton",
+      "lat": 46.7295,
+      "long": -92.4841
+    },
+    {
+      "name": "Carver",
+      "lat": 44.5699,
+      "long": -93.6633
+    },
+    {
+      "name": "Cass",
+      "lat": 46.1165,
+      "long": -94.5242
+    },
+    {
+      "name": "Chippewa",
+      "lat": 45.3054,
+      "long": -95.2694
+    },
+    {
+      "name": "Chisago",
+      "lat": 45.5541,
+      "long": -92.9865
+    },
+    {
+      "name": "Clay",
+      "lat": 46.9079,
+      "long": -96.4744
+    },
+    {
+      "name": "Clearwater",
+      "lat": 47.251,
+      "long": -94.7857
+    },
+    {
+      "name": "Cook",
+      "lat": 47.726,
+      "long": -90.6639
+    },
+    {
+      "name": "Cottonwood",
+      "lat": 43.9764,
+      "long": -95.1576
+    },
+    {
+      "name": "Crow Wing",
+      "lat": 46.4536,
+      "long": -94.2968
+    },
+    {
+      "name": "Dakota",
+      "lat": 44.7314,
+      "long": -93.1457
+    },
+    {
+      "name": "Dodge",
+      "lat": 43.7342,
+      "long": -92.9499
+    },
+    {
+      "name": "Douglas",
+      "lat": 45.9149,
+      "long": -95.5375
+    },
+    {
+      "name": "Faribault",
+      "lat": 43.5651,
+      "long": -93.9151
+    },
+    {
+      "name": "Fillmore",
+      "lat": 43.6676,
+      "long": -91.9929
+    },
+    {
+      "name": "Freeborn",
+      "lat": 43.6848,
+      "long": -93.365
+    },
+    {
+      "name": "Goodhue",
+      "lat": 44.2824,
+      "long": -92.5926
+    },
+    {
+      "name": "Grant",
+      "lat": 45.6515,
+      "long": -95.6267
+    },
+    {
+      "name": "Hennepin",
+      "lat": 44.9778,
+      "long": -93.265
+    },
+    {
+      "name": "Houston",
+      "lat": 43.8387,
+      "long": -91.5127
+    },
+    {
+      "name": "Hubbard",
+      "lat": 47.1437,
+      "long": -94.6452
+    },
+    {
+      "name": "Isanti",
+      "lat": 45.4669,
+      "long": -93.2115
+    },
+    {
+      "name": "Itasca",
+      "lat": 47.2322,
+      "long": -93.6243
+    },
+    {
+      "name": "Jackson",
+      "lat": 43.6443,
+      "long": -94.989
+    },
+    {
+      "name": "Kanabec",
+      "lat": 45.9734,
+      "long": -93.2114
+    },
+    {
+      "name": "Kandiyohi",
+      "lat": 45.1027,
+      "long": -94.9294
+    },
+    {
+      "name": "Kittson",
+      "lat": 48.4464,
+      "long": -96.3149
+    },
+    {
+      "name": "Koochiching",
+      "lat": 48.3077,
+      "long": -93.4124
+    },
+    {
+      "name": "Lac qui Parle",
+      "lat": 44.933,
+      "long": -95.7024
+    },
+    {
+      "name": "Lake",
+      "lat": 47.3403,
+      "long": -89.4039
+    },
+    {
+      "name": "Lake of the Woods",
+      "lat": 48.3967,
+      "long": -94.323
+    },
+    {
+      "name": "Le Sueur",
+      "lat": 44.3329,
+      "long": -93.7176
+    },
+    {
+      "name": "Lincoln",
+      "lat": 44.5099,
+      "long": -95.552
+    },
+    {
+      "name": "Lyon",
+      "lat": 44.0217,
+      "long": -95.8151
+    },
+    {
+      "name": "McLeod",
+      "lat": 44.9248,
+      "long": -94.4697
+    },
+    {
+      "name": "Mahnomen",
+      "lat": 47.2384,
+      "long": -95.9374
+    },
+    {
+      "name": "Marshall",
+      "lat": 44.4463,
+      "long": -95.7839
+    }
+  ]
+}

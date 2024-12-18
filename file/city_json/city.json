@@ -1,0 +1,554 @@
+[
+  {
+    "code": 0,
+    "city": "Đông Bắc Bộ",
+    "category": null,
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Đông_Bắc_Bộ",
+    "viNameLanguage": "Đông Bắc Bộ"
+  },
+  {
+    "code": 1,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Bắc_Giang",
+    "viNameLanguage": "Bắc Giang"
+  },
+  {
+    "code": 2,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Bắc_Kạn",
+    "viNameLanguage": "Bắc Kạn"
+  },
+  {
+    "code": 3,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Cao_Bằng",
+    "viNameLanguage": "Cao Bằng"
+  },
+  {
+    "code": 4,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Hà_Giang",
+    "viNameLanguage": "Hà Giang"
+  },
+  {
+    "code": 5,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Lạng_Sơn",
+    "viNameLanguage": "Lạng Sơn"
+  },
+  {
+    "code": 6,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Phú_Thọ",
+    "viNameLanguage": "Phú Thọ"
+  },
+  {
+    "code": 7,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Thái_Nguyên",
+    "viNameLanguage": "Thái Nguyên"
+  },
+  {
+    "code": 8,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Quảng_Ninh",
+    "viNameLanguage": "Quảng Ninh"
+  },
+  {
+    "code": 9,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Bắc Bộ",
+    "viKeyLanguage": "Tuyên_Quang",
+    "viNameLanguage": "Tuyên Quang"
+  },
+  {
+    "code": 10,
+    "city": "Tây Bắc Bộ",
+    "category": null,
+    "nameCategory": "Tây Bắc Bộ",
+    "viKeyLanguage": "Tây_Bắc_Bộ",
+    "viNameLanguage": "Tây Bắc Bộ"
+  },
+  {
+    "code": 11,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Bắc Bộ",
+    "viKeyLanguage": "Hòa_Bình",
+    "viNameLanguage": "Hòa Bình"
+  },
+  {
+    "code": 12,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Bắc Bộ",
+    "viKeyLanguage": "Lai_Châu",
+    "viNameLanguage": "Lai Châu"
+  },
+  {
+    "code": 13,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Bắc Bộ",
+    "viKeyLanguage": "Lào_Cai",
+    "viNameLanguage": "Lào Cai"
+  },
+  {
+    "code": 14,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Bắc Bộ",
+    "viKeyLanguage": "Sơn_La",
+    "viNameLanguage": "Sơn La"
+  },
+  {
+    "code": 15,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Bắc Bộ",
+    "viKeyLanguage": "Yên_Bái",
+    "viNameLanguage": "Yên Bái"
+  },
+  {
+    "code": 16,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Bắc Bộ",
+    "viKeyLanguage": "Điện_Biên",
+    "viNameLanguage": "Điện Biên"
+  },
+  {
+    "code": 17,
+    "city": "Đồng bằng sông Hồng",
+    "category": null,
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Đồng_bằng_sông_Hồng",
+    "viNameLanguage": "Đồng bằng sông Hồng"
+  },
+  {
+    "code": 18,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Bắc_Ninh",
+    "viNameLanguage": "Bắc Ninh"
+  },
+  {
+    "code": 19,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Hà_Nam",
+    "viNameLanguage": "Hà Nam"
+  },
+  {
+    "code": 20,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Hà_Nội",
+    "viNameLanguage": "Hà Nội"
+  },
+  {
+    "code": 21,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Hải_Dương",
+    "viNameLanguage": "Hải Dương"
+  },
+  {
+    "code": 22,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Hải_Phòng",
+    "viNameLanguage": "Hải Phòng"
+  },
+  {
+    "code": 23,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Hưng_Yên",
+    "viNameLanguage": "Hưng Yên"
+  },
+  {
+    "code": 24,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Nam_Định",
+    "viNameLanguage": "Nam Định"
+  },
+  {
+    "code": 25,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Ninh_Bình",
+    "viNameLanguage": "Ninh Bình"
+  },
+  {
+    "code": 26,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Thái_Bình",
+    "viNameLanguage": "Thái Bình"
+  },
+  {
+    "code": 27,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Hồng",
+    "viKeyLanguage": "Vĩnh_Phúc",
+    "viNameLanguage": "Vĩnh Phúc"
+  },
+  {
+    "code": 28,
+    "city": "Bắc Trung Bộ",
+    "category": null,
+    "nameCategory": "Bắc Trung Bộ",
+    "viKeyLanguage": "Bắc_Trung_Bộ",
+    "viNameLanguage": "Bắc Trung Bộ"
+  },
+  {
+    "code": 29,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Bắc Trung Bộ",
+    "viKeyLanguage": "Hà_Tĩnh",
+    "viNameLanguage": "Hà Tĩnh"
+  },
+  {
+    "code": 30,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Bắc Trung Bộ",
+    "viKeyLanguage": "Nghệ_An",
+    "viNameLanguage": "Nghệ An"
+  },
+  {
+    "code": 31,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Bắc Trung Bộ",
+    "viKeyLanguage": "Quảng_Bình",
+    "viNameLanguage": "Quảng Bình"
+  },
+  {
+    "code": 32,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Bắc Trung Bộ",
+    "viKeyLanguage": "Quảng_Trị",
+    "viNameLanguage": "Quảng Trị"
+  },
+  {
+    "code": 33,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Bắc Trung Bộ",
+    "viKeyLanguage": "Thanh_Hóa",
+    "viNameLanguage": "Thanh Hóa"
+  },
+  {
+    "code": 34,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Bắc Trung Bộ",
+    "viKeyLanguage": "Huế",
+    "viNameLanguage": "Huế"
+  },
+  {
+    "code": 35,
+    "city": "Nam Trung Bộ",
+    "category": null,
+    "nameCategory": "Nam Trung Bộ",
+    "viKeyLanguage": "Nam_Trung_Bộ",
+    "viNameLanguage": "Nam Trung Bộ"
+  },
+  {
+    "code": 36,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Nam Trung Bộ",
+    "viKeyLanguage": "Bình_Thuận",
+    "viNameLanguage": "Bình Thuận"
+  },
+  {
+    "code": 37,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Nam Trung Bộ",
+    "viKeyLanguage": "Bình_Định",
+    "viNameLanguage": "Bình Định"
+  },
+  {
+    "code": 38,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Nam Trung Bộ",
+    "viKeyLanguage": "Khánh_Hòa",
+    "viNameLanguage": "Khánh Hòa"
+  },
+  {
+    "code": 39,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Nam Trung Bộ",
+    "viKeyLanguage": "Ninh_Thuận",
+    "viNameLanguage": "Ninh Thuận"
+  },
+  {
+    "code": 40,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Nam Trung Bộ",
+    "viKeyLanguage": "Phú_Yên",
+    "viNameLanguage": "Phú Yên"
+  },
+  {
+    "code": 41,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Nam Trung Bộ",
+    "viKeyLanguage": "Quảng_Nam",
+    "viNameLanguage": "Quảng Nam"
+  },
+  {
+    "code": 42,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Nam Trung Bộ",
+    "viKeyLanguage": "Quảng_Ngãi",
+    "viNameLanguage": "Quảng Ngãi"
+  },
+  {
+    "code": 43,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Nam Trung Bộ",
+    "viKeyLanguage": "Đà_Nẵng",
+    "viNameLanguage": "Đà Nẵng"
+  },
+  {
+    "code": 44,
+    "city": "Tây Nguyên",
+    "category": null,
+    "nameCategory": "Tây Nguyên",
+    "viKeyLanguage": "Tây_Nguyên",
+    "viNameLanguage": "Tây Nguyên"
+  },
+  {
+    "code": 45,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Nguyên",
+    "viKeyLanguage": "Gia_Lai",
+    "viNameLanguage": "Gia Lai"
+  },
+  {
+    "code": 46,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Nguyên",
+    "viKeyLanguage": "Kom_Tum",
+    "viNameLanguage": "Kom Tum"
+  },
+  {
+    "code": 47,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Nguyên",
+    "viKeyLanguage": "Lâm_Đồng",
+    "viNameLanguage": "Lâm Đồng"
+  },
+  {
+    "code": 48,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Nguyên",
+    "viKeyLanguage": "Đắk_Lăk",
+    "viNameLanguage": "Đắk Lăk"
+  },
+  {
+    "code": 49,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Tây Nguyên",
+    "viKeyLanguage": "Đắk_Nông",
+    "viNameLanguage": "Đắk Nông"
+  },
+  {
+    "code": 50,
+    "city": "Đông Nam Bộ",
+    "category": null,
+    "nameCategory": "Đông Nam Bộ",
+    "viKeyLanguage": "Đông_Nam_Bộ",
+    "viNameLanguage": "Đông Nam Bộ"
+  },
+  {
+    "code": 51,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Nam Bộ",
+    "viKeyLanguage": "Bà_Rịa_-_Vũng_Tàu",
+    "viNameLanguage": "Bà Rịa - Vũng Tàu"
+  },
+  {
+    "code": 52,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Nam Bộ",
+    "viKeyLanguage": "Bình_Dương",
+    "viNameLanguage": "Bình Dương"
+  },
+  {
+    "code": 53,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Nam Bộ",
+    "viKeyLanguage": "Bình_Phước",
+    "viNameLanguage": "Bình Phước"
+  },
+  {
+    "code": 54,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Nam Bộ",
+    "viKeyLanguage": "Hồ_Chí_Minh",
+    "viNameLanguage": "Hồ Chí Minh"
+  },
+  {
+    "code": 55,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Nam Bộ",
+    "viKeyLanguage": "Tây_Ninh",
+    "viNameLanguage": "Tây Ninh"
+  },
+  {
+    "code": 56,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đông Nam Bộ",
+    "viKeyLanguage": "Đồng_Nai",
+    "viNameLanguage": "Đồng Nai"
+  },
+  {
+    "code": 57,
+    "city": "Đồng bằng sông Cửu Long",
+    "category": null,
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Đồng_bằng_sông_Cửu_Long",
+    "viNameLanguage": "Đồng bằng sông Cửu Long"
+  },
+  {
+    "code": 58,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "An_Giang",
+    "viNameLanguage": "An Giang"
+  },
+  {
+    "code": 59,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Bạc_Liêu",
+    "viNameLanguage": "Bạc Liêu"
+  },
+  {
+    "code": 60,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Bến_Tre",
+    "viNameLanguage": "Bến Tre"
+  },
+  {
+    "code": 61,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Cà_Mau",
+    "viNameLanguage": "Cà Mau"
+  },
+  {
+    "code": 62,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Cần_Thơ",
+    "viNameLanguage": "Cần Thơ"
+  },
+  {
+    "code": 63,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Hậu_Giang",
+    "viNameLanguage": "Hậu Giang"
+  },
+  {
+    "code": 64,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Kiên_Giang",
+    "viNameLanguage": "Kiên Giang"
+  },
+  {
+    "code": 65,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Long_An",
+    "viNameLanguage": "Long An"
+  },
+  {
+    "code": 66,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Sóc_Trăng",
+    "viNameLanguage": "Sóc Trăng"
+  },
+  {
+    "code": 67,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Tiền_Giang",
+    "viNameLanguage": "Tiền Giang"
+  },
+  {
+    "code": 68,
+    "city": "Tỉnh Thành",
+    "category": "Tỉnh Thành",
+    "nameCategory": "Đồng bằng sông Cửu Long",
+    "viKeyLanguage": "Trà_Vinh",
+    "viNameLanguage": "Trà Vinh"
+  }
+]

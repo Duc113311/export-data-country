@@ -1,0 +1,1378 @@
+{
+    "nameState": "Arkansas",
+    "lat": 34.7465,
+    "long": -92.2896,
+    "counties": [
+        {
+            "name": "Ashley",
+            "lat": 33.2065,
+            "long": -91.8675,
+            "cities": [
+                {
+                    "name": "Hamburg",
+                    "type": "City",
+                    "lat": 33.2087,
+                    "long": -91.8660
+                },
+                {
+                    "name": "Wilmot",
+                    "type": "City",
+                    "lat": 33.2859,
+                    "long": -91.4890
+                },
+                {
+                    "name": "Felsenthal",
+                    "type": "Town",
+                    "lat": 33.2516,
+                    "long": -92.3536
+                },
+                {
+                    "name": "Mount Holly",
+                    "type": "Village",
+                    "lat": 33.2960,
+                    "long": -91.8564
+                },
+                {
+                    "name": "Ashley Township",
+                    "type": "Township",
+                    "lat": 33.2470,
+                    "long": -91.7105
+                }
+            ]
+        },
+        {
+            "name": "Baxter",
+            "lat": 36.3336,
+            "long": -92.3802,
+            "cities": [
+                {
+                    "name": "Mountain Home",
+                    "type": "City",
+                    "lat": 36.3307,
+                    "long": -92.3811
+                },
+                {
+                    "name": "Norfork",
+                    "type": "Town",
+                    "lat": 36.3000,
+                    "long": -92.3522
+                },
+                {
+                    "name": "Gassville",
+                    "type": "Town",
+                    "lat": 36.3586,
+                    "long": -92.4685
+                },
+                {
+                    "name": "Lakeview",
+                    "type": "Town",
+                    "lat": 36.3254,
+                    "long": -92.4417
+                },
+                {
+                    "name": "Cotter",
+                    "type": "Town",
+                    "lat": 36.3782,
+                    "long": -92.5463
+                }
+            ]
+        },
+        {
+            "name": "Benton",
+            "lat": 36.3729,
+            "long": -94.3154,
+            "cities": [
+                {
+                    "name": "Bentonville",
+                    "type": "City",
+                    "lat": 36.3666,
+                    "long": -94.2088
+                },
+                {
+                    "name": "Rogers",
+                    "type": "City",
+                    "lat": 36.3322,
+                    "long": -94.1183
+                },
+                {
+                    "name": "Bella Vista",
+                    "type": "City",
+                    "lat": 36.4805,
+                    "long": -94.2628
+                },
+                {
+                    "name": "Bryant",
+                    "type": "City",
+                    "lat": 34.7380,
+                    "long": -92.4604
+                },
+                {
+                    "name": "Garfield",
+                    "type": "Town",
+                    "lat": 36.4533,
+                    "long": -93.8495
+                },
+                {
+                    "name": "Haskell",
+                    "type": "Town",
+                    "lat": 34.5846,
+                    "long": -92.9936
+                },
+                {
+                    "name": "Sulphur Springs",
+                    "type": "Town",
+                    "lat": 36.2675,
+                    "long": -94.3660
+                },
+                {
+                    "name": "Avoca",
+                    "type": "Town",
+                    "lat": 36.3083,
+                    "long": -94.0434
+                },
+                {
+                    "name": "Centerton",
+                    "type": "City",
+                    "lat": 36.3792,
+                    "long": -94.2976
+                }
+            ]
+        },
+        {
+            "name": "Boone",
+            "lat": 36.3486,
+            "long": -93.1700,
+            "cities": [
+                {
+                    "name": "Harrison",
+                    "type": "City",
+                    "lat": 36.2297,
+                    "long": -93.7391
+                },
+                {
+                    "name": "Diamond City",
+                    "type": "City",
+                    "lat": 36.4240,
+                    "long": -93.2386
+                },
+                {
+                    "name": "Lead Hill",
+                    "type": "Town",
+                    "lat": 36.4235,
+                    "long": -93.2150
+                },
+                {
+                    "name": "Green Forest",
+                    "type": "City",
+                    "lat": 36.4060,
+                    "long": -93.4922
+                },
+                {
+                    "name": "South Lead Hill",
+                    "type": "Town",
+                    "lat": 36.4139,
+                    "long": -93.2277
+                }
+            ]
+        },
+        {
+            "name": "Bradley",
+            "lat": 33.0600,
+            "long": -92.4070,
+            "cities": [
+                {
+                    "name": "Hermitage",
+                    "type": "City",
+                    "lat": 33.2325,
+                    "long": -92.3066
+                },
+                {
+                    "name": "Warren",
+                    "type": "City",
+                    "lat": 33.6060,
+                    "long": -92.0940
+                },
+                {
+                    "name": "Banks",
+                    "type": "Town",
+                    "lat": 33.4696,
+                    "long": -92.4057
+                },
+                {
+                    "name": "Bradley",
+                    "type": "Town",
+                    "lat": 33.4020,
+                    "long": -92.3130
+                }
+            ]
+        },
+        {
+            "name": "Calhoun",
+            "lat": 33.2885,
+            "long": -92.4936,
+            "cities": [
+                {
+                    "name": "Hampton",
+                    "type": "City",
+                    "lat": 33.2451,
+                    "long": -92.7095
+                },
+                {
+                    "name": "Harrell",
+                    "type": "Town",
+                    "lat": 33.3210,
+                    "long": -92.7090
+                },
+                {
+                    "name": "Tougaloo",
+                    "type": "Town",
+                    "lat": 33.3835,
+                    "long": -92.6235
+                }
+            ]
+        },
+        {
+            "name": "Carroll",
+            "lat": 36.3151,
+            "long": -93.4706,
+            "cities": [
+                {
+                    "name": "Berryville",
+                    "type": "City",
+                    "lat": 36.3660,
+                    "long": -93.5667
+                },
+                {
+                    "name": "Eureka Springs",
+                    "type": "City",
+                    "lat": 36.3995,
+                    "long": -93.7374
+                },
+                {
+                    "name": "Holiday Island",
+                    "type": "Town",
+                    "lat": 36.4997,
+                    "long": -93.6916
+                },
+                {
+                    "name": "Oak Grove",
+                    "type": "Town",
+                    "lat": 36.3949,
+                    "long": -93.5719
+                }
+            ]
+        },
+        {
+            "name": "Chicot",
+            "lat": 33.2826,
+            "long": -91.3037,
+            "cities": [
+                {
+                    "name": "Lake Village",
+                    "type": "City",
+                    "lat": 33.1414,
+                    "long": -91.2855
+                },
+                {
+                    "name": "Dermott",
+                    "type": "City",
+                    "lat": 33.6367,
+                    "long": -91.5334
+                },
+                {
+                    "name": "Montrose",
+                    "type": "Town",
+                    "lat": 33.0527,
+                    "long": -91.3633
+                }
+            ]
+        },
+        {
+            "name": "Clark",
+            "lat": 34.0595,
+            "long": -93.1220,
+            "cities": [
+                {
+                    "name": "Arkadelphia",
+                    "type": "City",
+                    "lat": 34.1140,
+                    "long": -93.0022
+                },
+                {
+                    "name": "Gurdon",
+                    "type": "City",
+                    "lat": 33.8451,
+                    "long": -93.0581
+                },
+                {
+                    "name": "Caddo Valley",
+                    "type": "Town",
+                    "lat": 34.1711,
+                    "long": -93.0602
+                },
+                {
+                    "name": "Amity",
+                    "type": "Town",
+                    "lat": 34.2331,
+                    "long": -93.4523
+                }
+            ]
+        },
+        {
+            "name": "Clay",
+            "lat": 36.0719,
+            "long": -90.2825,
+            "cities": [
+                {
+                    "name": "Corning",
+                    "type": "City",
+                    "lat": 36.0506,
+                    "long": -90.6055
+                },
+                {
+                    "name": "Piggott",
+                    "type": "City",
+                    "lat": 36.3397,
+                    "long": -90.1627
+                },
+                {
+                    "name": "Knobel",
+                    "type": "Town",
+                    "lat": 36.3377,
+                    "long": -90.2499
+                },
+                {
+                    "name": "Datto",
+                    "type": "Town",
+                    "lat": 36.2895,
+                    "long": -90.1252
+                }
+            ]
+        },
+        {
+            "name": "Cleburne",
+            "lat": 35.4947,
+            "long": -92.0330,
+            "cities": [
+                {
+                    "name": "Heber Springs",
+                    "type": "City",
+                    "lat": 35.4870,
+                    "long": -92.0399
+                },
+                {
+                    "name": "Greers Ferry",
+                    "type": "City",
+                    "lat": 35.5535,
+                    "long": -92.2433
+                },
+                {
+                    "name": "Rose Bud",
+                    "type": "Town",
+                    "lat": 35.3285,
+                    "long": -92.3462
+                },
+                {
+                    "name": "Conway",
+                    "type": "Town",
+                    "lat": 35.5204,
+                    "long": -92.5367
+                }
+            ]
+        },
+        {
+            "name": "Columbia",
+            "lat": 33.0577,
+            "long": -93.2572,
+            "cities": [
+                {
+                    "name": "Magnolia",
+                    "type": "City",
+                    "lat": 33.2631,
+                    "long": -93.2295
+                },
+                {
+                    "name": "McNeil",
+                    "type": "City",
+                    "lat": 33.1806,
+                    "long": -93.3319
+                },
+                {
+                    "name": "Emerson",
+                    "type": "Town",
+                    "lat": 33.0087,
+                    "long": -93.1580
+                },
+                {
+                    "name": "Walnut Hill",
+                    "type": "Town",
+                    "lat": 33.1064,
+                    "long": -93.3246
+                }
+            ]
+        },
+        {
+            "name": "Conway",
+            "lat": 35.1517,
+            "long": -92.4131,
+            "cities": [
+                {
+                    "name": "Morrilton",
+                    "type": "City",
+                    "lat": 35.1520,
+                    "long": -92.7444
+                },
+                {
+                    "name": "Plumerville",
+                    "type": "Town",
+                    "lat": 35.1475,
+                    "long": -92.7439
+                },
+                {
+                    "name": "Conway",
+                    "type": "City",
+                    "lat": 35.0887,
+                    "long": -92.4427
+                },
+                {
+                    "name": "Twin Groves",
+                    "type": "Town",
+                    "lat": 35.2055,
+                    "long": -92.5356
+                }
+            ]
+        },
+        {
+            "name": "Craighead",
+            "lat": 35.8264,
+            "long": -90.6770,
+            "cities": [
+                {
+                    "name": "Jonesboro",
+                    "type": "City",
+                    "lat": 35.8423,
+                    "long": -90.7048
+                },
+                {
+                    "name": "Bay",
+                    "type": "Town",
+                    "lat": 35.5883,
+                    "long": -90.4636
+                },
+                {
+                    "name": "Caraway",
+                    "type": "Town",
+                    "lat": 35.7420,
+                    "long": -90.3594
+                },
+                {
+                    "name": "Monette",
+                    "type": "Town",
+                    "lat": 35.6490,
+                    "long": -90.2294
+                },
+                {
+                    "name": "Weiner",
+                    "type": "Town",
+                    "lat": 35.6051,
+                    "long": -90.4309
+                },
+                {
+                    "name": "Lake City",
+                    "type": "Town",
+                    "lat": 35.6587,
+                    "long": -90.3357
+                },
+                {
+                    "name": "Brookland",
+                    "type": "Town",
+                    "lat": 35.7086,
+                    "long": -90.6272
+                }
+            ]
+        },
+        {
+            "name": "Crawford",
+            "lat": 35.5448,
+            "long": -94.3140,
+            "cities": [
+                {
+                    "name": "Van Buren",
+                    "type": "City",
+                    "lat": 35.4405,
+                    "long": -94.3301
+                },
+                {
+                    "name": "Alma",
+                    "type": "City",
+                    "lat": 35.5094,
+                    "long": -94.2390
+                },
+                {
+                    "name": "Mulberry",
+                    "type": "City",
+                    "lat": 35.4445,
+                    "long": -94.1309
+                },
+                {
+                    "name": "Cedarville",
+                    "type": "Town",
+                    "lat": 35.4915,
+                    "long": -94.3129
+                },
+                {
+                    "name": "Kibler",
+                    "type": "Town",
+                    "lat": 35.4949,
+                    "long": -94.2203
+                }
+            ]
+        },
+        {
+            "name": "Crittenden",
+            "lat": 35.2190,
+            "long": -90.3995,
+            "cities": [
+                {
+                    "name": "West Memphis",
+                    "type": "City",
+                    "lat": 35.1495,
+                    "long": -90.1620
+                },
+                {
+                    "name": "Marion",
+                    "type": "City",
+                    "lat": 35.2245,
+                    "long": -90.2095
+                },
+                {
+                    "name": "Earle",
+                    "type": "City",
+                    "lat": 35.2223,
+                    "long": -90.4491
+                },
+                {
+                    "name": "Crawfordsville",
+                    "type": "Town",
+                    "lat": 35.1647,
+                    "long": -90.3179
+                },
+                {
+                    "name": "Gilmore",
+                    "type": "Town",
+                    "lat": 35.2615,
+                    "long": -90.3195
+                },
+                {
+                    "name": "Jennette",
+                    "type": "Town",
+                    "lat": 35.1161,
+                    "long": -90.3880
+                }
+            ]
+        },
+        {
+            "name": "Cross",
+            "lat": 35.2056,
+            "long": -90.5710,
+            "cities": [
+                {
+                    "name": "Wynne",
+                    "type": "City",
+                    "lat": 35.2240,
+                    "long": -90.7865
+                },
+                {
+                    "name": "Hughes",
+                    "type": "City",
+                    "lat": 34.9835,
+                    "long": -90.6597
+                },
+                {
+                    "name": "Cherry Valley",
+                    "type": "Town",
+                    "lat": 35.1512,
+                    "long": -90.4189
+                },
+                {
+                    "name": "Parkin",
+                    "type": "Town",
+                    "lat": 35.1530,
+                    "long": -90.4585
+                },
+                {
+                    "name": "Caldwell",
+                    "type": "Town",
+                    "lat": 35.1077,
+                    "long": -90.6319
+                }
+            ]
+        },
+        {
+            "name": "Dallas",
+            "lat": 33.8369,
+            "long": -92.6259,
+            "cities": [
+                {
+                    "name": "Fordyce",
+                    "type": "City",
+                    "lat": 33.8986,
+                    "long": -92.3561
+                },
+                {
+                    "name": "Carson",
+                    "type": "Town",
+                    "lat": 33.7608,
+                    "long": -92.5483
+                },
+                {
+                    "name": "Prattsville",
+                    "type": "Town",
+                    "lat": 33.9902,
+                    "long": -92.6255
+                },
+                {
+                    "name": "Dallas",
+                    "type": "Town",
+                    "lat": 33.8257,
+                    "long": -92.3622
+                }
+            ]
+        },
+        {
+            "name": "Desha",
+            "lat": 33.7522,
+            "long": -91.5031,
+            "cities": [
+                {
+                    "name": "Dumas",
+                    "type": "City",
+                    "lat": 33.6401,
+                    "long": -91.5094
+                },
+                {
+                    "name": "McGehee",
+                    "type": "City",
+                    "lat": 33.6250,
+                    "long": -91.4917
+                },
+                {
+                    "name": "Gould",
+                    "type": "Town",
+                    "lat": 33.5415,
+                    "long": -91.4736
+                },
+                {
+                    "name": "Arkansas City",
+                    "type": "Town",
+                    "lat": 33.6904,
+                    "long": -91.2190
+                }
+            ]
+        },
+        {
+            "name": "Drew",
+            "lat": 33.3334,
+            "long": -91.5350,
+            "cities": [
+                {
+                    "name": "Monticello",
+                    "type": "City",
+                    "lat": 33.6086,
+                    "long": -91.7860
+                },
+                {
+                    "name": "Wilmar",
+                    "type": "Town",
+                    "lat": 33.2947,
+                    "long": -91.5923
+                },
+                {
+                    "name": "Tillar",
+                    "type": "Town",
+                    "lat": 33.3557,
+                    "long": -91.5192
+                },
+                {
+                    "name": "Lindale",
+                    "type": "Town",
+                    "lat": 33.4185,
+                    "long": -91.7249
+                }
+            ]
+        },
+        {
+            "name": "Faulkner",
+            "lat": 35.0905,
+            "long": -92.3818,
+            "cities": [
+                {
+                    "name": "Conway",
+                    "type": "City",
+                    "lat": 35.0887,
+                    "long": -92.4427
+                },
+                {
+                    "name": "Maumelle",
+                    "type": "City",
+                    "lat": 34.8817,
+                    "long": -92.4004
+                },
+                {
+                    "name": "Greenbrier",
+                    "type": "City",
+                    "lat": 35.2535,
+                    "long": -92.4172
+                },
+                {
+                    "name": "Vilonia",
+                    "type": "City",
+                    "lat": 35.1373,
+                    "long": -92.4330
+                },
+                {
+                    "name": "Mayflower",
+                    "type": "Town",
+                    "lat": 34.9569,
+                    "long": -92.4279
+                },
+                {
+                    "name": "Enola",
+                    "type": "Town",
+                    "lat": 35.1794,
+                    "long": -92.4079
+                }
+            ]
+        },
+        {
+            "name": "Franklin",
+            "lat": 35.4995,
+            "long": -93.6902,
+            "cities": [
+                {
+                    "name": "Ozark",
+                    "type": "City",
+                    "lat": 35.4828,
+                    "long": -93.8216
+                },
+                {
+                    "name": "Charleston",
+                    "type": "City",
+                    "lat": 35.2619,
+                    "long": -94.0177
+                },
+                {
+                    "name": "Altus",
+                    "type": "Town",
+                    "lat": 35.4671,
+                    "long": -93.7577
+                },
+                {
+                    "name": "Greenwood",
+                    "type": "Town",
+                    "lat": 35.3757,
+                    "long": -93.8283
+                },
+                {
+                    "name": "Branch",
+                    "type": "Town",
+                    "lat": 35.5075,
+                    "long": -93.6759
+                }
+            ]
+        },
+        {
+            "name": "Fulton",
+            "lat": 36.1575,
+            "long": -91.6182,
+            "cities": [
+                {
+                    "name": "Salem",
+                    "type": "City",
+                    "lat": 36.2986,
+                    "long": -91.5225
+                },
+                {
+                    "name": "Glencoe",
+                    "type": "Town",
+                    "lat": 36.2136,
+                    "long": -91.5487
+                },
+                {
+                    "name": "Mammoth Spring",
+                    "type": "Town",
+                    "lat": 36.5015,
+                    "long": -91.5481
+                },
+                {
+                    "name": "Williford",
+                    "type": "Town",
+                    "lat": 36.3793,
+                    "long": -91.4600
+                }
+            ]
+        },
+        {
+            "name": "Garland",
+            "lat": 34.5395,
+            "long": -93.1779,
+            "cities": [
+                {
+                    "name": "Hot Springs",
+                    "type": "City",
+                    "lat": 34.5037,
+                    "long": -93.0552
+                },
+                {
+                    "name": "Lake Hamilton",
+                    "type": "City",
+                    "lat": 34.4360,
+                    "long": -93.1519
+                },
+                {
+                    "name": "Hot Springs Village",
+                    "type": "City",
+                    "lat": 34.6432,
+                    "long": -93.1437
+                },
+                {
+                    "name": "Mountain Pine",
+                    "type": "Town",
+                    "lat": 34.4974,
+                    "long": -93.2683
+                },
+                {
+                    "name": "Lonsdale",
+                    "type": "Town",
+                    "lat": 34.5671,
+                    "long": -93.2943
+                },
+                {
+                    "name": "Fountain Lake",
+                    "type": "Town",
+                    "lat": 34.5976,
+                    "long": -93.1586
+                }
+            ]
+        },
+        {
+            "name": "Grant",
+            "lat": 34.3097,
+            "long": -92.4816,
+            "cities": [
+                {
+                    "name": "Bryant",
+                    "type": "City",
+                    "lat": 34.7367,
+                    "long": -92.4690
+                },
+                {
+                    "name": "Sheridan",
+                    "type": "City",
+                    "lat": 34.3226,
+                    "long": -92.4209
+                },
+                {
+                    "name": "Pine Bluff",
+                    "type": "City",
+                    "lat": 34.2260,
+                    "long": -92.0032
+                },
+                {
+                    "name": "Prattsville",
+                    "type": "Town",
+                    "lat": 34.4181,
+                    "long": -92.6070
+                },
+                {
+                    "name": "Levy",
+                    "type": "Village",
+                    "lat": 34.5035,
+                    "long": -92.2345
+                }
+            ]
+        },
+        {
+            "name": "Greene",
+            "lat": 36.0624,
+            "long": -90.5903,
+            "cities": [
+                {
+                    "name": "Paragould",
+                    "type": "City",
+                    "lat": 36.0592,
+                    "long": -90.5042
+                },
+                {
+                    "name": "Walnut Ridge",
+                    "type": "City",
+                    "lat": 36.0797,
+                    "long": -90.9719
+                },
+                {
+                    "name": "Lake City",
+                    "type": "Town",
+                    "lat": 35.7747,
+                    "long": -90.3357
+                },
+                {
+                    "name": "Lafe",
+                    "type": "Town",
+                    "lat": 36.0240,
+                    "long": -90.5711
+                },
+                {
+                    "name": "Marmaduke",
+                    "type": "Town",
+                    "lat": 36.0624,
+                    "long": -90.3514
+                },
+                {
+                    "name": "Williford",
+                    "type": "Town",
+                    "lat": 36.3595,
+                    "long": -91.3973
+                }
+            ]
+        },
+        {
+            "name": "Hempstead",
+            "lat": 33.1450,
+            "long": -93.6223,
+            "cities": [
+                {
+                    "name": "Hope",
+                    "type": "City",
+                    "lat": 33.6678,
+                    "long": -93.5852
+                },
+                {
+                    "name": "Prescott",
+                    "type": "City",
+                    "lat": 33.5917,
+                    "long": -93.3812
+                },
+                {
+                    "name": "Blevins",
+                    "type": "Town",
+                    "lat": 33.4100,
+                    "long": -93.4091
+                },
+                {
+                    "name": "Washington",
+                    "type": "Town",
+                    "lat": 33.0595,
+                    "long": -93.5074
+                },
+                {
+                    "name": "Ozan",
+                    "type": "Town",
+                    "lat": 33.6175,
+                    "long": -93.5615
+                }
+            ]
+        },
+        {
+            "name": "Hot Spring",
+            "lat": 34.4440,
+            "long": -93.1433,
+            "cities": [
+                {
+                    "name": "Malvern",
+                    "type": "City",
+                    "lat": 34.3684,
+                    "long": -92.8192
+                },
+                {
+                    "name": "Bismarck",
+                    "type": "Town",
+                    "lat": 34.4540,
+                    "long": -92.8689
+                },
+                {
+                    "name": "Perla",
+                    "type": "Town",
+                    "lat": 34.4293,
+                    "long": -92.8458
+                },
+                {
+                    "name": "Rockport",
+                    "type": "Town",
+                    "lat": 34.4754,
+                    "long": -92.9220
+                },
+                {
+                    "name": "Donaldson",
+                    "type": "Town",
+                    "lat": 34.4387,
+                    "long": -92.9671
+                }
+            ]
+        },
+        {
+            "name": "Howard",
+            "lat": 34.0674,
+            "long": -94.1917,
+            "cities": [
+                {
+                    "name": "Nashville",
+                    "type": "City",
+                    "lat": 33.9797,
+                    "long": -93.5856
+                },
+                {
+                    "name": "Mineral Springs",
+                    "type": "Town",
+                    "lat": 33.5325,
+                    "long": -93.5930
+                },
+                {
+                    "name": "Dierks",
+                    "type": "Town",
+                    "lat": 34.0022,
+                    "long": -93.5791
+                },
+                {
+                    "name": "Lockesburg",
+                    "type": "Town",
+                    "lat": 33.8779,
+                    "long": -93.6737
+                }
+            ]
+        },
+        {
+            "name": "Independence",
+            "lat": 35.6245,
+            "long": -91.6016,
+            "cities": [
+                {
+                    "name": "Batesville",
+                    "type": "City",
+                    "lat": 35.7681,
+                    "long": -91.6407
+                },
+                {
+                    "name": "Pleasant Plains",
+                    "type": "Town",
+                    "lat": 35.5375,
+                    "long": -91.7702
+                },
+                {
+                    "name": "Melbourne",
+                    "type": "City",
+                    "lat": 36.0391,
+                    "long": -91.6453
+                },
+                {
+                    "name": "Oxford",
+                    "type": "Town",
+                    "lat": 35.4167,
+                    "long": -91.6154
+                },
+                {
+                    "name": "Cushman",
+                    "type": "Town",
+                    "lat": 35.5013,
+                    "long": -91.6464
+                }
+            ]
+        },
+        {
+            "name": "Izard",
+            "lat": 36.0886,
+            "long": -91.8309,
+            "cities": [
+                {
+                    "name": "Melbourne",
+                    "type": "City",
+                    "lat": 36.0436,
+                    "long": -91.6262
+                },
+                {
+                    "name": "Brockwell",
+                    "type": "Town",
+                    "lat": 36.2131,
+                    "long": -91.6695
+                },
+                {
+                    "name": "Calico Rock",
+                    "type": "Town",
+                    "lat": 36.0740,
+                    "long": -92.2165
+                },
+                {
+                    "name": "Oxford",
+                    "type": "Town",
+                    "lat": 35.5034,
+                    "long": -91.6224
+                },
+                {
+                    "name": "Eagle Pass",
+                    "type": "Village",
+                    "lat": 36.1068,
+                    "long": -91.6479
+                }
+            ]
+        },
+        {
+            "name": "Jackson",
+            "lat": 35.6134,
+            "long": -90.6480,
+            "cities": [
+                {
+                    "name": "Newport",
+                    "type": "City",
+                    "lat": 35.6095,
+                    "long": -91.2748
+                },
+                {
+                    "name": "Tuckerman",
+                    "type": "Town",
+                    "lat": 35.3717,
+                    "long": -91.5162
+                },
+                {
+                    "name": "Grubbs",
+                    "type": "Town",
+                    "lat": 35.3430,
+                    "long": -91.5097
+                },
+                {
+                    "name": "Diaz",
+                    "type": "Town",
+                    "lat": 35.5766,
+                    "long": -91.2921
+                }
+            ]
+        },
+        {
+            "name": "Jefferson",
+            "lat": 34.2274,
+            "long": -91.9087,
+            "cities": [
+                {
+                    "name": "Pine Bluff",
+                    "type": "City",
+                    "lat": 34.2260,
+                    "long": -92.0032
+                },
+                {
+                    "name": "White Hall",
+                    "type": "City",
+                    "lat": 34.2133,
+                    "long": -92.0089
+                },
+                {
+                    "name": "Altheimer",
+                    "type": "Town",
+                    "lat": 34.2464,
+                    "long": -91.9417
+                },
+                {
+                    "name": "Shannon Hills",
+                    "type": "Town",
+                    "lat": 34.5525,
+                    "long": -92.2399
+                },
+                {
+                    "name": "Wabbaseka",
+                    "type": "Town",
+                    "lat": 34.3244,
+                    "long": -91.8797
+                }
+            ]
+        },
+        {
+            "name": "Johnson",
+            "lat": 35.3319,
+            "long": -93.4602,
+            "cities": [
+                {
+                    "name": "Clarksville",
+                    "type": "City",
+                    "lat": 35.4614,
+                    "long": -93.4593
+                },
+                {
+                    "name": "Ozone",
+                    "type": "Town",
+                    "lat": 35.4694,
+                    "long": -93.6172
+                },
+                {
+                    "name": "Lamar",
+                    "type": "Town",
+                    "lat": 35.3779,
+                    "long": -93.3965
+                },
+                {
+                    "name": "Coal Hill",
+                    "type": "Town",
+                    "lat": 35.4707,
+                    "long": -93.5479
+                },
+                {
+                    "name": "Hartman",
+                    "type": "Town",
+                    "lat": 35.3769,
+                    "long": -93.6902
+                }
+            ]
+        },
+        {
+            "name": "Lafayette",
+            "lat": 33.0020,
+            "long": -93.5779,
+            "cities": [
+                {
+                    "name": "Stamps",
+                    "type": "City",
+                    "lat": 33.5728,
+                    "long": -93.4521
+                },
+                {
+                    "name": "Lewisville",
+                    "type": "City",
+                    "lat": 33.5093,
+                    "long": -93.4001
+                },
+                {
+                    "name": "Bradley",
+                    "type": "Town",
+                    "lat": 33.5629,
+                    "long": -93.3923
+                }
+            ]
+        },
+        {
+            "name": "Lawrence",
+            "lat": 36.0705,
+            "long": -91.8590,
+            "cities": [
+                {
+                    "name": "Walnut Ridge",
+                    "type": "City",
+                    "lat": 36.0797,
+                    "long": -90.9719
+                },
+                {
+                    "name": "Hoxie",
+                    "type": "City",
+                    "lat": 36.1034,
+                    "long": -90.9762
+                },
+                {
+                    "name": "Imboden",
+                    "type": "Town",
+                    "lat": 36.0781,
+                    "long": -90.6715
+                },
+                {
+                    "name": "Black Rock",
+                    "type": "Town",
+                    "lat": 36.1030,
+                    "long": -91.1554
+                },
+                {
+                    "name": "Ash Flat",
+                    "type": "Town",
+                    "lat": 36.2424,
+                    "long": -91.5517
+                }
+            ]
+        },
+        {
+            "name": "Lee",
+            "lat": 34.8040,
+            "long": -90.6629,
+            "cities": [
+                {
+                    "name": "Marianna",
+                    "type": "City",
+                    "lat": 34.7691,
+                    "long": -90.7761
+                },
+                {
+                    "name": "Aubrey",
+                    "type": "Town",
+                    "lat": 34.7617,
+                    "long": -90.5737
+                },
+                {
+                    "name": "La Grange",
+                    "type": "Town",
+                    "lat": 34.6963,
+                    "long": -90.9240
+                },
+                {
+                    "name": "Pleasant Grove",
+                    "type": "Village",
+                    "lat": 34.6714,
+                    "long": -90.7770
+                }
+            ]
+        },
+        {
+            "name": "Lincoln",
+            "lat": 34.5347,
+            "long": -91.6187,
+            "cities": [
+                {
+                    "name": "Star City",
+                    "type": "City",
+                    "lat": 33.9521,
+                    "long": -91.8887
+                },
+                {
+                    "name": "Crossett",
+                    "type": "City",
+                    "lat": 33.1185,
+                    "long": -91.9876
+                },
+                {
+                    "name": "Wilmar",
+                    "type": "Town",
+                    "lat": 33.4581,
+                    "long": -91.7653
+                },
+                {
+                    "name": "Grady",
+                    "type": "Town",
+                    "lat": 33.7931,
+                    "long": -91.5060
+                }
+            ]
+        },
+        {
+            "name": "Little River",
+            "lat": 33.7282,
+            "long": -94.1191,
+            "cities": [
+                {
+                    "name": "Ashdown",
+                    "type": "City",
+                    "lat": 33.6669,
+                    "long": -94.2326
+                },
+                {
+                    "name": "Ogden",
+                    "type": "Town",
+                    "lat": 33.6333,
+                    "long": -94.1878
+                },
+                {
+                    "name": "Foreman",
+                    "type": "Town",
+                    "lat": 33.8539,
+                    "long": -94.5405
+                },
+                {
+                    "name": "Winthrop",
+                    "type": "Town",
+                    "lat": 33.7450,
+                    "long": -94.2822
+                }
+            ]
+        }
+    ]
+}

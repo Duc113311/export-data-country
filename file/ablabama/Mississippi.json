@@ -1,0 +1,267 @@
+{
+  "nameState": "Mississippi",
+  "lat": 32.3547,
+  "long": -89.3985,
+  "counties": [
+    {
+      "name": "Adams",
+      "lat": 31.5672,
+      "long": -90.535
+    },
+    {
+      "name": "Alcorn",
+      "lat": 34.9243,
+      "long": -88.5883
+    },
+    {
+      "name": "Amite",
+      "lat": 31.2422,
+      "long": -90.798
+    },
+    {
+      "name": "Attala",
+      "lat": 33.0079,
+      "long": -89.3367
+    },
+    {
+      "name": "Benton",
+      "lat": 34.7595,
+      "long": -90.1097
+    },
+    {
+      "name": "Bolivar",
+      "lat": 33.8333,
+      "long": -90.9785
+    },
+    {
+      "name": "Calhoun",
+      "lat": 33.9856,
+      "long": -90.2652
+    },
+    {
+      "name": "Carroll",
+      "lat": 33.4843,
+      "long": -90.7382
+    },
+    {
+      "name": "Chickasaw",
+      "lat": 33.8361,
+      "long": -88.6439
+    },
+    {
+      "name": "Choctaw",
+      "lat": 33.122,
+      "long": -89.1861
+    },
+    {
+      "name": "Claiborne",
+      "lat": 31.9621,
+      "long": -90.9113
+    },
+    {
+      "name": "Clarke",
+      "lat": 32.034,
+      "long": -88.6352
+    },
+    {
+      "name": "Clay",
+      "lat": 33.1477,
+      "long": -88.4125
+    },
+    {
+      "name": "Coahoma",
+      "lat": 33.7704,
+      "long": -90.5223
+    },
+    {
+      "name": "Copiah",
+      "lat": 31.9135,
+      "long": -90.4846
+    },
+    {
+      "name": "Covington",
+      "lat": 31.9229,
+      "long": -89.5316
+    },
+    {
+      "name": "DeSoto",
+      "lat": 34.827,
+      "long": -89.9253
+    },
+    {
+      "name": "Forrest",
+      "lat": 31.3141,
+      "long": -89.2913
+    },
+    {
+      "name": "Franklin",
+      "lat": 31.6183,
+      "long": -90.801
+    },
+    {
+      "name": "George",
+      "lat": 30.9136,
+      "long": -88.5861
+    },
+    {
+      "name": "Greene",
+      "lat": 31.2759,
+      "long": -88.6256
+    },
+    {
+      "name": "Grenada",
+      "lat": 33.7561,
+      "long": -89.8087
+    },
+    {
+      "name": "Hancock",
+      "lat": 30.4283,
+      "long": -89.2135
+    },
+    {
+      "name": "Harrison",
+      "lat": 30.4755,
+      "long": -89.331
+    },
+    {
+      "name": "Hinds",
+      "lat": 32.3133,
+      "long": -90.3513
+    },
+    {
+      "name": "Holmes",
+      "lat": 33.0121,
+      "long": -90.0835
+    },
+    {
+      "name": "Humphreys",
+      "lat": 33.0767,
+      "long": -90.678
+    },
+    {
+      "name": "Issaquena",
+      "lat": 32.8967,
+      "long": -90.8782
+    },
+    {
+      "name": "Itawamba",
+      "lat": 34.1737,
+      "long": -88.2975
+    },
+    {
+      "name": "Jackson",
+      "lat": 30.4153,
+      "long": -88.585
+    },
+    {
+      "name": "Jasper",
+      "lat": 32.0807,
+      "long": -89.2185
+    },
+    {
+      "name": "Jefferson",
+      "lat": 31.9422,
+      "long": -90.9267
+    },
+    {
+      "name": "Jefferson Davis",
+      "lat": 31.7664,
+      "long": -90.6682
+    },
+    {
+      "name": "Jones",
+      "lat": 31.6276,
+      "long": -89.2131
+    },
+    {
+      "name": "Kemper",
+      "lat": 32.8162,
+      "long": -88.6221
+    },
+    {
+      "name": "Lafayette",
+      "lat": 34.2583,
+      "long": -89.4971
+    },
+    {
+      "name": "Lamar",
+      "lat": 31.67,
+      "long": -89.3646
+    },
+    {
+      "name": "Lauderdale",
+      "lat": 32.5302,
+      "long": -88.7034
+    },
+    {
+      "name": "Lawrence",
+      "lat": 31.7782,
+      "long": -90.5082
+    },
+    {
+      "name": "Leake",
+      "lat": 32.5991,
+      "long": -89.5473
+    },
+    {
+      "name": "Lee",
+      "lat": 34.3054,
+      "long": -88.5727
+    },
+    {
+      "name": "Leflore",
+      "lat": 33.4665,
+      "long": -90.205
+    },
+    {
+      "name": "Lincoln",
+      "lat": 31.6065,
+      "long": -90.3999
+    },
+    {
+      "name": "Lowndes",
+      "lat": 33.4856,
+      "long": -88.4529
+    },
+    {
+      "name": "Madison",
+      "lat": 32.5865,
+      "long": -90.0771
+    },
+    {
+      "name": "Marion",
+      "lat": 31.5493,
+      "long": -90.704
+    },
+    {
+      "name": "Marshall",
+      "lat": 34.7797,
+      "long": -89.3833
+    },
+    {
+      "name": "Monroe",
+      "lat": 33.6372,
+      "long": -88.4472
+    },
+    {
+      "name": "Montgomery",
+      "lat": 33.0463,
+      "long": -90.2493
+    },
+    {
+      "name": "Neshoba",
+      "lat": 32.7724,
+      "long": -89.1376
+    },
+    {
+      "name": "Newton",
+      "lat": 32.31,
+      "long": -89.2051
+    },
+    {
+      "name": "Noxubee",
+      "lat": 33.0542,
+      "long": -88.4459
+    }
+  ]
+}

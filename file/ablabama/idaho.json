@@ -1,0 +1,227 @@
+{
+  "nameState": "Idaho",
+  "lat": 44.0682,
+  "long": -114.742,
+  "counties": [
+    {
+      "name": "Ada",
+      "lat": 43.6135,
+      "long": -116.2023
+    },
+    {
+      "name": "Adams",
+      "lat": 44.6297,
+      "long": -115.8782
+    },
+    {
+      "name": "Bannock",
+      "lat": 42.8272,
+      "long": -112.0704
+    },
+    {
+      "name": "Bear Lake",
+      "lat": 42.2244,
+      "long": -111.386
+    },
+    {
+      "name": "Benewah",
+      "lat": 47.1524,
+      "long": -116.4285
+    },
+    {
+      "name": "Bingham",
+      "lat": 43.3005,
+      "long": -112.5627
+    },
+    {
+      "name": "Blaine",
+      "lat": 43.525,
+      "long": -114.289
+    },
+    {
+      "name": "Boise",
+      "lat": 43.6351,
+      "long": -115.8711
+    },
+    {
+      "name": "Bonner",
+      "lat": 48.2874,
+      "long": -116.5415
+    },
+    {
+      "name": "Bonneville",
+      "lat": 43.4694,
+      "long": -111.2221
+    },
+    {
+      "name": "Boundary",
+      "lat": 48.5982,
+      "long": -116.3874
+    },
+    {
+      "name": "Butte",
+      "lat": 43.3477,
+      "long": -113.1333
+    },
+    {
+      "name": "Camas",
+      "lat": 42.8822,
+      "long": -114.9778
+    },
+    {
+      "name": "Canyon",
+      "lat": 43.8787,
+      "long": -116.5893
+    },
+    {
+      "name": "Caribou",
+      "lat": 42.6563,
+      "long": -111.8451
+    },
+    {
+      "name": "Cassia",
+      "lat": 42.4842,
+      "long": -113.5403
+    },
+    {
+      "name": "Clark",
+      "lat": 44.2952,
+      "long": -113.4745
+    },
+    {
+      "name": "Clearwater",
+      "lat": 46.4245,
+      "long": -115.977
+    },
+    {
+      "name": "Custer",
+      "lat": 44.241,
+      "long": -113.8672
+    },
+    {
+      "name": "Elmore",
+      "lat": 43.5885,
+      "long": -115.9345
+    },
+    {
+      "name": "Franklin",
+      "lat": 42.1769,
+      "long": -111.8216
+    },
+    {
+      "name": "Fremont",
+      "lat": 44.2299,
+      "long": -111.5736
+    },
+    {
+      "name": "Gem",
+      "lat": 44.2763,
+      "long": -116.3326
+    },
+    {
+      "name": "Gooding",
+      "lat": 42.93,
+      "long": -114.701
+    },
+    {
+      "name": "Idaho",
+      "lat": 44.5671,
+      "long": -114.4969
+    },
+    {
+      "name": "Jefferson",
+      "lat": 43.7221,
+      "long": -112.0206
+    },
+    {
+      "name": "Jerome",
+      "lat": 42.7277,
+      "long": -114.5147
+    },
+    {
+      "name": "Kootenai",
+      "lat": 47.6796,
+      "long": -116.7805
+    },
+    {
+      "name": "Latah",
+      "lat": 46.6753,
+      "long": -116.9845
+    },
+    {
+      "name": "Lemhi",
+      "lat": 45.382,
+      "long": -113.5292
+    },
+    {
+      "name": "Lewis",
+      "lat": 46.0094,
+      "long": -116.1996
+    },
+    {
+      "name": "Lincoln",
+      "lat": 42.4636,
+      "long": -113.0845
+    },
+    {
+      "name": "Madison",
+      "lat": 43.5967,
+      "long": -111.9291
+    },
+    {
+      "name": "Minidoka",
+      "lat": 42.6103,
+      "long": -113.2427
+    },
+    {
+      "name": "Nez Perce",
+      "lat": 46.3155,
+      "long": -116.9815
+    },
+    {
+      "name": "Oneida",
+      "lat": 42.301,
+      "long": -112.283
+    },
+    {
+      "name": "Owyhee",
+      "lat": 42.9405,
+      "long": -116.4126
+    },
+    {
+      "name": "Payette",
+      "lat": 44.1099,
+      "long": -116.907
+    },
+    {
+      "name": "Power",
+      "lat": 42.9824,
+      "long": -112.9807
+    },
+    {
+      "name": "Shoshone",
+      "lat": 46.5023,
+      "long": -115.7174
+    },
+    {
+      "name": "Teton",
+      "lat": 43.7279,
+      "long": -111.2997
+    },
+    {
+      "name": "Twin Falls",
+      "lat": 42.4812,
+      "long": -114.479
+    },
+    {
+      "name": "Valley",
+      "lat": 44.1707,
+      "long": -115.9752
+    },
+    {
+      "name": "Washington",
+      "lat": 44.2405,
+      "long": -116.6892
+    }
+  ]
+}

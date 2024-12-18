@@ -1,0 +1,57 @@
+{
+  "nameState": "New Hampshire",
+  "lat": 43.1939,
+  "long": -71.5724,
+  "counties": [
+    {
+      "name": "Belknap",
+      "lat": 43.4914,
+      "long": -71.502
+    },
+    {
+      "name": "Carroll",
+      "lat": 43.7763,
+      "long": -71.2345
+    },
+    {
+      "name": "Cheshire",
+      "lat": 42.9225,
+      "long": -72.2639
+    },
+    {
+      "name": "Coos",
+      "lat": 44.3151,
+      "long": -71.338
+    },
+    {
+      "name": "Grafton",
+      "lat": 43.9761,
+      "long": -71.8303
+    },
+    {
+      "name": "Hillsborough",
+      "lat": 42.9733,
+      "long": -71.4742
+    },
+    {
+      "name": "Merrimack",
+      "lat": 43.293,
+      "long": -71.667
+    },
+    {
+      "name": "Rockingham",
+      "lat": 42.9887,
+      "long": -71.0207
+    },
+    {
+      "name": "Strafford",
+      "lat": 43.2607,
+      "long": -71.1836
+    },
+    {
+      "name": "Sullivan",
+      "lat": 43.3449,
+      "long": -72.1226
+    }
+  ]
+}

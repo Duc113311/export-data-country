@@ -1,0 +1,257 @@
+{
+  "nameState": "Michigan",
+  "lat": 44.3148,
+  "long": -85.6024,
+  "counties": [
+    {
+      "name": "Alcona",
+      "lat": 44.6263,
+      "long": -83.4117
+    },
+    {
+      "name": "Alger",
+      "lat": 46.4181,
+      "long": -81.8546
+    },
+    {
+      "name": "Allen",
+      "lat": 41.4481,
+      "long": -84.8555
+    },
+    {
+      "name": "Antrim",
+      "lat": 44.9892,
+      "long": -85.225
+    },
+    {
+      "name": "Arenac",
+      "lat": 44.0504,
+      "long": -83.7486
+    },
+    {
+      "name": "Baraga",
+      "lat": 46.7577,
+      "long": -88.4539
+    },
+    {
+      "name": "Barry",
+      "lat": 42.4901,
+      "long": -85.3207
+    },
+    {
+      "name": "Bay",
+      "lat": 43.6906,
+      "long": -83.9535
+    },
+    {
+      "name": "Benzie",
+      "lat": 44.3182,
+      "long": -86.0296
+    },
+    {
+      "name": "Berrien",
+      "lat": 41.7912,
+      "long": -86.3982
+    },
+    {
+      "name": "Branch",
+      "lat": 41.9509,
+      "long": -85.304
+    },
+    {
+      "name": "Calhoun",
+      "lat": 42.2074,
+      "long": -85.177
+    },
+    {
+      "name": "Cass",
+      "lat": 41.8803,
+      "long": -85.82
+    },
+    {
+      "name": "Charlevoix",
+      "lat": 45.21,
+      "long": -85.3159
+    },
+    {
+      "name": "Cheboygan",
+      "lat": 45.6423,
+      "long": -84.4797
+    },
+    {
+      "name": "Chippewa",
+      "lat": 46.0419,
+      "long": -84.4366
+    },
+    {
+      "name": "Clare",
+      "lat": 43.8834,
+      "long": -84.7881
+    },
+    {
+      "name": "Clinton",
+      "lat": 42.9707,
+      "long": -84.4911
+    },
+    {
+      "name": "Crawford",
+      "lat": 44.6718,
+      "long": -84.7101
+    },
+    {
+      "name": "Delta",
+      "lat": 45.8261,
+      "long": -87.1741
+    },
+    {
+      "name": "Dickinson",
+      "lat": 45.7637,
+      "long": -87.8422
+    },
+    {
+      "name": "Emmet",
+      "lat": 45.3755,
+      "long": -84.9507
+    },
+    {
+      "name": "Genesee",
+      "lat": 43.0337,
+      "long": -83.6875
+    },
+    {
+      "name": "Gogebic",
+      "lat": 46.505,
+      "long": -90.1484
+    },
+    {
+      "name": "Grand Traverse",
+      "lat": 44.7882,
+      "long": -85.5861
+    },
+    {
+      "name": "Gratiot",
+      "lat": 43.3682,
+      "long": -84.613
+    },
+    {
+      "name": "Hillsdale",
+      "lat": 41.9247,
+      "long": -84.6123
+    },
+    {
+      "name": "Houghton",
+      "lat": 47.126,
+      "long": -88.5535
+    },
+    {
+      "name": "Huron",
+      "lat": 44.0133,
+      "long": -82.7019
+    },
+    {
+      "name": "Ingham",
+      "lat": 42.3996,
+      "long": -84.3155
+    },
+    {
+      "name": "Ionia",
+      "lat": 43.0104,
+      "long": -85.0741
+    },
+    {
+      "name": "Iosco",
+      "lat": 44.3444,
+      "long": -83.5989
+    },
+    {
+      "name": "Iron",
+      "lat": 45.8544,
+      "long": -81.4309
+    },
+    {
+      "name": "Isabella",
+      "lat": 43.5109,
+      "long": -84.6814
+    },
+    {
+      "name": "Jackson",
+      "lat": 42.2355,
+      "long": -84.4181
+    },
+    {
+      "name": "Kalamazoo",
+      "lat": 42.2917,
+      "long": -85.5872
+    },
+    {
+      "name": "Kalkaska",
+      "lat": 44.7575,
+      "long": -85.179
+    },
+    {
+      "name": "Kent",
+      "lat": 42.9634,
+      "long": -85.6681
+    },
+    {
+      "name": "Keweenaw",
+      "lat": 47.4417,
+      "long": -88.4672
+    },
+    {
+      "name": "Lake",
+      "lat": 43.9269,
+      "long": -85.8931
+    },
+    {
+      "name": "Lapeer",
+      "lat": 43.0508,
+      "long": -83.324
+    },
+    {
+      "name": "Leelanau",
+      "lat": 44.7904,
+      "long": -85.7481
+    },
+    {
+      "name": "Lenawee",
+      "lat": 41.6658,
+      "long": -84.022
+    },
+    {
+      "name": "Livingston",
+      "lat": 42.5667,
+      "long": -83.9296
+    },
+    {
+      "name": "Luce",
+      "lat": 46.0706,
+      "long": -84.571
+    },
+    {
+      "name": "Mackinac",
+      "lat": 45.8781,
+      "long": -81.763
+    },
+    {
+      "name": "Macomb",
+      "lat": 42.618,
+      "long": -82.9176
+    },
+    {
+      "name": "Manistee",
+      "lat": 44.2628,
+      "long": -86.0177
+    },
+    {
+      "name": "Marquette",
+      "lat": 46.5583,
+      "long": -87.395
+    },
+    {
+      "name": "Mason",
+      "lat": 43.9395,
+      "long": -86.3076
+    }
+  ]
+}

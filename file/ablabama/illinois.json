@@ -1,0 +1,267 @@
+{
+  "nameState": "Illinois",
+  "lat": 40.6331,
+  "long": -89.3985,
+  "counties": [
+    {
+      "name": "Adams",
+      "lat": 39.9255,
+      "long": -91.4091
+    },
+    {
+      "name": "Alexander",
+      "lat": 37.2165,
+      "long": -89.0803
+    },
+    {
+      "name": "Bond",
+      "lat": 38.8866,
+      "long": -89.4769
+    },
+    {
+      "name": "Boone",
+      "lat": 42.2601,
+      "long": -88.8265
+    },
+    {
+      "name": "Brown",
+      "lat": 39.9881,
+      "long": -90.7067
+    },
+    {
+      "name": "Bureau",
+      "lat": 41.366,
+      "long": -89.1658
+    },
+    {
+      "name": "Calhoun",
+      "lat": 39.1454,
+      "long": -90.6535
+    },
+    {
+      "name": "Carroll",
+      "lat": 42.0853,
+      "long": -90.1613
+    },
+    {
+      "name": "Cass",
+      "lat": 39.9843,
+      "long": -90.2477
+    },
+    {
+      "name": "Champaign",
+      "lat": 40.1306,
+      "long": -88.2461
+    },
+    {
+      "name": "Christian",
+      "lat": 39.5354,
+      "long": -89.3082
+    },
+    {
+      "name": "Clark",
+      "lat": 39.4197,
+      "long": -87.9117
+    },
+    {
+      "name": "Clay",
+      "lat": 38.6782,
+      "long": -88.8933
+    },
+    {
+      "name": "Clinton",
+      "lat": 38.5816,
+      "long": -89.1955
+    },
+    {
+      "name": "Coles",
+      "lat": 39.5102,
+      "long": -88.1743
+    },
+    {
+      "name": "Cook",
+      "lat": 41.878,
+      "long": -87.6298
+    },
+    {
+      "name": "Crawford",
+      "lat": 38.958,
+      "long": -87.734
+    },
+    {
+      "name": "Cumberland",
+      "lat": 39.3294,
+      "long": -88.4057
+    },
+    {
+      "name": "DeKalb",
+      "lat": 41.9334,
+      "long": -88.7503
+    },
+    {
+      "name": "Douglas",
+      "lat": 39.8502,
+      "long": -88.3403
+    },
+    {
+      "name": "DuPage",
+      "lat": 41.824,
+      "long": -88.0851
+    },
+    {
+      "name": "Edgar",
+      "lat": 39.6826,
+      "long": -87.6787
+    },
+    {
+      "name": "Edwards",
+      "lat": 38.2882,
+      "long": -88.2005
+    },
+    {
+      "name": "Effingham",
+      "lat": 39.13,
+      "long": -88.5439
+    },
+    {
+      "name": "Fayette",
+      "lat": 38.9256,
+      "long": -88.9157
+    },
+    {
+      "name": "Ford",
+      "lat": 40.4295,
+      "long": -88.2177
+    },
+    {
+      "name": "Franklin",
+      "lat": 38.1157,
+      "long": -88.9143
+    },
+    {
+      "name": "Fulton",
+      "lat": 40.5197,
+      "long": -90.1235
+    },
+    {
+      "name": "Gallatin",
+      "lat": 37.7473,
+      "long": -88.4737
+    },
+    {
+      "name": "Greene",
+      "lat": 39.2904,
+      "long": -90.4462
+    },
+    {
+      "name": "Grundy",
+      "lat": 41.3613,
+      "long": -88.4512
+    },
+    {
+      "name": "Hamilton",
+      "lat": 38.1192,
+      "long": -88.5512
+    },
+    {
+      "name": "Hancock",
+      "lat": 40.3771,
+      "long": -91.2455
+    },
+    {
+      "name": "Hardin",
+      "lat": 37.4705,
+      "long": -88.3449
+    },
+    {
+      "name": "Henderson",
+      "lat": 40.3947,
+      "long": -90.7996
+    },
+    {
+      "name": "Henry",
+      "lat": 41.3592,
+      "long": -89.2287
+    },
+    {
+      "name": "Iroquois",
+      "lat": 40.577,
+      "long": -87.7325
+    },
+    {
+      "name": "Jackson",
+      "lat": 37.765,
+      "long": -89.1825
+    },
+    {
+      "name": "Jasper",
+      "lat": 38.9249,
+      "long": -88.1502
+    },
+    {
+      "name": "Jefferson",
+      "lat": 38.2913,
+      "long": -88.8415
+    },
+    {
+      "name": "Jersey",
+      "lat": 38.9249,
+      "long": -90.3714
+    },
+    {
+      "name": "Jo Daviess",
+      "lat": 42.2923,
+      "long": -90.2821
+    },
+    {
+      "name": "Johnson",
+      "lat": 37.527,
+      "long": -88.9704
+    },
+    {
+      "name": "Kane",
+      "lat": 41.9484,
+      "long": -88.2232
+    },
+    {
+      "name": "Kankakee",
+      "lat": 41.1307,
+      "long": -87.8769
+    },
+    {
+      "name": "Kendall",
+      "lat": 41.659,
+      "long": -88.4342
+    },
+    {
+      "name": "Knox",
+      "lat": 40.8905,
+      "long": -90.1488
+    },
+    {
+      "name": "Lake",
+      "lat": 42.3675,
+      "long": -87.8592
+    },
+    {
+      "name": "LaSalle",
+      "lat": 41.1199,
+      "long": -88.9924
+    },
+    {
+      "name": "Lawrence",
+      "lat": 38.8132,
+      "long": -87.9808
+    },
+    {
+      "name": "Lee",
+      "lat": 41.8409,
+      "long": -89.2042
+    },
+    {
+      "name": "Livingston",
+      "lat": 40.8196,
+      "long": -88.665
+    }
+  ]
+}

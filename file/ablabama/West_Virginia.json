@@ -1,0 +1,282 @@
+{
+  "nameState": "West Virginia",
+  "lat": 38.5976,
+  "long": -80.4549,
+  "counties": [
+    {
+      "name": "Barbour",
+      "lat": 38.4571,
+      "long": -80.0314
+    },
+    {
+      "name": "Berkeley",
+      "lat": 39.4886,
+      "long": -78.0653
+    },
+    {
+      "name": "Boone",
+      "lat": 38.1811,
+      "long": -81.8645
+    },
+    {
+      "name": "Braxton",
+      "lat": 38.6775,
+      "long": -80.6103
+    },
+    {
+      "name": "Brooke",
+      "lat": 40.2691,
+      "long": -80.6014
+    },
+    {
+      "name": "Cabell",
+      "lat": 38.4194,
+      "long": -82.3321
+    },
+    {
+      "name": "Calhoun",
+      "lat": 38.6243,
+      "long": -81.1503
+    },
+    {
+      "name": "Clay",
+      "lat": 38.5613,
+      "long": -80.7447
+    },
+    {
+      "name": "Doddridge",
+      "lat": 39.2527,
+      "long": -80.7071
+    },
+    {
+      "name": "Fayette",
+      "lat": 38.0908,
+      "long": -81.1087
+    },
+    {
+      "name": "Gilmer",
+      "lat": 38.9303,
+      "long": -80.8696
+    },
+    {
+      "name": "Grant",
+      "lat": 39.0354,
+      "long": -79.2865
+    },
+    {
+      "name": "Greenbrier",
+      "lat": 38.0194,
+      "long": -80.3954
+    },
+    {
+      "name": "Hampshire",
+      "lat": 39.2823,
+      "long": -78.6519
+    },
+    {
+      "name": "Hancock",
+      "lat": 40.5007,
+      "long": -80.5985
+    },
+    {
+      "name": "Hardy",
+      "lat": 38.9239,
+      "long": -79.1533
+    },
+    {
+      "name": "Harrison",
+      "lat": 39.2804,
+      "long": -80.3611
+    },
+    {
+      "name": "Jackson",
+      "lat": 38.8137,
+      "long": -81.6969
+    },
+    {
+      "name": "Jefferson",
+      "lat": 39.2295,
+      "long": -77.0193
+    },
+    {
+      "name": "Kanawha",
+      "lat": 38.3498,
+      "long": -81.6333
+    },
+    {
+      "name": "Lewis",
+      "lat": 38.9727,
+      "long": -80.5548
+    },
+    {
+      "name": "Lincoln",
+      "lat": 38.4335,
+      "long": -81.8857
+    },
+    {
+      "name": "Logan",
+      "lat": 38.5145,
+      "long": -81.9725
+    },
+    {
+      "name": "McDowell",
+      "lat": 37.4782,
+      "long": -81.479
+    },
+    {
+      "name": "Marion",
+      "lat": 39.4399,
+      "long": -80.0839
+    },
+    {
+      "name": "Marshall",
+      "lat": 39.8925,
+      "long": -80.6379
+    },
+    {
+      "name": "Mason",
+      "lat": 38.824,
+      "long": -81.7469
+    },
+    {
+      "name": "Mercer",
+      "lat": 37.3953,
+      "long": -81.1197
+    },
+    {
+      "name": "Mineral",
+      "lat": 39.4251,
+      "long": -78.9755
+    },
+    {
+      "name": "Mingo",
+      "lat": 37.6297,
+      "long": -82.042
+    },
+    {
+      "name": "Monongalia",
+      "lat": 39.6295,
+      "long": -79.9559
+    },
+    {
+      "name": "Monroe",
+      "lat": 37.6045,
+      "long": -80.4697
+    },
+    {
+      "name": "Morgan",
+      "lat": 39.5964,
+      "long": -78.2476
+    },
+    {
+      "name": "Nicholas",
+      "lat": 38.3587,
+      "long": -80.5455
+    },
+    {
+      "name": "Ohio",
+      "lat": 40.1617,
+      "long": -80.6147
+    },
+    {
+      "name": "Pendleton",
+      "lat": 38.5762,
+      "long": -79.3044
+    },
+    {
+      "name": "Pleasants",
+      "lat": 39.3032,
+      "long": -81.3441
+    },
+    {
+      "name": "Pocahontas",
+      "lat": 38.1851,
+      "long": -79.9947
+    },
+    {
+      "name": "Preston",
+      "lat": 39.4386,
+      "long": -79.7344
+    },
+    {
+      "name": "Putnam",
+      "lat": 38.434,
+      "long": -81.9737
+    },
+    {
+      "name": "Raleigh",
+      "lat": 37.7765,
+      "long": -81.2524
+    },
+    {
+      "name": "Randolph",
+      "lat": 38.8203,
+      "long": -79.972
+    },
+    {
+      "name": "Ritchie",
+      "lat": 39.0737,
+      "long": -81.4579
+    },
+    {
+      "name": "Roane",
+      "lat": 38.4974,
+      "long": -81.4359
+    },
+    {
+      "name": "Summers",
+      "lat": 37.6792,
+      "long": -80.9013
+    },
+    {
+      "name": "Taylor",
+      "lat": 39.3199,
+      "long": -80.0321
+    },
+    {
+      "name": "Tucker",
+      "lat": 39.1045,
+      "long": -79.5507
+    },
+    {
+      "name": "Tyler",
+      "lat": 39.2724,
+      "long": -80.7994
+    },
+    {
+      "name": "Upshur",
+      "lat": 38.9911,
+      "long": -80.5547
+    },
+    {
+      "name": "Wayne",
+      "lat": 38.1847,
+      "long": -82.4293
+    },
+    {
+      "name": "Webster",
+      "lat": 38.4187,
+      "long": -80.5482
+    },
+    {
+      "name": "Wetzel",
+      "lat": 39.6881,
+      "long": -80.5374
+    },
+    {
+      "name": "Wirt",
+      "lat": 38.7849,
+      "long": -81.4317
+    },
+    {
+      "name": "Wood",
+      "lat": 39.2294,
+      "long": -81.5611
+    },
+    {
+      "name": "Wyoming",
+      "lat": 37.6975,
+      "long": -81.5423
+    }
+  ]
+}

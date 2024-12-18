@@ -1,0 +1,202 @@
+{
+  "nameState": "Washington",
+  "lat": 47.7511,
+  "long": -120.7401,
+  "counties": [
+    {
+      "name": "Adams",
+      "lat": 46.8036,
+      "long": -118.3022
+    },
+    {
+      "name": "Asotin",
+      "lat": 46.3376,
+      "long": -116.9384
+    },
+    {
+      "name": "Benton",
+      "lat": 46.2661,
+      "long": -119.5023
+    },
+    {
+      "name": "Chelan",
+      "lat": 47.5441,
+      "long": -120.465
+    },
+    {
+      "name": "Clallam",
+      "lat": 48.1699,
+      "long": -123.5984
+    },
+    {
+      "name": "Clark",
+      "lat": 45.6387,
+      "long": -122.6615
+    },
+    {
+      "name": "Columbia",
+      "lat": 46.3794,
+      "long": -117.0166
+    },
+    {
+      "name": "Cowlitz",
+      "lat": 46.1693,
+      "long": -122.9396
+    },
+    {
+      "name": "Douglas",
+      "lat": 47.4363,
+      "long": -120.5413
+    },
+    {
+      "name": "Ferry",
+      "lat": 48.4864,
+      "long": -118.4376
+    },
+    {
+      "name": "Franklin",
+      "lat": 46.52,
+      "long": -118.52
+    },
+    {
+      "name": "Garfield",
+      "lat": 46.4308,
+      "long": -117.2609
+    },
+    {
+      "name": "Grant",
+      "lat": 47.1654,
+      "long": -119.4505
+    },
+    {
+      "name": "Grays Harbor",
+      "lat": 46.976,
+      "long": -123.7024
+    },
+    {
+      "name": "Island",
+      "lat": 48.0653,
+      "long": -122.0724
+    },
+    {
+      "name": "Jefferson",
+      "lat": 47.7341,
+      "long": -122.7041
+    },
+    {
+      "name": "King",
+      "lat": 47.548,
+      "long": -121.9836
+    },
+    {
+      "name": "Kitsap",
+      "lat": 47.6182,
+      "long": -122.5356
+    },
+    {
+      "name": "Kittitas",
+      "lat": 47.063,
+      "long": -120.5445
+    },
+    {
+      "name": "Klickitat",
+      "lat": 45.8911,
+      "long": -121.2203
+    },
+    {
+      "name": "Lewis",
+      "lat": 46.6196,
+      "long": -122.6726
+    },
+    {
+      "name": "Lincoln",
+      "lat": 47.6671,
+      "long": -118.5691
+    },
+    {
+      "name": "Mason",
+      "lat": 47.3647,
+      "long": -123.0971
+    },
+    {
+      "name": "Okanogan",
+      "lat": 48.3997,
+      "long": -119.5253
+    },
+    {
+      "name": "Pacific",
+      "lat": 46.5184,
+      "long": -123.7093
+    },
+    {
+      "name": "Pend Oreille",
+      "lat": 48.4292,
+      "long": -117.1513
+    },
+    {
+      "name": "Pierce",
+      "lat": 47.1053,
+      "long": -122.2872
+    },
+    {
+      "name": "San Juan",
+      "lat": 48.5691,
+      "long": -123.054
+    },
+    {
+      "name": "Skagit",
+      "lat": 48.4244,
+      "long": -122.4826
+    },
+    {
+      "name": "Skamania",
+      "lat": 45.787,
+      "long": -121.8359
+    },
+    {
+      "name": "Snohomish",
+      "lat": 47.7511,
+      "long": -122.2917
+    },
+    {
+      "name": "Spokane",
+      "lat": 47.6588,
+      "long": -117.425
+    },
+    {
+      "name": "Stevens",
+      "lat": 48.3999,
+      "long": -117.1638
+    },
+    {
+      "name": "Thurston",
+      "lat": 47.0379,
+      "long": -122.9007
+    },
+    {
+      "name": "Wahkiakum",
+      "lat": 46.3682,
+      "long": -123.3434
+    },
+    {
+      "name": "Walla Walla",
+      "lat": 46.236,
+      "long": -118.3002
+    },
+    {
+      "name": "Whatcom",
+      "lat": 48.7257,
+      "long": -122.4897
+    },
+    {
+      "name": "Whitman",
+      "lat": 46.8772,
+      "long": -117.3036
+    },
+    {
+      "name": "Yakima",
+      "lat": 46.6,
+      "long": -120.5
+    }
+  ]
+}

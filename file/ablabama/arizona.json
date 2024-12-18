@@ -1,0 +1,892 @@
+{
+    "nameState": "Arizona",
+    "lat": 34.048928,
+    "long": -111.093731,
+    "counties": [
+        {
+            "name": "Apache",
+            "lat": 35.2647,
+            "long": -109.0452,
+            "cities": [
+                {
+                    "name": "St. Johns",
+                    "type": "City",
+                    "lat": 34.5197,
+                    "long": -109.3703
+                },
+                {
+                    "name": "Chambers",
+                    "type": "Town",
+                    "lat": 35.2743,
+                    "long": -109.3582
+                },
+                {
+                    "name": "Round Rock",
+                    "type": "Village",
+                    "lat": 35.5102,
+                    "long": -109.3507
+                },
+                {
+                    "name": "Cedar Creek",
+                    "type": "Township",
+                    "lat": 35.1694,
+                    "long": -109.1951
+                },
+                {
+                    "name": "Ganado",
+                    "type": "Community",
+                    "lat": 35.5203,
+                    "long": -109.5759
+                },
+                {
+                    "name": "Indian Wells",
+                    "type": "Village",
+                    "lat": 35.5661,
+                    "long": -109.1191
+                },
+                {
+                    "name": "Dilkon",
+                    "type": "Town",
+                    "lat": 35.6797,
+                    "long": -110.2540
+                }
+            ]
+        },
+        {
+            "name": "Cochise",
+            "lat": 31.5880,
+            "long": -109.9339,
+            "cities": [
+                {
+                    "name": "Bisbee",
+                    "type": "City",
+                    "lat": 31.4483,
+                    "long": -109.9280
+                },
+                {
+                    "name": "Douglas",
+                    "type": "City",
+                    "lat": 31.4655,
+                    "long": -109.5463
+                },
+                {
+                    "name": "Sierra Vista",
+                    "type": "City",
+                    "lat": 31.5493,
+                    "long": -110.3009
+                },
+                {
+                    "name": "Benson",
+                    "type": "City",
+                    "lat": 31.9603,
+                    "long": -110.3009
+                },
+                {
+                    "name": "Willcox",
+                    "type": "Town",
+                    "lat": 32.1015,
+                    "long": -109.8470
+                },
+                {
+                    "name": "Huachuca City",
+                    "type": "Town",
+                    "lat": 31.5511,
+                    "long": -110.3310
+                },
+                {
+                    "name": "McNeal",
+                    "type": "Village",
+                    "lat": 31.6291,
+                    "long": -109.7392
+                },
+                {
+                    "name": "Pirtleville",
+                    "type": "Community",
+                    "lat": 31.4564,
+                    "long": -109.5779
+                },
+                {
+                    "name": "Sunizona",
+                    "type": "Village",
+                    "lat": 31.7582,
+                    "long": -109.5234
+                }
+            ]
+        },
+        {
+            "name": "Coconino",
+            "lat": 35.5326,
+            "long": -111.4761,
+            "cities": [
+                {
+                    "name": "Flagstaff",
+                    "type": "City",
+                    "lat": 35.1983,
+                    "long": -111.6513
+                },
+                {
+                    "name": "Williams",
+                    "type": "City",
+                    "lat": 35.2498,
+                    "long": -112.1945
+                },
+                {
+                    "name": "Sedona",
+                    "type": "City",
+                    "lat": 34.8696,
+                    "long": -111.7609
+                },
+                {
+                    "name": "Page",
+                    "type": "City",
+                    "lat": 36.9147,
+                    "long": -111.4543
+                },
+                {
+                    "name": "Tusayan",
+                    "type": "Town",
+                    "lat": 35.9700,
+                    "long": -112.1439
+                },
+                {
+                    "name": "Fredonia",
+                    "type": "Town",
+                    "lat": 36.5997,
+                    "long": -112.5282
+                },
+                {
+                    "name": "Doney Park",
+                    "type": "Community",
+                    "lat": 35.2652,
+                    "long": -111.5029
+                },
+                {
+                    "name": "Blue Ridge",
+                    "type": "Community",
+                    "lat": 35.1376,
+                    "long": -111.3428
+                },
+                {
+                    "name": "Parks",
+                    "type": "Village",
+                    "lat": 35.3360,
+                    "long": -111.7274
+                }
+            ]
+        },
+        {
+            "name": "Gila",
+            "lat": 33.6744,
+            "long": -110.6572,
+            "cities": [
+                {
+                    "name": "Globe",
+                    "type": "City",
+                    "lat": 33.4009,
+                    "long": -110.7899
+                },
+                {
+                    "name": "Miami",
+                    "type": "Town",
+                    "lat": 33.3792,
+                    "long": -110.7857
+                },
+                {
+                    "name": "Payson",
+                    "type": "Town",
+                    "lat": 34.2323,
+                    "long": -111.3252
+                },
+                {
+                    "name": "San Carlos",
+                    "type": "Community",
+                    "lat": 33.3542,
+                    "long": -110.4735
+                },
+                {
+                    "name": "Claypool",
+                    "type": "Community",
+                    "lat": 33.3998,
+                    "long": -110.7623
+                },
+                {
+                    "name": "Tonto Basin",
+                    "type": "Community",
+                    "lat": 33.7911,
+                    "long": -111.2479
+                },
+                {
+                    "name": "Young",
+                    "type": "Community",
+                    "lat": 34.0297,
+                    "long": -111.1516
+                },
+                {
+                    "name": "Pine",
+                    "type": "Village",
+                    "lat": 34.4449,
+                    "long": -111.4819
+                },
+                {
+                    "name": "Strawberry",
+                    "type": "Village",
+                    "lat": 34.4135,
+                    "long": -111.5516
+                }
+            ]
+        },
+        {
+            "name": "Graham",
+            "lat": 32.7910,
+            "long": -109.7553,
+            "cities": [
+                {
+                    "name": "Safford",
+                    "type": "City",
+                    "lat": 32.8343,
+                    "long": -109.7160
+                },
+                {
+                    "name": "Thatcher",
+                    "type": "Town",
+                    "lat": 32.8344,
+                    "long": -109.7275
+                },
+                {
+                    "name": "Pima",
+                    "type": "Town",
+                    "lat": 32.9156,
+                    "long": -109.8153
+                },
+                {
+                    "name": "Solomon",
+                    "type": "Community",
+                    "lat": 32.8329,
+                    "long": -109.7857
+                },
+                {
+                    "name": "Central",
+                    "type": "Community",
+                    "lat": 32.8230,
+                    "long": -109.7225
+                },
+                {
+                    "name": "Bryce",
+                    "type": "Community",
+                    "lat": 32.7828,
+                    "long": -109.7636
+                }
+            ]
+        },
+        {
+            "name": "Greenlee",
+            "lat": 32.7996,
+            "long": -109.1490,
+            "cities": [
+                {
+                    "name": "Clifton",
+                    "type": "Town",
+                    "lat": 33.0543,
+                    "long": -109.2909
+                },
+                {
+                    "name": "Safford",
+                    "type": "City",
+                    "lat": 32.8343,
+                    "long": -109.7160
+                },
+                {
+                    "name": "Duncan",
+                    "type": "Town",
+                    "lat": 32.1297,
+                    "long": -109.2862
+                },
+                {
+                    "name": "Thatcher",
+                    "type": "Town",
+                    "lat": 32.8344,
+                    "long": -109.7275
+                },
+                {
+                    "name": "Luna",
+                    "type": "Community",
+                    "lat": 32.7880,
+                    "long": -109.5301
+                },
+                {
+                    "name": "Franklin",
+                    "type": "Community",
+                    "lat": 32.8071,
+                    "long": -109.6279
+                }
+            ]
+        },
+        {
+            "name": "La Paz",
+            "lat": 33.6259,
+            "long": -113.6063,
+            "cities": [
+                {
+                    "name": "Parker",
+                    "type": "Town",
+                    "lat": 34.1505,
+                    "long": -114.2917
+                },
+                {
+                    "name": "Blythe",
+                    "type": "Community",
+                    "lat": 33.6206,
+                    "long": -113.4331
+                },
+                {
+                    "name": "Quartzsite",
+                    "type": "Town",
+                    "lat": 33.6680,
+                    "long": -113.6707
+                },
+                {
+                    "name": "Ehrenberg",
+                    "type": "Community",
+                    "lat": 33.5591,
+                    "long": -113.5681
+                },
+                {
+                    "name": "Salome",
+                    "type": "Community",
+                    "lat": 33.7404,
+                    "long": -113.5995
+                }
+            ]
+        },
+        {
+            "name": "Maricopa",
+            "lat": 33.4516,
+            "long": -112.3973,
+            "cities": [
+                {
+                    "name": "Phoenix",
+                    "type": "City",
+                    "lat": 33.4484,
+                    "long": -112.0740
+                },
+                {
+                    "name": "Mesa",
+                    "type": "City",
+                    "lat": 33.4152,
+                    "long": -111.8315
+                },
+                {
+                    "name": "Chandler",
+                    "type": "City",
+                    "lat": 33.3062,
+                    "long": -111.8413
+                },
+                {
+                    "name": "Glendale",
+                    "type": "City",
+                    "lat": 33.5387,
+                    "long": -112.1850
+                },
+                {
+                    "name": "Scottsdale",
+                    "type": "City",
+                    "lat": 33.4942,
+                    "long": -111.9261
+                },
+                {
+                    "name": "Tempe",
+                    "type": "City",
+                    "lat": 33.4255,
+                    "long": -111.9400
+                },
+                {
+                    "name": "Peoria",
+                    "type": "City",
+                    "lat": 33.5806,
+                    "long": -112.2374
+                },
+                {
+                    "name": "Goodyear",
+                    "type": "City",
+                    "lat": 33.4356,
+                    "long": -112.3507
+                },
+                {
+                    "name": "Avondale",
+                    "type": "City",
+                    "lat": 33.4351,
+                    "long": -112.3496
+                },
+                {
+                    "name": "Globe",
+                    "type": "City",
+                    "lat": 33.4009,
+                    "long": -110.7899
+                },
+                {
+                    "name": "Litchfield Park",
+                    "type": "City",
+                    "lat": 33.5329,
+                    "long": -112.3558
+                },
+                {
+                    "name": "Sun City",
+                    "type": "Community",
+                    "lat": 33.5975,
+                    "long": -112.2685
+                },
+                {
+                    "name": "Buckeye",
+                    "type": "City",
+                    "lat": 33.3703,
+                    "long": -112.5838
+                },
+                {
+                    "name": "Fountain Hills",
+                    "type": "Town",
+                    "lat": 33.6176,
+                    "long": -111.7210
+                },
+                {
+                    "name": "Cave Creek",
+                    "type": "Town",
+                    "lat": 33.8191,
+                    "long": -111.9631
+                },
+                {
+                    "name": "Paradise Valley",
+                    "type": "Town",
+                    "lat": 33.5391,
+                    "long": -111.9607
+                },
+                {
+                    "name": "Gilbert",
+                    "type": "Town",
+                    "lat": 33.3528,
+                    "long": -111.7890
+                }
+            ]
+        },
+        {
+            "name": "Mohave",
+            "lat": 35.1417,
+            "long": -113.0344,
+            "cities": [
+                {
+                    "name": "Kingman",
+                    "type": "City",
+                    "lat": 35.1895,
+                    "long": -113.5275
+                },
+                {
+                    "name": "Lake Havasu City",
+                    "type": "City",
+                    "lat": 34.4839,
+                    "long": -114.3225
+                },
+                {
+                    "name": "Bullhead City",
+                    "type": "City",
+                    "lat": 35.1371,
+                    "long": -113.5345
+                },
+                {
+                    "name": "Fort Mohave",
+                    "type": "Community",
+                    "lat": 34.9986,
+                    "long": -113.5223
+                },
+                {
+                    "name": "Golden Valley",
+                    "type": "Community",
+                    "lat": 35.2106,
+                    "long": -113.0369
+                },
+                {
+                    "name": "Littlefield",
+                    "type": "Community",
+                    "lat": 36.2122,
+                    "long": -113.5923
+                },
+                {
+                    "name": "Topock",
+                    "type": "Community",
+                    "lat": 34.7992,
+                    "long": -113.2625
+                },
+                {
+                    "name": "Littlefield",
+                    "type": "Community",
+                    "lat": 36.2122,
+                    "long": -113.5923
+                }
+            ]
+        },
+        {
+            "name": "Navajo",
+            "lat": 35.4019,
+            "long": -111.4761,
+            "cities": [
+                {
+                    "name": "Holbrook",
+                    "type": "City",
+                    "lat": 34.9206,
+                    "long": -110.1585
+                },
+                {
+                    "name": "Winslow",
+                    "type": "City",
+                    "lat": 35.0309,
+                    "long": -110.6987
+                },
+                {
+                    "name": "Snowflake",
+                    "type": "Town",
+                    "lat": 34.5294,
+                    "long": -110.1302
+                },
+                {
+                    "name": "Taylor",
+                    "type": "Town",
+                    "lat": 34.5277,
+                    "long": -110.1423
+                },
+                {
+                    "name": "Pinetop-Lakeside",
+                    "type": "Town",
+                    "lat": 34.1294,
+                    "long": -109.9446
+                },
+                {
+                    "name": "Joseph City",
+                    "type": "Community",
+                    "lat": 35.0292,
+                    "long": -110.3176
+                },
+                {
+                    "name": "Kykotsmovi",
+                    "type": "Community",
+                    "lat": 35.8478,
+                    "long": -110.5970
+                },
+                {
+                    "name": "Winslow Junction",
+                    "type": "Community",
+                    "lat": 35.0160,
+                    "long": -110.6777
+                },
+                {
+                    "name": "Cibecue",
+                    "type": "Community",
+                    "lat": 34.2390,
+                    "long": -110.3727
+                }
+            ]
+        },
+        {
+            "name": "Pima",
+            "lat": 32.2217,
+            "long": -110.9265,
+            "cities": [
+                {
+                    "name": "Tucson",
+                    "type": "City",
+                    "lat": 32.2226,
+                    "long": -110.9747
+                },
+                {
+                    "name": "Oro Valley",
+                    "type": "Town",
+                    "lat": 32.4730,
+                    "long": -110.9547
+                },
+                {
+                    "name": "Marana",
+                    "type": "Town",
+                    "lat": 32.4663,
+                    "long": -111.0330
+                },
+                {
+                    "name": "Sahuarita",
+                    "type": "Town",
+                    "lat": 31.9851,
+                    "long": -110.9330
+                },
+                {
+                    "name": "Vail",
+                    "type": "Community",
+                    "lat": 31.9740,
+                    "long": -110.6965
+                },
+                {
+                    "name": "Green Valley",
+                    "type": "Community",
+                    "lat": 31.8584,
+                    "long": -110.9757
+                },
+                {
+                    "name": "Catalina",
+                    "type": "Community",
+                    "lat": 32.4778,
+                    "long": -110.8497
+                },
+                {
+                    "name": "Rita Ranch",
+                    "type": "Community",
+                    "lat": 32.1149,
+                    "long": -110.8001
+                },
+                {
+                    "name": "Picture Rocks",
+                    "type": "Community",
+                    "lat": 32.3661,
+                    "long": -111.2096
+                },
+                {
+                    "name": "Ajo",
+                    "type": "Town",
+                    "lat": 32.3817,
+                    "long": -112.8695
+                },
+                {
+                    "name": "Three Points",
+                    "type": "Community",
+                    "lat": 31.8939,
+                    "long": -111.2243
+                }
+            ]
+        },
+        {
+            "name": "Pinal",
+            "lat": 32.6916,
+            "long": -111.4740,
+            "cities": [
+                {
+                    "name": "Florence",
+                    "type": "Town",
+                    "lat": 33.0226,
+                    "long": -111.5325
+                },
+                {
+                    "name": "Coolidge",
+                    "type": "City",
+                    "lat": 32.9399,
+                    "long": -111.5325
+                },
+                {
+                    "name": "Casa Grande",
+                    "type": "City",
+                    "lat": 32.8795,
+                    "long": -111.7574
+                },
+                {
+                    "name": "Eloy",
+                    "type": "City",
+                    "lat": 32.7489,
+                    "long": -111.5893
+                },
+                {
+                    "name": "Apache Junction",
+                    "type": "City",
+                    "lat": 33.4159,
+                    "long": -111.5496
+                },
+                {
+                    "name": "San Manuel",
+                    "type": "Community",
+                    "lat": 32.7049,
+                    "long": -110.6293
+                },
+                {
+                    "name": "Florence Gardens",
+                    "type": "Community",
+                    "lat": 32.9994,
+                    "long": -111.5233
+                },
+                {
+                    "name": "Arizona City",
+                    "type": "Community",
+                    "lat": 32.9195,
+                    "long": -111.7089
+                },
+                {
+                    "name": "Red Rock",
+                    "type": "Community",
+                    "lat": 32.7346,
+                    "long": -111.4443
+                },
+                {
+                    "name": "Gold Canyon",
+                    "type": "Community",
+                    "lat": 33.3839,
+                    "long": -111.4507
+                },
+                {
+                    "name": "Kearny",
+                    "type": "Town",
+                    "lat": 32.9369,
+                    "long": -110.4875
+                }
+            ]
+        },
+        {
+            "name": "Santa Cruz",
+            "lat": 31.5984,
+            "long": -110.9731,
+            "cities": [
+                {
+                    "name": "Nogales",
+                    "type": "City",
+                    "lat": 31.3324,
+                    "long": -110.9391
+                },
+                {
+                    "name": "Patagonia",
+                    "type": "Town",
+                    "lat": 31.5762,
+                    "long": -110.7555
+                },
+                {
+                    "name": "Sonoita",
+                    "type": "Community",
+                    "lat": 31.6507,
+                    "long": -110.5983
+                },
+                {
+                    "name": "Elgin",
+                    "type": "Community",
+                    "lat": 31.6629,
+                    "long": -110.6001
+                },
+                {
+                    "name": "Rio Rico",
+                    "type": "Community",
+                    "lat": 31.4635,
+                    "long": -110.9270
+                }
+            ]
+        },
+        {
+            "name": "Yavapai",
+            "lat": 34.6021,
+            "long": -112.4698,
+            "cities": [
+                {
+                    "name": "Prescott",
+                    "type": "City",
+                    "lat": 34.5400,
+                    "long": -112.4685
+                },
+                {
+                    "name": "Cottonwood",
+                    "type": "City",
+                    "lat": 34.7571,
+                    "long": -112.0085
+                },
+                {
+                    "name": "Chino Valley",
+                    "type": "Town",
+                    "lat": 34.7496,
+                    "long": -112.4685
+                },
+                {
+                    "name": "Camp Verde",
+                    "type": "Town",
+                    "lat": 34.5612,
+                    "long": -111.8540
+                },
+                {
+                    "name": "Clarkdale",
+                    "type": "Town",
+                    "lat": 34.7552,
+                    "long": -112.0160
+                },
+                {
+                    "name": "Sedona",
+                    "type": "City",
+                    "lat": 34.8696,
+                    "long": -111.7605
+                },
+                {
+                    "name": "Mayer",
+                    "type": "Community",
+                    "lat": 34.4235,
+                    "long": -112.1659
+                },
+                {
+                    "name": "Williamson Valley",
+                    "type": "Community",
+                    "lat": 34.6985,
+                    "long": -112.4919
+                },
+                {
+                    "name": "Seligman",
+                    "type": "Town",
+                    "lat": 35.3213,
+                    "long": -113.0257
+                },
+                {
+                    "name": "Bagdad",
+                    "type": "Community",
+                    "lat": 34.5325,
+                    "long": -113.1517
+                },
+                {
+                    "name": "Rimrock",
+                    "type": "Community",
+                    "lat": 34.5640,
+                    "long": -111.6715
+                }
+            ]
+        },
+        {
+            "name": "Yuma",
+            "lat": 32.6658,
+            "long": -113.1030,
+            "cities": [
+                {
+                    "name": "Yuma",
+                    "type": "City",
+                    "lat": 32.6927,
+                    "long": -113.4827
+                },
+                {
+                    "name": "Somerton",
+                    "type": "City",
+                    "lat": 32.6502,
+                    "long": -114.7313
+                },
+                {
+                    "name": "San Luis",
+                    "type": "City",
+                    "lat": 32.4995,
+                    "long": -114.7831
+                },
+                {
+                    "name": "Wellton",
+                    "type": "Town",
+                    "lat": 32.6624,
+                    "long": -113.8706
+                },
+                {
+                    "name": "Foothills",
+                    "type": "Community",
+                    "lat": 32.6695,
+                    "long": -113.3872
+                },
+                {
+                    "name": "Laton",
+                    "type": "Community",
+                    "lat": 32.7500,
+                    "long": -114.6550
+                },
+                {
+                    "name": "Roll",
+                    "type": "Community",
+                    "lat": 32.7431,
+                    "long": -113.6596
+                }
+            ]
+        }
+    ]
+}

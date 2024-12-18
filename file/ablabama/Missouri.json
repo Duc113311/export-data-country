@@ -1,0 +1,237 @@
+{
+  "nameState": "Missouri",
+  "lat": 37.0902,
+  "long": -95.7129,
+  "counties": [
+    {
+      "name": "Adair",
+      "lat": 40.1827,
+      "long": -92.5812
+    },
+    {
+      "name": "Andrew",
+      "lat": 39.6651,
+      "long": -94.932
+    },
+    {
+      "name": "Atchison",
+      "lat": 39.7105,
+      "long": -95.2526
+    },
+    {
+      "name": "Audrain",
+      "lat": 39.1773,
+      "long": -91.7794
+    },
+    {
+      "name": "Barry",
+      "lat": 36.6393,
+      "long": -93.7923
+    },
+    {
+      "name": "Barton",
+      "lat": 37.429,
+      "long": -94.2725
+    },
+    {
+      "name": "Bates",
+      "lat": 38.4731,
+      "long": -94.3432
+    },
+    {
+      "name": "Benton",
+      "lat": 38.3132,
+      "long": -93.2311
+    },
+    {
+      "name": "Bollinger",
+      "lat": 37.2594,
+      "long": -89.8535
+    },
+    {
+      "name": "Boone",
+      "lat": 38.9522,
+      "long": -92.3341
+    },
+    {
+      "name": "Buchanan",
+      "lat": 39.7578,
+      "long": -94.8103
+    },
+    {
+      "name": "Butler",
+      "lat": 36.8295,
+      "long": -90.389
+    },
+    {
+      "name": "Caldwell",
+      "lat": 39.4932,
+      "long": -93.5445
+    },
+    {
+      "name": "Callaway",
+      "lat": 38.7716,
+      "long": -91.8271
+    },
+    {
+      "name": "Camden",
+      "lat": 38.1071,
+      "long": -92.8446
+    },
+    {
+      "name": "Cape Girardeau",
+      "lat": 37.3822,
+      "long": -89.5181
+    },
+    {
+      "name": "Carroll",
+      "lat": 39.3925,
+      "long": -93.4587
+    },
+    {
+      "name": "Carter",
+      "lat": 36.9096,
+      "long": -90.9389
+    },
+    {
+      "name": "Cass",
+      "lat": 38.5371,
+      "long": -94.3722
+    },
+    {
+      "name": "Cedar",
+      "lat": 38.2103,
+      "long": -93.5055
+    },
+    {
+      "name": "Chariton",
+      "lat": 39.3194,
+      "long": -92.7447
+    },
+    {
+      "name": "Christian",
+      "lat": 36.7621,
+      "long": -93.2989
+    },
+    {
+      "name": "Clark",
+      "lat": 40.0712,
+      "long": -91.7915
+    },
+    {
+      "name": "Clay",
+      "lat": 39.186,
+      "long": -94.5066
+    },
+    {
+      "name": "Clinton",
+      "lat": 39.8161,
+      "long": -94.0735
+    },
+    {
+      "name": "Cole",
+      "lat": 38.578,
+      "long": -92.648
+    },
+    {
+      "name": "Cooper",
+      "lat": 38.956,
+      "long": -92.7773
+    },
+    {
+      "name": "Crawford",
+      "lat": 38.2041,
+      "long": -91.1881
+    },
+    {
+      "name": "Dade",
+      "lat": 37.464,
+      "long": -93.8869
+    },
+    {
+      "name": "Dallas",
+      "lat": 37.3727,
+      "long": -93.4394
+    },
+    {
+      "name": "Daviess",
+      "lat": 39.7129,
+      "long": -93.9504
+    },
+    {
+      "name": "DeKalb",
+      "lat": 39.8989,
+      "long": -94.3282
+    },
+    {
+      "name": "Douglas",
+      "lat": 36.9912,
+      "long": -92.4735
+    },
+    {
+      "name": "Dunklin",
+      "lat": 36.0646,
+      "long": -90.2159
+    },
+    {
+      "name": "Franklin",
+      "lat": 38.5519,
+      "long": -91.0765
+    },
+    {
+      "name": "Gasconade",
+      "lat": 38.4687,
+      "long": -91.36
+    },
+    {
+      "name": "Gentry",
+      "lat": 40.0505,
+      "long": -94.3627
+    },
+    {
+      "name": "Greene",
+      "lat": 37.3247,
+      "long": -93.4423
+    },
+    {
+      "name": "Grundy",
+      "lat": 40.0165,
+      "long": -93.6281
+    },
+    {
+      "name": "Hancock",
+      "lat": 39.938,
+      "long": -93.3504
+    },
+    {
+      "name": "Harrison",
+      "lat": 40.0152,
+      "long": -93.7115
+    },
+    {
+      "name": "Henry",
+      "lat": 38.4759,
+      "long": -93.769
+    },
+    {
+      "name": "Hickory",
+      "lat": 37.5961,
+      "long": -93.2739
+    },
+    {
+      "name": "Holt",
+      "lat": 39.5277,
+      "long": -94.9006
+    },
+    {
+      "name": "Howard",
+      "lat": 39.133,
+      "long": -92.8491
+    },
+    {
+      "name": "Howell",
+      "lat": 36.9514,
+      "long": -92.4951
+    }
+  ]
+}

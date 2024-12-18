@@ -1,0 +1,237 @@
+{
+  "nameState": "Kansas",
+  "lat": 39.0119,
+  "long": -98.4842,
+  "counties": [
+    {
+      "name": "Allen",
+      "lat": 37.7834,
+      "long": -95.271
+    },
+    {
+      "name": "Anderson",
+      "lat": 38.4441,
+      "long": -95.2835
+    },
+    {
+      "name": "Atchison",
+      "lat": 39.5656,
+      "long": -95.139
+    },
+    {
+      "name": "Barber",
+      "lat": 37.3032,
+      "long": -98.197
+    },
+    {
+      "name": "Barton",
+      "lat": 38.3216,
+      "long": -98.7592
+    },
+    {
+      "name": "Bourbon",
+      "lat": 37.248,
+      "long": -94.708
+    },
+    {
+      "name": "Brown",
+      "lat": 39.9945,
+      "long": -95.4555
+    },
+    {
+      "name": "Butler",
+      "lat": 37.6699,
+      "long": -96.8923
+    },
+    {
+      "name": "Chase",
+      "lat": 38.3676,
+      "long": -96.5006
+    },
+    {
+      "name": "Chautauqua",
+      "lat": 37.1174,
+      "long": -96.4117
+    },
+    {
+      "name": "Cherokee",
+      "lat": 37.2465,
+      "long": -94.7405
+    },
+    {
+      "name": "Cheyenne",
+      "lat": 38.8987,
+      "long": -101.2679
+    },
+    {
+      "name": "Clark",
+      "lat": 37.6891,
+      "long": -99.2479
+    },
+    {
+      "name": "Clay",
+      "lat": 39.238,
+      "long": -97.1456
+    },
+    {
+      "name": "Cloud",
+      "lat": 39.218,
+      "long": -97.4526
+    },
+    {
+      "name": "Coffey",
+      "lat": 38.3844,
+      "long": -95.7359
+    },
+    {
+      "name": "Comanche",
+      "lat": 37.3467,
+      "long": -98.2044
+    },
+    {
+      "name": "Cowley",
+      "lat": 37.2697,
+      "long": -96.987
+    },
+    {
+      "name": "Crawford",
+      "lat": 37.5241,
+      "long": -94.7787
+    },
+    {
+      "name": "Decatur",
+      "lat": 39.4183,
+      "long": -101.3813
+    },
+    {
+      "name": "Dickinson",
+      "lat": 38.8293,
+      "long": -97.2811
+    },
+    {
+      "name": "Doniphan",
+      "lat": 39.5047,
+      "long": -95.4891
+    },
+    {
+      "name": "Douglas",
+      "lat": 38.9403,
+      "long": -95.2353
+    },
+    {
+      "name": "Edwards",
+      "lat": 38.6123,
+      "long": -98.5806
+    },
+    {
+      "name": "Elk",
+      "lat": 37.5026,
+      "long": -96.2957
+    },
+    {
+      "name": "Ellis",
+      "lat": 38.8444,
+      "long": -98.3003
+    },
+    {
+      "name": "Ellsworth",
+      "lat": 38.4357,
+      "long": -98.205
+    },
+    {
+      "name": "Finney",
+      "lat": 38.582,
+      "long": -99.2983
+    },
+    {
+      "name": "Ford",
+      "lat": 37.5612,
+      "long": -99.1103
+    },
+    {
+      "name": "Franklin",
+      "lat": 38.7369,
+      "long": -95.3089
+    },
+    {
+      "name": "Geary",
+      "lat": 39.3184,
+      "long": -96.8973
+    },
+    {
+      "name": "Gove",
+      "lat": 38.924,
+      "long": -100.317
+    },
+    {
+      "name": "Graham",
+      "lat": 39.3437,
+      "long": -99.2875
+    },
+    {
+      "name": "Grant",
+      "lat": 38.222,
+      "long": -101.7571
+    },
+    {
+      "name": "Greenwood",
+      "lat": 38.2734,
+      "long": -96.2131
+    },
+    {
+      "name": "Hamilton",
+      "lat": 38.432,
+      "long": -99.2789
+    },
+    {
+      "name": "Harper",
+      "lat": 37.2799,
+      "long": -98.1952
+    },
+    {
+      "name": "Harrison",
+      "lat": 38.7346,
+      "long": -94.785
+    },
+    {
+      "name": "Haskell",
+      "lat": 37.3445,
+      "long": -101.1269
+    },
+    {
+      "name": "Hodgeman",
+      "lat": 38.1166,
+      "long": -99.904
+    },
+    {
+      "name": "Jackson",
+      "lat": 39.3072,
+      "long": -95.7592
+    },
+    {
+      "name": "Jefferson",
+      "lat": 39.1795,
+      "long": -95.4633
+    },
+    {
+      "name": "Jewell",
+      "lat": 39.619,
+      "long": -98.1714
+    },
+    {
+      "name": "Johnson",
+      "lat": 38.928,
+      "long": -94.8817
+    },
+    {
+      "name": "Jones",
+      "lat": 38.7911,
+      "long": -101.2337
+    },
+    {
+      "name": "Kearny",
+      "lat": 38.3189,
+      "long": -101.1383
+    }
+  ]
+}

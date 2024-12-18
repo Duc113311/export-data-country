@@ -1,0 +1,112 @@
+{
+  "nameState": "Maryland",
+  "lat": 39.0458,
+  "long": -76.6413,
+  "counties": [
+    {
+      "name": "Allegany",
+      "lat": 39.5676,
+      "long": -78.6044
+    },
+    {
+      "name": "Anne Arundel",
+      "lat": 38.9786,
+      "long": -76.5722
+    },
+    {
+      "name": "Baltimore",
+      "lat": 39.3995,
+      "long": -76.6122
+    },
+    {
+      "name": "Calvert",
+      "lat": 38.5375,
+      "long": -76.582
+    },
+    {
+      "name": "Carroll",
+      "lat": 39.5788,
+      "long": -76.9245
+    },
+    {
+      "name": "Charles",
+      "lat": 38.5223,
+      "long": -76.9872
+    },
+    {
+      "name": "Dorchester",
+      "lat": 38.4156,
+      "long": -76.1783
+    },
+    {
+      "name": "Frederick",
+      "lat": 39.4192,
+      "long": -77.4105
+    },
+    {
+      "name": "Garrett",
+      "lat": 39.5837,
+      "long": -79.2902
+    },
+    {
+      "name": "Harford",
+      "lat": 39.5836,
+      "long": -76.3651
+    },
+    {
+      "name": "Howard",
+      "lat": 39.2328,
+      "long": -76.8322
+    },
+    {
+      "name": "Kent",
+      "lat": 39.2711,
+      "long": -76.1316
+    },
+    {
+      "name": "Montgomery",
+      "lat": 39.1732,
+      "long": -77.1537
+    },
+    {
+      "name": "Prince George's",
+      "lat": 38.7849,
+      "long": -76.8721
+    },
+    {
+      "name": "Queen Anne's",
+      "lat": 38.9312,
+      "long": -76.1322
+    },
+    {
+      "name": "St. Mary's",
+      "lat": 38.2287,
+      "long": -76.428
+    },
+    {
+      "name": "Somerset",
+      "lat": 38.137,
+      "long": -75.8554
+    },
+    {
+      "name": "Talbot",
+      "lat": 38.7733,
+      "long": -76.1311
+    },
+    {
+      "name": "Washington",
+      "lat": 39.6418,
+      "long": -77.7191
+    },
+    {
+      "name": "Wicomico",
+      "lat": 38.373,
+      "long": -75.6013
+    },
+    {
+      "name": "Worcester",
+      "lat": 38.1897,
+      "long": -75.3645
+    }
+  ]
+}

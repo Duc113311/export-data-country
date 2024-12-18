@@ -1,0 +1,3424 @@
+{
+  "code": 0,
+  "type": "City",
+  "postalCode": "40000",
+  "keyAccentLanguage": "Thanh_Hoa",
+  "districtList": [
+    {
+      "code": 1,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Thanh Hóa",
+      "postalCode": "400001",
+      "keyAccentLanguage": "Thanh_pho_Thanh_Hoa",
+      "wards": [
+        {
+          "code": 2,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hàm Rồng",
+          "keyAccentLanguage": "Phuong_Ham_Rong"
+        },
+        {
+          "code": 3,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đông Thọ",
+          "keyAccentLanguage": "Phuong_Đong_Tho"
+        },
+        {
+          "code": 4,
+          "type": "Ward",
+          "viNameLanguage": "Phường Nam Ngạn",
+          "keyAccentLanguage": "Phuong_Nam_Ngan"
+        },
+        {
+          "code": 5,
+          "type": "Ward",
+          "viNameLanguage": "Phường Trường Thi",
+          "keyAccentLanguage": "Phuong_Truong_Thi"
+        },
+        {
+          "code": 6,
+          "type": "Ward",
+          "viNameLanguage": "Phường Điện Biên",
+          "keyAccentLanguage": "Phuong_Đien_Bien"
+        },
+        {
+          "code": 7,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Sơn",
+          "keyAccentLanguage": "Phuong_Phu_Son"
+        },
+        {
+          "code": 8,
+          "type": "Ward",
+          "viNameLanguage": "Phường Lam Sơn",
+          "keyAccentLanguage": "Phuong_Lam_Son"
+        },
+        {
+          "code": 9,
+          "type": "Ward",
+          "viNameLanguage": "Phường Ba Đình",
+          "keyAccentLanguage": "Phuong_Ba_Đinh"
+        },
+        {
+          "code": 10,
+          "type": "Ward",
+          "viNameLanguage": "Phường Ngọc Trạo",
+          "keyAccentLanguage": "Phuong_Ngoc_Trao"
+        },
+        {
+          "code": 11,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đông Vệ",
+          "keyAccentLanguage": "Phuong_Đong_Ve"
+        },
+        {
+          "code": 12,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đông Sơn",
+          "keyAccentLanguage": "Phuong_Đong_Son"
+        },
+        {
+          "code": 13,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Sơn",
+          "keyAccentLanguage": "Phuong_Tan_Son"
+        },
+        {
+          "code": 14,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đông Cương",
+          "keyAccentLanguage": "Phuong_Đong_Cuong"
+        },
+        {
+          "code": 15,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đông Hương",
+          "keyAccentLanguage": "Phuong_Đong_Huong"
+        },
+        {
+          "code": 16,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đông Hải",
+          "keyAccentLanguage": "Phuong_Đong_Hai"
+        },
+        {
+          "code": 17,
+          "type": "Ward",
+          "viNameLanguage": "Phường Quảng Hưng",
+          "keyAccentLanguage": "Phuong_Quang_Hung"
+        },
+        {
+          "code": 18,
+          "type": "Ward",
+          "viNameLanguage": "Phường Quảng Thắng",
+          "keyAccentLanguage": "Phuong_Quang_Thang"
+        },
+        {
+          "code": 19,
+          "type": "Ward",
+          "viNameLanguage": "Phường Quảng Thành",
+          "keyAccentLanguage": "Phuong_Quang_Thanh"
+        },
+        {
+          "code": 20,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Vân",
+          "keyAccentLanguage": "Xa_Thieu_Van"
+        },
+        {
+          "code": 21,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Khánh",
+          "keyAccentLanguage": "Xa_Thieu_Khanh"
+        },
+        {
+          "code": 22,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Dương",
+          "keyAccentLanguage": "Xa_Thieu_Duong"
+        },
+        {
+          "code": 23,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tào Xuyên",
+          "keyAccentLanguage": "Phuong_Tao_Xuyen"
+        },
+        {
+          "code": 24,
+          "type": "Commune",
+          "viNameLanguage": "Xã Long Anh",
+          "keyAccentLanguage": "Xa_Long_Anh"
+        },
+        {
+          "code": 25,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Quang",
+          "keyAccentLanguage": "Xa_Hoang_Quang"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Đại",
+          "keyAccentLanguage": "Xa_Hoang_Đai"
+        },
+        {
+          "code": 27,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Lĩnh",
+          "keyAccentLanguage": "Xa_Đong_Linh"
+        },
+        {
+          "code": 28,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Vinh",
+          "keyAccentLanguage": "Xa_Đong_Vinh"
+        },
+        {
+          "code": 29,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Tân",
+          "keyAccentLanguage": "Xa_Đong_Tan"
+        },
+        {
+          "code": 30,
+          "type": "Ward",
+          "viNameLanguage": "Phường An Hưng",
+          "keyAccentLanguage": "Phuong_An_Hung"
+        },
+        {
+          "code": 31,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Thịnh",
+          "keyAccentLanguage": "Xa_Quang_Thinh"
+        },
+        {
+          "code": 32,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Đông",
+          "keyAccentLanguage": "Xa_Quang_Đong"
+        },
+        {
+          "code": 33,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Cát",
+          "keyAccentLanguage": "Xa_Quang_Cat"
+        },
+        {
+          "code": 34,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Phú",
+          "keyAccentLanguage": "Xa_Quang_Phu"
+        },
+        {
+          "code": 35,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Tâm",
+          "keyAccentLanguage": "Xa_Quang_Tam"
+        }
+      ]
+    },
+    {
+      "code": 36,
+      "category": null,
+      "type": "Town",
+      "viNameLanguage": "Thị xã Bỉm Sơn",
+      "postalCode": "400002",
+      "keyAccentLanguage": "Thi_xa_Bim_Son",
+      "wards": [
+        {
+          "code": 37,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bắc Sơn",
+          "keyAccentLanguage": "Phuong_Bac_Son"
+        },
+        {
+          "code": 38,
+          "type": "Ward",
+          "viNameLanguage": "Phường Ba Đình",
+          "keyAccentLanguage": "Phuong_Ba_Đinh"
+        },
+        {
+          "code": 39,
+          "type": "Ward",
+          "viNameLanguage": "Phường Lam Sơn",
+          "keyAccentLanguage": "Phuong_Lam_Son"
+        },
+        {
+          "code": 40,
+          "type": "Ward",
+          "viNameLanguage": "Phường Ngọc Trạo",
+          "keyAccentLanguage": "Phuong_Ngoc_Trao"
+        },
+        {
+          "code": 41,
+          "type": "Ward",
+          "viNameLanguage": "Phường Đông Sơn",
+          "keyAccentLanguage": "Phuong_Đong_Son"
+        },
+        {
+          "code": 42,
+          "type": "Ward",
+          "viNameLanguage": "Phường Phú Sơn",
+          "keyAccentLanguage": "Phuong_Phu_Son"
+        },
+        {
+          "code": 43,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quang Trung",
+          "keyAccentLanguage": "Xa_Quang_Trung"
+        }
+      ]
+    },
+    {
+      "code": 44,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Sầm Sơn",
+      "postalCode": "400003",
+      "keyAccentLanguage": "Thanh_pho_Sam_Son",
+      "wards": [
+        {
+          "code": 45,
+          "type": "Ward",
+          "viNameLanguage": "Phường Trung Sơn",
+          "keyAccentLanguage": "Phuong_Trung_Son"
+        },
+        {
+          "code": 46,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bắc Sơn",
+          "keyAccentLanguage": "Phuong_Bac_Son"
+        },
+        {
+          "code": 47,
+          "type": "Ward",
+          "viNameLanguage": "Phường Trường Sơn",
+          "keyAccentLanguage": "Phuong_Truong_Son"
+        },
+        {
+          "code": 48,
+          "type": "Ward",
+          "viNameLanguage": "Phường Quảng Cư",
+          "keyAccentLanguage": "Phuong_Quang_Cu"
+        },
+        {
+          "code": 49,
+          "type": "Ward",
+          "viNameLanguage": "Phường Quảng Tiến",
+          "keyAccentLanguage": "Phuong_Quang_Tien"
+        },
+        {
+          "code": 50,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Minh",
+          "keyAccentLanguage": "Xa_Quang_Minh"
+        },
+        {
+          "code": 51,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Hùng",
+          "keyAccentLanguage": "Xa_Quang_Hung"
+        },
+        {
+          "code": 52,
+          "type": "Ward",
+          "viNameLanguage": "Phường Quảng Thọ",
+          "keyAccentLanguage": "Phuong_Quang_Tho"
+        },
+        {
+          "code": 53,
+          "type": "Ward",
+          "viNameLanguage": "Phường Quảng Châu",
+          "keyAccentLanguage": "Phuong_Quang_Chau"
+        },
+        {
+          "code": 54,
+          "type": "Ward",
+          "viNameLanguage": "Phường Quảng Vinh",
+          "keyAccentLanguage": "Phuong_Quang_Vinh"
+        },
+        {
+          "code": 55,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Đại",
+          "keyAccentLanguage": "Xa_Quang_Đai"
+        }
+      ]
+    },
+    {
+      "code": 56,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Mường Lát",
+      "postalCode": "400004",
+      "keyAccentLanguage": "Huyen_Muong_Lat",
+      "wards": [
+        {
+          "code": 57,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tam Chung",
+          "keyAccentLanguage": "Xa_Tam_Chung"
+        },
+        {
+          "code": 58,
+          "type": "Commune",
+          "viNameLanguage": "Xã Mường Lý",
+          "keyAccentLanguage": "Xa_Muong_Ly"
+        },
+        {
+          "code": 59,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Lý",
+          "keyAccentLanguage": "Xa_Trung_Ly"
+        },
+        {
+          "code": 60,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quang Chiểu",
+          "keyAccentLanguage": "Xa_Quang_Chieu"
+        },
+        {
+          "code": 61,
+          "type": "Commune",
+          "viNameLanguage": "Xã Pù Nhi",
+          "keyAccentLanguage": "Xa_Pu_Nhi"
+        },
+        {
+          "code": 62,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nhi Sơn",
+          "keyAccentLanguage": "Xa_Nhi_Son"
+        },
+        {
+          "code": 63,
+          "type": "Commune",
+          "viNameLanguage": "Xã Mường Chanh",
+          "keyAccentLanguage": "Xa_Muong_Chanh"
+        }
+      ]
+    },
+    {
+      "code": 64,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Quan Hóa",
+      "postalCode": "400005",
+      "keyAccentLanguage": "Huyen_Quan_Hoa",
+      "wards": [
+        {
+          "code": 65,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Hồi Xuân",
+          "keyAccentLanguage": "Thi_tran_Hoi_Xuan"
+        },
+        {
+          "code": 66,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Sơn",
+          "keyAccentLanguage": "Xa_Thanh_Son"
+        },
+        {
+          "code": 67,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Sơn",
+          "keyAccentLanguage": "Xa_Trung_Son"
+        },
+        {
+          "code": 68,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Thanh",
+          "keyAccentLanguage": "Xa_Phu_Thanh"
+        },
+        {
+          "code": 69,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Thành",
+          "keyAccentLanguage": "Xa_Trung_Thanh"
+        },
+        {
+          "code": 70,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Lệ",
+          "keyAccentLanguage": "Xa_Phu_Le"
+        },
+        {
+          "code": 71,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Sơn",
+          "keyAccentLanguage": "Xa_Phu_Son"
+        },
+        {
+          "code": 72,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Xuân",
+          "keyAccentLanguage": "Xa_Phu_Xuan"
+        },
+        {
+          "code": 73,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hiền Chung",
+          "keyAccentLanguage": "Xa_Hien_Chung"
+        },
+        {
+          "code": 74,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hiền Kiệt",
+          "keyAccentLanguage": "Xa_Hien_Kiet"
+        },
+        {
+          "code": 75,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nam Tiến",
+          "keyAccentLanguage": "Xa_Nam_Tien"
+        },
+        {
+          "code": 76,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiên Phủ",
+          "keyAccentLanguage": "Xa_Thien_Phu"
+        },
+        {
+          "code": 77,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Nghiêm",
+          "keyAccentLanguage": "Xa_Phu_Nghiem"
+        },
+        {
+          "code": 78,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nam Xuân",
+          "keyAccentLanguage": "Xa_Nam_Xuan"
+        },
+        {
+          "code": 79,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nam Động",
+          "keyAccentLanguage": "Xa_Nam_Đong"
+        }
+      ]
+    },
+    {
+      "code": 102,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Quan Sơn",
+      "postalCode": "400006",
+      "keyAccentLanguage": "Huyen_Quan_Son",
+      "wards": [
+        {
+          "code": 103,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Xuân",
+          "keyAccentLanguage": "Xa_Trung_Xuan"
+        },
+        {
+          "code": 104,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Thượng",
+          "keyAccentLanguage": "Xa_Trung_Thuong"
+        },
+        {
+          "code": 105,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Tiến",
+          "keyAccentLanguage": "Xa_Trung_Tien"
+        },
+        {
+          "code": 106,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Hạ",
+          "keyAccentLanguage": "Xa_Trung_Ha"
+        },
+        {
+          "code": 107,
+          "type": "Commune",
+          "viNameLanguage": "Xã Sơn Hà",
+          "keyAccentLanguage": "Xa_Son_Ha"
+        },
+        {
+          "code": 108,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tam Thanh",
+          "keyAccentLanguage": "Xa_Tam_Thanh"
+        },
+        {
+          "code": 109,
+          "type": "Commune",
+          "viNameLanguage": "Xã Sơn Thủy",
+          "keyAccentLanguage": "Xa_Son_Thuy"
+        },
+        {
+          "code": 110,
+          "type": "Commune",
+          "viNameLanguage": "Xã Na Mèo",
+          "keyAccentLanguage": "Xa_Na_Meo"
+        },
+        {
+          "code": 111,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Sơn Lư",
+          "keyAccentLanguage": "Thi_tran_Son_Lu"
+        },
+        {
+          "code": 112,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tam Lư",
+          "keyAccentLanguage": "Xa_Tam_Lu"
+        },
+        {
+          "code": 113,
+          "type": "Commune",
+          "viNameLanguage": "Xã Sơn Điện",
+          "keyAccentLanguage": "Xa_Son_Đien"
+        },
+        {
+          "code": 114,
+          "type": "Commune",
+          "viNameLanguage": "Xã Mường Mìn",
+          "keyAccentLanguage": "Xa_Muong_Min"
+        }
+      ]
+    },
+    {
+      "code": 115,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Lang Chánh",
+      "postalCode": "400007",
+      "keyAccentLanguage": "Huyen_Lang_Chanh",
+      "wards": [
+        {
+          "code": 116,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Khương",
+          "keyAccentLanguage": "Xa_Yen_Khuong"
+        },
+        {
+          "code": 117,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Thắng",
+          "keyAccentLanguage": "Xa_Yen_Thang"
+        },
+        {
+          "code": 118,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trí Nang",
+          "keyAccentLanguage": "Xa_Tri_Nang"
+        },
+        {
+          "code": 119,
+          "type": "Commune",
+          "viNameLanguage": "Xã Giao An",
+          "keyAccentLanguage": "Xa_Giao_An"
+        },
+        {
+          "code": 120,
+          "type": "Commune",
+          "viNameLanguage": "Xã Giao Thiện",
+          "keyAccentLanguage": "Xa_Giao_Thien"
+        },
+        {
+          "code": 121,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Phúc",
+          "keyAccentLanguage": "Xa_Tan_Phuc"
+        },
+        {
+          "code": 122,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tam Văn",
+          "keyAccentLanguage": "Xa_Tam_Van"
+        },
+        {
+          "code": 123,
+          "type": "Commune",
+          "viNameLanguage": "Xã Lâm Phú",
+          "keyAccentLanguage": "Xa_Lam_Phu"
+        },
+        {
+          "code": 124,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Lang Chánh",
+          "keyAccentLanguage": "Thi_tran_Lang_Chanh"
+        },
+        {
+          "code": 125,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đồng Lương",
+          "keyAccentLanguage": "Xa_Đong_Luong"
+        }
+      ]
+    },
+    {
+      "code": 126,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Ngọc Lặc",
+      "postalCode": "400008",
+      "keyAccentLanguage": "Huyen_Ngoc_Lac",
+      "wards": [
+        {
+          "code": 127,
+          "type": "Commune",
+          "viNameLanguage": "Xã Lam Sơn",
+          "keyAccentLanguage": "Xa_Lam_Son"
+        },
+        {
+          "code": 128,
+          "type": "Commune",
+          "viNameLanguage": "Xã Mỹ Tân",
+          "keyAccentLanguage": "Xa_My_Tan"
+        },
+        {
+          "code": 129,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thúy Sơn",
+          "keyAccentLanguage": "Xa_Thuy_Son"
+        },
+        {
+          "code": 130,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Lập",
+          "keyAccentLanguage": "Xa_Thach_Lap"
+        },
+        {
+          "code": 131,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vân Âm",
+          "keyAccentLanguage": "Xa_Van_Am"
+        },
+        {
+          "code": 132,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cao Ngọc",
+          "keyAccentLanguage": "Xa_Cao_Ngoc"
+        },
+        {
+          "code": 133,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quang Trung",
+          "keyAccentLanguage": "Xa_Quang_Trung"
+        },
+        {
+          "code": 134,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đồng Thịnh",
+          "keyAccentLanguage": "Xa_Đong_Thinh"
+        },
+        {
+          "code": 135,
+          "type": "Commune",
+          "viNameLanguage": "Xã Ngọc Liên",
+          "keyAccentLanguage": "Xa_Ngoc_Lien"
+        },
+        {
+          "code": 136,
+          "type": "Commune",
+          "viNameLanguage": "Xã Ngọc Sơn",
+          "keyAccentLanguage": "Xa_Ngoc_Son"
+        },
+        {
+          "code": 137,
+          "type": "Commune",
+          "viNameLanguage": "Xã Lộc Thịnh",
+          "keyAccentLanguage": "Xa_Loc_Thinh"
+        },
+        {
+          "code": 138,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cao Thịnh",
+          "keyAccentLanguage": "Xa_Cao_Thinh"
+        },
+        {
+          "code": 139,
+          "type": "Commune",
+          "viNameLanguage": "Xã Ngọc Trung",
+          "keyAccentLanguage": "Xa_Ngoc_Trung"
+        },
+        {
+          "code": 140,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phùng Giáo",
+          "keyAccentLanguage": "Xa_Phung_Giao"
+        },
+        {
+          "code": 141,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phùng Minh",
+          "keyAccentLanguage": "Xa_Phung_Minh"
+        },
+        {
+          "code": 142,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phúc Thịnh",
+          "keyAccentLanguage": "Xa_Phuc_Thinh"
+        },
+        {
+          "code": 143,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nguyệt Ấn",
+          "keyAccentLanguage": "Xa_Nguyet_An"
+        },
+        {
+          "code": 144,
+          "type": "Commune",
+          "viNameLanguage": "Xã Kiên Thọ",
+          "keyAccentLanguage": "Xa_Kien_Tho"
+        },
+        {
+          "code": 145,
+          "type": "Commune",
+          "viNameLanguage": "Xã Minh Tiến",
+          "keyAccentLanguage": "Xa_Minh_Tien"
+        },
+        {
+          "code": 146,
+          "type": "Commune",
+          "viNameLanguage": "Xã Minh Sơn",
+          "keyAccentLanguage": "Xa_Minh_Son"
+        }
+      ]
+    },
+    {
+      "code": 147,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Cẩm Thủy",
+      "postalCode": "400009",
+      "keyAccentLanguage": "Huyen_Cam_Thuy",
+      "wards": [
+        {
+          "code": 148,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Phong Sơn",
+          "keyAccentLanguage": "Thi_tran_Phong_Son"
+        },
+        {
+          "code": 149,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Thành",
+          "keyAccentLanguage": "Xa_Cam_Thanh"
+        },
+        {
+          "code": 150,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Quý",
+          "keyAccentLanguage": "Xa_Cam_Quy"
+        },
+        {
+          "code": 151,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Lương",
+          "keyAccentLanguage": "Xa_Cam_Luong"
+        },
+        {
+          "code": 152,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Thạch",
+          "keyAccentLanguage": "Xa_Cam_Thach"
+        },
+        {
+          "code": 153,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Liên",
+          "keyAccentLanguage": "Xa_Cam_Lien"
+        },
+        {
+          "code": 154,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Giang",
+          "keyAccentLanguage": "Xa_Cam_Giang"
+        },
+        {
+          "code": 155,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Bình",
+          "keyAccentLanguage": "Xa_Cam_Binh"
+        },
+        {
+          "code": 156,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Tú",
+          "keyAccentLanguage": "Xa_Cam_Tu"
+        },
+        {
+          "code": 157,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Châu",
+          "keyAccentLanguage": "Xa_Cam_Chau"
+        },
+        {
+          "code": 158,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Tâm",
+          "keyAccentLanguage": "Xa_Cam_Tam"
+        },
+        {
+          "code": 159,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Ngọc",
+          "keyAccentLanguage": "Xa_Cam_Ngoc"
+        },
+        {
+          "code": 160,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Long",
+          "keyAccentLanguage": "Xa_Cam_Long"
+        },
+        {
+          "code": 161,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Yên",
+          "keyAccentLanguage": "Xa_Cam_Yen"
+        },
+        {
+          "code": 162,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Tân",
+          "keyAccentLanguage": "Xa_Cam_Tan"
+        },
+        {
+          "code": 163,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Phú",
+          "keyAccentLanguage": "Xa_Cam_Phu"
+        },
+        {
+          "code": 164,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cẩm Vân",
+          "keyAccentLanguage": "Xa_Cam_Van"
+        }
+      ]
+    },
+    {
+      "code": 165,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Thạch Thành",
+      "postalCode": "4000010",
+      "keyAccentLanguage": "Huyen_Thach_Thanh",
+      "wards": [
+        {
+          "code": 166,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Kim Tân",
+          "keyAccentLanguage": "Thi_tran_Kim_Tan"
+        },
+        {
+          "code": 167,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Vân Du",
+          "keyAccentLanguage": "Thi_tran_Van_Du"
+        },
+        {
+          "code": 168,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Lâm",
+          "keyAccentLanguage": "Xa_Thach_Lam"
+        },
+        {
+          "code": 169,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Quảng",
+          "keyAccentLanguage": "Xa_Thach_Quang"
+        },
+        {
+          "code": 170,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Tượng",
+          "keyAccentLanguage": "Xa_Thach_Tuong"
+        },
+        {
+          "code": 171,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Cẩm",
+          "keyAccentLanguage": "Xa_Thach_Cam"
+        },
+        {
+          "code": 172,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Sơn",
+          "keyAccentLanguage": "Xa_Thach_Son"
+        },
+        {
+          "code": 173,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Bình",
+          "keyAccentLanguage": "Xa_Thach_Binh"
+        },
+        {
+          "code": 174,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Định",
+          "keyAccentLanguage": "Xa_Thach_Đinh"
+        },
+        {
+          "code": 175,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Đồng",
+          "keyAccentLanguage": "Xa_Thach_Đong"
+        },
+        {
+          "code": 176,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thạch Long",
+          "keyAccentLanguage": "Xa_Thach_Long"
+        },
+        {
+          "code": 177,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Mỹ",
+          "keyAccentLanguage": "Xa_Thanh_My"
+        },
+        {
+          "code": 178,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Yên",
+          "keyAccentLanguage": "Xa_Thanh_Yen"
+        },
+        {
+          "code": 179,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Vinh",
+          "keyAccentLanguage": "Xa_Thanh_Vinh"
+        },
+        {
+          "code": 180,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Minh",
+          "keyAccentLanguage": "Xa_Thanh_Minh"
+        },
+        {
+          "code": 181,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Công",
+          "keyAccentLanguage": "Xa_Thanh_Cong"
+        },
+        {
+          "code": 182,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Tân",
+          "keyAccentLanguage": "Xa_Thanh_Tan"
+        },
+        {
+          "code": 183,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Trực",
+          "keyAccentLanguage": "Xa_Thanh_Truc"
+        },
+        {
+          "code": 184,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Tâm",
+          "keyAccentLanguage": "Xa_Thanh_Tam"
+        },
+        {
+          "code": 185,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành An",
+          "keyAccentLanguage": "Xa_Thanh_An"
+        },
+        {
+          "code": 186,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Thọ",
+          "keyAccentLanguage": "Xa_Thanh_Tho"
+        },
+        {
+          "code": 187,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Tiến",
+          "keyAccentLanguage": "Xa_Thanh_Tien"
+        },
+        {
+          "code": 188,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Long",
+          "keyAccentLanguage": "Xa_Thanh_Long"
+        },
+        {
+          "code": 189,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Hưng",
+          "keyAccentLanguage": "Xa_Thanh_Hung"
+        },
+        {
+          "code": 190,
+          "type": "Commune",
+          "viNameLanguage": "Xã Ngọc Trạo",
+          "keyAccentLanguage": "Xa_Ngoc_Trao"
+        }
+      ]
+    },
+    {
+      "code": 191,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Hà Trung",
+      "postalCode": "4000011",
+      "keyAccentLanguage": "Huyen_Ha_Trung",
+      "wards": [
+        {
+          "code": 192,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Long",
+          "keyAccentLanguage": "Xa_Ha_Long"
+        },
+        {
+          "code": 193,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Vinh",
+          "keyAccentLanguage": "Xa_Ha_Vinh"
+        },
+        {
+          "code": 194,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Bắc",
+          "keyAccentLanguage": "Xa_Ha_Bac"
+        },
+        {
+          "code": 195,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoạt Giang",
+          "keyAccentLanguage": "Xa_Hoat_Giang"
+        },
+        {
+          "code": 196,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Dương",
+          "keyAccentLanguage": "Xa_Yen_Duong"
+        },
+        {
+          "code": 197,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Giang",
+          "keyAccentLanguage": "Xa_Ha_Giang"
+        },
+        {
+          "code": 198,
+          "type": "Commune",
+          "viNameLanguage": "Xã Lĩnh Toại",
+          "keyAccentLanguage": "Xa_Linh_Toai"
+        },
+        {
+          "code": 199,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Ngọc",
+          "keyAccentLanguage": "Xa_Ha_Ngoc"
+        },
+        {
+          "code": 200,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yến Sơn",
+          "keyAccentLanguage": "Xa_Yen_Son"
+        },
+        {
+          "code": 201,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Sơn",
+          "keyAccentLanguage": "Xa_Ha_Son"
+        },
+        {
+          "code": 202,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Lĩnh",
+          "keyAccentLanguage": "Xa_Ha_Linh"
+        },
+        {
+          "code": 203,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Đông",
+          "keyAccentLanguage": "Xa_Ha_Đong"
+        },
+        {
+          "code": 204,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Tân",
+          "keyAccentLanguage": "Xa_Ha_Tan"
+        },
+        {
+          "code": 205,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Tiến",
+          "keyAccentLanguage": "Xa_Ha_Tien"
+        },
+        {
+          "code": 206,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Bình",
+          "keyAccentLanguage": "Xa_Ha_Binh"
+        },
+        {
+          "code": 207,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Lai",
+          "keyAccentLanguage": "Xa_Ha_Lai"
+        },
+        {
+          "code": 208,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Châu",
+          "keyAccentLanguage": "Xa_Ha_Chau"
+        },
+        {
+          "code": 209,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Thái",
+          "keyAccentLanguage": "Xa_Ha_Thai"
+        },
+        {
+          "code": 210,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hà Hải",
+          "keyAccentLanguage": "Xa_Ha_Hai"
+        }
+      ]
+    },
+    {
+      "code": 211,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Vĩnh Lộc",
+      "postalCode": "4000012",
+      "keyAccentLanguage": "Huyen_Vinh_Loc",
+      "wards": [
+        {
+          "code": 212,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Quang",
+          "keyAccentLanguage": "Xa_Vinh_Quang"
+        },
+        {
+          "code": 213,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Yên",
+          "keyAccentLanguage": "Xa_Vinh_Yen"
+        },
+        {
+          "code": 214,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Tiến",
+          "keyAccentLanguage": "Xa_Vinh_Tien"
+        },
+        {
+          "code": 215,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Long",
+          "keyAccentLanguage": "Xa_Vinh_Long"
+        },
+        {
+          "code": 216,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Phúc",
+          "keyAccentLanguage": "Xa_Vinh_Phuc"
+        },
+        {
+          "code": 217,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Hưng",
+          "keyAccentLanguage": "Xa_Vinh_Hung"
+        },
+        {
+          "code": 218,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Hòa",
+          "keyAccentLanguage": "Xa_Vinh_Hoa"
+        },
+        {
+          "code": 219,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Hùng",
+          "keyAccentLanguage": "Xa_Vinh_Hung"
+        },
+        {
+          "code": 220,
+          "type": "Commune",
+          "viNameLanguage": "Xã Minh Tân",
+          "keyAccentLanguage": "Xa_Minh_Tan"
+        },
+        {
+          "code": 221,
+          "type": "Commune",
+          "viNameLanguage": "Xã Ninh Khang",
+          "keyAccentLanguage": "Xa_Ninh_Khang"
+        },
+        {
+          "code": 222,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh Thịnh",
+          "keyAccentLanguage": "Xa_Vinh_Thinh"
+        },
+        {
+          "code": 223,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vĩnh An",
+          "keyAccentLanguage": "Xa_Vinh_An"
+        }
+      ]
+    },
+    {
+      "code": 224,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Yên Định",
+      "postalCode": "4000013",
+      "keyAccentLanguage": "Huyen_Yen_Đinh",
+      "wards": [
+        {
+          "code": 225,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Thống Nhất",
+          "keyAccentLanguage": "Thi_tran_Thong_Nhat"
+        },
+        {
+          "code": 226,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Lâm",
+          "keyAccentLanguage": "Xa_Yen_Lam"
+        },
+        {
+          "code": 227,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Tâm",
+          "keyAccentLanguage": "Xa_Yen_Tam"
+        },
+        {
+          "code": 228,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Phú",
+          "keyAccentLanguage": "Xa_Yen_Phu"
+        },
+        {
+          "code": 229,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quí Lộc",
+          "keyAccentLanguage": "Xa_Qui_Loc"
+        },
+        {
+          "code": 230,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Thọ",
+          "keyAccentLanguage": "Xa_Yen_Tho"
+        },
+        {
+          "code": 231,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Trung",
+          "keyAccentLanguage": "Xa_Yen_Trung"
+        },
+        {
+          "code": 232,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Trường",
+          "keyAccentLanguage": "Xa_Yen_Truong"
+        },
+        {
+          "code": 233,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Phong",
+          "keyAccentLanguage": "Xa_Yen_Phong"
+        },
+        {
+          "code": 234,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Thái",
+          "keyAccentLanguage": "Xa_Yen_Thai"
+        },
+        {
+          "code": 235,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Hùng",
+          "keyAccentLanguage": "Xa_Yen_Hung"
+        },
+        {
+          "code": 236,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Thịnh",
+          "keyAccentLanguage": "Xa_Yen_Thinh"
+        },
+        {
+          "code": 237,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Ninh",
+          "keyAccentLanguage": "Xa_Yen_Ninh"
+        },
+        {
+          "code": 238,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Lạc",
+          "keyAccentLanguage": "Xa_Yen_Lac"
+        },
+        {
+          "code": 239,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Tăng",
+          "keyAccentLanguage": "Xa_Đinh_Tang"
+        },
+        {
+          "code": 240,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Hòa",
+          "keyAccentLanguage": "Xa_Đinh_Hoa"
+        },
+        {
+          "code": 241,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Thành",
+          "keyAccentLanguage": "Xa_Đinh_Thanh"
+        },
+        {
+          "code": 242,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Công",
+          "keyAccentLanguage": "Xa_Đinh_Cong"
+        },
+        {
+          "code": 243,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Tân",
+          "keyAccentLanguage": "Xa_Đinh_Tan"
+        },
+        {
+          "code": 244,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Tiến",
+          "keyAccentLanguage": "Xa_Đinh_Tien"
+        },
+        {
+          "code": 245,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Long",
+          "keyAccentLanguage": "Xa_Đinh_Long"
+        },
+        {
+          "code": 246,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Liên",
+          "keyAccentLanguage": "Xa_Đinh_Lien"
+        },
+        {
+          "code": 247,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Quán Lào",
+          "keyAccentLanguage": "Thi_tran_Quan_Lao"
+        },
+        {
+          "code": 248,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Hưng",
+          "keyAccentLanguage": "Xa_Đinh_Hung"
+        },
+        {
+          "code": 249,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Hải",
+          "keyAccentLanguage": "Xa_Đinh_Hai"
+        },
+        {
+          "code": 250,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Bình",
+          "keyAccentLanguage": "Xa_Đinh_Binh"
+        }
+      ]
+    },
+    {
+      "code": 251,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Thọ Xuân",
+      "postalCode": "4000014",
+      "keyAccentLanguage": "Huyen_Tho_Xuan",
+      "wards": [
+        {
+          "code": 252,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Hồng",
+          "keyAccentLanguage": "Xa_Xuan_Hong"
+        },
+        {
+          "code": 253,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bắc Lương",
+          "keyAccentLanguage": "Xa_Bac_Luong"
+        },
+        {
+          "code": 254,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nam Giang",
+          "keyAccentLanguage": "Xa_Nam_Giang"
+        },
+        {
+          "code": 255,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Phong",
+          "keyAccentLanguage": "Xa_Xuan_Phong"
+        },
+        {
+          "code": 256,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Lộc",
+          "keyAccentLanguage": "Xa_Tho_Loc"
+        },
+        {
+          "code": 257,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Trường",
+          "keyAccentLanguage": "Xa_Xuan_Truong"
+        },
+        {
+          "code": 258,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Hòa",
+          "keyAccentLanguage": "Xa_Xuan_Hoa"
+        },
+        {
+          "code": 259,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Hải",
+          "keyAccentLanguage": "Xa_Tho_Hai"
+        },
+        {
+          "code": 260,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tây Hồ",
+          "keyAccentLanguage": "Xa_Tay_Ho"
+        },
+        {
+          "code": 261,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Giang",
+          "keyAccentLanguage": "Xa_Xuan_Giang"
+        },
+        {
+          "code": 262,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Sinh",
+          "keyAccentLanguage": "Xa_Xuan_Sinh"
+        },
+        {
+          "code": 263,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Hưng",
+          "keyAccentLanguage": "Xa_Xuan_Hung"
+        },
+        {
+          "code": 264,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Diên",
+          "keyAccentLanguage": "Xa_Tho_Dien"
+        },
+        {
+          "code": 265,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Lâm",
+          "keyAccentLanguage": "Xa_Tho_Lam"
+        },
+        {
+          "code": 266,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Xương",
+          "keyAccentLanguage": "Xa_Tho_Xuong"
+        },
+        {
+          "code": 267,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Bái",
+          "keyAccentLanguage": "Xa_Xuan_Bai"
+        },
+        {
+          "code": 268,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Phú",
+          "keyAccentLanguage": "Xa_Xuan_Phu"
+        },
+        {
+          "code": 269,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Sao Vàng",
+          "keyAccentLanguage": "Thi_tran_Sao_Vang"
+        },
+        {
+          "code": 270,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Lam Sơn",
+          "keyAccentLanguage": "Thi_tran_Lam_Son"
+        },
+        {
+          "code": 271,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Thiên",
+          "keyAccentLanguage": "Xa_Xuan_Thien"
+        },
+        {
+          "code": 272,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thuận Minh",
+          "keyAccentLanguage": "Xa_Thuan_Minh"
+        },
+        {
+          "code": 273,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Lập",
+          "keyAccentLanguage": "Xa_Tho_Lap"
+        },
+        {
+          "code": 274,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Phú",
+          "keyAccentLanguage": "Xa_Quang_Phu"
+        },
+        {
+          "code": 275,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Tín",
+          "keyAccentLanguage": "Xa_Xuan_Tin"
+        },
+        {
+          "code": 276,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Xuân",
+          "keyAccentLanguage": "Xa_Phu_Xuan"
+        },
+        {
+          "code": 277,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Lai",
+          "keyAccentLanguage": "Xa_Xuan_Lai"
+        },
+        {
+          "code": 278,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Lập",
+          "keyAccentLanguage": "Xa_Xuan_Lap"
+        },
+        {
+          "code": 279,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Minh",
+          "keyAccentLanguage": "Xa_Xuan_Minh"
+        },
+        {
+          "code": 280,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trường Xuân",
+          "keyAccentLanguage": "Xa_Truong_Xuan"
+        }
+      ]
+    },
+    {
+      "code": 281,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Thường Xuân",
+      "postalCode": "4000015",
+      "keyAccentLanguage": "Huyen_Thuong_Xuan",
+      "wards": [
+        {
+          "code": 282,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bát Mọt",
+          "keyAccentLanguage": "Xa_Bat_Mot"
+        },
+        {
+          "code": 283,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Nhân",
+          "keyAccentLanguage": "Xa_Yen_Nhan"
+        },
+        {
+          "code": 284,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Lẹ",
+          "keyAccentLanguage": "Xa_Xuan_Le"
+        },
+        {
+          "code": 285,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vạn Xuân",
+          "keyAccentLanguage": "Xa_Van_Xuan"
+        },
+        {
+          "code": 286,
+          "type": "Commune",
+          "viNameLanguage": "Xã Lương Sơn",
+          "keyAccentLanguage": "Xa_Luong_Son"
+        },
+        {
+          "code": 287,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Cao",
+          "keyAccentLanguage": "Xa_Xuan_Cao"
+        },
+        {
+          "code": 288,
+          "type": "Commune",
+          "viNameLanguage": "Xã Luận Thành",
+          "keyAccentLanguage": "Xa_Luan_Thanh"
+        },
+        {
+          "code": 289,
+          "type": "Commune",
+          "viNameLanguage": "Xã Luận Khê",
+          "keyAccentLanguage": "Xa_Luan_Khe"
+        },
+        {
+          "code": 290,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Thắng",
+          "keyAccentLanguage": "Xa_Xuan_Thang"
+        },
+        {
+          "code": 291,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Lộc",
+          "keyAccentLanguage": "Xa_Xuan_Loc"
+        },
+        {
+          "code": 292,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Dương",
+          "keyAccentLanguage": "Xa_Xuan_Duong"
+        },
+        {
+          "code": 293,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Thanh",
+          "keyAccentLanguage": "Xa_Tho_Thanh"
+        },
+        {
+          "code": 294,
+          "type": "Commune",
+          "viNameLanguage": "Xã Ngọc Phụng",
+          "keyAccentLanguage": "Xa_Ngoc_Phung"
+        },
+        {
+          "code": 295,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Chinh",
+          "keyAccentLanguage": "Xa_Xuan_Chinh"
+        },
+        {
+          "code": 296,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Thành",
+          "keyAccentLanguage": "Xa_Tan_Thanh"
+        }
+      ]
+    },
+    {
+      "code": 297,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Triệu Sơn",
+      "postalCode": "4000016",
+      "keyAccentLanguage": "Huyen_Trieu_Son",
+      "wards": [
+        {
+          "code": 298,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Sơn",
+          "keyAccentLanguage": "Xa_Tho_Son"
+        },
+        {
+          "code": 299,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Bình",
+          "keyAccentLanguage": "Xa_Tho_Binh"
+        },
+        {
+          "code": 300,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Tiến",
+          "keyAccentLanguage": "Xa_Tho_Tien"
+        },
+        {
+          "code": 301,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hợp Lý",
+          "keyAccentLanguage": "Xa_Hop_Ly"
+        },
+        {
+          "code": 302,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hợp Tiến",
+          "keyAccentLanguage": "Xa_Hop_Tien"
+        },
+        {
+          "code": 303,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hợp Thành",
+          "keyAccentLanguage": "Xa_Hop_Thanh"
+        },
+        {
+          "code": 304,
+          "type": "Commune",
+          "viNameLanguage": "Xã Triệu Thành",
+          "keyAccentLanguage": "Xa_Trieu_Thanh"
+        },
+        {
+          "code": 305,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hợp Thắng",
+          "keyAccentLanguage": "Xa_Hop_Thang"
+        },
+        {
+          "code": 306,
+          "type": "Commune",
+          "viNameLanguage": "Xã Minh Sơn",
+          "keyAccentLanguage": "Xa_Minh_Son"
+        },
+        {
+          "code": 307,
+          "type": "Commune",
+          "viNameLanguage": "Xã Dân Lực",
+          "keyAccentLanguage": "Xa_Dan_Luc"
+        },
+        {
+          "code": 308,
+          "type": "Commune",
+          "viNameLanguage": "Xã Dân Lý",
+          "keyAccentLanguage": "Xa_Dan_Ly"
+        },
+        {
+          "code": 309,
+          "type": "Commune",
+          "viNameLanguage": "Xã Dân Quyền",
+          "keyAccentLanguage": "Xa_Dan_Quyen"
+        },
+        {
+          "code": 310,
+          "type": "Commune",
+          "viNameLanguage": "Xã An Nông",
+          "keyAccentLanguage": "Xa_An_Nong"
+        },
+        {
+          "code": 311,
+          "type": "Commune",
+          "viNameLanguage": "Xã Văn Sơn",
+          "keyAccentLanguage": "Xa_Van_Son"
+        },
+        {
+          "code": 312,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thái Hòa",
+          "keyAccentLanguage": "Xa_Thai_Hoa"
+        },
+        {
+          "code": 313,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Nưa",
+          "keyAccentLanguage": "Thi_tran_Nua"
+        },
+        {
+          "code": 314,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đồng Lợi",
+          "keyAccentLanguage": "Xa_Đong_Loi"
+        },
+        {
+          "code": 315,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đồng Tiến",
+          "keyAccentLanguage": "Xa_Đong_Tien"
+        },
+        {
+          "code": 316,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đồng Thắng",
+          "keyAccentLanguage": "Xa_Đong_Thang"
+        },
+        {
+          "code": 317,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tiến Nông",
+          "keyAccentLanguage": "Xa_Tien_Nong"
+        },
+        {
+          "code": 318,
+          "type": "Commune",
+          "viNameLanguage": "Xã Khuyến Nông",
+          "keyAccentLanguage": "Xa_Khuyen_Nong"
+        },
+        {
+          "code": 319,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Thịnh",
+          "keyAccentLanguage": "Xa_Xuan_Thinh"
+        },
+        {
+          "code": 320,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Lộc",
+          "keyAccentLanguage": "Xa_Xuan_Loc"
+        },
+        {
+          "code": 321,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Dân",
+          "keyAccentLanguage": "Xa_Tho_Dan"
+        },
+        {
+          "code": 322,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Thọ",
+          "keyAccentLanguage": "Xa_Xuan_Tho"
+        },
+        {
+          "code": 323,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Tân",
+          "keyAccentLanguage": "Xa_Tho_Tan"
+        },
+        {
+          "code": 324,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Ngọc",
+          "keyAccentLanguage": "Xa_Tho_Ngoc"
+        },
+        {
+          "code": 325,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Cường",
+          "keyAccentLanguage": "Xa_Tho_Cuong"
+        },
+        {
+          "code": 326,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Phú",
+          "keyAccentLanguage": "Xa_Tho_Phu"
+        },
+        {
+          "code": 327,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Vực",
+          "keyAccentLanguage": "Xa_Tho_Vuc"
+        },
+        {
+          "code": 328,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thọ Thế",
+          "keyAccentLanguage": "Xa_Tho_The"
+        },
+        {
+          "code": 329,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nông Trường",
+          "keyAccentLanguage": "Xa_Nong_Truong"
+        },
+        {
+          "code": 330,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bình Sơn",
+          "keyAccentLanguage": "Xa_Binh_Son"
+        }
+      ]
+    },
+    {
+      "code": 331,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Thiệu Hóa",
+      "postalCode": "4000017",
+      "keyAccentLanguage": "Huyen_Thieu_Hoa",
+      "wards": [
+        {
+          "code": 332,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Ngọc",
+          "keyAccentLanguage": "Xa_Thieu_Ngoc"
+        },
+        {
+          "code": 333,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Vũ",
+          "keyAccentLanguage": "Xa_Thieu_Vu"
+        },
+        {
+          "code": 334,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Phúc",
+          "keyAccentLanguage": "Xa_Thieu_Phuc"
+        },
+        {
+          "code": 335,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Tiến",
+          "keyAccentLanguage": "Xa_Thieu_Tien"
+        },
+        {
+          "code": 336,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Công",
+          "keyAccentLanguage": "Xa_Thieu_Cong"
+        },
+        {
+          "code": 337,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Phú",
+          "keyAccentLanguage": "Xa_Thieu_Phu"
+        },
+        {
+          "code": 338,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Long",
+          "keyAccentLanguage": "Xa_Thieu_Long"
+        },
+        {
+          "code": 339,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Giang",
+          "keyAccentLanguage": "Xa_Thieu_Giang"
+        },
+        {
+          "code": 340,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Duy",
+          "keyAccentLanguage": "Xa_Thieu_Duy"
+        },
+        {
+          "code": 341,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Nguyên",
+          "keyAccentLanguage": "Xa_Thieu_Nguyen"
+        },
+        {
+          "code": 342,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Hợp",
+          "keyAccentLanguage": "Xa_Thieu_Hop"
+        },
+        {
+          "code": 343,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Thịnh",
+          "keyAccentLanguage": "Xa_Thieu_Thinh"
+        },
+        {
+          "code": 344,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Quang",
+          "keyAccentLanguage": "Xa_Thieu_Quang"
+        },
+        {
+          "code": 345,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Thành",
+          "keyAccentLanguage": "Xa_Thieu_Thanh"
+        },
+        {
+          "code": 346,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Toán",
+          "keyAccentLanguage": "Xa_Thieu_Toan"
+        },
+        {
+          "code": 347,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Chính",
+          "keyAccentLanguage": "Xa_Thieu_Chinh"
+        },
+        {
+          "code": 348,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Hòa",
+          "keyAccentLanguage": "Xa_Thieu_Hoa"
+        },
+        {
+          "code": 349,
+          "type": "Commune",
+          "viNameLanguage": "Xã Minh Tâm",
+          "keyAccentLanguage": "Xa_Minh_Tam"
+        },
+        {
+          "code": 350,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Viên",
+          "keyAccentLanguage": "Xa_Thieu_Vien"
+        },
+        {
+          "code": 351,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Lý",
+          "keyAccentLanguage": "Xa_Thieu_Ly"
+        },
+        {
+          "code": 352,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Vận",
+          "keyAccentLanguage": "Xa_Thieu_Van"
+        },
+        {
+          "code": 353,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Trung",
+          "keyAccentLanguage": "Xa_Thieu_Trung"
+        },
+        {
+          "code": 354,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Châu",
+          "keyAccentLanguage": "Xa_Tan_Chau"
+        },
+        {
+          "code": 355,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thiệu Giao",
+          "keyAccentLanguage": "Xa_Thieu_Giao"
+        }
+      ]
+    },
+    {
+      "code": 356,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Hoằng Hóa",
+      "postalCode": "4000018",
+      "keyAccentLanguage": "Huyen_Hoang_Hoa",
+      "wards": [
+        {
+          "code": 357,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Bút Sơn",
+          "keyAccentLanguage": "Thi_tran_But_Son"
+        },
+        {
+          "code": 358,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Giang",
+          "keyAccentLanguage": "Xa_Hoang_Giang"
+        },
+        {
+          "code": 359,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Xuân",
+          "keyAccentLanguage": "Xa_Hoang_Xuan"
+        },
+        {
+          "code": 360,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Phượng",
+          "keyAccentLanguage": "Xa_Hoang_Phuong"
+        },
+        {
+          "code": 361,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Phú",
+          "keyAccentLanguage": "Xa_Hoang_Phu"
+        },
+        {
+          "code": 362,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Quỳ",
+          "keyAccentLanguage": "Xa_Hoang_Quy"
+        },
+        {
+          "code": 363,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Kim",
+          "keyAccentLanguage": "Xa_Hoang_Kim"
+        },
+        {
+          "code": 364,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Trung",
+          "keyAccentLanguage": "Xa_Hoang_Trung"
+        },
+        {
+          "code": 365,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Trinh",
+          "keyAccentLanguage": "Xa_Hoang_Trinh"
+        },
+        {
+          "code": 366,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Sơn",
+          "keyAccentLanguage": "Xa_Hoang_Son"
+        },
+        {
+          "code": 367,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Cát",
+          "keyAccentLanguage": "Xa_Hoang_Cat"
+        },
+        {
+          "code": 368,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Xuyên",
+          "keyAccentLanguage": "Xa_Hoang_Xuyen"
+        },
+        {
+          "code": 369,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Quý",
+          "keyAccentLanguage": "Xa_Hoang_Quy"
+        },
+        {
+          "code": 370,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Hợp",
+          "keyAccentLanguage": "Xa_Hoang_Hop"
+        },
+        {
+          "code": 371,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Đức",
+          "keyAccentLanguage": "Xa_Hoang_Đuc"
+        },
+        {
+          "code": 372,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Hà",
+          "keyAccentLanguage": "Xa_Hoang_Ha"
+        },
+        {
+          "code": 373,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Đạt",
+          "keyAccentLanguage": "Xa_Hoang_Đat"
+        },
+        {
+          "code": 374,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Đạo",
+          "keyAccentLanguage": "Xa_Hoang_Đao"
+        },
+        {
+          "code": 375,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Thắng",
+          "keyAccentLanguage": "Xa_Hoang_Thang"
+        },
+        {
+          "code": 376,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Đồng",
+          "keyAccentLanguage": "Xa_Hoang_Đong"
+        },
+        {
+          "code": 377,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Thái",
+          "keyAccentLanguage": "Xa_Hoang_Thai"
+        },
+        {
+          "code": 378,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Thịnh",
+          "keyAccentLanguage": "Xa_Hoang_Thinh"
+        },
+        {
+          "code": 379,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Thành",
+          "keyAccentLanguage": "Xa_Hoang_Thanh"
+        },
+        {
+          "code": 380,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Lộc",
+          "keyAccentLanguage": "Xa_Hoang_Loc"
+        },
+        {
+          "code": 381,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Trạch",
+          "keyAccentLanguage": "Xa_Hoang_Trach"
+        },
+        {
+          "code": 382,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Phong",
+          "keyAccentLanguage": "Xa_Hoang_Phong"
+        },
+        {
+          "code": 383,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Lưu",
+          "keyAccentLanguage": "Xa_Hoang_Luu"
+        },
+        {
+          "code": 384,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Châu",
+          "keyAccentLanguage": "Xa_Hoang_Chau"
+        },
+        {
+          "code": 385,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Tân",
+          "keyAccentLanguage": "Xa_Hoang_Tan"
+        },
+        {
+          "code": 386,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Yến",
+          "keyAccentLanguage": "Xa_Hoang_Yen"
+        },
+        {
+          "code": 387,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Tiến",
+          "keyAccentLanguage": "Xa_Hoang_Tien"
+        },
+        {
+          "code": 388,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Hải",
+          "keyAccentLanguage": "Xa_Hoang_Hai"
+        },
+        {
+          "code": 389,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Ngọc",
+          "keyAccentLanguage": "Xa_Hoang_Ngoc"
+        },
+        {
+          "code": 390,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Đông",
+          "keyAccentLanguage": "Xa_Hoang_Đong"
+        },
+        {
+          "code": 391,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Thanh",
+          "keyAccentLanguage": "Xa_Hoang_Thanh"
+        },
+        {
+          "code": 392,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Phụ",
+          "keyAccentLanguage": "Xa_Hoang_Phu"
+        },
+        {
+          "code": 393,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoằng Trường",
+          "keyAccentLanguage": "Xa_Hoang_Truong"
+        }
+      ]
+    },
+    {
+      "code": 394,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Hậu Lộc",
+      "postalCode": "4000019",
+      "keyAccentLanguage": "Huyen_Hau_Loc",
+      "wards": [
+        {
+          "code": 395,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đồng Lộc",
+          "keyAccentLanguage": "Xa_Đong_Loc"
+        },
+        {
+          "code": 396,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đại Lộc",
+          "keyAccentLanguage": "Xa_Đai_Loc"
+        },
+        {
+          "code": 397,
+          "type": "Commune",
+          "viNameLanguage": "Xã Triệu Lộc",
+          "keyAccentLanguage": "Xa_Trieu_Loc"
+        },
+        {
+          "code": 398,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tiến Lộc",
+          "keyAccentLanguage": "Xa_Tien_Loc"
+        },
+        {
+          "code": 399,
+          "type": "Commune",
+          "viNameLanguage": "Xã Lộc Sơn",
+          "keyAccentLanguage": "Xa_Loc_Son"
+        },
+        {
+          "code": 400,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cầu Lộc",
+          "keyAccentLanguage": "Xa_Cau_Loc"
+        },
+        {
+          "code": 401,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thành Lộc",
+          "keyAccentLanguage": "Xa_Thanh_Loc"
+        },
+        {
+          "code": 402,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tuy Lộc",
+          "keyAccentLanguage": "Xa_Tuy_Loc"
+        },
+        {
+          "code": 403,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phong Lộc",
+          "keyAccentLanguage": "Xa_Phong_Loc"
+        },
+        {
+          "code": 404,
+          "type": "Commune",
+          "viNameLanguage": "Xã Mỹ Lộc",
+          "keyAccentLanguage": "Xa_My_Loc"
+        },
+        {
+          "code": 405,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thuần Lộc",
+          "keyAccentLanguage": "Xa_Thuan_Loc"
+        },
+        {
+          "code": 406,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Lộc",
+          "keyAccentLanguage": "Xa_Xuan_Loc"
+        },
+        {
+          "code": 407,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoa Lộc",
+          "keyAccentLanguage": "Xa_Hoa_Loc"
+        },
+        {
+          "code": 408,
+          "type": "Commune",
+          "viNameLanguage": "Xã Liên Lộc",
+          "keyAccentLanguage": "Xa_Lien_Loc"
+        },
+        {
+          "code": 409,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quang Lộc",
+          "keyAccentLanguage": "Xa_Quang_Loc"
+        },
+        {
+          "code": 410,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Lộc",
+          "keyAccentLanguage": "Xa_Phu_Loc"
+        },
+        {
+          "code": 411,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hòa Lộc",
+          "keyAccentLanguage": "Xa_Hoa_Loc"
+        },
+        {
+          "code": 412,
+          "type": "Commune",
+          "viNameLanguage": "Xã Minh Lộc",
+          "keyAccentLanguage": "Xa_Minh_Loc"
+        },
+        {
+          "code": 413,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hưng Lộc",
+          "keyAccentLanguage": "Xa_Hung_Loc"
+        },
+        {
+          "code": 414,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hải Lộc",
+          "keyAccentLanguage": "Xa_Hai_Loc"
+        },
+        {
+          "code": 415,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đa Lộc",
+          "keyAccentLanguage": "Xa_Đa_Loc"
+        },
+        {
+          "code": 416,
+          "type": "Commune",
+          "viNameLanguage": "Xã Ngư Lộc",
+          "keyAccentLanguage": "Xa_Ngu_Loc"
+        }
+      ]
+    },
+    {
+      "code": 417,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Nga Sơn",
+      "postalCode": "4000020",
+      "keyAccentLanguage": "Huyen_Nga_Son",
+      "wards": [
+        {
+          "code": 418,
+          "type": "Commune",
+          "viNameLanguage": "Xã Ba Đình",
+          "keyAccentLanguage": "Xa_Ba_Đinh"
+        },
+        {
+          "code": 419,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Vịnh",
+          "keyAccentLanguage": "Xa_Nga_Vinh"
+        },
+        {
+          "code": 420,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Văn",
+          "keyAccentLanguage": "Xa_Nga_Van"
+        },
+        {
+          "code": 421,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Thiện",
+          "keyAccentLanguage": "Xa_Nga_Thien"
+        },
+        {
+          "code": 422,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Tiến",
+          "keyAccentLanguage": "Xa_Nga_Tien"
+        },
+        {
+          "code": 423,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Phượng",
+          "keyAccentLanguage": "Xa_Nga_Phuong"
+        },
+        {
+          "code": 424,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Trung",
+          "keyAccentLanguage": "Xa_Nga_Trung"
+        },
+        {
+          "code": 425,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Bạch",
+          "keyAccentLanguage": "Xa_Nga_Bach"
+        },
+        {
+          "code": 426,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Thanh",
+          "keyAccentLanguage": "Xa_Nga_Thanh"
+        },
+        {
+          "code": 427,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Yên",
+          "keyAccentLanguage": "Xa_Nga_Yen"
+        },
+        {
+          "code": 428,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Giáp",
+          "keyAccentLanguage": "Xa_Nga_Giap"
+        },
+        {
+          "code": 429,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Hải",
+          "keyAccentLanguage": "Xa_Nga_Hai"
+        },
+        {
+          "code": 430,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Thành",
+          "keyAccentLanguage": "Xa_Nga_Thanh"
+        },
+        {
+          "code": 431,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga An",
+          "keyAccentLanguage": "Xa_Nga_An"
+        },
+        {
+          "code": 432,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Phú",
+          "keyAccentLanguage": "Xa_Nga_Phu"
+        },
+        {
+          "code": 433,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Điền",
+          "keyAccentLanguage": "Xa_Nga_Đien"
+        },
+        {
+          "code": 434,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Tân",
+          "keyAccentLanguage": "Xa_Nga_Tan"
+        },
+        {
+          "code": 435,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Thủy",
+          "keyAccentLanguage": "Xa_Nga_Thuy"
+        },
+        {
+          "code": 436,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Liên",
+          "keyAccentLanguage": "Xa_Nga_Lien"
+        },
+        {
+          "code": 437,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Thái",
+          "keyAccentLanguage": "Xa_Nga_Thai"
+        },
+        {
+          "code": 438,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Thạch",
+          "keyAccentLanguage": "Xa_Nga_Thach"
+        },
+        {
+          "code": 439,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Thắng",
+          "keyAccentLanguage": "Xa_Nga_Thang"
+        },
+        {
+          "code": 440,
+          "type": "Commune",
+          "viNameLanguage": "Xã Nga Trường",
+          "keyAccentLanguage": "Xa_Nga_Truong"
+        }
+      ]
+    },
+    {
+      "code": 441,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Như Xuân",
+      "postalCode": "4000021",
+      "keyAccentLanguage": "Huyen_Nhu_Xuan",
+      "wards": [
+        {
+          "code": 442,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Yên Cát",
+          "keyAccentLanguage": "Thi_tran_Yen_Cat"
+        },
+        {
+          "code": 443,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bãi Trành",
+          "keyAccentLanguage": "Xa_Bai_Tranh"
+        },
+        {
+          "code": 444,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Hòa",
+          "keyAccentLanguage": "Xa_Xuan_Hoa"
+        },
+        {
+          "code": 445,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Bình",
+          "keyAccentLanguage": "Xa_Xuan_Binh"
+        },
+        {
+          "code": 446,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hóa Quỳ",
+          "keyAccentLanguage": "Xa_Hoa_Quy"
+        },
+        {
+          "code": 447,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cát Vân",
+          "keyAccentLanguage": "Xa_Cat_Van"
+        },
+        {
+          "code": 448,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cát Tân",
+          "keyAccentLanguage": "Xa_Cat_Tan"
+        },
+        {
+          "code": 449,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Bình",
+          "keyAccentLanguage": "Xa_Tan_Binh"
+        },
+        {
+          "code": 450,
+          "type": "Commune",
+          "viNameLanguage": "Xã Bình Lương",
+          "keyAccentLanguage": "Xa_Binh_Luong"
+        },
+        {
+          "code": 451,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Quân",
+          "keyAccentLanguage": "Xa_Thanh_Quan"
+        },
+        {
+          "code": 452,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Xuân",
+          "keyAccentLanguage": "Xa_Thanh_Xuan"
+        },
+        {
+          "code": 453,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Hòa",
+          "keyAccentLanguage": "Xa_Thanh_Hoa"
+        },
+        {
+          "code": 454,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Phong",
+          "keyAccentLanguage": "Xa_Thanh_Phong"
+        },
+        {
+          "code": 455,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Lâm",
+          "keyAccentLanguage": "Xa_Thanh_Lam"
+        },
+        {
+          "code": 456,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Sơn",
+          "keyAccentLanguage": "Xa_Thanh_Son"
+        },
+        {
+          "code": 457,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thượng Ninh",
+          "keyAccentLanguage": "Xa_Thuong_Ninh"
+        }
+      ]
+    },
+    {
+      "code": 458,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Như Thanh",
+      "postalCode": "4000022",
+      "keyAccentLanguage": "Huyen_Nhu_Thanh",
+      "wards": [
+        {
+          "code": 459,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Bến Sung",
+          "keyAccentLanguage": "Thi_tran_Ben_Sung"
+        },
+        {
+          "code": 460,
+          "type": "Commune",
+          "viNameLanguage": "Xã Cán Khê",
+          "keyAccentLanguage": "Xa_Can_Khe"
+        },
+        {
+          "code": 461,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Du",
+          "keyAccentLanguage": "Xa_Xuan_Du"
+        },
+        {
+          "code": 462,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phượng Nghi",
+          "keyAccentLanguage": "Xa_Phuong_Nghi"
+        },
+        {
+          "code": 463,
+          "type": "Commune",
+          "viNameLanguage": "Xã Mậu Lâm",
+          "keyAccentLanguage": "Xa_Mau_Lam"
+        },
+        {
+          "code": 464,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Khang",
+          "keyAccentLanguage": "Xa_Xuan_Khang"
+        },
+        {
+          "code": 465,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Nhuận",
+          "keyAccentLanguage": "Xa_Phu_Nhuan"
+        },
+        {
+          "code": 466,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hải Long",
+          "keyAccentLanguage": "Xa_Hai_Long"
+        },
+        {
+          "code": 467,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Thái",
+          "keyAccentLanguage": "Xa_Xuan_Thai"
+        },
+        {
+          "code": 468,
+          "type": "Commune",
+          "viNameLanguage": "Xã Xuân Phúc",
+          "keyAccentLanguage": "Xa_Xuan_Phuc"
+        },
+        {
+          "code": 469,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Thọ",
+          "keyAccentLanguage": "Xa_Yen_Tho"
+        },
+        {
+          "code": 470,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Lạc",
+          "keyAccentLanguage": "Xa_Yen_Lac"
+        },
+        {
+          "code": 471,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Tân",
+          "keyAccentLanguage": "Xa_Thanh_Tan"
+        },
+        {
+          "code": 472,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Kỳ",
+          "keyAccentLanguage": "Xa_Thanh_Ky"
+        }
+      ]
+    },
+    {
+      "code": 473,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Nông Cống",
+      "postalCode": "4000023",
+      "keyAccentLanguage": "Huyen_Nong_Cong",
+      "wards": [
+        {
+          "code": 474,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Phúc",
+          "keyAccentLanguage": "Xa_Tan_Phuc"
+        },
+        {
+          "code": 475,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Thọ",
+          "keyAccentLanguage": "Xa_Tan_Tho"
+        },
+        {
+          "code": 476,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoàng Sơn",
+          "keyAccentLanguage": "Xa_Hoang_Son"
+        },
+        {
+          "code": 477,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Khang",
+          "keyAccentLanguage": "Xa_Tan_Khang"
+        },
+        {
+          "code": 478,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hoàng Giang",
+          "keyAccentLanguage": "Xa_Hoang_Giang"
+        },
+        {
+          "code": 479,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Chính",
+          "keyAccentLanguage": "Xa_Trung_Chinh"
+        },
+        {
+          "code": 480,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trung Thành",
+          "keyAccentLanguage": "Xa_Trung_Thanh"
+        },
+        {
+          "code": 481,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tế Thắng",
+          "keyAccentLanguage": "Xa_Te_Thang"
+        },
+        {
+          "code": 482,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tế Lợi",
+          "keyAccentLanguage": "Xa_Te_Loi"
+        },
+        {
+          "code": 483,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tế Nông",
+          "keyAccentLanguage": "Xa_Te_Nong"
+        },
+        {
+          "code": 484,
+          "type": "Commune",
+          "viNameLanguage": "Xã Minh Nghĩa",
+          "keyAccentLanguage": "Xa_Minh_Nghia"
+        },
+        {
+          "code": 485,
+          "type": "Commune",
+          "viNameLanguage": "Xã Minh Khôi",
+          "keyAccentLanguage": "Xa_Minh_Khoi"
+        },
+        {
+          "code": 486,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vạn Hòa",
+          "keyAccentLanguage": "Xa_Van_Hoa"
+        },
+        {
+          "code": 487,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trường Trung",
+          "keyAccentLanguage": "Xa_Truong_Trung"
+        },
+        {
+          "code": 488,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vạn Thắng",
+          "keyAccentLanguage": "Xa_Van_Thang"
+        },
+        {
+          "code": 489,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trường Giang",
+          "keyAccentLanguage": "Xa_Truong_Giang"
+        },
+        {
+          "code": 490,
+          "type": "Commune",
+          "viNameLanguage": "Xã Vạn Thiện",
+          "keyAccentLanguage": "Xa_Van_Thien"
+        },
+        {
+          "code": 491,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thăng Long",
+          "keyAccentLanguage": "Xa_Thang_Long"
+        },
+        {
+          "code": 492,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trường Minh",
+          "keyAccentLanguage": "Xa_Truong_Minh"
+        },
+        {
+          "code": 493,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trường Sơn",
+          "keyAccentLanguage": "Xa_Truong_Son"
+        },
+        {
+          "code": 494,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thăng Bình",
+          "keyAccentLanguage": "Xa_Thang_Binh"
+        },
+        {
+          "code": 495,
+          "type": "Commune",
+          "viNameLanguage": "Xã Công Liêm",
+          "keyAccentLanguage": "Xa_Cong_Liem"
+        },
+        {
+          "code": 496,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tượng Văn",
+          "keyAccentLanguage": "Xa_Tuong_Van"
+        },
+        {
+          "code": 497,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thăng Thọ",
+          "keyAccentLanguage": "Xa_Thang_Tho"
+        },
+        {
+          "code": 498,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tượng Lĩnh",
+          "keyAccentLanguage": "Xa_Tuong_Linh"
+        },
+        {
+          "code": 499,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tượng Sơn",
+          "keyAccentLanguage": "Xa_Tuong_Son"
+        },
+        {
+          "code": 500,
+          "type": "Commune",
+          "viNameLanguage": "Xã Công Chính",
+          "keyAccentLanguage": "Xa_Cong_Chinh"
+        },
+        {
+          "code": 501,
+          "type": "Commune",
+          "viNameLanguage": "Xã Yên Mỹ",
+          "keyAccentLanguage": "Xa_Yen_My"
+        }
+      ]
+    },
+    {
+      "code": 502,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Đông Sơn",
+      "postalCode": "4000024",
+      "keyAccentLanguage": "Huyen_Đong_Son",
+      "wards": [
+        {
+          "code": 503,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Rừng Thông",
+          "keyAccentLanguage": "Thi_tran_Rung_Thong"
+        },
+        {
+          "code": 504,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Hoàng",
+          "keyAccentLanguage": "Xa_Đong_Hoang"
+        },
+        {
+          "code": 505,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Ninh",
+          "keyAccentLanguage": "Xa_Đong_Ninh"
+        },
+        {
+          "code": 506,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Hòa",
+          "keyAccentLanguage": "Xa_Đong_Hoa"
+        },
+        {
+          "code": 507,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Yên",
+          "keyAccentLanguage": "Xa_Đong_Yen"
+        },
+        {
+          "code": 508,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Minh",
+          "keyAccentLanguage": "Xa_Đong_Minh"
+        },
+        {
+          "code": 509,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Thanh",
+          "keyAccentLanguage": "Xa_Đong_Thanh"
+        },
+        {
+          "code": 510,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Tiến",
+          "keyAccentLanguage": "Xa_Đong_Tien"
+        },
+        {
+          "code": 511,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Khê",
+          "keyAccentLanguage": "Xa_Đong_Khe"
+        },
+        {
+          "code": 512,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Thịnh",
+          "keyAccentLanguage": "Xa_Đong_Thinh"
+        },
+        {
+          "code": 513,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Văn",
+          "keyAccentLanguage": "Xa_Đong_Van"
+        },
+        {
+          "code": 514,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Phú",
+          "keyAccentLanguage": "Xa_Đong_Phu"
+        },
+        {
+          "code": 515,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Nam",
+          "keyAccentLanguage": "Xa_Đong_Nam"
+        },
+        {
+          "code": 516,
+          "type": "Commune",
+          "viNameLanguage": "Xã Đông Quang",
+          "keyAccentLanguage": "Xa_Đong_Quang"
+        }
+      ]
+    },
+    {
+      "code": 517,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Quảng Xương",
+      "postalCode": "4000025",
+      "keyAccentLanguage": "Huyen_Quang_Xuong",
+      "wards": [
+        {
+          "code": 518,
+          "type": "Town",
+          "viNameLanguage": "Thị trấn Tân Phong",
+          "keyAccentLanguage": "Thi_tran_Tan_Phong"
+        },
+        {
+          "code": 519,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Trạch",
+          "keyAccentLanguage": "Xa_Quang_Trach"
+        },
+        {
+          "code": 520,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Đức",
+          "keyAccentLanguage": "Xa_Quang_Đuc"
+        },
+        {
+          "code": 521,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Định",
+          "keyAccentLanguage": "Xa_Quang_Đinh"
+        },
+        {
+          "code": 522,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Nhân",
+          "keyAccentLanguage": "Xa_Quang_Nhan"
+        },
+        {
+          "code": 523,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Ninh",
+          "keyAccentLanguage": "Xa_Quang_Ninh"
+        },
+        {
+          "code": 524,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Bình",
+          "keyAccentLanguage": "Xa_Quang_Binh"
+        },
+        {
+          "code": 525,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Hợp",
+          "keyAccentLanguage": "Xa_Quang_Hop"
+        },
+        {
+          "code": 526,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Văn",
+          "keyAccentLanguage": "Xa_Quang_Van"
+        },
+        {
+          "code": 527,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Long",
+          "keyAccentLanguage": "Xa_Quang_Long"
+        },
+        {
+          "code": 528,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Yên",
+          "keyAccentLanguage": "Xa_Quang_Yen"
+        },
+        {
+          "code": 529,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Hòa",
+          "keyAccentLanguage": "Xa_Quang_Hoa"
+        },
+        {
+          "code": 530,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Khê",
+          "keyAccentLanguage": "Xa_Quang_Khe"
+        },
+        {
+          "code": 531,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Trung",
+          "keyAccentLanguage": "Xa_Quang_Trung"
+        },
+        {
+          "code": 532,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Chính",
+          "keyAccentLanguage": "Xa_Quang_Chinh"
+        },
+        {
+          "code": 533,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Ngọc",
+          "keyAccentLanguage": "Xa_Quang_Ngoc"
+        },
+        {
+          "code": 534,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Trường",
+          "keyAccentLanguage": "Xa_Quang_Truong"
+        },
+        {
+          "code": 535,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Phúc",
+          "keyAccentLanguage": "Xa_Quang_Phuc"
+        },
+        {
+          "code": 536,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Giao",
+          "keyAccentLanguage": "Xa_Quang_Giao"
+        },
+        {
+          "code": 537,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Hải",
+          "keyAccentLanguage": "Xa_Quang_Hai"
+        },
+        {
+          "code": 538,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Lưu",
+          "keyAccentLanguage": "Xa_Quang_Luu"
+        },
+        {
+          "code": 539,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Lộc",
+          "keyAccentLanguage": "Xa_Quang_Loc"
+        },
+        {
+          "code": 540,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tiên Trang",
+          "keyAccentLanguage": "Xa_Tien_Trang"
+        },
+        {
+          "code": 541,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Nham",
+          "keyAccentLanguage": "Xa_Quang_Nham"
+        },
+        {
+          "code": 542,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Thạch",
+          "keyAccentLanguage": "Xa_Quang_Thach"
+        },
+        {
+          "code": 543,
+          "type": "Commune",
+          "viNameLanguage": "Xã Quảng Thái",
+          "keyAccentLanguage": "Xa_Quang_Thai"
+        }
+      ]
+    },
+    {
+      "code": 544,
+      "category": null,
+      "type": "Town",
+      "viNameLanguage": "Thị xã Nghi Sơn",
+      "postalCode": "4000026",
+      "keyAccentLanguage": "Thi_xa_Nghi_Son",
+      "wards": [
+        {
+          "code": 545,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hải Hòa",
+          "keyAccentLanguage": "Phuong_Hai_Hoa"
+        },
+        {
+          "code": 546,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hải Châu",
+          "keyAccentLanguage": "Phuong_Hai_Chau"
+        },
+        {
+          "code": 547,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Thủy",
+          "keyAccentLanguage": "Xa_Thanh_Thuy"
+        },
+        {
+          "code": 548,
+          "type": "Commune",
+          "viNameLanguage": "Xã Thanh Sơn",
+          "keyAccentLanguage": "Xa_Thanh_Son"
+        },
+        {
+          "code": 549,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hải Ninh",
+          "keyAccentLanguage": "Phuong_Hai_Ninh"
+        },
+        {
+          "code": 550,
+          "type": "Commune",
+          "viNameLanguage": "Xã Anh Sơn",
+          "keyAccentLanguage": "Xa_Anh_Son"
+        },
+        {
+          "code": 551,
+          "type": "Commune",
+          "viNameLanguage": "Xã Ngọc Lĩnh",
+          "keyAccentLanguage": "Xa_Ngoc_Linh"
+        },
+        {
+          "code": 552,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hải An",
+          "keyAccentLanguage": "Phuong_Hai_An"
+        },
+        {
+          "code": 553,
+          "type": "Commune",
+          "viNameLanguage": "Xã Các Sơn",
+          "keyAccentLanguage": "Xa_Cac_Son"
+        },
+        {
+          "code": 554,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tân Dân",
+          "keyAccentLanguage": "Phuong_Tan_Dan"
+        },
+        {
+          "code": 555,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hải Lĩnh",
+          "keyAccentLanguage": "Phuong_Hai_Linh"
+        },
+        {
+          "code": 556,
+          "type": "Commune",
+          "viNameLanguage": "Xã Định Hải",
+          "keyAccentLanguage": "Xa_Đinh_Hai"
+        },
+        {
+          "code": 557,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Sơn",
+          "keyAccentLanguage": "Xa_Phu_Son"
+        },
+        {
+          "code": 558,
+          "type": "Ward",
+          "viNameLanguage": "Phường Ninh Hải",
+          "keyAccentLanguage": "Phuong_Ninh_Hai"
+        },
+        {
+          "code": 559,
+          "type": "Ward",
+          "viNameLanguage": "Phường Nguyên Bình",
+          "keyAccentLanguage": "Phuong_Nguyen_Binh"
+        },
+        {
+          "code": 560,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hải Nhân",
+          "keyAccentLanguage": "Xa_Hai_Nhan"
+        },
+        {
+          "code": 561,
+          "type": "Ward",
+          "viNameLanguage": "Phường Bình Minh",
+          "keyAccentLanguage": "Phuong_Binh_Minh"
+        },
+        {
+          "code": 562,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hải Thanh",
+          "keyAccentLanguage": "Phuong_Hai_Thanh"
+        },
+        {
+          "code": 563,
+          "type": "Commune",
+          "viNameLanguage": "Xã Phú Lâm",
+          "keyAccentLanguage": "Xa_Phu_Lam"
+        },
+        {
+          "code": 564,
+          "type": "Ward",
+          "viNameLanguage": "Phường Xuân Lâm",
+          "keyAccentLanguage": "Phuong_Xuan_Lam"
+        },
+        {
+          "code": 565,
+          "type": "Ward",
+          "viNameLanguage": "Phường Trúc Lâm",
+          "keyAccentLanguage": "Phuong_Truc_Lam"
+        },
+        {
+          "code": 566,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hải Bình",
+          "keyAccentLanguage": "Phuong_Hai_Binh"
+        },
+        {
+          "code": 567,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tân Trường",
+          "keyAccentLanguage": "Xa_Tan_Truong"
+        },
+        {
+          "code": 568,
+          "type": "Commune",
+          "viNameLanguage": "Xã Tùng Lâm",
+          "keyAccentLanguage": "Xa_Tung_Lam"
+        },
+        {
+          "code": 569,
+          "type": "Ward",
+          "viNameLanguage": "Phường Tĩnh Hải",
+          "keyAccentLanguage": "Phuong_Tinh_Hai"
+        },
+        {
+          "code": 570,
+          "type": "Ward",
+          "viNameLanguage": "Phường Mai Lâm",
+          "keyAccentLanguage": "Phuong_Mai_Lam"
+        },
+        {
+          "code": 571,
+          "type": "Commune",
+          "viNameLanguage": "Xã Trường Lâm",
+          "keyAccentLanguage": "Xa_Truong_Lam"
+        },
+        {
+          "code": 572,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hải Yến",
+          "keyAccentLanguage": "Xa_Hai_Yen"
+        },
+        {
+          "code": 573,
+          "type": "Ward",
+          "viNameLanguage": "Phường Hải Thượng",
+          "keyAccentLanguage": "Phuong_Hai_Thuong"
+        },
+        {
+          "code": 574,
+          "type": "Commune",
+          "viNameLanguage": "Xã Hải Hà",
+          "keyAccentLanguage": "Xa_Hai_Ha"
+        }
+      ]
+    }
+  ]
+}

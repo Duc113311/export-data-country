@@ -1,0 +1,122 @@
+{
+  "nameState": "Wyoming",
+  "lat": 42.7555,
+  "long": -107.3025,
+  "counties": [
+    {
+      "name": "Albany",
+      "lat": 41.14,
+      "long": -105.5917
+    },
+    {
+      "name": "Big Horn",
+      "lat": 44.5873,
+      "long": -107.1661
+    },
+    {
+      "name": "Campbell",
+      "lat": 43.839,
+      "long": -105.4674
+    },
+    {
+      "name": "Carbon",
+      "lat": 41.563,
+      "long": -106.3123
+    },
+    {
+      "name": "Converse",
+      "lat": 42.7759,
+      "long": -105.5327
+    },
+    {
+      "name": "Crook",
+      "lat": 44.4094,
+      "long": -104.719
+    },
+    {
+      "name": "Fremont",
+      "lat": 42.9805,
+      "long": -108.734
+    },
+    {
+      "name": "Goshen",
+      "lat": 42.0704,
+      "long": -104.1985
+    },
+    {
+      "name": "Hot Springs",
+      "lat": 43.4351,
+      "long": -108.2324
+    },
+    {
+      "name": "Johnson",
+      "lat": 43.5654,
+      "long": -106.2357
+    },
+    {
+      "name": "Laramie",
+      "lat": 41.3125,
+      "long": -105.5875
+    },
+    {
+      "name": "Lincoln",
+      "lat": 42.7852,
+      "long": -110.0105
+    },
+    {
+      "name": "Natrona",
+      "lat": 42.902,
+      "long": -106.0014
+    },
+    {
+      "name": "Niobrara",
+      "lat": 42.55,
+      "long": -104.3772
+    },
+    {
+      "name": "Park",
+      "lat": 43.8057,
+      "long": -108.7323
+    },
+    {
+      "name": "Platte",
+      "lat": 41.6342,
+      "long": -104.5573
+    },
+    {
+      "name": "Sheridan",
+      "lat": 44.1349,
+      "long": -106.9731
+    },
+    {
+      "name": "Sublette",
+      "lat": 42.8106,
+      "long": -109.8587
+    },
+    {
+      "name": "Sweetwater",
+      "lat": 41.5875,
+      "long": -108.2282
+    },
+    {
+      "name": "Teton",
+      "lat": 43.7919,
+      "long": -110.7313
+    },
+    {
+      "name": "Uinta",
+      "lat": 41.0332,
+      "long": -110.5324
+    },
+    {
+      "name": "Washakie",
+      "lat": 43.9833,
+      "long": -107.8905
+    },
+    {
+      "name": "Weston",
+      "lat": 43.628,
+      "long": -104.893
+    }
+  ]
+}

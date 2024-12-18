@@ -1,0 +1,388 @@
+{
+  "nameState": "Oklahoma",
+  "lat": 35.4676,
+  "long": -97.5164,
+  "counties": [
+    {
+      "name": "Adair",
+      "lat": 35.6538,
+      "long": -94.6827
+    },
+    {
+      "name": "Alfalfa",
+      "lat": 36.5184,
+      "long": -98.0831
+    },
+    {
+      "name": "Atoka",
+      "lat": 34.2867,
+      "long": -95.636
+    },
+    {
+      "name": "Beaver",
+      "lat": 36.417,
+      "long": -99.652
+    },
+    {
+      "name": "Beckham",
+      "lat": 35.3597,
+      "long": -99.6349
+    },
+    {
+      "name": "Blaine",
+      "lat": 35.4779,
+      "long": -98.3709
+    },
+    {
+      "name": "Bryan",
+      "lat": 33.9893,
+      "long": -96.574
+    },
+    {
+      "name": "Caddo",
+      "lat": 35.2233,
+      "long": -98.0167
+    },
+    {
+      "name": "Canadian",
+      "lat": 35.58,
+      "long": -97.35
+    },
+    {
+      "name": "Carter",
+      "lat": 34.1715,
+      "long": -97.3811
+    },
+    {
+      "name": "Cherokee",
+      "lat": 35.7557,
+      "long": -94.8017
+    },
+    {
+      "name": "Choctaw",
+      "lat": 35.423,
+      "long": -97.1476
+    },
+    {
+      "name": "Cimarron",
+      "lat": 36.4209,
+      "long": -102.7871
+    },
+    {
+      "name": "Cleveland",
+      "lat": 35.2521,
+      "long": -97.4825
+    },
+    {
+      "name": "Coal",
+      "lat": 34.7728,
+      "long": -96.2652
+    },
+    {
+      "name": "Comanche",
+      "lat": 34.6935,
+      "long": -98.3252
+    },
+    {
+      "name": "Cotton",
+      "lat": 34.5601,
+      "long": -98.211
+    },
+    {
+      "name": "Craig",
+      "lat": 36.6062,
+      "long": -95.1747
+    },
+    {
+      "name": "Creek",
+      "lat": 35.9535,
+      "long": -96.255
+    },
+    {
+      "name": "Custer",
+      "lat": 35.5064,
+      "long": -98.9843
+    },
+    {
+      "name": "Delaware",
+      "lat": 36.4991,
+      "long": -94.6995
+    },
+    {
+      "name": "Dewey",
+      "lat": 35.9742,
+      "long": -98.7243
+    },
+    {
+      "name": "Ellis",
+      "lat": 36.0997,
+      "long": -99.2467
+    },
+    {
+      "name": "Garvin",
+      "lat": 34.739,
+      "long": -97.4359
+    },
+    {
+      "name": "Grady",
+      "lat": 35.0374,
+      "long": -97.9336
+    },
+    {
+      "name": "Grant",
+      "lat": 36.6041,
+      "long": -97.6844
+    },
+    {
+      "name": "Greer",
+      "lat": 35.0928,
+      "long": -99.5153
+    },
+    {
+      "name": "Harmon",
+      "lat": 34.6796,
+      "long": -98.9651
+    },
+    {
+      "name": "Harper",
+      "lat": 36.4003,
+      "long": -99.7391
+    },
+    {
+      "name": "Haskell",
+      "lat": 35.3113,
+      "long": -95.9529
+    },
+    {
+      "name": "Hughes",
+      "lat": 35.0696,
+      "long": -96.366
+    },
+    {
+      "name": "Jackson",
+      "lat": 34.6267,
+      "long": -98.207
+    },
+    {
+      "name": "Jefferson",
+      "lat": 34.6904,
+      "long": -97.3389
+    },
+    {
+      "name": "Johnston",
+      "lat": 34.3637,
+      "long": -96.6751
+    },
+    {
+      "name": "Kay",
+      "lat": 36.7672,
+      "long": -97.1794
+    },
+    {
+      "name": "Kingfisher",
+      "lat": 35.7406,
+      "long": -97.9359
+    },
+    {
+      "name": "Kiowa",
+      "lat": 34.8522,
+      "long": -98.7247
+    },
+    {
+      "name": "Latimer",
+      "lat": 34.8243,
+      "long": -94.4795
+    },
+    {
+      "name": "Le Flore",
+      "lat": 34.8583,
+      "long": -94.6229
+    },
+    {
+      "name": "Lincoln",
+      "lat": 35.6136,
+      "long": -96.8849
+    },
+    {
+      "name": "Logan",
+      "lat": 35.8322,
+      "long": -97.5236
+    },
+    {
+      "name": "Love",
+      "lat": 33.8194,
+      "long": -97.2396
+    },
+    {
+      "name": "McClain",
+      "lat": 35.1154,
+      "long": -97.4377
+    },
+    {
+      "name": "McCurtain",
+      "lat": 34.1461,
+      "long": -94.7357
+    },
+    {
+      "name": "McIntosh",
+      "lat": 35.3364,
+      "long": -95.6849
+    },
+    {
+      "name": "Major",
+      "lat": 36.37,
+      "long": -98.2417
+    },
+    {
+      "name": "Marshall",
+      "lat": 34.3245,
+      "long": -97.0236
+    },
+    {
+      "name": "Mayes",
+      "lat": 36.2671,
+      "long": -95.3482
+    },
+    {
+      "name": "Murray",
+      "lat": 34.4915,
+      "long": -97.203
+    },
+    {
+      "name": "Muskogee",
+      "lat": 35.7479,
+      "long": -95.3644
+    },
+    {
+      "name": "Noble",
+      "lat": 34.9759,
+      "long": -97.4202
+    },
+    {
+      "name": "Nowata",
+      "lat": 36.8084,
+      "long": -95.6175
+    },
+    {
+      "name": "Okfuskee",
+      "lat": 35.3541,
+      "long": -96.361
+    },
+    {
+      "name": "Oklahoma",
+      "lat": 35.5653,
+      "long": -97.5947
+    },
+    {
+      "name": "Okmulgee",
+      "lat": 35.6068,
+      "long": -95.9383
+    },
+    {
+      "name": "Osage",
+      "lat": 36.5794,
+      "long": -96.2377
+    },
+    {
+      "name": "Ottawa",
+      "lat": 36.6041,
+      "long": -94.8338
+    },
+    {
+      "name": "Pawnee",
+      "lat": 36.3417,
+      "long": -96.7029
+    },
+    {
+      "name": "Payne",
+      "lat": 36.0663,
+      "long": -97.0628
+    },
+    {
+      "name": "Pittsburg",
+      "lat": 34.84,
+      "long": -95.7256
+    },
+    {
+      "name": "Pontotoc",
+      "lat": 34.7731,
+      "long": -96.6693
+    },
+
+    {
+      "name": "Pottawatomie",
+      "lat": 35.2143,
+      "long": -96.9143
+    },
+    {
+      "name": "Pushmataha",
+      "lat": 34.5237,
+      "long": -95.4021
+    },
+    {
+      "name": "Roger Mills",
+      "lat": 35.6246,
+      "long": -99.7931
+    },
+    {
+      "name": "Rogers",
+      "lat": 36.318,
+      "long": -95.3681
+    },
+    {
+      "name": "Seminole",
+      "lat": 35.2387,
+      "long": -96.6666
+    },
+    {
+      "name": "Sequoyah",
+      "lat": 35.454,
+      "long": -94.766
+    },
+    {
+      "name": "Stephens",
+      "lat": 34.5205,
+      "long": -97.8577
+    },
+    {
+      "name": "Texas",
+      "lat": 35.302,
+      "long": -97.2196
+    },
+    {
+      "name": "Tillman",
+      "lat": 34.5955,
+      "long": -98.4235
+    },
+    {
+      "name": "Tulsa",
+      "lat": 36.1583,
+      "long": -95.9947
+    },
+    {
+      "name": "Wagoner",
+      "lat": 35.9719,
+      "long": -95.4064
+    },
+    {
+      "name": "Washington",
+      "lat": 36.4751,
+      "long": -95.9769
+    },
+    {
+      "name": "Washita",
+      "lat": 35.2142,
+      "long": -98.9741
+    },
+    {
+      "name": "Woods",
+      "lat": 36.7546,
+      "long": -98.5066
+    },
+    {
+      "name": "Woodward",
+      "lat": 36.433,
+      "long": -99.3762
+    }
+  ]
+}
