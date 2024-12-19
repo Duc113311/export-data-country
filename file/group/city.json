@@ -4,8 +4,8 @@
     "category": null,
     "type": "Geographic Region",
     "viNameLanguage": "Đông Bắc Bộ",
-    "postalCode": "000",
-    "keyAccentLanguage": "Đong_Bac_Bo",
+    "postalCode": "17000",
+    "keyAccentLanguage": "Dong_Bac_Bo",
     "provinceCity": [
       {
         "code": 1,
@@ -68,7 +68,7 @@
     "category": null,
     "type": "Geographic Region",
     "viNameLanguage": "Tây Bắc Bộ",
-    "postalCode": "0001",
+    "postalCode": "170001",
     "keyAccentLanguage": "Tay_Bac_Bo",
     "provinceCity": [
       {
@@ -105,7 +105,7 @@
         "code": 16,
         "type": "Provincial City",
         "viNameLanguage": "Điện Biên",
-        "keyAccentLanguage": "Đien_Bien"
+        "keyAccentLanguage": "Dien_Bien"
       }
     ]
   },
@@ -114,8 +114,8 @@
     "category": null,
     "type": "Geographic Region",
     "viNameLanguage": "Đồng bằng sông Hồng",
-    "postalCode": "0002",
-    "keyAccentLanguage": "Đong_bang_song_Hong",
+    "postalCode": "170002",
+    "keyAccentLanguage": "Dong_bang_song_Hong",
     "provinceCity": [
       {
         "code": 18,
@@ -157,7 +157,7 @@
         "code": 24,
         "type": "Provincial City",
         "viNameLanguage": "Nam Định",
-        "keyAccentLanguage": "Nam_Đinh"
+        "keyAccentLanguage": "Nam_Dinh"
       },
       {
         "code": 25,
@@ -184,7 +184,7 @@
     "category": null,
     "type": "Geographic Region",
     "viNameLanguage": "Bắc Trung Bộ",
-    "postalCode": "0003",
+    "postalCode": "170003",
     "keyAccentLanguage": "Bac_Trung_Bo",
     "provinceCity": [
       {
@@ -230,7 +230,7 @@
     "category": null,
     "type": "Geographic Region",
     "viNameLanguage": "Nam Trung Bộ",
-    "postalCode": "0004",
+    "postalCode": "170004",
     "keyAccentLanguage": "Nam_Trung_Bo",
     "provinceCity": [
       {
@@ -243,7 +243,7 @@
         "code": 37,
         "type": "Provincial City",
         "viNameLanguage": "Bình Định",
-        "keyAccentLanguage": "Binh_Đinh"
+        "keyAccentLanguage": "Binh_Dinh"
       },
       {
         "code": 38,
@@ -279,7 +279,7 @@
         "code": 43,
         "type": "Provincial City",
         "viNameLanguage": "Đà Nẵng",
-        "keyAccentLanguage": "Đa_Nang"
+        "keyAccentLanguage": "Da_Nang"
       }
     ]
   },
@@ -288,7 +288,7 @@
     "category": null,
     "type": "Geographic Region",
     "viNameLanguage": "Tây Nguyên",
-    "postalCode": "0005",
+    "postalCode": "170005",
     "keyAccentLanguage": "Tay_Nguyen",
     "provinceCity": [
       {
@@ -307,19 +307,19 @@
         "code": 47,
         "type": "Provincial City",
         "viNameLanguage": "Lâm Đồng",
-        "keyAccentLanguage": "Lam_Đong"
+        "keyAccentLanguage": "Lam_Dong"
       },
       {
         "code": 48,
         "type": "Provincial City",
         "viNameLanguage": "Đắk Lăk",
-        "keyAccentLanguage": "Đak_Lak"
+        "keyAccentLanguage": "Dak_Lak"
       },
       {
         "code": 49,
         "type": "Provincial City",
         "viNameLanguage": "Đắk Nông",
-        "keyAccentLanguage": "Đak_Nong"
+        "keyAccentLanguage": "Dak_Nong"
       }
     ]
   },
@@ -328,8 +328,8 @@
     "category": null,
     "type": "Geographic Region",
     "viNameLanguage": "Đông Nam Bộ",
-    "postalCode": "0006",
-    "keyAccentLanguage": "Đong_Nam_Bo",
+    "postalCode": "170006",
+    "keyAccentLanguage": "Dong_Nam_Bo",
     "provinceCity": [
       {
         "code": 51,
@@ -365,7 +365,7 @@
         "code": 56,
         "type": "Provincial City",
         "viNameLanguage": "Đồng Nai",
-        "keyAccentLanguage": "Đong_Nai"
+        "keyAccentLanguage": "Dong_Nai"
       }
     ]
   },
@@ -374,8 +374,8 @@
     "category": null,
     "type": "Geographic Region",
     "viNameLanguage": "Đồng bằng sông Cửu Long",
-    "postalCode": "0007",
-    "keyAccentLanguage": "Đong_bang_song_Cuu_Long",
+    "postalCode": "170007",
+    "keyAccentLanguage": "Dong_bang_song_Cuu_Long",
     "provinceCity": [
       {
         "code": 58,

@@ -148,7 +148,7 @@ async function groupDataFull(data) {
           groupedData.length !== 0
             ? postalCode + groupedData.length
             : postalCode,
-        keyAccentLanguage: removeDiacritics(item.viKeyLanguage),
+        keyAccentLanguage: removeAccents(item.viKeyLanguage),
         provinceCity: [], // Khởi tạo mảng rỗng cho danh sách phường/xã/thị trấn
       });
     } else {
@@ -168,7 +168,7 @@ async function groupDataFull(data) {
           code: item.code,
           type: typeLanguage,
           viNameLanguage: item.viNameLanguage,
-          keyAccentLanguage: removeDiacritics(item.viKeyLanguage),
+          keyAccentLanguage: removeAccents(item.viKeyLanguage),
         });
       }
     }
@@ -179,7 +179,7 @@ async function groupDataFull(data) {
 
 async function main() {
   // Nhóm dữ liệu
-  const groupedData = await groupData(data);
+  const groupedData = await groupDataFull(data);
 
   // Lưu dữ liệu đã nhóm vào file JSON mới
   const outputPath = path.join(__dirname, `/file/group/${cityKeyEnv}.json`);
