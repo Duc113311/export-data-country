@@ -25,7 +25,7 @@ function groupData(data) {
     districtList: [],
   };
 
-  objectNewData.districtList.push(...data.slice(1));
+  objectNewData.districtList.push(...data.slice(1)) ;
 
   return objectNewData;
 }

@@ -10,7 +10,7 @@
       "type": "City",
       "viNameLanguage": "Thành Phố Đồng Hới",
       "postalCode": "470001",
-      "keyAccentLanguage": "Thanh_Pho_Đong_Hoi",
+      "keyAccentLanguage": "Thanh_Pho_Dong_Hoi",
       "wards": [
         {
           "code": 2,
@@ -22,7 +22,7 @@
           "code": 3,
           "type": "Ward",
           "viNameLanguage": "Phường Đồng Phú",
-          "keyAccentLanguage": "Phuong_Đong_Phu"
+          "keyAccentLanguage": "Phuong_Dong_Phu"
         },
         {
           "code": 4,
@@ -40,13 +40,13 @@
           "code": 6,
           "type": "Ward",
           "viNameLanguage": "Phường Đồng Hải",
-          "keyAccentLanguage": "Phuong_Đong_Hai"
+          "keyAccentLanguage": "Phuong_Dong_Hai"
         },
         {
           "code": 7,
           "type": "Ward",
           "viNameLanguage": "Phường Đồng Sơn",
-          "keyAccentLanguage": "Phuong_Đong_Son"
+          "keyAccentLanguage": "Phuong_Dong_Son"
         },
         {
           "code": 8,
@@ -64,7 +64,7 @@
           "code": 10,
           "type": "Ward",
           "viNameLanguage": "Phường Đức Ninh Đông",
-          "keyAccentLanguage": "Phuong_Đuc_Ninh_Đong"
+          "keyAccentLanguage": "Phuong_Duc_Ninh_Dong"
         },
         {
           "code": 11,
@@ -94,13 +94,13 @@
           "code": 15,
           "type": "Commune",
           "viNameLanguage": "Xã Thuận Đức",
-          "keyAccentLanguage": "Xa_Thuan_Đuc"
+          "keyAccentLanguage": "Xa_Thuan_Duc"
         },
         {
           "code": 16,
           "type": "Commune",
           "viNameLanguage": "Xã Đức Ninh",
-          "keyAccentLanguage": "Xa_Đuc_Ninh"
+          "keyAccentLanguage": "Xa_Duc_Ninh"
         }
       ]
     },
@@ -116,7 +116,7 @@
           "code": 18,
           "type": "Town",
           "viNameLanguage": "Thị trấn Quy Đạt",
-          "keyAccentLanguage": "Thi_tran_Quy_Đat"
+          "keyAccentLanguage": "Thi_tran_Quy_Dat"
         },
         {
           "code": 19,

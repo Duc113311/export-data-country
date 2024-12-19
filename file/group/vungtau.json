@@ -202,7 +202,7 @@
     "type": "District",
     "viNameLanguage": "Huyện Châu Đức",
     "postalCode": "780003",
-    "keyAccentLanguage": "Huyen_Chau_Đuc",
+    "keyAccentLanguage": "Huyen_Chau_Duc",
     "wards": [
       {
         "code": 32,
@@ -292,7 +292,7 @@
         "code": 46,
         "type": "Commune",
         "viNameLanguage": "Xã Đá Bạc",
-        "keyAccentLanguage": "Xa_Đa_Bac"
+        "keyAccentLanguage": "Xa_Da_Bac"
       },
       {
         "code": 47,
@@ -390,7 +390,7 @@
     "type": "District",
     "viNameLanguage": "Huyện Long Điền",
     "postalCode": "780005",
-    "keyAccentLanguage": "Huyen_Long_Đien",
+    "keyAccentLanguage": "Huyen_Long_Dien",
     "wards": [
       {
         "code": 62,
@@ -436,7 +436,7 @@
     "type": "District",
     "viNameLanguage": "Huyện Đất Đỏ",
     "postalCode": "780006",
-    "keyAccentLanguage": "Huyen_Đat_Đo",
+    "keyAccentLanguage": "Huyen_Dat_Do",
     "wards": [
       {
         "code": 69,
@@ -454,7 +454,7 @@
         "code": 71,
         "type": "Commune",
         "viNameLanguage": "Xã Long Mỹ",
-        "keyAccentLanguage": "Xa_Long_My"
+        "keyAccentLanguage": "Xa_Long_Mỹ"
       },
       {
         "code": 72,
@@ -488,7 +488,7 @@
     "type": "Town",
     "viNameLanguage": "Thị xã Phú Mỹ",
     "postalCode": "780007",
-    "keyAccentLanguage": "Thi_xa_Phu_My",
+    "keyAccentLanguage": "Thi_xa_Phu_Mỹ",
     "wards": [
       {
         "code": 77,
@@ -518,7 +518,7 @@
         "code": 81,
         "type": "Ward",
         "viNameLanguage": "Phường Mỹ Xuân",
-        "keyAccentLanguage": "Phuong_My_Xuan"
+        "keyAccentLanguage": "Phuong_Mỹ_Xuan"
       },
       {
         "code": 82,
@@ -552,7 +552,7 @@
     "type": "District",
     "viNameLanguage": "Huyện Côn Đảo",
     "postalCode": "780008",
-    "keyAccentLanguage": "Huyen_Con_Đao",
+    "keyAccentLanguage": "Huyen_Con_Dao",
     "wards": []
   }
 ]

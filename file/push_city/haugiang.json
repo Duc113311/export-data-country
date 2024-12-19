@@ -104,7 +104,7 @@
           "code": 16,
           "type": "Commune",
           "viNameLanguage": "Xã Đại Thành",
-          "keyAccentLanguage": "Xa_Đai_Thanh"
+          "keyAccentLanguage": "Xa_Dai_Thanh"
         },
         {
           "code": 17,
@@ -202,13 +202,13 @@
           "code": 31,
           "type": "Commune",
           "viNameLanguage": "Xã Đông Thạnh",
-          "keyAccentLanguage": "Xa_Đong_Thanh"
+          "keyAccentLanguage": "Xa_Dong_Thanh"
         },
         {
           "code": 32,
           "type": "Commune",
           "viNameLanguage": "Xã Đông Phú",
-          "keyAccentLanguage": "Xa_Đong_Phu"
+          "keyAccentLanguage": "Xa_Dong_Phu"
         },
         {
           "code": 33,
@@ -232,13 +232,13 @@
           "code": 36,
           "type": "Commune",
           "viNameLanguage": "Xã Đông Phước",
-          "keyAccentLanguage": "Xa_Đong_Phuoc"
+          "keyAccentLanguage": "Xa_Dong_Phuoc"
         },
         {
           "code": 37,
           "type": "Commune",
           "viNameLanguage": "Xã Đông Phước A",
-          "keyAccentLanguage": "Xa_Đong_Phuoc_A"
+          "keyAccentLanguage": "Xa_Dong_Phuoc_A"
         }
       ]
     },
@@ -290,7 +290,7 @@
           "code": 45,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Mỹ",
-          "keyAccentLanguage": "Xa_Hoa_My"
+          "keyAccentLanguage": "Xa_Hoa_Mỹ"
         },
         {
           "code": 46,
@@ -342,7 +342,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Vị Thuỷ",
       "postalCode": "950006",
-      "keyAccentLanguage": "Huyen_Vi_Thuy",
+      "keyAccentLanguage": "Huyen_Vi_Thuỷ",
       "wards": [
         {
           "code": 54,
@@ -384,7 +384,7 @@
           "code": 60,
           "type": "Commune",
           "viNameLanguage": "Xã Vị Đông",
-          "keyAccentLanguage": "Xa_Vi_Đong"
+          "keyAccentLanguage": "Xa_Vi_Dong"
         },
         {
           "code": 61,
@@ -406,7 +406,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Long Mỹ",
       "postalCode": "950007",
-      "keyAccentLanguage": "Huyen_Long_My",
+      "keyAccentLanguage": "Huyen_Long_Mỹ",
       "wards": [
         {
           "code": 64,
@@ -424,7 +424,7 @@
           "code": 66,
           "type": "Commune",
           "viNameLanguage": "Xã Vĩnh Thuận Đông",
-          "keyAccentLanguage": "Xa_Vinh_Thuan_Đong"
+          "keyAccentLanguage": "Xa_Vinh_Thuan_Dong"
         },
         {
           "code": 67,

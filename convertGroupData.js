@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
 require("dotenv").config();
+const removeAccents = require("remove-accents");
 
 const cityKeyEnv = process.env.CITY_KEY;
 const inputLanguage = process.env.INPUT_LANGUAGE;
@@ -92,7 +93,7 @@ async function groupData(data) {
           groupedData.length !== 0
             ? postalCode + groupedData.length
             : postalCode,
-        keyAccentLanguage: removeDiacritics(item.viKeyLanguage),
+        keyAccentLanguage: removeAccents(item.viKeyLanguage),
         wards: [], // Khởi tạo mảng rỗng cho danh sách phường/xã/thị trấn
       });
     } else {
@@ -112,7 +113,7 @@ async function groupData(data) {
           code: item.code,
           type: typeLanguage,
           viNameLanguage: item.viNameLanguage,
-          keyAccentLanguage: removeDiacritics(item.viKeyLanguage),
+          keyAccentLanguage: removeAccents(item.viKeyLanguage),
         });
       }
     }

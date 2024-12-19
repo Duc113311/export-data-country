@@ -17,9 +17,9 @@
           "type": "Ward",
           "viNameLanguage": "Phường Lam Sơn",
           "keyAccentLanguage": "Phuong_Lam_Son"
-         },
+        },
         {
-          "code": 3, 
+          "code": 3,
           "type": "Ward",
           "viNameLanguage": "Phường Hiến Nam",
           "keyAccentLanguage": "Phuong_Hien_Nam"
@@ -134,19 +134,19 @@
           "code": 21,
           "type": "Commune",
           "viNameLanguage": "Xã Lạc Đạo",
-          "keyAccentLanguage": "Xa_Lac_Đao"
+          "keyAccentLanguage": "Xa_Lac_Dao"
         },
         {
           "code": 22,
           "type": "Commune",
           "viNameLanguage": "Xã Chỉ Đạo",
-          "keyAccentLanguage": "Xa_Chi_Đao"
+          "keyAccentLanguage": "Xa_Chi_Dao"
         },
         {
           "code": 23,
           "type": "Commune",
           "viNameLanguage": "Xã Đại Đồng",
-          "keyAccentLanguage": "Xa_Đai_Đong"
+          "keyAccentLanguage": "Xa_Dai_Dong"
         },
         {
           "code": 24,
@@ -164,7 +164,7 @@
           "code": 26,
           "type": "Commune",
           "viNameLanguage": "Xã Đình Dù",
-          "keyAccentLanguage": "Xa_Đinh_Du"
+          "keyAccentLanguage": "Xa_Dinh_Du"
         },
         {
           "code": 27,
@@ -268,7 +268,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Yên Mỹ",
       "postalCode": "170004",
-      "keyAccentLanguage": "Huyen_Yen_My",
+      "keyAccentLanguage": "Huyen_Yen_Mỹ",
       "wards": [
         {
           "code": 43,
@@ -286,7 +286,7 @@
           "code": 45,
           "type": "Commune",
           "viNameLanguage": "Xã Đồng Than",
-          "keyAccentLanguage": "Xa_Đong_Than"
+          "keyAccentLanguage": "Xa_Dong_Than"
         },
         {
           "code": 46,
@@ -374,7 +374,7 @@
       "type": "Town",
       "viNameLanguage": "Thị xã Mỹ Hào",
       "postalCode": "170005",
-      "keyAccentLanguage": "Thi_xa_My_Hao",
+      "keyAccentLanguage": "Thi_xa_Mỹ_Hao",
       "wards": [
         {
           "code": 60,
@@ -386,7 +386,7 @@
           "code": 61,
           "type": "Ward",
           "viNameLanguage": "Phường Phan Đình Phùng",
-          "keyAccentLanguage": "Phuong_Phan_Đinh_Phung"
+          "keyAccentLanguage": "Phuong_Phan_Dinh_Phung"
         },
         {
           "code": 62,
@@ -428,7 +428,7 @@
           "code": 68,
           "type": "Ward",
           "viNameLanguage": "Phường Minh Đức",
-          "keyAccentLanguage": "Phuong_Minh_Đuc"
+          "keyAccentLanguage": "Phuong_Minh_Duc"
         },
         {
           "code": 69,
@@ -486,7 +486,7 @@
           "code": 77,
           "type": "Commune",
           "viNameLanguage": "Xã Đào Dương",
-          "keyAccentLanguage": "Xa_Đao_Duong"
+          "keyAccentLanguage": "Xa_Dao_Duong"
         },
         {
           "code": 78,
@@ -534,7 +534,7 @@
           "code": 85,
           "type": "Commune",
           "viNameLanguage": "Xã Đặng Lễ",
-          "keyAccentLanguage": "Xa_Đang_Le"
+          "keyAccentLanguage": "Xa_Dang_Le"
         },
         {
           "code": 86,
@@ -552,7 +552,7 @@
           "code": 88,
           "type": "Commune",
           "viNameLanguage": "Xã Đa Lộc",
-          "keyAccentLanguage": "Xa_Đa_Loc"
+          "keyAccentLanguage": "Xa_Da_Loc"
         },
         {
           "code": 89,
@@ -598,7 +598,7 @@
           "code": 95,
           "type": "Commune",
           "viNameLanguage": "Xã Đông Tảo",
-          "keyAccentLanguage": "Xa_Đong_Tao"
+          "keyAccentLanguage": "Xa_Dong_Tao"
         },
         {
           "code": 96,
@@ -622,7 +622,7 @@
           "code": 99,
           "type": "Commune",
           "viNameLanguage": "Xã Ông Đình",
-          "keyAccentLanguage": "Xa_Ong_Đinh"
+          "keyAccentLanguage": "Xa_Ong_Dinh"
         },
         {
           "code": 100,
@@ -646,7 +646,7 @@
           "code": 103,
           "type": "Commune",
           "viNameLanguage": "Xã Đông Kết",
-          "keyAccentLanguage": "Xa_Đong_Ket"
+          "keyAccentLanguage": "Xa_Dong_Ket"
         },
         {
           "code": 104,
@@ -664,7 +664,7 @@
           "code": 106,
           "type": "Commune",
           "viNameLanguage": "Xã Đồng Tiến",
-          "keyAccentLanguage": "Xa_Đong_Tien"
+          "keyAccentLanguage": "Xa_Dong_Tien"
         },
         {
           "code": 107,
@@ -700,13 +700,13 @@
           "code": 112,
           "type": "Commune",
           "viNameLanguage": "Xã Đông Ninh",
-          "keyAccentLanguage": "Xa_Đong_Ninh"
+          "keyAccentLanguage": "Xa_Dong_Ninh"
         },
         {
           "code": 113,
           "type": "Commune",
           "viNameLanguage": "Xã Đại Tập",
-          "keyAccentLanguage": "Xa_Đai_Tap"
+          "keyAccentLanguage": "Xa_Dai_Tap"
         },
         {
           "code": 114,
@@ -718,7 +718,7 @@
           "code": 115,
           "type": "Commune",
           "viNameLanguage": "Xã Đại Hưng",
-          "keyAccentLanguage": "Xa_Đai_Hung"
+          "keyAccentLanguage": "Xa_Dai_Hung"
         },
         {
           "code": 116,
@@ -746,7 +746,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Kim Động",
       "postalCode": "170008",
-      "keyAccentLanguage": "Huyen_Kim_Đong",
+      "keyAccentLanguage": "Huyen_Kim_Dong",
       "wards": [
         {
           "code": 120,
@@ -788,7 +788,7 @@
           "code": 126,
           "type": "Commune",
           "viNameLanguage": "Xã Đồng Thanh",
-          "keyAccentLanguage": "Xa_Đong_Thanh"
+          "keyAccentLanguage": "Xa_Dong_Thanh"
         },
         {
           "code": 127,
@@ -818,13 +818,13 @@
           "code": 131,
           "type": "Commune",
           "viNameLanguage": "Xã Mai Động",
-          "keyAccentLanguage": "Xa_Mai_Đong"
+          "keyAccentLanguage": "Xa_Mai_Dong"
         },
         {
           "code": 132,
           "type": "Commune",
           "viNameLanguage": "Xã Đức Hợp",
-          "keyAccentLanguage": "Xa_Đuc_Hop"
+          "keyAccentLanguage": "Xa_Duc_Hop"
         },
         {
           "code": 133,
@@ -870,7 +870,7 @@
           "code": 139,
           "type": "Commune",
           "viNameLanguage": "Xã Hưng Đạo",
-          "keyAccentLanguage": "Xa_Hung_Đao"
+          "keyAccentLanguage": "Xa_Hung_Dao"
         },
         {
           "code": 140,
@@ -906,7 +906,7 @@
           "code": 145,
           "type": "Commune",
           "viNameLanguage": "Xã Đức Thắng",
-          "keyAccentLanguage": "Xa_Đuc_Thang"
+          "keyAccentLanguage": "Xa_Duc_Thang"
         },
         {
           "code": 146,
@@ -924,7 +924,7 @@
           "code": 148,
           "type": "Commune",
           "viNameLanguage": "Xã Thủ Sỹ",
-          "keyAccentLanguage": "Xa_Thu_Sy"
+          "keyAccentLanguage": "Xa_Thu_Sỹ"
         },
         {
           "code": 149,
@@ -994,7 +994,7 @@
           "code": 159,
           "type": "Commune",
           "viNameLanguage": "Xã Đoàn Đào",
-          "keyAccentLanguage": "Xa_Đoan_Đao"
+          "keyAccentLanguage": "Xa_Doan_Dao"
         },
         {
           "code": 160,
@@ -1006,7 +1006,7 @@
           "code": 161,
           "type": "Commune",
           "viNameLanguage": "Xã Đình Cao",
-          "keyAccentLanguage": "Xa_Đinh_Cao"
+          "keyAccentLanguage": "Xa_Dinh_Cao"
         },
         {
           "code": 162,
@@ -1024,7 +1024,7 @@
           "code": 164,
           "type": "Commune",
           "viNameLanguage": "Xã Tam Đa",
-          "keyAccentLanguage": "Xa_Tam_Đa"
+          "keyAccentLanguage": "Xa_Tam_Da"
         },
         {
           "code": 165,

@@ -10,13 +10,13 @@
       "type": "City",
       "viNameLanguage": "Thành phố Đông Hà",
       "postalCode": "480001",
-      "keyAccentLanguage": "Thanh_pho_Đong_Ha",
+      "keyAccentLanguage": "Thanh_pho_Dong_Ha",
       "wards": [
         {
           "code": 2,
           "type": "Ward",
           "viNameLanguage": "Phường Đông Giang",
-          "keyAccentLanguage": "Phuong_Đong_Giang"
+          "keyAccentLanguage": "Phuong_Dong_Giang"
         },
         {
           "code": 3,
@@ -28,13 +28,13 @@
           "code": 4,
           "type": "Ward",
           "viNameLanguage": "Phường Đông Lễ",
-          "keyAccentLanguage": "Phuong_Đong_Le"
+          "keyAccentLanguage": "Phuong_Dong_Le"
         },
         {
           "code": 5,
           "type": "Ward",
           "viNameLanguage": "Phường Đông Thanh",
-          "keyAccentLanguage": "Phuong_Đong_Thanh"
+          "keyAccentLanguage": "Phuong_Dong_Thanh"
         },
         {
           "code": 6,
@@ -58,7 +58,7 @@
           "code": 9,
           "type": "Ward",
           "viNameLanguage": "Phường Đông Lương",
-          "keyAccentLanguage": "Phuong_Đong_Luong"
+          "keyAccentLanguage": "Phuong_Dong_Luong"
         },
         {
           "code": 10,
@@ -86,7 +86,7 @@
           "code": 13,
           "type": "Ward",
           "viNameLanguage": "Phường An Đôn",
-          "keyAccentLanguage": "Phuong_An_Đon"
+          "keyAccentLanguage": "Phuong_An_Don"
         },
         {
           "code": 14,
@@ -404,7 +404,7 @@
           "code": 64,
           "type": "Commune",
           "viNameLanguage": "Xã Gio Mỹ",
-          "keyAccentLanguage": "Xa_Gio_My"
+          "keyAccentLanguage": "Xa_Gio_Mỹ"
         },
         {
           "code": 65,
@@ -474,7 +474,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Đa Krông",
       "postalCode": "480006",
-      "keyAccentLanguage": "Huyen_Đa_Krong",
+      "keyAccentLanguage": "Huyen_Da_Krong",
       "wards": [
         {
           "code": 76,
@@ -638,7 +638,7 @@
           "code": 101,
           "type": "Commune",
           "viNameLanguage": "Xã Triệu Độ",
-          "keyAccentLanguage": "Xa_Trieu_Đo"
+          "keyAccentLanguage": "Xa_Trieu_Do"
         },
         {
           "code": 102,
@@ -656,7 +656,7 @@
           "code": 104,
           "type": "Commune",
           "viNameLanguage": "Xã Triệu Đại",
-          "keyAccentLanguage": "Xa_Trieu_Đai"
+          "keyAccentLanguage": "Xa_Trieu_Dai"
         },
         {
           "code": 105,
@@ -786,7 +786,7 @@
           "code": 125,
           "type": "Commune",
           "viNameLanguage": "Xã Hải Định",
-          "keyAccentLanguage": "Xa_Hai_Đinh"
+          "keyAccentLanguage": "Xa_Hai_Dinh"
         },
         {
           "code": 126,

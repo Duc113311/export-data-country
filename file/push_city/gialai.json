@@ -16,7 +16,7 @@
           "code": 2,
           "type": "Ward",
           "viNameLanguage": "Phường Yên Đỗ",
-          "keyAccentLanguage": "Phuong_Yen_Đo"
+          "keyAccentLanguage": "Phuong_Yen_Do"
         },
         {
           "code": 3,
@@ -46,7 +46,7 @@
           "code": 7,
           "type": "Ward",
           "viNameLanguage": "Phường Phù Đổng",
-          "keyAccentLanguage": "Phuong_Phu_Đong"
+          "keyAccentLanguage": "Phuong_Phu_Dong"
         },
         {
           "code": 8,
@@ -70,7 +70,7 @@
           "code": 11,
           "type": "Ward",
           "viNameLanguage": "Phường Đống Đa",
-          "keyAccentLanguage": "Phuong_Đong_Đa"
+          "keyAccentLanguage": "Phuong_Dong_Da"
         },
         {
           "code": 12,
@@ -112,7 +112,7 @@
           "code": 18,
           "type": "Commune",
           "viNameLanguage": "Xã Trà Đa",
-          "keyAccentLanguage": "Xa_Tra_Đa"
+          "keyAccentLanguage": "Xa_Tra_Da"
         },
         {
           "code": 19,
@@ -246,7 +246,7 @@
           "code": 39,
           "type": "Ward",
           "viNameLanguage": "Phường Đoàn Kết",
-          "keyAccentLanguage": "Phuong_Đoan_Ket"
+          "keyAccentLanguage": "Phuong_Doan_Ket"
         },
         {
           "code": 40,
@@ -298,7 +298,7 @@
           "code": 47,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Roong",
-          "keyAccentLanguage": "Xa_Đak_Roong"
+          "keyAccentLanguage": "Xa_Dak_Roong"
         },
         {
           "code": 48,
@@ -328,13 +328,13 @@
           "code": 52,
           "type": "Commune",
           "viNameLanguage": "Xã Đông",
-          "keyAccentLanguage": "Xa_Đong"
+          "keyAccentLanguage": "Xa_Dong"
         },
         {
           "code": 53,
           "type": "Commune",
           "viNameLanguage": "Xã Đak SMar",
-          "keyAccentLanguage": "Xa_Đak_SMar"
+          "keyAccentLanguage": "Xa_Dak_SMar"
         },
         {
           "code": 54,
@@ -364,7 +364,7 @@
           "code": 58,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk HLơ",
-          "keyAccentLanguage": "Xa_Đak_HLo"
+          "keyAccentLanguage": "Xa_Dak_HLo"
         }
       ]
     },
@@ -374,25 +374,25 @@
       "type": "District",
       "viNameLanguage": "Huyện Đăk Đoa",
       "postalCode": "610005",
-      "keyAccentLanguage": "Huyen_Đak_Đoa",
+      "keyAccentLanguage": "Huyen_Dak_Doa",
       "wards": [
         {
           "code": 60,
           "type": "Commune",
           "viNameLanguage": "Xã Hà Đông",
-          "keyAccentLanguage": "Xa_Ha_Đong"
+          "keyAccentLanguage": "Xa_Ha_Dong"
         },
         {
           "code": 61,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Sơmei",
-          "keyAccentLanguage": "Xa_Đak_Somei"
+          "keyAccentLanguage": "Xa_Dak_Somei"
         },
         {
           "code": 62,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Krong",
-          "keyAccentLanguage": "Xa_Đak_Krong"
+          "keyAccentLanguage": "Xa_Dak_Krong"
         },
         {
           "code": 63,
@@ -528,7 +528,7 @@
           "code": 84,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Tơ Ver",
-          "keyAccentLanguage": "Xa_Đak_To_Ver"
+          "keyAccentLanguage": "Xa_Dak_To_Ver"
         },
         {
           "code": 85,
@@ -540,7 +540,7 @@
           "code": 86,
           "type": "Commune",
           "viNameLanguage": "Xã Chư Đăng Ya",
-          "keyAccentLanguage": "Xa_Chu_Đang_Ya"
+          "keyAccentLanguage": "Xa_Chu_Dang_Ya"
         },
         {
           "code": 87,
@@ -680,13 +680,13 @@
           "code": 108,
           "type": "Commune",
           "viNameLanguage": "Xã Đak Jơ Ta",
-          "keyAccentLanguage": "Xa_Đak_Jo_Ta"
+          "keyAccentLanguage": "Xa_Dak_Jo_Ta"
         },
         {
           "code": 109,
           "type": "Commune",
           "viNameLanguage": "Xã Đak Ta Ley",
-          "keyAccentLanguage": "Xa_Đak_Ta_Ley"
+          "keyAccentLanguage": "Xa_Dak_Ta_Ley"
         },
         {
           "code": 110,
@@ -698,13 +698,13 @@
           "code": 111,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Yă",
-          "keyAccentLanguage": "Xa_Đak_Ya"
+          "keyAccentLanguage": "Xa_Dak_Ya"
         },
         {
           "code": 112,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Djrăng",
-          "keyAccentLanguage": "Xa_Đak_Djrang"
+          "keyAccentLanguage": "Xa_Dak_Djrang"
         },
         {
           "code": 113,
@@ -722,7 +722,7 @@
           "code": 115,
           "type": "Commune",
           "viNameLanguage": "Xã Đê Ar",
-          "keyAccentLanguage": "Xa_Đe_Ar"
+          "keyAccentLanguage": "Xa_De_Ar"
         },
         {
           "code": 116,
@@ -734,7 +734,7 @@
           "code": 117,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Trôi",
-          "keyAccentLanguage": "Xa_Đak_Troi"
+          "keyAccentLanguage": "Xa_Dak_Troi"
         }
       ]
     },
@@ -768,7 +768,7 @@
           "code": 122,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Tơ Pang",
-          "keyAccentLanguage": "Xa_Đak_To_Pang"
+          "keyAccentLanguage": "Xa_Dak_To_Pang"
         },
         {
           "code": 123,
@@ -780,19 +780,19 @@
           "code": 124,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Kơ Ning",
-          "keyAccentLanguage": "Xa_Đak_Ko_Ning"
+          "keyAccentLanguage": "Xa_Dak_Ko_Ning"
         },
         {
           "code": 125,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Song",
-          "keyAccentLanguage": "Xa_Đak_Song"
+          "keyAccentLanguage": "Xa_Dak_Song"
         },
         {
           "code": 126,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Pling",
-          "keyAccentLanguage": "Xa_Đak_Pling"
+          "keyAccentLanguage": "Xa_Dak_Pling"
         },
         {
           "code": 127,
@@ -804,7 +804,7 @@
           "code": 128,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk Pơ Pho",
-          "keyAccentLanguage": "Xa_Đak_Po_Pho"
+          "keyAccentLanguage": "Xa_Dak_Po_Pho"
         },
         {
           "code": 129,
@@ -832,7 +832,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Đức Cơ",
       "postalCode": "6100010",
-      "keyAccentLanguage": "Huyen_Đuc_Co",
+      "keyAccentLanguage": "Huyen_Duc_Co",
       "wards": [
         {
           "code": 133,
@@ -1120,7 +1120,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Đăk Pơ",
       "postalCode": "6100013",
-      "keyAccentLanguage": "Huyen_Đak_Po",
+      "keyAccentLanguage": "Huyen_Dak_Po",
       "wards": [
         {
           "code": 179,
@@ -1266,7 +1266,7 @@
           "code": 201,
           "type": "Commune",
           "viNameLanguage": "Xã Đất Bằng",
-          "keyAccentLanguage": "Xa_Đat_Bang"
+          "keyAccentLanguage": "Xa_Dat_Bang"
         },
         {
           "code": 202,

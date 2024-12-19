@@ -86,7 +86,7 @@
           "code": 13,
           "type": "Commune",
           "viNameLanguage": "Xã Hồ Đắc Kiện",
-          "keyAccentLanguage": "Xa_Ho_Đac_Kien"
+          "keyAccentLanguage": "Xa_Ho_Dac_Kien"
         },
         {
           "code": 14,
@@ -110,7 +110,7 @@
           "code": 17,
           "type": "Commune",
           "viNameLanguage": "Xã Thiện Mỹ",
-          "keyAccentLanguage": "Xa_Thien_My"
+          "keyAccentLanguage": "Xa_Thien_Mỹ"
         },
         {
           "code": 18,
@@ -180,7 +180,7 @@
           "code": 28,
           "type": "Commune",
           "viNameLanguage": "Xã Nhơn Mỹ",
-          "keyAccentLanguage": "Xa_Nhon_My"
+          "keyAccentLanguage": "Xa_Nhon_Mỹ"
         },
         {
           "code": 29,
@@ -198,13 +198,13 @@
           "code": 31,
           "type": "Commune",
           "viNameLanguage": "Xã Đại Hải",
-          "keyAccentLanguage": "Xa_Đai_Hai"
+          "keyAccentLanguage": "Xa_Dai_Hai"
         },
         {
           "code": 32,
           "type": "Commune",
           "viNameLanguage": "Xã An Mỹ",
-          "keyAccentLanguage": "Xa_An_My"
+          "keyAccentLanguage": "Xa_An_Mỹ"
         }
       ]
     },
@@ -214,7 +214,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Mỹ Tú",
       "postalCode": "960004",
-      "keyAccentLanguage": "Huyen_My_Tu",
+      "keyAccentLanguage": "Huyen_Mỹ_Tu",
       "wards": [
         {
           "code": 34,
@@ -238,13 +238,13 @@
           "code": 37,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Hương",
-          "keyAccentLanguage": "Xa_My_Huong"
+          "keyAccentLanguage": "Xa_Mỹ_Huong"
         },
         {
           "code": 38,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Phước",
-          "keyAccentLanguage": "Xa_My_Phuoc"
+          "keyAccentLanguage": "Xa_Mỹ_Phuoc"
         },
         {
           "code": 39,
@@ -256,13 +256,13 @@
           "code": 40,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Thuận",
-          "keyAccentLanguage": "Xa_My_Thuan"
+          "keyAccentLanguage": "Xa_Mỹ_Thuan"
         },
         {
           "code": 41,
           "type": "Commune",
           "viNameLanguage": "Xã Phú Mỹ",
-          "keyAccentLanguage": "Xa_Phu_My"
+          "keyAccentLanguage": "Xa_Phu_Mỹ"
         }
       ]
     },
@@ -290,13 +290,13 @@
           "code": 45,
           "type": "Commune",
           "viNameLanguage": "Xã An Thạnh Đông",
-          "keyAccentLanguage": "Xa_An_Thanh_Đong"
+          "keyAccentLanguage": "Xa_An_Thanh_Dong"
         },
         {
           "code": 46,
           "type": "Commune",
           "viNameLanguage": "Xã Đại Ân 1",
-          "keyAccentLanguage": "Xa_Đai_An_1"
+          "keyAccentLanguage": "Xa_Dai_An_1"
         },
         {
           "code": 47,
@@ -336,7 +336,7 @@
           "code": 52,
           "type": "Town",
           "viNameLanguage": "Thị trấn Đại Ngãi",
-          "keyAccentLanguage": "Thi_tran_Đai_Ngai"
+          "keyAccentLanguage": "Thi_tran_Dai_Ngai"
         },
         {
           "code": 53,
@@ -348,7 +348,7 @@
           "code": 54,
           "type": "Commune",
           "viNameLanguage": "Xã Long Đức",
-          "keyAccentLanguage": "Xa_Long_Đuc"
+          "keyAccentLanguage": "Xa_Long_Duc"
         },
         {
           "code": 55,
@@ -394,19 +394,19 @@
       "type": "District",
       "viNameLanguage": "Huyện Mỹ Xuyên",
       "postalCode": "960007",
-      "keyAccentLanguage": "Huyen_My_Xuyen",
+      "keyAccentLanguage": "Huyen_Mỹ_Xuyen",
       "wards": [
         {
           "code": 62,
           "type": "Commune",
           "viNameLanguage": "Xã Đại Tâm",
-          "keyAccentLanguage": "Xa_Đai_Tam"
+          "keyAccentLanguage": "Xa_Dai_Tam"
         },
         {
           "code": 63,
           "type": "Commune",
           "viNameLanguage": "Xã Tham Đôn",
-          "keyAccentLanguage": "Xa_Tham_Đon"
+          "keyAccentLanguage": "Xa_Tham_Don"
         },
         {
           "code": 64,
@@ -418,7 +418,7 @@
           "code": 65,
           "type": "Commune",
           "viNameLanguage": "Xã Ngọc Đông",
-          "keyAccentLanguage": "Xa_Ngoc_Đong"
+          "keyAccentLanguage": "Xa_Ngoc_Dong"
         },
         {
           "code": 66,
@@ -506,13 +506,13 @@
           "code": 79,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Bình",
-          "keyAccentLanguage": "Xa_My_Binh"
+          "keyAccentLanguage": "Xa_Mỹ_Binh"
         },
         {
           "code": 80,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Quới",
-          "keyAccentLanguage": "Xa_My_Quoi"
+          "keyAccentLanguage": "Xa_Mỹ_Quoi"
         }
       ]
     },
@@ -586,19 +586,19 @@
       "type": "District",
       "viNameLanguage": "Huyện Trần Đề",
       "postalCode": "9600010",
-      "keyAccentLanguage": "Huyen_Tran_Đe",
+      "keyAccentLanguage": "Huyen_Tran_De",
       "wards": [
         {
           "code": 103,
           "type": "Commune",
           "viNameLanguage": "Xã Đại Ân 2",
-          "keyAccentLanguage": "Xa_Đai_An_2"
+          "keyAccentLanguage": "Xa_Dai_An_2"
         },
         {
           "code": 104,
           "type": "Town",
           "viNameLanguage": "Thị trấn Trần Đề",
-          "keyAccentLanguage": "Thi_tran_Tran_Đe"
+          "keyAccentLanguage": "Thi_tran_Tran_De"
         },
         {
           "code": 105,

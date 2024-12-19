@@ -2,7 +2,7 @@
   "code": 0,
   "type": "City",
   "postalCode": "32000",
-  "keyAccentLanguage": "Đien_Bien",
+  "keyAccentLanguage": "Dien_Bien_Phu",
   "districtList": [
     {
       "code": 1,
@@ -10,7 +10,7 @@
       "type": "City",
       "viNameLanguage": "Thành phố Điện Biên Phủ",
       "postalCode": "320001",
-      "keyAccentLanguage": "Thanh_pho_Đien_Bien_Phu",
+      "keyAccentLanguage": "Thanh_pho_Dien_Bien_Phu",
       "wards": [
         {
           "code": 2,
@@ -98,7 +98,7 @@
           "code": 15,
           "type": "Ward",
           "viNameLanguage": "Phường Sông Đà",
-          "keyAccentLanguage": "Phuong_Song_Đa"
+          "keyAccentLanguage": "Phuong_Song_Da"
         },
         {
           "code": 16,
@@ -326,7 +326,7 @@
           "code": 51,
           "type": "Commune",
           "viNameLanguage": "Xã Mường Đun",
-          "keyAccentLanguage": "Xa_Muong_Đun"
+          "keyAccentLanguage": "Xa_Muong_Dun"
         },
         {
           "code": 52,
@@ -354,7 +354,7 @@
           "code": 55,
           "type": "Commune",
           "viNameLanguage": "Xã Rạng Đông",
-          "keyAccentLanguage": "Xa_Rang_Đong"
+          "keyAccentLanguage": "Xa_Rang_Dong"
         },
         {
           "code": 56,
@@ -444,7 +444,7 @@
           "code": 70,
           "type": "Commune",
           "viNameLanguage": "Xã Chiềng Đông",
-          "keyAccentLanguage": "Xa_Chieng_Đong"
+          "keyAccentLanguage": "Xa_Chieng_Dong"
         },
         {
           "code": 71,
@@ -460,7 +460,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Điện Biên",
       "postalCode": "320007",
-      "keyAccentLanguage": "Huyen_Đien_Bien",
+      "keyAccentLanguage": "Huyen_Dien_Bien",
       "wards": [
         {
           "code": 73,
@@ -596,7 +596,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Điện Biên Đông",
       "postalCode": "320008",
-      "keyAccentLanguage": "Huyen_Đien_Bien_Đong",
+      "keyAccentLanguage": "Huyen_Dien_Bien_Dong",
       "wards": [
         {
           "code": 95,
@@ -690,7 +690,7 @@
           "code": 109,
           "type": "Commune",
           "viNameLanguage": "Xã Mường Đăng",
-          "keyAccentLanguage": "Xa_Muong_Đang"
+          "keyAccentLanguage": "Xa_Muong_Dang"
         },
         {
           "code": 110,
@@ -820,7 +820,7 @@
           "code": 130,
           "type": "Commune",
           "viNameLanguage": "Xã Vàng Đán",
-          "keyAccentLanguage": "Xa_Vang_Đan"
+          "keyAccentLanguage": "Xa_Vang_Dan"
         },
         {
           "code": 131,

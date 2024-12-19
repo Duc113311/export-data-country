@@ -2,7 +2,7 @@
   "code": 0,
   "type": "City",
   "postalCode": "65000",
-  "keyAccentLanguage": "Đak_Nong",
+  "keyAccentLanguage": "Dak_Nong",
   "districtList": [
     {
       "code": 1,
@@ -16,7 +16,7 @@
           "code": 2,
           "type": "Ward",
           "viNameLanguage": "Phường Nghĩa Đức",
-          "keyAccentLanguage": "Phuong_Nghia_Đuc"
+          "keyAccentLanguage": "Phuong_Nghia_Duc"
         },
         {
           "code": 3,
@@ -46,7 +46,7 @@
           "code": 7,
           "type": "Commune",
           "viNameLanguage": "Xã Đăk R'Moan",
-          "keyAccentLanguage": "Xa_Đak_R'Moan"
+          "keyAccentLanguage": "Xa_Dak_R'Moan"
         },
         {
           "code": 8,
@@ -58,7 +58,7 @@
           "code": 9,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Nia",
-          "keyAccentLanguage": "Xa_Đak_Nia"
+          "keyAccentLanguage": "Xa_Dak_Nia"
         }
       ]
     },
@@ -68,7 +68,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Đăk Glong",
       "postalCode": "650002",
-      "keyAccentLanguage": "Huyen_Đak_Glong",
+      "keyAccentLanguage": "Huyen_Dak_Glong",
       "wards": [
         {
           "code": 11,
@@ -86,13 +86,13 @@
           "code": 13,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Ha",
-          "keyAccentLanguage": "Xa_Đak_Ha"
+          "keyAccentLanguage": "Xa_Dak_Ha"
         },
         {
           "code": 14,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk R'Măng",
-          "keyAccentLanguage": "Xa_Đak_R'Mang"
+          "keyAccentLanguage": "Xa_Dak_R'Mang"
         },
         {
           "code": 15,
@@ -104,13 +104,13 @@
           "code": 16,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Plao",
-          "keyAccentLanguage": "Xa_Đak_Plao"
+          "keyAccentLanguage": "Xa_Dak_Plao"
         },
         {
           "code": 17,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Som",
-          "keyAccentLanguage": "Xa_Đak_Som"
+          "keyAccentLanguage": "Xa_Dak_Som"
         }
       ]
     },
@@ -132,7 +132,7 @@
           "code": 20,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Wil",
-          "keyAccentLanguage": "Xa_Đak_Wil"
+          "keyAccentLanguage": "Xa_Dak_Wil"
         },
         {
           "code": 21,
@@ -150,7 +150,7 @@
           "code": 23,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk DRông",
-          "keyAccentLanguage": "Xa_Đak_DRong"
+          "keyAccentLanguage": "Xa_Dak_DRong"
         },
         {
           "code": 24,
@@ -178,37 +178,37 @@
       "type": "District",
       "viNameLanguage": "Huyện Đắk Mil",
       "postalCode": "650004",
-      "keyAccentLanguage": "Huyen_Đak_Mil",
+      "keyAccentLanguage": "Huyen_Dak_Mil",
       "wards": [
         {
           "code": 28,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Lao",
-          "keyAccentLanguage": "Xa_Đak_Lao"
+          "keyAccentLanguage": "Xa_Dak_Lao"
         },
         {
           "code": 29,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk R'La",
-          "keyAccentLanguage": "Xa_Đak_R'La"
+          "keyAccentLanguage": "Xa_Dak_R'La"
         },
         {
           "code": 30,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Gằn",
-          "keyAccentLanguage": "Xa_Đak_Gan"
+          "keyAccentLanguage": "Xa_Dak_Gan"
         },
         {
           "code": 31,
           "type": "Commune",
           "viNameLanguage": "Xã Đức Mạnh",
-          "keyAccentLanguage": "Xa_Đuc_Manh"
+          "keyAccentLanguage": "Xa_Duc_Manh"
         },
         {
           "code": 32,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk N'Drót",
-          "keyAccentLanguage": "Xa_Đak_N'Drot"
+          "keyAccentLanguage": "Xa_Dak_N'Drot"
         },
         {
           "code": 33,
@@ -220,7 +220,7 @@
           "code": 34,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Sắk",
-          "keyAccentLanguage": "Xa_Đak_Sak"
+          "keyAccentLanguage": "Xa_Dak_Sak"
         },
         {
           "code": 35,
@@ -232,7 +232,7 @@
           "code": 36,
           "type": "Commune",
           "viNameLanguage": "Xã Đức Minh",
-          "keyAccentLanguage": "Xa_Đuc_Minh"
+          "keyAccentLanguage": "Xa_Duc_Minh"
         }
       ]
     },
@@ -248,13 +248,13 @@
           "code": 38,
           "type": "Town",
           "viNameLanguage": "Thị trấn Đắk Mâm",
-          "keyAccentLanguage": "Thi_tran_Đak_Mam"
+          "keyAccentLanguage": "Thi_tran_Dak_Mam"
         },
         {
           "code": 39,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Sôr",
-          "keyAccentLanguage": "Xa_Đak_Sor"
+          "keyAccentLanguage": "Xa_Dak_Sor"
         },
         {
           "code": 40,
@@ -272,7 +272,7 @@
           "code": 42,
           "type": "Commune",
           "viNameLanguage": "Xã Nam Đà",
-          "keyAccentLanguage": "Xa_Nam_Đa"
+          "keyAccentLanguage": "Xa_Nam_Da"
         },
         {
           "code": 43,
@@ -284,7 +284,7 @@
           "code": 44,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Drô",
-          "keyAccentLanguage": "Xa_Đak_Dro"
+          "keyAccentLanguage": "Xa_Dak_Dro"
         },
         {
           "code": 45,
@@ -296,13 +296,13 @@
           "code": 46,
           "type": "Commune",
           "viNameLanguage": "Xã Đức Xuyên",
-          "keyAccentLanguage": "Xa_Đuc_Xuyen"
+          "keyAccentLanguage": "Xa_Duc_Xuyen"
         },
         {
           "code": 47,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Nang",
-          "keyAccentLanguage": "Xa_Đak_Nang"
+          "keyAccentLanguage": "Xa_Dak_Nang"
         },
         {
           "code": 48,
@@ -314,7 +314,7 @@
           "code": 49,
           "type": "Commune",
           "viNameLanguage": "Xã Nâm N'Đir",
-          "keyAccentLanguage": "Xa_Nam_N'Đir"
+          "keyAccentLanguage": "Xa_Nam_N'Dir"
         }
       ]
     },
@@ -324,25 +324,25 @@
       "type": "District",
       "viNameLanguage": "Huyện Đắk Song",
       "postalCode": "650006",
-      "keyAccentLanguage": "Huyen_Đak_Song",
+      "keyAccentLanguage": "Huyen_Dak_Song",
       "wards": [
         {
           "code": 51,
           "type": "Town",
           "viNameLanguage": "Thị trấn Đức An",
-          "keyAccentLanguage": "Thi_tran_Đuc_An"
+          "keyAccentLanguage": "Thi_tran_Duc_An"
         },
         {
           "code": 52,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Môl",
-          "keyAccentLanguage": "Xa_Đak_Mol"
+          "keyAccentLanguage": "Xa_Dak_Mol"
         },
         {
           "code": 53,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Hòa",
-          "keyAccentLanguage": "Xa_Đak_Hoa"
+          "keyAccentLanguage": "Xa_Dak_Hoa"
         },
         {
           "code": 54,
@@ -366,7 +366,7 @@
           "code": 57,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk N'Dung",
-          "keyAccentLanguage": "Xa_Đak_N'Dung"
+          "keyAccentLanguage": "Xa_Dak_N'Dung"
         },
         {
           "code": 58,
@@ -388,13 +388,13 @@
       "type": "District",
       "viNameLanguage": "Huyện Đắk R'Lấp",
       "postalCode": "650007",
-      "keyAccentLanguage": "Huyen_Đak_R'Lap",
+      "keyAccentLanguage": "Huyen_Dak_R'Lap",
       "wards": [
         {
           "code": 61,
           "type": "Town",
           "viNameLanguage": "Thị trấn Kiến Đức",
-          "keyAccentLanguage": "Thi_tran_Kien_Đuc"
+          "keyAccentLanguage": "Thi_tran_Kien_Duc"
         },
         {
           "code": 62,
@@ -406,7 +406,7 @@
           "code": 63,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Wer",
-          "keyAccentLanguage": "Xa_Đak_Wer"
+          "keyAccentLanguage": "Xa_Dak_Wer"
         },
         {
           "code": 64,
@@ -430,13 +430,13 @@
           "code": 67,
           "type": "Commune",
           "viNameLanguage": "Xã Đạo Nghĩa",
-          "keyAccentLanguage": "Xa_Đao_Nghia"
+          "keyAccentLanguage": "Xa_Dao_Nghia"
         },
         {
           "code": 68,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Sin",
-          "keyAccentLanguage": "Xa_Đak_Sin"
+          "keyAccentLanguage": "Xa_Dak_Sin"
         },
         {
           "code": 69,
@@ -448,13 +448,13 @@
           "code": 70,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Ru",
-          "keyAccentLanguage": "Xa_Đak_Ru"
+          "keyAccentLanguage": "Xa_Dak_Ru"
         },
         {
           "code": 71,
           "type": "Commune",
           "viNameLanguage": "Xã Nhân Đạo",
-          "keyAccentLanguage": "Xa_Nhan_Đao"
+          "keyAccentLanguage": "Xa_Nhan_Dao"
         }
       ]
     },
@@ -464,7 +464,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Tuy Đức",
       "postalCode": "650008",
-      "keyAccentLanguage": "Huyen_Tuy_Đuc",
+      "keyAccentLanguage": "Huyen_Tuy_Duc",
       "wards": [
         {
           "code": 73,
@@ -476,7 +476,7 @@
           "code": 74,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Búk So",
-          "keyAccentLanguage": "Xa_Đak_Buk_So"
+          "keyAccentLanguage": "Xa_Dak_Buk_So"
         },
         {
           "code": 75,
@@ -488,13 +488,13 @@
           "code": 76,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk R'Tíh",
-          "keyAccentLanguage": "Xa_Đak_R'Tih"
+          "keyAccentLanguage": "Xa_Dak_R'Tih"
         },
         {
           "code": 77,
           "type": "Commune",
           "viNameLanguage": "Xã Đắk Ngo",
-          "keyAccentLanguage": "Xa_Đak_Ngo"
+          "keyAccentLanguage": "Xa_Dak_Ngo"
         },
         {
           "code": 78,

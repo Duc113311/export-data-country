@@ -176,7 +176,7 @@
         "code": 28,
         "type": "Commune",
         "viNameLanguage": "Xã Phước Đồng",
-        "keyAccentLanguage": "Xa_Phuoc_Đong"
+        "keyAccentLanguage": "Xa_Phuoc_Dong"
       }
     ]
   },
@@ -252,7 +252,7 @@
         "code": 40,
         "type": "Commune",
         "viNameLanguage": "Xã Cam Phước Đông",
-        "keyAccentLanguage": "Xa_Cam_Phuoc_Đong"
+        "keyAccentLanguage": "Xa_Cam_Phuoc_Dong"
       },
       {
         "code": 41,
@@ -264,7 +264,7 @@
         "code": 42,
         "type": "Commune",
         "viNameLanguage": "Xã Cam Thịnh Đông",
-        "keyAccentLanguage": "Xa_Cam_Thinh_Đong"
+        "keyAccentLanguage": "Xa_Cam_Thinh_Dong"
       },
       {
         "code": 43,
@@ -304,7 +304,7 @@
         "code": 48,
         "type": "Commune",
         "viNameLanguage": "Xã Cam Hải Đông",
-        "keyAccentLanguage": "Xa_Cam_Hai_Đong"
+        "keyAccentLanguage": "Xa_Cam_Hai_Dong"
       },
       {
         "code": 49,
@@ -328,7 +328,7 @@
         "code": 52,
         "type": "Town",
         "viNameLanguage": "Thị trấn Cam Đức",
-        "keyAccentLanguage": "Thi_tran_Cam_Đuc"
+        "keyAccentLanguage": "Thi_tran_Cam_Duc"
       },
       {
         "code": 53,
@@ -392,7 +392,7 @@
         "code": 62,
         "type": "Commune",
         "viNameLanguage": "Xã Đại Lãnh",
-        "keyAccentLanguage": "Xa_Đai_Lanh"
+        "keyAccentLanguage": "Xa_Dai_Lanh"
       },
       {
         "code": 63,
@@ -546,7 +546,7 @@
         "code": 87,
         "type": "Commune",
         "viNameLanguage": "Xã Ninh Đông",
-        "keyAccentLanguage": "Xa_Ninh_Đong"
+        "keyAccentLanguage": "Xa_Ninh_Dong"
       },
       {
         "code": 88,
@@ -558,7 +558,7 @@
         "code": 89,
         "type": "Ward",
         "viNameLanguage": "Phường Ninh Đa",
-        "keyAccentLanguage": "Phuong_Ninh_Đa"
+        "keyAccentLanguage": "Phuong_Ninh_Da"
       },
       {
         "code": 90,
@@ -664,7 +664,7 @@
         "code": 106,
         "type": "Commune",
         "viNameLanguage": "Xã Khánh Đông",
-        "keyAccentLanguage": "Xa_Khanh_Đong"
+        "keyAccentLanguage": "Xa_Khanh_Dong"
       },
       {
         "code": 107,
@@ -740,7 +740,7 @@
         "code": 118,
         "type": "Commune",
         "viNameLanguage": "Xã Diên Điền",
-        "keyAccentLanguage": "Xa_Dien_Đien"
+        "keyAccentLanguage": "Xa_Dien_Dien"
       },
       {
         "code": 119,
@@ -758,7 +758,7 @@
         "code": 121,
         "type": "Commune",
         "viNameLanguage": "Xã Diên Đồng",
-        "keyAccentLanguage": "Xa_Dien_Đong"
+        "keyAccentLanguage": "Xa_Dien_Dong"
       },
       {
         "code": 122,

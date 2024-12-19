@@ -34,7 +34,7 @@
           "code": 5,
           "type": "Ward",
           "viNameLanguage": "Phường Đoàn Kết",
-          "keyAccentLanguage": "Phuong_Đoan_Ket"
+          "keyAccentLanguage": "Phuong_Doan_Ket"
         },
         {
           "code": 6,
@@ -46,7 +46,7 @@
           "code": 7,
           "type": "Ward",
           "viNameLanguage": "Phường Đông Phong",
-          "keyAccentLanguage": "Phuong_Đong_Phong"
+          "keyAccentLanguage": "Phuong_Dong_Phong"
         },
         {
           "code": 8,
@@ -62,7 +62,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Tam Đường",
       "postalCode": "300002",
-      "keyAccentLanguage": "Huyen_Tam_Đuong",
+      "keyAccentLanguage": "Huyen_Tam_Duong",
       "wards": [
         {
           "code": 10,
@@ -574,7 +574,7 @@
           "code": 91,
           "type": "Commune",
           "viNameLanguage": "Xã Trung Đồng",
-          "keyAccentLanguage": "Xa_Trung_Đong"
+          "keyAccentLanguage": "Xa_Trung_Dong"
         },
         {
           "code": 92,
@@ -656,7 +656,7 @@
           "code": 104,
           "type": "Commune",
           "viNameLanguage": "Xã Pú Đao",
-          "keyAccentLanguage": "Xa_Pu_Đao"
+          "keyAccentLanguage": "Xa_Pu_Dao"
         },
         {
           "code": 105,

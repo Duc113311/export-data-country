@@ -76,7 +76,7 @@
           "code": 12,
           "type": "Ward",
           "viNameLanguage": "Phường Phú Đông",
-          "keyAccentLanguage": "Phuong_Phu_Đong"
+          "keyAccentLanguage": "Phuong_Phu_Dong"
         },
         {
           "code": 13,
@@ -188,7 +188,7 @@
           "code": 30,
           "type": "Ward",
           "viNameLanguage": "Phường Xuân Đài",
-          "keyAccentLanguage": "Phuong_Xuan_Đai"
+          "keyAccentLanguage": "Phuong_Xuan_Dai"
         },
         {
           "code": 31,
@@ -204,7 +204,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Đồng Xuân",
       "postalCode": "560003",
-      "keyAccentLanguage": "Huyen_Đong_Xuan",
+      "keyAccentLanguage": "Huyen_Dong_Xuan",
       "wards": [
         {
           "code": 33,
@@ -216,7 +216,7 @@
           "code": 34,
           "type": "Commune",
           "viNameLanguage": "Xã Đa Lộc",
-          "keyAccentLanguage": "Xa_Đa_Loc"
+          "keyAccentLanguage": "Xa_Da_Loc"
         },
         {
           "code": 35,
@@ -304,7 +304,7 @@
           "code": 48,
           "type": "Commune",
           "viNameLanguage": "Xã An Ninh Đông",
-          "keyAccentLanguage": "Xa_An_Ninh_Đong"
+          "keyAccentLanguage": "Xa_An_Ninh_Dong"
         },
         {
           "code": 49,
@@ -316,7 +316,7 @@
           "code": 50,
           "type": "Commune",
           "viNameLanguage": "Xã An Định",
-          "keyAccentLanguage": "Xa_An_Đinh"
+          "keyAccentLanguage": "Xa_An_Dinh"
         },
         {
           "code": 51,
@@ -358,7 +358,7 @@
           "code": 57,
           "type": "Commune",
           "viNameLanguage": "Xã An Mỹ",
-          "keyAccentLanguage": "Xa_An_My"
+          "keyAccentLanguage": "Xa_An_Mỹ"
         },
         {
           "code": 58,
@@ -404,7 +404,7 @@
           "code": 64,
           "type": "Commune",
           "viNameLanguage": "Xã Sơn Định",
-          "keyAccentLanguage": "Xa_Son_Đinh"
+          "keyAccentLanguage": "Xa_Son_Dinh"
         },
         {
           "code": 65,
@@ -492,7 +492,7 @@
           "code": 78,
           "type": "Commune",
           "viNameLanguage": "Xã Đức Bình Tây",
-          "keyAccentLanguage": "Xa_Đuc_Binh_Tay"
+          "keyAccentLanguage": "Xa_Duc_Binh_Tay"
         },
         {
           "code": 79,
@@ -510,7 +510,7 @@
           "code": 81,
           "type": "Commune",
           "viNameLanguage": "Xã Đức Bình Đông",
-          "keyAccentLanguage": "Xa_Đuc_Binh_Đong"
+          "keyAccentLanguage": "Xa_Duc_Binh_Dong"
         },
         {
           "code": 82,
@@ -562,7 +562,7 @@
           "code": 89,
           "type": "Commune",
           "viNameLanguage": "Xã Sơn Thành Đông",
-          "keyAccentLanguage": "Xa_Son_Thanh_Đong"
+          "keyAccentLanguage": "Xa_Son_Thanh_Dong"
         },
         {
           "code": 90,
@@ -598,19 +598,19 @@
           "code": 95,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Đồng",
-          "keyAccentLanguage": "Xa_Hoa_Đong"
+          "keyAccentLanguage": "Xa_Hoa_Dong"
         },
         {
           "code": 96,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Mỹ Đông",
-          "keyAccentLanguage": "Xa_Hoa_My_Đong"
+          "keyAccentLanguage": "Xa_Hoa_Mỹ_Dong"
         },
         {
           "code": 97,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Mỹ Tây",
-          "keyAccentLanguage": "Xa_Hoa_My_Tay"
+          "keyAccentLanguage": "Xa_Hoa_Mỹ_Tay"
         },
         {
           "code": 98,
@@ -662,13 +662,13 @@
           "code": 105,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Định Đông",
-          "keyAccentLanguage": "Xa_Hoa_Đinh_Đong"
+          "keyAccentLanguage": "Xa_Hoa_Dinh_Dong"
         },
         {
           "code": 106,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Định Tây",
-          "keyAccentLanguage": "Xa_Hoa_Đinh_Tay"
+          "keyAccentLanguage": "Xa_Hoa_Dinh_Tay"
         },
         {
           "code": 107,
@@ -684,7 +684,7 @@
       "type": "Town",
       "viNameLanguage": "Thị xã Đông Hòa",
       "postalCode": "560009",
-      "keyAccentLanguage": "Thi_xa_Đong_Hoa",
+      "keyAccentLanguage": "Thi_xa_Dong_Hoa",
       "wards": [
         {
           "code": 109,
@@ -714,7 +714,7 @@
           "code": 113,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Tân Đông",
-          "keyAccentLanguage": "Xa_Hoa_Tan_Đong"
+          "keyAccentLanguage": "Xa_Hoa_Tan_Dong"
         },
         {
           "code": 114,
@@ -732,7 +732,7 @@
           "code": 116,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Xuân Đông",
-          "keyAccentLanguage": "Xa_Hoa_Xuan_Đong"
+          "keyAccentLanguage": "Xa_Hoa_Xuan_Dong"
         },
         {
           "code": 117,

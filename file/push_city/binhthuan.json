@@ -70,19 +70,19 @@
           "code": 11,
           "type": "Ward",
           "viNameLanguage": "Phường Đức Nghĩa",
-          "keyAccentLanguage": "Phuong_Đuc_Nghia"
+          "keyAccentLanguage": "Phuong_Duc_Nghia"
         },
         {
           "code": 12,
           "type": "Ward",
           "viNameLanguage": "Phường Lạc Đạo",
-          "keyAccentLanguage": "Phuong_Lac_Đao"
+          "keyAccentLanguage": "Phuong_Lac_Dao"
         },
         {
           "code": 13,
           "type": "Ward",
           "viNameLanguage": "Phường Đức Thắng",
-          "keyAccentLanguage": "Phuong_Đuc_Thang"
+          "keyAccentLanguage": "Phuong_Duc_Thang"
         },
         {
           "code": 14,
@@ -94,7 +94,7 @@
           "code": 15,
           "type": "Ward",
           "viNameLanguage": "Phường Đức Long",
-          "keyAccentLanguage": "Phuong_Đuc_Long"
+          "keyAccentLanguage": "Phuong_Duc_Long"
         },
         {
           "code": 16,

@@ -88,7 +88,7 @@
           "code": 14,
           "type": "Ward",
           "viNameLanguage": "Phường Phường Đúc",
-          "keyAccentLanguage": "Phuong_Phuong_Đuc"
+          "keyAccentLanguage": "Phuong_Phuong_Duc"
         },
         {
           "code": 15,
@@ -148,7 +148,7 @@
           "code": 24,
           "type": "Ward",
           "viNameLanguage": "Phường Thuỷ Biều",
-          "keyAccentLanguage": "Phuong_Thuy_Bieu"
+          "keyAccentLanguage": "Phuong_Thuỷ_Bieu"
         },
         {
           "code": 25,
@@ -160,13 +160,13 @@
           "code": 26,
           "type": "Ward",
           "viNameLanguage": "Phường Thuỷ Xuân",
-          "keyAccentLanguage": "Phuong_Thuy_Xuan"
+          "keyAccentLanguage": "Phuong_Thuỷ_Xuan"
         },
         {
           "code": 27,
           "type": "Ward",
           "viNameLanguage": "Phường An Đông",
-          "keyAccentLanguage": "Phuong_An_Đong"
+          "keyAccentLanguage": "Phuong_An_Dong"
         },
         {
           "code": 28,
@@ -182,25 +182,25 @@
       "type": "District",
       "viNameLanguage": "Huyện Phong Điền",
       "postalCode": "490002",
-      "keyAccentLanguage": "Huyen_Phong_Đien",
+      "keyAccentLanguage": "Huyen_Phong_Dien",
       "wards": [
         {
           "code": 30,
           "type": "Commune",
           "viNameLanguage": "Xã Điền Hương",
-          "keyAccentLanguage": "Xa_Đien_Huong"
+          "keyAccentLanguage": "Xa_Dien_Huong"
         },
         {
           "code": 31,
           "type": "Commune",
           "viNameLanguage": "Xã Điền Môn",
-          "keyAccentLanguage": "Xa_Đien_Mon"
+          "keyAccentLanguage": "Xa_Dien_Mon"
         },
         {
           "code": 32,
           "type": "Commune",
           "viNameLanguage": "Xã Điền Lộc",
-          "keyAccentLanguage": "Xa_Đien_Loc"
+          "keyAccentLanguage": "Xa_Dien_Loc"
         },
         {
           "code": 33,
@@ -212,7 +212,7 @@
           "code": 34,
           "type": "Commune",
           "viNameLanguage": "Xã Điền Hòa",
-          "keyAccentLanguage": "Xa_Đien_Hoa"
+          "keyAccentLanguage": "Xa_Dien_Hoa"
         },
         {
           "code": 35,
@@ -230,7 +230,7 @@
           "code": 37,
           "type": "Commune",
           "viNameLanguage": "Xã Điền Hải",
-          "keyAccentLanguage": "Xa_Đien_Hai"
+          "keyAccentLanguage": "Xa_Dien_Hai"
         },
         {
           "code": 38,
@@ -254,7 +254,7 @@
           "code": 41,
           "type": "Commune",
           "viNameLanguage": "Xã Phong Mỹ",
-          "keyAccentLanguage": "Xa_Phong_My"
+          "keyAccentLanguage": "Xa_Phong_Mỹ"
         },
         {
           "code": 42,
@@ -282,7 +282,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Quảng Điền",
       "postalCode": "490003",
-      "keyAccentLanguage": "Huyen_Quang_Đien",
+      "keyAccentLanguage": "Huyen_Quang_Dien",
       "wards": [
         {
           "code": 46,
@@ -418,7 +418,7 @@
           "code": 67,
           "type": "Commune",
           "viNameLanguage": "Xã Phú Mỹ",
-          "keyAccentLanguage": "Xa_Phu_My"
+          "keyAccentLanguage": "Xa_Phu_Mỹ"
         },
         {
           "code": 68,
@@ -448,7 +448,7 @@
           "code": 72,
           "type": "Town",
           "viNameLanguage": "Thị trấn Phú Đa",
-          "keyAccentLanguage": "Thi_tran_Phu_Đa"
+          "keyAccentLanguage": "Thi_tran_Phu_Da"
         },
         {
           "code": 73,
@@ -754,13 +754,13 @@
           "code": 121,
           "type": "Commune",
           "viNameLanguage": "Xã Đông Sơn",
-          "keyAccentLanguage": "Xa_Đong_Son"
+          "keyAccentLanguage": "Xa_Dong_Son"
         },
         {
           "code": 122,
           "type": "Commune",
           "viNameLanguage": "Xã Lâm Đớt",
-          "keyAccentLanguage": "Xa_Lam_Đot"
+          "keyAccentLanguage": "Xa_Lam_Dot"
         },
         {
           "code": 123,
@@ -788,7 +788,7 @@
           "code": 126,
           "type": "Commune",
           "viNameLanguage": "Xã Vinh Mỹ",
-          "keyAccentLanguage": "Xa_Vinh_My"
+          "keyAccentLanguage": "Xa_Vinh_Mỹ"
         },
         {
           "code": 127,
@@ -842,7 +842,7 @@
           "code": 135,
           "type": "Commune",
           "viNameLanguage": "Xã Lộc Điền",
-          "keyAccentLanguage": "Xa_Loc_Đien"
+          "keyAccentLanguage": "Xa_Loc_Dien"
         },
         {
           "code": 136,
@@ -882,7 +882,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Nam Đông",
       "postalCode": "490009",
-      "keyAccentLanguage": "Huyen_Nam_Đong",
+      "keyAccentLanguage": "Huyen_Nam_Dong",
       "wards": [
         {
           "code": 142,
