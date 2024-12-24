@@ -358,7 +358,7 @@
           "code": 57,
           "type": "Commune",
           "viNameLanguage": "Xã An Mỹ",
-          "keyAccentLanguage": "Xa_An_Mỹ"
+          "keyAccentLanguage": "Xa_An_My"
         },
         {
           "code": 58,
@@ -604,13 +604,13 @@
           "code": 96,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Mỹ Đông",
-          "keyAccentLanguage": "Xa_Hoa_Mỹ_Dong"
+          "keyAccentLanguage": "Xa_Hoa_My_Dong"
         },
         {
           "code": 97,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Mỹ Tây",
-          "keyAccentLanguage": "Xa_Hoa_Mỹ_Tay"
+          "keyAccentLanguage": "Xa_Hoa_My_Tay"
         },
         {
           "code": 98,

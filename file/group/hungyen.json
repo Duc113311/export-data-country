@@ -272,7 +272,7 @@
     "type": "District",
     "viNameLanguage": "Huyện Yên Mỹ",
     "postalCode": "170004",
-    "keyAccentLanguage": "Huyen_Yen_Mỹ",
+    "keyAccentLanguage": "Huyen_Yen_My",
     "wards": [
       {
         "code": 43,
@@ -378,7 +378,7 @@
     "type": "Town",
     "viNameLanguage": "Thị xã Mỹ Hào",
     "postalCode": "170005",
-    "keyAccentLanguage": "Thi_xa_Mỹ_Hao",
+    "keyAccentLanguage": "Thi_xa_My_Hao",
     "wards": [
       {
         "code": 60,
@@ -928,7 +928,7 @@
         "code": 148,
         "type": "Commune",
         "viNameLanguage": "Xã Thủ Sỹ",
-        "keyAccentLanguage": "Xa_Thu_Sỹ"
+        "keyAccentLanguage": "Xa_Thu_Sy"
       },
       {
         "code": 149,

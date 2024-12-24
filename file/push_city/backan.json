@@ -216,7 +216,7 @@
           "code": 34,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Phương",
-          "keyAccentLanguage": "Xa_Mỹ_Phuong"
+          "keyAccentLanguage": "Xa_My_Phuong"
         },
         {
           "code": 35,
@@ -380,7 +380,7 @@
           "code": 60,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Thanh",
-          "keyAccentLanguage": "Xa_Mỹ_Thanh"
+          "keyAccentLanguage": "Xa_My_Thanh"
         },
         {
           "code": 61,
@@ -510,7 +510,7 @@
           "code": 81,
           "type": "Commune",
           "viNameLanguage": "Xã Yên Mỹ",
-          "keyAccentLanguage": "Xa_Yen_Mỹ"
+          "keyAccentLanguage": "Xa_Yen_My"
         },
         {
           "code": 82,
@@ -650,7 +650,7 @@
           "code": 103,
           "type": "Commune",
           "viNameLanguage": "Xã Kim Hỷ",
-          "keyAccentLanguage": "Xa_Kim_Hỷ"
+          "keyAccentLanguage": "Xa_Kim_Hy"
         },
         {
           "code": 104,
@@ -728,7 +728,7 @@
           "code": 116,
           "type": "Commune",
           "viNameLanguage": "Xã Liêm Thuỷ",
-          "keyAccentLanguage": "Xa_Liem_Thuỷ"
+          "keyAccentLanguage": "Xa_Liem_Thuy"
         }
       ]
     }

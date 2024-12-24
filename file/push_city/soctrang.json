@@ -110,7 +110,7 @@
           "code": 17,
           "type": "Commune",
           "viNameLanguage": "Xã Thiện Mỹ",
-          "keyAccentLanguage": "Xa_Thien_Mỹ"
+          "keyAccentLanguage": "Xa_Thien_My"
         },
         {
           "code": 18,
@@ -180,7 +180,7 @@
           "code": 28,
           "type": "Commune",
           "viNameLanguage": "Xã Nhơn Mỹ",
-          "keyAccentLanguage": "Xa_Nhon_Mỹ"
+          "keyAccentLanguage": "Xa_Nhon_My"
         },
         {
           "code": 29,
@@ -204,7 +204,7 @@
           "code": 32,
           "type": "Commune",
           "viNameLanguage": "Xã An Mỹ",
-          "keyAccentLanguage": "Xa_An_Mỹ"
+          "keyAccentLanguage": "Xa_An_My"
         }
       ]
     },
@@ -214,7 +214,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Mỹ Tú",
       "postalCode": "960004",
-      "keyAccentLanguage": "Huyen_Mỹ_Tu",
+      "keyAccentLanguage": "Huyen_My_Tu",
       "wards": [
         {
           "code": 34,
@@ -238,13 +238,13 @@
           "code": 37,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Hương",
-          "keyAccentLanguage": "Xa_Mỹ_Huong"
+          "keyAccentLanguage": "Xa_My_Huong"
         },
         {
           "code": 38,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Phước",
-          "keyAccentLanguage": "Xa_Mỹ_Phuoc"
+          "keyAccentLanguage": "Xa_My_Phuoc"
         },
         {
           "code": 39,
@@ -256,13 +256,13 @@
           "code": 40,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Thuận",
-          "keyAccentLanguage": "Xa_Mỹ_Thuan"
+          "keyAccentLanguage": "Xa_My_Thuan"
         },
         {
           "code": 41,
           "type": "Commune",
           "viNameLanguage": "Xã Phú Mỹ",
-          "keyAccentLanguage": "Xa_Phu_Mỹ"
+          "keyAccentLanguage": "Xa_Phu_My"
         }
       ]
     },
@@ -394,7 +394,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Mỹ Xuyên",
       "postalCode": "960007",
-      "keyAccentLanguage": "Huyen_Mỹ_Xuyen",
+      "keyAccentLanguage": "Huyen_My_Xuyen",
       "wards": [
         {
           "code": 62,
@@ -506,13 +506,13 @@
           "code": 79,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Bình",
-          "keyAccentLanguage": "Xa_Mỹ_Binh"
+          "keyAccentLanguage": "Xa_My_Binh"
         },
         {
           "code": 80,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Quới",
-          "keyAccentLanguage": "Xa_Mỹ_Quoi"
+          "keyAccentLanguage": "Xa_My_Quoi"
         }
       ]
     },

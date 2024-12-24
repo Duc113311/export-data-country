@@ -290,7 +290,7 @@
           "code": 45,
           "type": "Commune",
           "viNameLanguage": "Xã Hòa Mỹ",
-          "keyAccentLanguage": "Xa_Hoa_Mỹ"
+          "keyAccentLanguage": "Xa_Hoa_My"
         },
         {
           "code": 46,
@@ -342,7 +342,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Vị Thuỷ",
       "postalCode": "950006",
-      "keyAccentLanguage": "Huyen_Vi_Thuỷ",
+      "keyAccentLanguage": "Huyen_Vi_Thuy",
       "wards": [
         {
           "code": 54,
@@ -406,7 +406,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Long Mỹ",
       "postalCode": "950007",
-      "keyAccentLanguage": "Huyen_Long_Mỹ",
+      "keyAccentLanguage": "Huyen_Long_My",
       "wards": [
         {
           "code": 64,

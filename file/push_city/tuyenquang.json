@@ -46,7 +46,7 @@
           "code": 7,
           "type": "Ward",
           "viNameLanguage": "Phường Ỷ La",
-          "keyAccentLanguage": "Phuong_Ỷ_La"
+          "keyAccentLanguage": "Phuong_Y_La"
         },
         {
           "code": 8,
@@ -76,7 +76,7 @@
           "code": 12,
           "type": "Ward",
           "viNameLanguage": "Phường Mỹ Lâm",
-          "keyAccentLanguage": "Phuong_Mỹ_Lam"
+          "keyAccentLanguage": "Phuong_My_Lam"
         },
         {
           "code": 13,
@@ -274,7 +274,7 @@
           "code": 43,
           "type": "Commune",
           "viNameLanguage": "Xã Tân Mỹ",
-          "keyAccentLanguage": "Xa_Tan_Mỹ"
+          "keyAccentLanguage": "Xa_Tan_My"
         },
         {
           "code": 44,
@@ -286,7 +286,7 @@
           "code": 45,
           "type": "Commune",
           "viNameLanguage": "Xã Hùng Mỹ",
-          "keyAccentLanguage": "Xa_Hung_Mỹ"
+          "keyAccentLanguage": "Xa_Hung_My"
         },
         {
           "code": 46,
@@ -672,7 +672,7 @@
           "code": 108,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Bằng",
-          "keyAccentLanguage": "Xa_Mỹ_Bang"
+          "keyAccentLanguage": "Xa_My_Bang"
         },
         {
           "code": 109,

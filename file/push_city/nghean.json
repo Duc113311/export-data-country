@@ -224,7 +224,7 @@
       "type": "Ward",
       "viNameLanguage": "Xã",
       "postalCode": "4300028",
-      "keyAccentLanguage": "Phuong_Nghi_Thuỷ",
+      "keyAccentLanguage": "Phuong_Nghi_Thuy",
       "wards": []
     },
     {
@@ -240,7 +240,7 @@
       "type": "Ward",
       "viNameLanguage": "Xã",
       "postalCode": "4300030",
-      "keyAccentLanguage": "Phuong_Thu_Thuỷ",
+      "keyAccentLanguage": "Phuong_Thu_Thuy",
       "wards": []
     },
     {
@@ -328,7 +328,7 @@
       "type": "Commune",
       "viNameLanguage": "Xã",
       "postalCode": "4300041",
-      "keyAccentLanguage": "Xa_Nghia_Mỹ",
+      "keyAccentLanguage": "Xa_Nghia_My",
       "wards": []
     },
     {
@@ -592,7 +592,7 @@
       "type": "Commune",
       "viNameLanguage": "Huyện",
       "postalCode": "4300074",
-      "keyAccentLanguage": "Xa_Mỹ_Ly",
+      "keyAccentLanguage": "Xa_My_Ly",
       "wards": []
     },
     {
@@ -1344,7 +1344,7 @@
       "type": "Commune",
       "viNameLanguage": "Huyện",
       "postalCode": "43000168",
-      "keyAccentLanguage": "Xa_Quynh_Mỹ",
+      "keyAccentLanguage": "Xa_Quynh_My",
       "wards": []
     },
     {
@@ -2024,7 +2024,7 @@
       "type": "Commune",
       "viNameLanguage": "Huyện",
       "postalCode": "43000253",
-      "keyAccentLanguage": "Xa_Dien_Mỹ",
+      "keyAccentLanguage": "Xa_Dien_My",
       "wards": []
     },
     {
@@ -2088,7 +2088,7 @@
       "type": "Commune",
       "viNameLanguage": "Huyện",
       "postalCode": "43000261",
-      "keyAccentLanguage": "Xa_Dien_Kỷ",
+      "keyAccentLanguage": "Xa_Dien_Ky",
       "wards": []
     },
     {
@@ -2552,7 +2552,7 @@
       "type": "Commune",
       "viNameLanguage": "Huyện",
       "postalCode": "43000319",
-      "keyAccentLanguage": "Xa_Mỹ_Thanh",
+      "keyAccentLanguage": "Xa_My_Thanh",
       "wards": []
     },
     {
@@ -2816,7 +2816,7 @@
       "type": "Commune",
       "viNameLanguage": "Huyện",
       "postalCode": "43000352",
-      "keyAccentLanguage": "Xa_Mỹ_Son",
+      "keyAccentLanguage": "Xa_My_Son",
       "wards": []
     },
     {
@@ -2904,7 +2904,7 @@
       "type": "Commune",
       "viNameLanguage": "Huyện",
       "postalCode": "43000363",
-      "keyAccentLanguage": "Xa_Thanh_Mỹ",
+      "keyAccentLanguage": "Xa_Thanh_My",
       "wards": []
     },
     {
@@ -3232,7 +3232,7 @@
       "type": "Commune",
       "viNameLanguage": "Huyện",
       "postalCode": "43000404",
-      "keyAccentLanguage": "Xa_Nghi_Mỹ",
+      "keyAccentLanguage": "Xa_Nghi_My",
       "wards": []
     },
     {
@@ -3584,7 +3584,7 @@
       "type": "Commune",
       "viNameLanguage": "Huyện",
       "postalCode": "43000448",
-      "keyAccentLanguage": "Xa_Hung_Mỹ",
+      "keyAccentLanguage": "Xa_Hung_My",
       "wards": []
     },
     {

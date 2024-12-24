@@ -132,7 +132,7 @@
         "code": 20,
         "type": "Ward",
         "viNameLanguage": "Phường Trung Mỹ Tây",
-        "keyAccentLanguage": "Phuong_Trung_Mỹ_Tay"
+        "keyAccentLanguage": "Phuong_Trung_My_Tay"
       },
       {
         "code": 21,
@@ -744,7 +744,7 @@
         "code": 118,
         "type": "Ward",
         "viNameLanguage": "Phường Long Thạnh Mỹ",
-        "keyAccentLanguage": "Phuong_Long_Thanh_Mỹ"
+        "keyAccentLanguage": "Phuong_Long_Thanh_My"
       },
       {
         "code": 119,
@@ -852,7 +852,7 @@
         "code": 136,
         "type": "Ward",
         "viNameLanguage": "Phường Thạnh Mỹ Lợi",
-        "keyAccentLanguage": "Phuong_Thanh_Mỹ_Loi"
+        "keyAccentLanguage": "Phuong_Thanh_My_Loi"
       },
       {
         "code": 137,
@@ -1668,7 +1668,7 @@
         "code": 266,
         "type": "Ward",
         "viNameLanguage": "Phường Phú Mỹ",
-        "keyAccentLanguage": "Phuong_Phu_Mỹ"
+        "keyAccentLanguage": "Phuong_Phu_My"
       }
     ]
   },
@@ -1684,7 +1684,7 @@
         "code": 268,
         "type": "Commune",
         "viNameLanguage": "Xã Phú Mỹ Hưng",
-        "keyAccentLanguage": "Xa_Phu_Mỹ_Hung"
+        "keyAccentLanguage": "Xa_Phu_My_Hung"
       },
       {
         "code": 269,
@@ -1762,7 +1762,7 @@
         "code": 281,
         "type": "Commune",
         "viNameLanguage": "Xã Thái Mỹ",
-        "keyAccentLanguage": "Xa_Thai_Mỹ"
+        "keyAccentLanguage": "Xa_Thai_My"
       },
       {
         "code": 282,
@@ -1786,7 +1786,7 @@
         "code": 285,
         "type": "Commune",
         "viNameLanguage": "Xã Bình Mỹ",
-        "keyAccentLanguage": "Xa_Binh_Mỹ"
+        "keyAccentLanguage": "Xa_Binh_My"
       },
       {
         "code": 286,

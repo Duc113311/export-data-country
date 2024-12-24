@@ -7,34 +7,6 @@ const filePath = path.join(__dirname, `/file/group/${cityKeyEnv}.json`);
 const rawData = fs.readFileSync(filePath, "utf8");
 const data = JSON.parse(rawData);
 
-function groupData(data) {
-  let newArrays = [];
-  let districtListValue = data;
-  console.log("districtListValue", districtListValue);
-
-  // const districtListValue = data;
-  for (let index = 0; index < districtListValue.length; index++) {
-    const elementDistrict = districtListValue[index];
-    const keyAccentLanguageV = elementDistrict.keyAccentLanguage;
-    newArrays.push({
-      [keyAccentLanguageV]: elementDistrict.viNameLanguage,
-    });
-    if (elementDistrict.provinceCity.length !== 0) {
-      for (
-        let wardIndex = 0;
-        wardIndex < elementDistrict.provinceCity.length;
-        wardIndex++
-      ) {
-        const elementWards = elementDistrict.provinceCity[wardIndex]; // Sửa lại biến
-        const keyWardsV = elementWards.keyAccentLanguage; // Lấy giá trị từ elementWards
-        newArrays.push({ [keyWardsV]: elementWards.viNameLanguage }); // Sử dụng keyWardsV làm key
-      }
-    }
-  }
-  return newArrays; // Thêm giá trị trả về
-}
-
-
 // function groupData(data) {
 //   let newArrays = [];
 //   let districtListValue = data;
@@ -47,13 +19,13 @@ function groupData(data) {
 //     newArrays.push({
 //       [keyAccentLanguageV]: elementDistrict.viNameLanguage,
 //     });
-//     if (elementDistrict.wards.length !== 0) {
+//     if (elementDistrict.provinceCity.length !== 0) {
 //       for (
 //         let wardIndex = 0;
-//         wardIndex < elementDistrict.wards.length;
+//         wardIndex < elementDistrict.provinceCity.length;
 //         wardIndex++
 //       ) {
-//         const elementWards = elementDistrict.wards[wardIndex]; // Sửa lại biến
+//         const elementWards = elementDistrict.provinceCity[wardIndex]; // Sửa lại biến
 //         const keyWardsV = elementWards.keyAccentLanguage; // Lấy giá trị từ elementWards
 //         newArrays.push({ [keyWardsV]: elementWards.viNameLanguage }); // Sử dụng keyWardsV làm key
 //       }
@@ -61,6 +33,34 @@ function groupData(data) {
 //   }
 //   return newArrays; // Thêm giá trị trả về
 // }
+
+
+function groupData(data) {
+  let newArrays = [];
+  let districtListValue = data;
+  console.log("districtListValue", districtListValue);
+
+  // const districtListValue = data;
+  for (let index = 0; index < districtListValue.length; index++) {
+    const elementDistrict = districtListValue[index];
+    const keyAccentLanguageV = elementDistrict.keyAccentLanguage;
+    newArrays.push({
+      [keyAccentLanguageV]: elementDistrict.viNameLanguage,
+    });
+    if (elementDistrict.wards.length !== 0) {
+      for (
+        let wardIndex = 0;
+        wardIndex < elementDistrict.wards.length;
+        wardIndex++
+      ) {
+        const elementWards = elementDistrict.wards[wardIndex]; // Sửa lại biến
+        const keyWardsV = elementWards.keyAccentLanguage; // Lấy giá trị từ elementWards
+        newArrays.push({ [keyWardsV]: elementWards.viNameLanguage }); // Sử dụng keyWardsV làm key
+      }
+    }
+  }
+  return newArrays; // Thêm giá trị trả về
+}
 
 // Nhóm dữ liệu
 const groupedData = groupData(data);

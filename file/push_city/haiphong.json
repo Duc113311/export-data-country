@@ -92,7 +92,7 @@
           "code": 14,
           "type": "Ward",
           "viNameLanguage": "Phường Vạn Mỹ",
-          "keyAccentLanguage": "Phuong_Van_Mỹ"
+          "keyAccentLanguage": "Phuong_Van_My"
         },
         {
           "code": 15,
@@ -156,7 +156,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Thuỷ Nguyên",
       "postalCode": "040003",
-      "keyAccentLanguage": "Huyen_Thuỷ_Nguyen",
+      "keyAccentLanguage": "Huyen_Thuy_Nguyen",
       "wards": [
         {
           "code": 75,
@@ -240,7 +240,7 @@
           "code": 88,
           "type": "Commune",
           "viNameLanguage": "Xã Chính Mỹ",
-          "keyAccentLanguage": "Xa_Chinh_Mỹ"
+          "keyAccentLanguage": "Xa_Chinh_My"
         },
         {
           "code": 89,
@@ -264,7 +264,7 @@
           "code": 92,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Đồng",
-          "keyAccentLanguage": "Xa_Mỹ_Dong"
+          "keyAccentLanguage": "Xa_My_Dong"
         },
         {
           "code": 93,
@@ -294,7 +294,7 @@
           "code": 97,
           "type": "Commune",
           "viNameLanguage": "Xã Thuỷ Triều",
-          "keyAccentLanguage": "Xa_Thuỷ_Trieu"
+          "keyAccentLanguage": "Xa_Thuy_Trieu"
         },
         {
           "code": 98,
@@ -342,13 +342,13 @@
           "code": 105,
           "type": "Commune",
           "viNameLanguage": "Xã Thuỷ Sơn",
-          "keyAccentLanguage": "Xa_Thuỷ_Son"
+          "keyAccentLanguage": "Xa_Thuy_Son"
         },
         {
           "code": 106,
           "type": "Commune",
           "viNameLanguage": "Xã Thuỷ Đường",
-          "keyAccentLanguage": "Xa_Thuỷ_Duong"
+          "keyAccentLanguage": "Xa_Thuy_Duong"
         },
         {
           "code": 107,
@@ -566,7 +566,7 @@
           "code": 141,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Đức",
-          "keyAccentLanguage": "Xa_Mỹ_Duc"
+          "keyAccentLanguage": "Xa_My_Duc"
         },
         {
           "code": 142,
@@ -594,7 +594,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Kiến Thuỵ",
       "postalCode": "040006",
-      "keyAccentLanguage": "Huyen_Kien_Thuỵ",
+      "keyAccentLanguage": "Huyen_Kien_Thuy",
       "wards": [
         {
           "code": 146,
@@ -648,7 +648,7 @@
           "code": 154,
           "type": "Commune",
           "viNameLanguage": "Xã Thuỵ Hương",
-          "keyAccentLanguage": "Xa_Thuỵ_Huong"
+          "keyAccentLanguage": "Xa_Thuy_Huong"
         },
         {
           "code": 155,
@@ -860,7 +860,7 @@
           "code": 188,
           "type": "Commune",
           "viNameLanguage": "Xã Thắng Thuỷ",
-          "keyAccentLanguage": "Xa_Thang_Thuỷ"
+          "keyAccentLanguage": "Xa_Thang_Thuy"
         },
         {
           "code": 189,

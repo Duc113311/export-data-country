@@ -304,7 +304,7 @@
         "code": 62,
         "type": "Commune",
         "viNameLanguage": "Xã Hồng Sỹ",
-        "keyAccentLanguage": "Xa_Hong_Sỹ"
+        "keyAccentLanguage": "Xa_Hong_Sy"
       },
       {
         "code": 63,
@@ -404,7 +404,7 @@
         "code": 78,
         "type": "Commune",
         "viNameLanguage": "Xã Đàm Thuỷ",
-        "keyAccentLanguage": "Xa_Dam_Thuỷ"
+        "keyAccentLanguage": "Xa_Dam_Thuy"
       },
       {
         "code": 79,
@@ -664,7 +664,7 @@
         "code": 120,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Hưng",
-        "keyAccentLanguage": "Xa_Mỹ_Hung"
+        "keyAccentLanguage": "Xa_My_Hung"
       }
     ]
   },

@@ -606,13 +606,13 @@
           "code": 97,
           "type": "Commune",
           "viNameLanguage": "Xã Phú Mỹ",
-          "keyAccentLanguage": "Xa_Phu_Mỹ"
+          "keyAccentLanguage": "Xa_Phu_My"
         },
         {
           "code": 98,
           "type": "Commune",
           "viNameLanguage": "Xã Lệ Mỹ",
-          "keyAccentLanguage": "Xa_Le_Mỹ"
+          "keyAccentLanguage": "Xa_Le_My"
         },
         {
           "code": 99,
@@ -712,13 +712,13 @@
           "code": 114,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Lung",
-          "keyAccentLanguage": "Xa_Mỹ_Lung"
+          "keyAccentLanguage": "Xa_My_Lung"
         },
         {
           "code": 115,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Lương",
-          "keyAccentLanguage": "Xa_Mỹ_Luong"
+          "keyAccentLanguage": "Xa_My_Luong"
         },
         {
           "code": 116,
@@ -1260,7 +1260,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Thanh Thuỷ",
       "postalCode": "3500012",
-      "keyAccentLanguage": "Huyen_Thanh_Thuỷ",
+      "keyAccentLanguage": "Huyen_Thanh_Thuy",
       "wards": [
         {
           "code": 203,
@@ -1384,7 +1384,7 @@
           "code": 222,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Thuận",
-          "keyAccentLanguage": "Xa_Mỹ_Thuan"
+          "keyAccentLanguage": "Xa_My_Thuan"
         },
         {
           "code": 223,

@@ -300,7 +300,7 @@
           "code": 48,
           "type": "Commune",
           "viNameLanguage": "Xã Lam Vỹ",
-          "keyAccentLanguage": "Xa_Lam_Vỹ"
+          "keyAccentLanguage": "Xa_Lam_Vy"
         },
         {
           "code": 49,
@@ -530,7 +530,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Đồng Hỷ",
       "postalCode": "240005",
-      "keyAccentLanguage": "Huyen_Dong_Hỷ",
+      "keyAccentLanguage": "Huyen_Dong_Hy",
       "wards": [
         {
           "code": 86,
@@ -880,7 +880,7 @@
           "code": 142,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Yên",
-          "keyAccentLanguage": "Xa_Mỹ_Yen"
+          "keyAccentLanguage": "Xa_My_Yen"
         },
         {
           "code": 143,

@@ -668,7 +668,7 @@
           "code": 128,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Tân",
-          "keyAccentLanguage": "Xa_Mỹ_Tan"
+          "keyAccentLanguage": "Xa_My_Tan"
         },
         {
           "code": 129,
@@ -970,7 +970,7 @@
           "code": 177,
           "type": "Commune",
           "viNameLanguage": "Xã Thành Mỹ",
-          "keyAccentLanguage": "Xa_Thanh_Mỹ"
+          "keyAccentLanguage": "Xa_Thanh_My"
         },
         {
           "code": 178,
@@ -2368,7 +2368,7 @@
           "code": 404,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Lộc",
-          "keyAccentLanguage": "Xa_Mỹ_Loc"
+          "keyAccentLanguage": "Xa_My_Loc"
         },
         {
           "code": 405,
@@ -2966,7 +2966,7 @@
           "code": 501,
           "type": "Commune",
           "viNameLanguage": "Xã Yên Mỹ",
-          "keyAccentLanguage": "Xa_Yen_Mỹ"
+          "keyAccentLanguage": "Xa_Yen_My"
         }
       ]
     },

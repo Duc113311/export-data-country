@@ -500,7 +500,7 @@
           "code": 80,
           "type": "Commune",
           "viNameLanguage": "Xã Ninh Mỹ",
-          "keyAccentLanguage": "Xa_Ninh_Mỹ"
+          "keyAccentLanguage": "Xa_Ninh_My"
         },
         {
           "code": 81,
@@ -796,7 +796,7 @@
           "code": 128,
           "type": "Commune",
           "viNameLanguage": "Xã Kim Mỹ",
-          "keyAccentLanguage": "Xa_Kim_Mỹ"
+          "keyAccentLanguage": "Xa_Kim_My"
         },
         {
           "code": 129,
@@ -908,7 +908,7 @@
           "code": 146,
           "type": "Commune",
           "viNameLanguage": "Xã Yên Mỹ",
-          "keyAccentLanguage": "Xa_Yen_Mỹ"
+          "keyAccentLanguage": "Xa_Yen_My"
         },
         {
           "code": 147,

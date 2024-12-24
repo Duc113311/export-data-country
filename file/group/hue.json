@@ -152,7 +152,7 @@
         "code": 24,
         "type": "Ward",
         "viNameLanguage": "Phường Thuỷ Biều",
-        "keyAccentLanguage": "Phuong_Thuỷ_Bieu"
+        "keyAccentLanguage": "Phuong_Thuy_Bieu"
       },
       {
         "code": 25,
@@ -164,7 +164,7 @@
         "code": 26,
         "type": "Ward",
         "viNameLanguage": "Phường Thuỷ Xuân",
-        "keyAccentLanguage": "Phuong_Thuỷ_Xuan"
+        "keyAccentLanguage": "Phuong_Thuy_Xuan"
       },
       {
         "code": 27,
@@ -258,7 +258,7 @@
         "code": 41,
         "type": "Commune",
         "viNameLanguage": "Xã Phong Mỹ",
-        "keyAccentLanguage": "Xa_Phong_Mỹ"
+        "keyAccentLanguage": "Xa_Phong_My"
       },
       {
         "code": 42,
@@ -422,7 +422,7 @@
         "code": 67,
         "type": "Commune",
         "viNameLanguage": "Xã Phú Mỹ",
-        "keyAccentLanguage": "Xa_Phu_Mỹ"
+        "keyAccentLanguage": "Xa_Phu_My"
       },
       {
         "code": 68,
@@ -792,7 +792,7 @@
         "code": 126,
         "type": "Commune",
         "viNameLanguage": "Xã Vinh Mỹ",
-        "keyAccentLanguage": "Xa_Vinh_Mỹ"
+        "keyAccentLanguage": "Xa_Vinh_My"
       },
       {
         "code": 127,

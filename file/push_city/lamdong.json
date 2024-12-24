@@ -408,7 +408,7 @@
           "code": 64,
           "type": "Town",
           "viNameLanguage": "Thị trấn Thạnh Mỹ",
-          "keyAccentLanguage": "Thi_tran_Thanh_Mỹ"
+          "keyAccentLanguage": "Thi_tran_Thanh_My"
         },
         {
           "code": 65,
@@ -860,7 +860,7 @@
           "code": 136,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Đức",
-          "keyAccentLanguage": "Xa_Mỹ_Duc"
+          "keyAccentLanguage": "Xa_My_Duc"
         },
         {
           "code": 137,

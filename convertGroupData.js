@@ -3,6 +3,7 @@ const path = require("path");
 const axios = require("axios");
 require("dotenv").config();
 const removeAccents = require("remove-accents");
+const diacritics = require("diacritics");
 
 const cityKeyEnv = process.env.CITY_KEY;
 const inputLanguage = process.env.INPUT_LANGUAGE;
@@ -93,7 +94,7 @@ async function groupData(data) {
           groupedData.length !== 0
             ? postalCode + groupedData.length
             : postalCode,
-        keyAccentLanguage: removeAccents(item.viKeyLanguage),
+        keyAccentLanguage: diacritics.remove(item.viKeyLanguage),
         wards: [], // Khởi tạo mảng rỗng cho danh sách phường/xã/thị trấn
       });
     } else {
@@ -113,7 +114,7 @@ async function groupData(data) {
           code: item.code,
           type: typeLanguage,
           viNameLanguage: item.viNameLanguage,
-          keyAccentLanguage: removeAccents(item.viKeyLanguage),
+          keyAccentLanguage: diacritics.remove(item.viKeyLanguage),
         });
       }
     }
@@ -179,7 +180,7 @@ async function groupDataFull(data) {
 
 async function main() {
   // Nhóm dữ liệu
-  const groupedData = await groupDataFull(data);
+  const groupedData = await groupData(data);
 
   // Lưu dữ liệu đã nhóm vào file JSON mới
   const outputPath = path.join(__dirname, `/file/group/${cityKeyEnv}.json`);

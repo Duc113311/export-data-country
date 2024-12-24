@@ -28,7 +28,7 @@
           "code": 4,
           "type": "Ward",
           "viNameLanguage": "Phường An Mỹ",
-          "keyAccentLanguage": "Phuong_An_Mỹ"
+          "keyAccentLanguage": "Phuong_An_My"
         },
         {
           "code": 5,
@@ -722,7 +722,7 @@
           "code": 115,
           "type": "Commune",
           "viNameLanguage": "Xã Quế Mỹ",
-          "keyAccentLanguage": "Xa_Que_Mỹ"
+          "keyAccentLanguage": "Xa_Que_My"
         },
         {
           "code": 116,
@@ -768,7 +768,7 @@
           "code": 122,
           "type": "Town",
           "viNameLanguage": "Thị trấn Thạnh Mỹ",
-          "keyAccentLanguage": "Thi_tran_Thanh_Mỹ"
+          "keyAccentLanguage": "Thi_tran_Thanh_My"
         },
         {
           "code": 123,
@@ -886,7 +886,7 @@
           "code": 141,
           "type": "Commune",
           "viNameLanguage": "Xã Phước Mỹ",
-          "keyAccentLanguage": "Xa_Phuoc_Mỹ"
+          "keyAccentLanguage": "Xa_Phuoc_My"
         },
         {
           "code": 142,
@@ -1204,7 +1204,7 @@
           "code": 192,
           "type": "Commune",
           "viNameLanguage": "Xã Tiên Mỹ",
-          "keyAccentLanguage": "Xa_Tien_Mỹ"
+          "keyAccentLanguage": "Xa_Tien_My"
         },
         {
           "code": 193,
@@ -1486,13 +1486,13 @@
           "code": 237,
           "type": "Commune",
           "viNameLanguage": "Xã Tam Mỹ Tây",
-          "keyAccentLanguage": "Xa_Tam_Mỹ_Tay"
+          "keyAccentLanguage": "Xa_Tam_My_Tay"
         },
         {
           "code": 238,
           "type": "Commune",
           "viNameLanguage": "Xã Tam Mỹ Đông",
-          "keyAccentLanguage": "Xa_Tam_Mỹ_Dong"
+          "keyAccentLanguage": "Xa_Tam_My_Dong"
         },
         {
           "code": 239,

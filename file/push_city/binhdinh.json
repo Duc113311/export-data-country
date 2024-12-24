@@ -136,7 +136,7 @@
           "code": 22,
           "type": "Commune",
           "viNameLanguage": "Xã Phước Mỹ",
-          "keyAccentLanguage": "Xa_Phuoc_Mỹ"
+          "keyAccentLanguage": "Xa_Phuoc_My"
         }
       ]
     },
@@ -306,7 +306,7 @@
           "code": 49,
           "type": "Commune",
           "viNameLanguage": "Xã Hoài Mỹ",
-          "keyAccentLanguage": "Xa_Hoai_Mỹ"
+          "keyAccentLanguage": "Xa_Hoai_My"
         },
         {
           "code": 50,
@@ -352,7 +352,7 @@
           "code": 56,
           "type": "Commune",
           "viNameLanguage": "Xã Ân Mỹ",
-          "keyAccentLanguage": "Xa_An_Mỹ"
+          "keyAccentLanguage": "Xa_An_My"
         },
         {
           "code": 57,
@@ -422,7 +422,7 @@
       "type": "District",
       "viNameLanguage": "Huyện Phù Mỹ",
       "postalCode": "550005",
-      "keyAccentLanguage": "Huyen_Phu_Mỹ",
+      "keyAccentLanguage": "Huyen_Phu_My",
       "wards": [
         {
           "code": 68,
@@ -434,103 +434,103 @@
           "code": 69,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Đức",
-          "keyAccentLanguage": "Xa_Mỹ_Duc"
+          "keyAccentLanguage": "Xa_My_Duc"
         },
         {
           "code": 70,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Châu",
-          "keyAccentLanguage": "Xa_Mỹ_Chau"
+          "keyAccentLanguage": "Xa_My_Chau"
         },
         {
           "code": 71,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Thắng",
-          "keyAccentLanguage": "Xa_Mỹ_Thang"
+          "keyAccentLanguage": "Xa_My_Thang"
         },
         {
           "code": 72,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Lộc",
-          "keyAccentLanguage": "Xa_Mỹ_Loc"
+          "keyAccentLanguage": "Xa_My_Loc"
         },
         {
           "code": 73,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Lợi",
-          "keyAccentLanguage": "Xa_Mỹ_Loi"
+          "keyAccentLanguage": "Xa_My_Loi"
         },
         {
           "code": 74,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ An",
-          "keyAccentLanguage": "Xa_Mỹ_An"
+          "keyAccentLanguage": "Xa_My_An"
         },
         {
           "code": 75,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Phong",
-          "keyAccentLanguage": "Xa_Mỹ_Phong"
+          "keyAccentLanguage": "Xa_My_Phong"
         },
         {
           "code": 76,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Trinh",
-          "keyAccentLanguage": "Xa_Mỹ_Trinh"
+          "keyAccentLanguage": "Xa_My_Trinh"
         },
         {
           "code": 77,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Thọ",
-          "keyAccentLanguage": "Xa_Mỹ_Tho"
+          "keyAccentLanguage": "Xa_My_Tho"
         },
         {
           "code": 78,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Hòa",
-          "keyAccentLanguage": "Xa_Mỹ_Hoa"
+          "keyAccentLanguage": "Xa_My_Hoa"
         },
         {
           "code": 79,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Thành",
-          "keyAccentLanguage": "Xa_Mỹ_Thanh"
+          "keyAccentLanguage": "Xa_My_Thanh"
         },
         {
           "code": 80,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Chánh",
-          "keyAccentLanguage": "Xa_Mỹ_Chanh"
+          "keyAccentLanguage": "Xa_My_Chanh"
         },
         {
           "code": 81,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Quang",
-          "keyAccentLanguage": "Xa_Mỹ_Quang"
+          "keyAccentLanguage": "Xa_My_Quang"
         },
         {
           "code": 82,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Hiệp",
-          "keyAccentLanguage": "Xa_Mỹ_Hiep"
+          "keyAccentLanguage": "Xa_My_Hiep"
         },
         {
           "code": 83,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Tài",
-          "keyAccentLanguage": "Xa_Mỹ_Tai"
+          "keyAccentLanguage": "Xa_My_Tai"
         },
         {
           "code": 84,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Cát",
-          "keyAccentLanguage": "Xa_Mỹ_Cat"
+          "keyAccentLanguage": "Xa_My_Cat"
         },
         {
           "code": 85,
           "type": "Commune",
           "viNameLanguage": "Xã Mỹ Chánh Tây",
-          "keyAccentLanguage": "Xa_Mỹ_Chanh_Tay"
+          "keyAccentLanguage": "Xa_My_Chanh_Tay"
         }
       ]
     },
@@ -834,7 +834,7 @@
           "code": 133,
           "type": "Commune",
           "viNameLanguage": "Xã Nhơn Mỹ",
-          "keyAccentLanguage": "Xa_Nhon_Mỹ"
+          "keyAccentLanguage": "Xa_Nhon_My"
         },
         {
           "code": 134,

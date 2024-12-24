@@ -522,31 +522,31 @@
         "code": 81,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Quý Đông",
-        "keyAccentLanguage": "Xa_Mỹ_Quy_Dong"
+        "keyAccentLanguage": "Xa_My_Quy_Dong"
       },
       {
         "code": 82,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Thạnh Bắc",
-        "keyAccentLanguage": "Xa_Mỹ_Thanh_Bac"
+        "keyAccentLanguage": "Xa_My_Thanh_Bac"
       },
       {
         "code": 83,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Quý Tây",
-        "keyAccentLanguage": "Xa_Mỹ_Quy_Tay"
+        "keyAccentLanguage": "Xa_My_Quy_Tay"
       },
       {
         "code": 84,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Thạnh Tây",
-        "keyAccentLanguage": "Xa_Mỹ_Thanh_Tay"
+        "keyAccentLanguage": "Xa_My_Thanh_Tay"
       },
       {
         "code": 85,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Thạnh Đông",
-        "keyAccentLanguage": "Xa_Mỹ_Thanh_Dong"
+        "keyAccentLanguage": "Xa_My_Thanh_Dong"
       },
       {
         "code": 86,
@@ -576,7 +576,7 @@
         "code": 90,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Bình",
-        "keyAccentLanguage": "Xa_Mỹ_Binh"
+        "keyAccentLanguage": "Xa_My_Binh"
       }
     ]
   },
@@ -628,7 +628,7 @@
         "code": 98,
         "type": "Commune",
         "viNameLanguage": "Xã Tân Mỹ",
-        "keyAccentLanguage": "Xa_Tan_Mỹ"
+        "keyAccentLanguage": "Xa_Tan_My"
       },
       {
         "code": 99,
@@ -658,7 +658,7 @@
         "code": 103,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Hạnh Bắc",
-        "keyAccentLanguage": "Xa_Mỹ_Hanh_Bac"
+        "keyAccentLanguage": "Xa_My_Hanh_Bac"
       },
       {
         "code": 104,
@@ -682,7 +682,7 @@
         "code": 107,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Hạnh Nam",
-        "keyAccentLanguage": "Xa_Mỹ_Hanh_Nam"
+        "keyAccentLanguage": "Xa_My_Hanh_Nam"
       },
       {
         "code": 108,
@@ -770,7 +770,7 @@
         "code": 121,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Yên",
-        "keyAccentLanguage": "Xa_Mỹ_Yen"
+        "keyAccentLanguage": "Xa_My_Yen"
       },
       {
         "code": 122,
@@ -834,13 +834,13 @@
         "code": 131,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Lạc",
-        "keyAccentLanguage": "Xa_Mỹ_Lac"
+        "keyAccentLanguage": "Xa_My_Lac"
       },
       {
         "code": 132,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Thạnh",
-        "keyAccentLanguage": "Xa_Mỹ_Thanh"
+        "keyAccentLanguage": "Xa_My_Thanh"
       },
       {
         "code": 133,
@@ -858,7 +858,7 @@
         "code": 135,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ An",
-        "keyAccentLanguage": "Xa_Mỹ_An"
+        "keyAccentLanguage": "Xa_My_An"
       },
       {
         "code": 136,
@@ -870,7 +870,7 @@
         "code": 137,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Phú",
-        "keyAccentLanguage": "Xa_Mỹ_Phu"
+        "keyAccentLanguage": "Xa_My_Phu"
       },
       {
         "code": 138,
@@ -898,7 +898,7 @@
         "code": 141,
         "type": "Commune",
         "viNameLanguage": "Xã Quê Mỹ Thạnh",
-        "keyAccentLanguage": "Xa_Que_Mỹ_Thanh"
+        "keyAccentLanguage": "Xa_Que_My_Thanh"
       },
       {
         "code": 142,
@@ -1004,7 +1004,7 @@
         "code": 158,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Lệ",
-        "keyAccentLanguage": "Xa_Mỹ_Le"
+        "keyAccentLanguage": "Xa_My_Le"
       },
       {
         "code": 159,
@@ -1086,7 +1086,7 @@
         "code": 171,
         "type": "Commune",
         "viNameLanguage": "Xã Mỹ Lộc",
-        "keyAccentLanguage": "Xa_Mỹ_Loc"
+        "keyAccentLanguage": "Xa_My_Loc"
       },
       {
         "code": 172,
@@ -1186,7 +1186,7 @@
         "code": 187,
         "type": "Commune",
         "viNameLanguage": "Xã Thuận Mỹ",
-        "keyAccentLanguage": "Xa_Thuan_Mỹ"
+        "keyAccentLanguage": "Xa_Thuan_My"
       },
       {
         "code": 188,

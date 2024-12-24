@@ -450,7 +450,7 @@
           "code": 71,
           "type": "Commune",
           "viNameLanguage": "Xã Long Mỹ",
-          "keyAccentLanguage": "Xa_Long_Mỹ"
+          "keyAccentLanguage": "Xa_Long_My"
         },
         {
           "code": 72,
@@ -484,7 +484,7 @@
       "type": "Town",
       "viNameLanguage": "Thị xã Phú Mỹ",
       "postalCode": "780007",
-      "keyAccentLanguage": "Thi_xa_Phu_Mỹ",
+      "keyAccentLanguage": "Thi_xa_Phu_My",
       "wards": [
         {
           "code": 77,
@@ -514,7 +514,7 @@
           "code": 81,
           "type": "Ward",
           "viNameLanguage": "Phường Mỹ Xuân",
-          "keyAccentLanguage": "Phuong_Mỹ_Xuan"
+          "keyAccentLanguage": "Phuong_My_Xuan"
         },
         {
           "code": 82,
